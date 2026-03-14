@@ -3,8 +3,8 @@ site_url: https://ayurwiki.org
 site_description: A comprehensive, open knowledge base on Ayurveda — herbs, medicines, practices, yoga, and traditional wisdom.
 site_author: Ayurwiki Contributors
 
-repo_url: https://github.com/AyurWiki/ayurwiki
-repo_name: AyurWiki/ayurwiki
+repo_url: https://github.com/hpnadig/ayurwiki
+repo_name: hpnadig/ayurwiki
 edit_uri: edit/main/docs/
 
 theme:
@@ -72,7 +72,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/AyurWiki/ayurwiki
+      link: https://github.com/hpnadig/ayurwiki
   generator: false
 
 extra_css:

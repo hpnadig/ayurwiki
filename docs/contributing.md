@@ -106,4 +106,4 @@ mkdocs build
 
 ## Questions?
 
-Open an issue on the [GitHub repository](https://github.com/AyurWiki/ayurwiki/issues).
+Open an issue on the [GitHub repository](https://github.com/hpnadig/ayurwiki/issues).
