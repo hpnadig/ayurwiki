@@ -2,11 +2,42 @@
 title: Home
 ---
 
-# Welcome to Ayurwiki
+# Ayurwiki
 
-**Ayurwiki** is an open knowledge base dedicated to documenting Ayurveda — the herbs, medicines, practices, yoga, and traditional wisdom that form one of the world's oldest systems of holistic health.
+**Ayurwiki** is an open, community-driven encyclopedia of Ayurveda — documenting herbs, medicines, practices, yoga, and the traditional wisdom of one of the world's oldest systems of holistic health.
 
-!!! success "Awarded **Gold** under the \"Award for Excellence in Information Technology in AYUSH sector - 2019\""
+<div class="award-banner" markdown>
+:material-medal:{ style="color: #d4a017" } Awarded **Gold** under the "Award for Excellence in Information Technology in AYUSH sector - 2019"
+</div>
+
+## At a Glance
+
+<div class="stats-grid" markdown>
+<div class="stat-card" markdown>
+<span class="stat-number">5,400+</span>
+<span class="stat-label">Articles</span>
+</div>
+<div class="stat-card" markdown>
+<span class="stat-number">2,200+</span>
+<span class="stat-label">Herbs</span>
+</div>
+<div class="stat-card" markdown>
+<span class="stat-number">1,500+</span>
+<span class="stat-label">Medicines</span>
+</div>
+<div class="stat-card" markdown>
+<span class="stat-number">300+</span>
+<span class="stat-label">Yoga</span>
+</div>
+<div class="stat-card" markdown>
+<span class="stat-number">160+</span>
+<span class="stat-label">Physiology</span>
+</div>
+<div class="stat-card" markdown>
+<span class="stat-number">150+</span>
+<span class="stat-label">Manufacturers</span>
+</div>
+</div>
 
 ## Explore
 
@@ -16,7 +47,7 @@ title: Home
 
     ---
 
-    Comprehensive database of Ayurvedic herbs with common names, properties, uses, and identification.
+    2,200+ medicinal plants with common names, properties, uses, and identification.
 
     [:octicons-arrow-right-24: Browse Herbs](herbs/index.md)
 
@@ -24,7 +55,7 @@ title: Home
 
     ---
 
-    Ayurvedic formulations, proprietary medicines, and traditional preparations.
+    1,500+ Ayurvedic formulations, proprietary medicines, and traditional preparations.
 
     [:octicons-arrow-right-24: Browse Medicines](medicines/index.md)
 
@@ -32,7 +63,7 @@ title: Home
 
     ---
 
-    Yoga asanas, pranayama techniques, and mudras as practiced in Ayurvedic tradition.
+    300+ yoga asanas, pranayama techniques, and mudras as practiced in Ayurvedic tradition.
 
     [:octicons-arrow-right-24: Browse Yoga](yoga/index.md)
 
@@ -61,12 +92,6 @@ title: Home
     [:octicons-arrow-right-24: Browse Concepts](concepts/index.md)
 
 </div>
-
-## About This Project
-
-Ayurwiki was founded in 2015 to create a freely accessible, community-driven Ayurveda encyclopedia. The project was awarded **Gold** under the "Award for Excellence in Information Technology in AYUSH sector - 2019".
-
-This site contains **5,400+** articles covering herbs, medicines, yoga, and Ayurvedic knowledge.
 
 ## Contributing
 
