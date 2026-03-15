@@ -63,34 +63,44 @@
   border-radius: 2px;
 }
 
-/* Stats grid on homepage */
-.stats-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-  gap: 12px;
-  margin: 1.5em 0;
+/* Sidebar stat cards */
+.sidebar-stats {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0.6rem 0.8rem;
+  margin-bottom: 0.8rem;
+  border-bottom: 1px solid #e0e0e0;
 }
-.stat-card {
+a.stat-card {
+  display: flex;
+  align-items: center;
+  gap: 8px;
   background: #f8f9fa;
   border: 1px solid #e0e0e0;
   border-radius: 3px;
-  padding: 16px 12px;
-  text-align: center;
+  padding: 6px 10px;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+a.stat-card:hover {
+  border-color: #0645ad;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  text-decoration: none;
 }
 .stat-card .stat-number {
-  display: block;
-  font-size: 1.8rem;
+  font-size: 1.1rem;
   font-weight: 700;
   color: #0645ad;
-  line-height: 1.2;
+  line-height: 1;
+  min-width: 50px;
 }
 .stat-card .stat-label {
-  display: block;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   color: #666;
-  margin-top: 4px;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.04em;
 }
 
 /* Award banner */

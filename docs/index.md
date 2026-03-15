@@ -10,35 +10,6 @@ title: Home
 :material-medal:{ style="color: #d4a017" } Awarded **Gold** under the "Award for Excellence in Information Technology in AYUSH sector - 2019"
 </div>
 
-## At a Glance
-
-<div class="stats-grid" markdown>
-<div class="stat-card" markdown>
-<span class="stat-number">5,400+</span>
-<span class="stat-label">Articles</span>
-</div>
-<div class="stat-card" markdown>
-<span class="stat-number">2,200+</span>
-<span class="stat-label">Herbs</span>
-</div>
-<div class="stat-card" markdown>
-<span class="stat-number">1,500+</span>
-<span class="stat-label">Medicines</span>
-</div>
-<div class="stat-card" markdown>
-<span class="stat-number">300+</span>
-<span class="stat-label">Yoga</span>
-</div>
-<div class="stat-card" markdown>
-<span class="stat-number">160+</span>
-<span class="stat-label">Physiology</span>
-</div>
-<div class="stat-card" markdown>
-<span class="stat-number">150+</span>
-<span class="stat-label">Manufacturers</span>
-</div>
-</div>
-
 ## Explore
 
 <div class="grid cards" markdown>
