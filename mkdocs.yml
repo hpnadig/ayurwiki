@@ -5,7 +5,7 @@ site_author: Ayurwiki Contributors
 
 repo_url: https://github.com/hpnadig/ayurwiki
 repo_name: hpnadig/ayurwiki
-edit_uri: edit/main/docs/
+edit_uri: ""
 
 theme:
   name: material
@@ -28,7 +28,6 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-    - content.action.edit
     - toc.follow
   icon:
     repo: fontawesome/brands/github
