@@ -66,6 +66,10 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/edit-modal.css
+
+extra_javascript:
+  - javascripts/edit-modal.js
 
 nav:
   - Home: index.md

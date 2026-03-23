@@ -1,0 +1,231 @@
+/* Ayurwiki — Suggest Edit modal styles */
+
+/* Floating action button */
+.aw-edit-fab {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: #4a635a;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 99;
+  transition: background 0.2s, transform 0.2s;
+}
+.aw-edit-fab:hover {
+  background: #3a5249;
+  transform: scale(1.08);
+}
+
+/* Overlay */
+.aw-edit-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.5);
+  z-index: 999;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+}
+
+/* Modal */
+.aw-edit-modal {
+  background: #fff;
+  border-radius: 8px;
+  width: 100%;
+  max-width: 720px;
+  max-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+}
+
+.aw-edit-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  border-bottom: 1px solid #e0e0e0;
+}
+.aw-edit-header h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #333;
+}
+.aw-edit-close {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #666;
+  padding: 0 4px;
+  line-height: 1;
+}
+.aw-edit-close:hover {
+  color: #333;
+}
+
+.aw-edit-body {
+  padding: 20px;
+  overflow-y: auto;
+  flex: 1;
+}
+
+/* Login view */
+.aw-edit-login-view {
+  text-align: center;
+  padding: 24px 0;
+}
+.aw-edit-login-view p {
+  color: #555;
+  margin-bottom: 20px;
+  font-size: 0.95rem;
+}
+
+/* Buttons */
+.aw-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 20px;
+  border-radius: 6px;
+  border: 1px solid #d0d7de;
+  background: #f6f8fa;
+  color: #24292f;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+.aw-btn:hover {
+  background: #eaeef2;
+}
+.aw-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.aw-btn-github {
+  background: #24292f;
+  color: #fff;
+  border-color: #24292f;
+  padding: 12px 24px;
+  font-size: 0.95rem;
+}
+.aw-btn-github:hover {
+  background: #32383f;
+}
+
+.aw-btn-submit {
+  background: #4a635a;
+  color: #fff;
+  border-color: #4a635a;
+}
+.aw-btn-submit:hover {
+  background: #3a5249;
+}
+
+.aw-btn-sm {
+  padding: 4px 10px;
+  font-size: 0.78rem;
+}
+
+.aw-btn-logout {
+  margin-left: auto;
+}
+
+/* User bar */
+.aw-edit-user-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 14px;
+  padding: 8px 12px;
+  background: #f6f8fa;
+  border-radius: 6px;
+  border: 1px solid #e0e0e0;
+}
+.aw-edit-avatar {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+}
+.aw-edit-username {
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #333;
+}
+
+/* Loading */
+.aw-edit-loading {
+  text-align: center;
+  color: #888;
+  padding: 32px 0;
+  font-size: 0.9rem;
+}
+
+/* Textarea */
+.aw-edit-textarea {
+  width: 100%;
+  min-height: 350px;
+  padding: 12px;
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  font-family: monospace;
+  font-size: 13px;
+  line-height: 1.5;
+  resize: vertical;
+  background: #fafbfc;
+  color: #24292f;
+  box-sizing: border-box;
+}
+.aw-edit-textarea:focus {
+  outline: none;
+  border-color: #4a635a;
+  box-shadow: 0 0 0 3px rgba(74,99,90,0.15);
+}
+
+/* Actions */
+.aw-edit-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 14px;
+}
+
+/* Result messages */
+.aw-success {
+  color: #1a7f37;
+  font-weight: 500;
+}
+.aw-error {
+  color: #cf222e;
+  font-weight: 500;
+}
+.aw-edit-result a {
+  color: #0645ad;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .aw-edit-modal {
+    max-height: 95vh;
+    border-radius: 8px 8px 0 0;
+  }
+  .aw-edit-textarea {
+    min-height: 250px;
+  }
+  .aw-edit-fab {
+    bottom: 16px;
+    right: 16px;
+  }
+}
