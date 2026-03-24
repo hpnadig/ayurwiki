@@ -8,7 +8,7 @@ Ayurwiki was built by a dedicated community of contributors on the original
 MediaWiki site. This page recognizes everyone who helped create and improve
 the knowledge base.
 
-**21 contributors** made a total of **36,645 edits** across the wiki.
+**21 contributors** made a total of **36,646 edits** across the wiki.
 
 | Contributor | Total Edits | Pages Edited | Added | Removed |
 | --- | ---: | ---: | ---: | ---: |
@@ -17,7 +17,7 @@ the knowledge base.
 | Chaithrika | 2,716 | 1,401 | +1,289,965 | −10,220 |
 | Jayashree | 2,307 | 1,390 | +1,793,495 | −29,389 |
 | mohan (Mohan KG) | 459 | 249 | +279,134 | −4,579 |
-| Hari Prasad Nadig (HPNadig) | 396 | 176 | +39,535 | −7,016 |
+| Hari Prasad Nadig (HPNadig) | 397 | 176 | +39,535 | −7,016 |
 | Ansuman Giri (Ansuman) | 134 | 61 | +68,911 | −712 |
 | Sysop | 97 | 17 | +11,150 | −1,480 |
 | Shreekant Mishrikoti (Shreekant.mishrikoti) | 23 | 14 | +46,213 | −38 |

@@ -8,8 +8,8 @@ Recent content updates to Ayurwiki.
 
 | Article | Section | Change | Date |
 | --- | --- | --- | --- |
+| [Contributors](credits.md) | General | Update recent changes and credits | 24 Mar 2026 |
 | [A](A.md) | General | Apply edit suggestion: update A.md glossary description | 24 Mar 2026 |
-| [Contributors](credits.md) | General | Update recent changes and credits page | 24 Mar 2026 |
 | [Abrus precatorius - Gunja](herbs/Abrus_precatorius_-_Gunja.md) | Herbs | Additions and citations | 24 Mar 2026 |
 | [Abutilon indicum - Atibala](herbs/Abutilon_indicum_-_Atibala.md) | Herbs | Additions and citations | 24 Mar 2026 |
 | [Acacia farnesiana - Vitkhadira](herbs/Acacia_farnesiana_-_Vitkhadira.md) | Herbs | Additions and citations | 24 Mar 2026 |
