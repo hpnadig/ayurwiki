@@ -9,7 +9,7 @@ DOCS_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__
 OUTPUT = os.path.join(DOCS_DIR, "recent-changes.md")
 MAX_ENTRIES = 100
 # Skip commits that touched more than this many docs files (bulk imports)
-BULK_THRESHOLD = 50
+BULK_THRESHOLD = 200
 
 
 def _get_title_from_file(filepath):
