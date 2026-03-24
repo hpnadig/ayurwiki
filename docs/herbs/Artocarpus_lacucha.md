@@ -81,3 +81,6 @@ Forests on limestone mountains, Evergreen forest, Semievergreen forest, Moist de
 1. ["chemistry"]
 2. ["morphology"]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Artocarpus+lacucha)
+4. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 32, 67.**
+   Classified as Anupa-adapted (marshy/riverine region). Listed among trees receiving bark-paste treatment consisting of ghee, honey, ksara, lodhra powder, and barley powder for fruit enhancement, applied after scratching the bark appropriately. Bark-paste treatment: ghee, honey, ksara, lodhra, and yava powder applied after bark scratching (Verse 139).
+   > *As cited in: Vrksayurveda of Surapala, Verses 80, 139; Sections 5, 13*

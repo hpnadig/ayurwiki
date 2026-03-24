@@ -118,3 +118,6 @@ Roadsides, Sandy fields, Cultivated ground, Damp places.
 3. [description](Leaves)(https://www.flowersofindia.net/catalog/slides/Common%20Nut%20Sedge.html)
 4. [details](Cultivation)(https://www.pfaf.org/user/Plant.aspx?LatinName=Cyperus+rotundus)
 5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:101
+6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 73.**
+   Used as an ingredient in decoction (along with jambu leaves and sura liquor) for irrigating all flowering plants to promote maximum bloom and flower yield. Flowering decoction: mustaka with kosira, jambu leaves in sura (liquor) for irrigation of flowering plants (Verse 149).
+   > *As cited in: Vrksayurveda of Surapala, Verse 149; Section 14*

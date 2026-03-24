@@ -118,3 +118,6 @@ Tropical area, Subtropical area, Temperate area.
 2. [preparations](Ayurvedic)(https://liveayurvedalife.com/nimbuka-citrus-acida-roxb-ayurvedic-herb/)
 3. [Morphology](http://eol.org/pages/582200/details)
 4. [of lemon](Planting)(https://www.almanac.com/plant/lemons-oranges)
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 30, 34, 68.**
+   Classified as Sadharana-adapted (general region). Listed among restricted campus trees that should not be planted in residential compounds. Fruit-enhancement treatment involves irrigation with flesh mixed in water for best quality fruits. Fruit enhancement: flesh of pherava mixed in water for irrigation (Verse 144).
+   > *As cited in: Vrksayurveda of Surapala, Verses 80, 144; Sections 3, 5, 13*

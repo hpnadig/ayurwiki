@@ -133,3 +133,6 @@ Tropical area, Plain area, Along roadsides, Along waste lands.
 3. [detail](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Sesamum+indicum)
 4. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.173, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
 5. Reffered by Planet Ayurveda
+6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 43-44, 60, 62, 65, 67, 91.**
+   One of the most frequently referenced plants in the text, used ubiquitously in preparations for plant care. Seed paste: tila with brhati, bhasma, sarsapa for seed coating (Verse 54).
+   > *As cited in: Vrksayurveda of Surapala, Verses 54, 101, 128, 134, 139, 234, 236; used throughout Sections 7-19*

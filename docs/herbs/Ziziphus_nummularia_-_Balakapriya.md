@@ -99,3 +99,6 @@ Dry regions of India, Sea coast, Dry zone in Sri Lanka.
 
 1. [Morphology](https://indiabiodiversity.org/species/show/231525)
 2. [Planting](https://www.prota4u.org/database/protav8.asp?g=pe&p=Senna+auriculata+(L.)+Roxb.)
+3. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 33, 67.**
+   Classified as a Jangala-adapted (arid region) tree. Listed among plants receiving bark-paste treatment with ghee, honey, ksara, lodhra, and barley for fruit enhancement. Bark-paste treatment: ghee, honey, ksara, lodhra, and yava applied after bark scratching (Verse 139).
+   > *As cited in: Vrksayurveda of Surapala, Verses 139; Sections 5, 13*

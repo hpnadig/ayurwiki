@@ -140,3 +140,6 @@ The Varah Purana describes the importance of planting and maintaining trees, inc
 3. [decsription](Plant)(https://indiabiodiversity.org/species/show/18020)
 4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:25
 5. [in the field](Planting)(http://e-charak.in/echarak/templates/Saraca%20asoca%20%20(Roxb.)%20de%20Willde.pdf)
+6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 33, 54, 72, 91.**
+   Classified as Jangala-adapted (arid region) and part of the auspicious pentad (pancavrksa) of trees. In Dohada tradition, when a beautiful young woman adorned with anklet ornaments and painted with lac-dye touches the tree with her lotus-like feet, it instantaneously responds with pleasure and blooms profusely.
+   > *As cited in: Vrksayurveda of Surapala, Verses 153, 226; Sections 5, 8, 14, 19*

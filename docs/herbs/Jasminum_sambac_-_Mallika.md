@@ -108,3 +108,6 @@ Tropical area, Sub tropical area
 2. [description](Botonic)(http://keralaplants.in/flowering-plants-kerala-dvd.aspx)
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [details](Cultivation)(http://vikaspedia.in/agriculture/crop-production/package-of-practices/flowers/jasmin)
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 39, 73.**
+   Propagated by seed and stem methods. In Dohada tradition, mallika responds to gentle warming with fire produced from burning grasses, which promotes profuse flowering that attracts honey-bees constantly. Dohada flowering: light warming with fire from grass fuel (Verse 157).
+   > *As cited in: Vrksayurveda of Surapala, Verses 157; Sections 6, 14*

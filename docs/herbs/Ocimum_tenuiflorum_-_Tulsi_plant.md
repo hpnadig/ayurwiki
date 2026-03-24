@@ -134,3 +134,6 @@ Ayurvedic texts describe four types of Tulsi: Rama/Sri/Lakshmi (Green Leaf), Kri
 3. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.346, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
 4. [details](Cultivation)(https://www.pfaf.org/user/Plant.aspx?LatinName=Ocimum+tenuiflorum)
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.120, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 26.**
+   Regarded as supremely sacred; planting and maintaining Tulasi in one's home is said to earn the reward of residence in Vaikuntha (the divine abode of Lord Vishnu) for twelve thousand years.
+   > *As cited in: Vrksayurveda of Surapala, Verse 1*

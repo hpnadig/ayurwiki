@@ -111,3 +111,6 @@ Dry open places, Sandy places near the sea.
 2. [description](Plant)(http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:496941-1)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2012/12/08/licorice-benefits-medicinal-qualities-complete-ayurveda-details/)
 4. [details](Cultivation)(https://www.pfaf.org/user/Plant.aspx?LatinName=Glycyrrhiza+glabra)
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 66, 83, 90-91.**
+   Licorice used in multiple plant-care formulations. In fruit enhancement, combined with sesame, honey, and kumpa for irrigating panasa (jackfruit) roots to produce bigger, ambrosia-tasting fruits. In disease treatment, part of kvatha (decoction) with haritaki for treating Pitta diseases of plants.
+   > *As cited in: Vrksayurveda of Surapala, Verses 138, 228, 230, 236; Sections 13, 17, 19*

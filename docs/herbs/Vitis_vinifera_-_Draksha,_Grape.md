@@ -113,3 +113,6 @@ Mediterranean climate
 2. [Morphology](http://eol.org/pages/582304/details)
 3. [details](Cultivation)(https://www.pfaf.org/user/plant.aspx?latinname=Vitis+vinifera)
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2011/04/19/nutritional-health-benefits-of-grapes-total-ayurveda-details/)
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 32, 61, 90.**
+   Classified as Anupa-adapted (marshy/riverine region). For high yield, twinning grape vines should be incised and fumigated with specific fish mixed in ghee. Additionally, rooster fecal powder applied to roots and fish oil mixed with water given to roots dramatically increases fruit production.
+   > *As cited in: Vrksayurveda of Surapala, Verses 124-125, 230; Sections 5, 11, 19*

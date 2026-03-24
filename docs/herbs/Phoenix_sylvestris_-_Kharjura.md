@@ -116,3 +116,6 @@ Tropical area, Sub tropical area.
 5. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Phoenix+sylvestris)
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.124, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
 7. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.136, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+8. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 32, 62-63.**
+   Classified as Anupa-adapted (marshy region). Part of the coconut-allied palm group receiving nutritive treatments including white-mustard water, barley, paddy husk, and oil-cake water for enhanced fruit production. Nutritive recipe: white mustard water, yava (barley), tusa (paddy husk), pinyaka (oil-cake) mixed for irrigation (Verse 131).
+   > *As cited in: Vrksayurveda of Surapala, Verses 80, 127, 131; Sections 5, 11*

@@ -126,3 +126,6 @@ In tribal and folk traditions, the banana and mango trees feature in wedding cer
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2017/07/19/plantain-banana-musa-paradisiaca/)
 5. [details](Cultivation)(https://tropilab.com/banana.html)
 6. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.775, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 28, 32, 49, 60, 67, 90, 93-94.**
+   Planting kadali along with other specified trees ensures freedom from sorrow for seven births. Classified as Anupa-adapted (marshy region). Propagated by pasting roots with cow dung and planting in pits with adequate irrigation. Propagation: root pasted with gomaya, planted in pits with ample irrigation (Verse on page 49).
+   > *As cited in: Vrksayurveda of Surapala, Verses 1-2, 120, 141, 238, 253; Sections 2, 5, 8, 11, 14, 19, 20, 21*

@@ -114,3 +114,6 @@ Tropical area, Sub tropical area
 4. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Artocarpus+heterophyllus)
 5. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.1253, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
 6. Journal of Pharmaceutical Sciences - Phytochemical profiling and antioxidant activities of different parts of Artocarpus heterophyllus - A review on current status of knowledge
+7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 29, 32, 43-44, 66.**
+   Planting panasa along with dadima, rambha, priyala, and rajadana prevents sorrow for seven births. Classified as Anupa-adapted (marshy region). Treated with Triphala decoction and paddy husk to produce larger, seedless fruits. Fruit enhancement: irrigate with Triphala decoction, cover with paddy husk for bigger seedless fruits (Verses 137-138).
+   > *As cited in: Vrksayurveda of Surapala, Verses 1-2, 53-56, 137-138; Sections 2, 5, 7, 13*

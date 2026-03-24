@@ -126,3 +126,6 @@ Tall grasslands, Meadows, Borders of forests and fields.
 4. [details](Cultivation)(https://www.pfaf.org/user/Plant.aspx?LatinName=Mimusops+elengi)
 5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:213
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.114, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 33, 44, 71, 91, 93.**
+   Classified as Jangala-adapted (arid region). In Dohada tradition, the tree blooms profusely when a beautiful young woman sprays wine from her mouth onto it — this process defines the concept of Dohada (the distinctive desire of a plant). Flowering further enhanced with a recipe of kalaya, jaggery, and snake powder mixed in water with mud.
+   > *As cited in: Vrksayurveda of Surapala, Verses 151, 237; Sections 5, 7, 14, 19, 20*

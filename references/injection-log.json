@@ -1,0 +1,782 @@
+[
+  {
+    "file": "docs/herbs/Ocimum_tenuiflorum_-_Tulsi_plant.md",
+    "plant": "Tulasi",
+    "latin_name": "Ocimum sanctum",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Aegle_marmelos_-_Bilva.md",
+    "plant": "Bilva",
+    "latin_name": "Aegle marmelos",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Asvattha",
+    "latin_name": "Ficus religiosa",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Phyllanthus_emblica_-_Emblic,_Amalaki.md",
+    "plant": "Dhatri",
+    "latin_name": "Emblica officinalis",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Vata",
+    "latin_name": "Ficus benghalensis",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Azadiracta_indica_-_Nimba,_Neem.md",
+    "plant": "Nimba",
+    "latin_name": "Azadirachta indica",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Ficus_lacor.md",
+    "plant": "Plaksa",
+    "latin_name": "Ficus lacor",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Mangifera_Indica_-_Mango.md",
+    "plant": "Amra",
+    "latin_name": "Mangifera indica",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Butea_monosperma_-_Palāśaḥ.md",
+    "plant": "Palasa",
+    "latin_name": "Butea monosperma",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Udumbara",
+    "latin_name": "Ficus glomerata",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Punica_granatum_-_Dadima.md",
+    "plant": "Dadima",
+    "latin_name": "Punica granatum",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Musa_paradisiaca_-_Rambha.md",
+    "plant": "Kadali",
+    "latin_name": "Musa paradisiaca",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Artocarpus_heterophyllus_-_Panasa,_Jackfruit.md",
+    "plant": "Panasa",
+    "latin_name": "Artocarpus heterophyllus",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Artocarpus_lacucha.md",
+    "plant": "Lakuca",
+    "latin_name": "Artocarpus lakoocha",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cocos_nucifera_-_Coconut_tree.md",
+    "plant": "Narikela",
+    "latin_name": "Cocos nucifera",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Moringa_oleifera_-_Drumstick.md",
+    "plant": "Sobhanjana",
+    "latin_name": "Moringa oleifera",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Alstonia_scholaris_-_Saptaparna,_Doddapala.md",
+    "plant": "Saptaparna",
+    "latin_name": "Alstonia scholaris",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Nyctanthes_arbor-tristis_-_Parijata.md",
+    "plant": "Saptala",
+    "latin_name": "Nyctanthes arbor-tristis",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Prosopis_cineraria_-_Indian_mesquite.md",
+    "plant": "Sami",
+    "latin_name": "Prosopis cineraria",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Karira",
+    "latin_name": "Capparis decidua",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Ziziphus_nummularia_-_Balakapriya.md",
+    "plant": "Kurkandhu",
+    "latin_name": "Zizyphus nummularia",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Mimusops_elengi_-_Bakula,_Ranjal.md",
+    "plant": "Bakula",
+    "latin_name": "Mimusops elengi",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Saraca_asoca_-_Ashoka,_Ashoka_tree.md",
+    "plant": "Asoka",
+    "latin_name": "Saraca asoca",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Borassus_flabellifer_-_Talah.md",
+    "plant": "Tala",
+    "latin_name": "Borassus flabellifer",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Bambusa_bambos.md",
+    "plant": "Vamsa",
+    "latin_name": "Bambusa arundinacea",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Phoenix_sylvestris_-_Kharjura.md",
+    "plant": "Kharjura",
+    "latin_name": "Phoenix sylvestris",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Puga",
+    "latin_name": "Areca catechu",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Vitis_vinifera_-_Draksha,_Grape.md",
+    "plant": "Draksa",
+    "latin_name": "Vitis vinifera",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Campaka",
+    "latin_name": "Michelia champaca",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Hiptage_benghalensis_-_Madhavi_lata.md",
+    "plant": "Atimuktaka-Madhavi",
+    "latin_name": "Hiptage benghalensis",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Callicarpa_macrophylla.md",
+    "plant": "Priyangu",
+    "latin_name": "Callicarpa macrophylla",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Citrus_limon_-_Bijapuraka,_Jambira.md",
+    "plant": "Bijapuraka",
+    "latin_name": "Citrus limon",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Citrus_medica_linn_-_Maatulunga.md",
+    "plant": "Matulunga",
+    "latin_name": "Citrus medica",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Citrus_reticulata_-_Naaranga.md",
+    "plant": "Narangi",
+    "latin_name": "Citrus reticulata",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Benincasa_hispida_-_Kushmanda,_Winter_melon.md",
+    "plant": "Kusmanda",
+    "latin_name": "Benincasa hispida",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Rosa_centifolia.md",
+    "plant": "Satapatrika",
+    "latin_name": "Rosa centifolia",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cucumis_sativus_-_Cucumber,_Kantakilata.md",
+    "plant": "Trapusa",
+    "latin_name": "Cucumis sativus",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Crocus_sativus_-_Kesara.md",
+    "plant": "Kunkuma-Kesara",
+    "latin_name": "Crocus sativus",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Origanum_majorana_-_Ajanmasurabhi,_Majorana.md",
+    "plant": "Maruvaka",
+    "latin_name": "Origanum majorana",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Curcuma_longa_-_Haridra.md",
+    "plant": "Haridra",
+    "latin_name": "Curcuma longa",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Embelia_ribes_-_Vidanga.md",
+    "plant": "Vidanga",
+    "latin_name": "Embelia ribes",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Momordica_charantia_-_Karavellaka,_Karabellam.md",
+    "plant": "Karavellaka",
+    "latin_name": "Momordica charantia",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Albizia_lebbeck_-_Shirisha.md",
+    "plant": "Sirisa",
+    "latin_name": "Albizia lebbeck",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Carissa_carandas.md",
+    "plant": "Karmaranga",
+    "latin_name": "Carissa carandas",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Grewia_asiatica.md",
+    "plant": "Parijata",
+    "latin_name": "Grewia asiatica",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Sesamum_indicum_-_Sesame,_Snehaphala.md",
+    "plant": "Tila",
+    "latin_name": "Sesamum indicum",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Trichosanthes_dioica_-_Patola.md",
+    "plant": "Patola",
+    "latin_name": "Trichosanthes dioica",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Gollavartaka",
+    "latin_name": "Solanum melongena",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Terminalia_chebula_-_Haritaki.md",
+    "plant": "Haritaki",
+    "latin_name": "Terminalia chebula",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Terminalia_bellerica_roxb_-_Bibhitaki.md",
+    "plant": "Bibhitaka",
+    "latin_name": "Terminalia bellirica",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Glycyrrhiza_glabra_-_Yashtimadhu.md",
+    "plant": "Yastimadhu",
+    "latin_name": "Glycyrrhiza glabra",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Karavira",
+    "latin_name": "Nerium indicum",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Diospyros_tomentosa.md",
+    "plant": "Tinduka",
+    "latin_name": "Diospyros tomentosa",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Aconitum_heterophyllum_-_Ativisa,_Indian_Atees.md",
+    "plant": "Ativisa",
+    "latin_name": "Aconitum heterophyllum",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Acorus_calamus_-_Jatila.md",
+    "plant": "Vaca",
+    "latin_name": "Acorus calamus",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Saussurea_lappa_-_Kusta.md",
+    "plant": "Kustha",
+    "latin_name": "Saussurea lappa",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Rubia_cordifolia_-_Manjishtha.md",
+    "plant": "Manjistha",
+    "latin_name": "Rubia cordifolia",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Lodhra",
+    "latin_name": "Symplocos racemosa",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Terminalia_arjuna_-_Arjuna,_White_Marudah.md",
+    "plant": "Arjuna",
+    "latin_name": "Terminalia arjuna",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Hordeum_vulgare_-_Aksata.md",
+    "plant": "Yava",
+    "latin_name": "Hordeum vulgare",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Pueraria_tuberosa_-_Vidarikanda.md",
+    "plant": "Vidari",
+    "latin_name": "Pueraria tuberosa",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Ricinus_communis_-_Gandharvataila.md",
+    "plant": "Eranda",
+    "latin_name": "Ricinus communis",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Tamarindus_indica_-_Amalika.md",
+    "plant": "Tindidika",
+    "latin_name": "Tamarindus indica",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Bauhinia_variegata_-_Kaancanara.md",
+    "plant": "Kancana",
+    "latin_name": "Bauhinia variegata",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Alangium_lamarcki.md",
+    "plant": "Ankola",
+    "latin_name": "Alangium lamarckii",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Jasminum_sambac_-_Mallika.md",
+    "plant": "Mallika",
+    "latin_name": "Jasminum sambac",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Ziziphus_mauritiana_-_Common_jujube.md",
+    "plant": "Badara",
+    "latin_name": "Zizyphus mauritiana",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Pandanus_tectorius_-_Ketaka.md",
+    "plant": "Ketaki",
+    "latin_name": "Pandanus tectorius",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Nelumbo_nucifera.md",
+    "plant": "Kamala",
+    "latin_name": "Nelumbo nucifera",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cyperus_rotundus_-_Mustaka.md",
+    "plant": "Mustaka",
+    "latin_name": "Cyperus rotundus",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Stereospermum_chelonoides_-_Patala.md",
+    "plant": "Patala",
+    "latin_name": "Stereospermum suaveolens",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Zingiber_officinale.md",
+    "plant": "Ardraka",
+    "latin_name": "Zingiber officinale",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Elettaria_cardamomum_-_Ela,_Cardamom.md",
+    "plant": "Ela",
+    "latin_name": "Elettaria cardamomum",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Manilkara_hexandra_-_Kshirini.md",
+    "plant": "Manilkara",
+    "latin_name": "Manilkara hexandra",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Indigofera_tinctoria_-_Asita,_Nili.md",
+    "plant": "Nila-Haridra",
+    "latin_name": "Indigofera tinctoria",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Desmostachya_bipinnata_-_Darbha.md",
+    "plant": "Darbha",
+    "latin_name": "Desmostachya bipinnata",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Saccharum_munja_-_Munja.md",
+    "plant": "Munja",
+    "latin_name": "Saccharum munja",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cucurbita_maxima_-_Alambu,_Kola.md",
+    "plant": "Alambu",
+    "latin_name": "Cucurbita maxima",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Luffa_acutangula_-_Jaalini.md",
+    "plant": "Jaalini",
+    "latin_name": "Luffa acutangula",
+    "references_added": 1,
+    "sources_used": [
+      "Vrksayurveda of Surapala"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Oryza",
+    "latin_name": "Oryza sativa",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  }
+]

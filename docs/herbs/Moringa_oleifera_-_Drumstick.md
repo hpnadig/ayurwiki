@@ -120,3 +120,6 @@ Tropical area, Subtropical area, Equatorial climate areas.
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2012/12/06/moringa-benefits-medicinal-usage-complete-ayurveda-details/)
 4. [details](Cultivation)(https://treesforlife.org/our-work/our-initiatives/moringa/how-to-grow)
 5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:205
+6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 33.**
+   Classified as a Jangala-adapted (arid/xerophytic region) tree, suited for warmer and drier climatic conditions.
+   > *As cited in: Vrksayurveda of Surapala, Section 5*

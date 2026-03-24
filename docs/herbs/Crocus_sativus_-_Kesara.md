@@ -99,3 +99,6 @@ Sub tropical area, Temperate area
 1. [Uses](https://easyayurveda.com/2017/07/20/saffron-kumkuma-crocus-sativus)
 2. [composition](http://gbpihedenvis.nic.in/PDFs/Glossary_Medicinal_Plants_Springer.pdfChemical)
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
+4. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 45.**
+   May be grown carefully on fertile and cultivated land along with maruvaka and damanaka.
+   > *As cited in: Vrksayurveda of Surapala, Section 8*

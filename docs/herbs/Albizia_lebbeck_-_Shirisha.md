@@ -122,3 +122,6 @@ Tropical area, Road sides.
 3. [DESCRIPTION](BOTANIC)(http://keralaplants.in/)
 4. [Uses](https://easyayurveda.com/2012/12/26/shirisha-albizia-lebbeck-uses-medicinal-qualities-ayurveda-details/)
 5. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.767, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 54, 98.**
+   Part of the auspicious pentad (pancavrksa) of trees. As an indicator tree in hydrology, its presence signals suitability for cultivating mudga (green gram) crops.
+   > *As cited in: Vrksayurveda of Surapala, Sections 8, 21*

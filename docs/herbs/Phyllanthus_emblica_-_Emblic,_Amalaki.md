@@ -147,3 +147,6 @@ In the Agni Purana (chapters 140-141), the Amalaki is listed among key medicinal
 3. [help](Ayur)(http://ayurhelp.com/articles/ayurveda-medicinal-properties-amla-or-indian-gooseberry)
 4. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.125, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
 5. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.847, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 27, 54, 66, 82, 90.**
+   Planting grants spiritual merit equal to that of celibacy and land donation. Recommended for western directional planting near residences. A key ingredient of Triphala (along with Haritaki and Bibhitaka), widely used in plant disease treatment, fumigation, and bark-paste applications for fruit enhancement.
+   > *As cited in: Vrksayurveda of Surapala, Verses 1-2, 24-29, 134, 137-139; Section 17*

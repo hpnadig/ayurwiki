@@ -108,3 +108,6 @@ A plant of the lowland tropics, where it can be grown at elevations up to 500 me
 2. FLOWERING PLANTS OF KERALA VER.2, N. Sasidharan BOTANIC DESCRIPTION
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2016/09/21/ridge-gourd-luffa-acutangula-benefits-research/)
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Luffa+acutangula)
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 69.**
+   Leaves and roots used for providing manure (nutrition) to Madhuka trees, contributing to the production of camphor-fragrant flowers. Manure: leaves and roots of Jaalini given as samskrta (nutrition) to madhuka tree (Verse 146).
+   > *As cited in: Vrksayurveda of Surapala, Verse 146; Section 13*

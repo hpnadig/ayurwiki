@@ -114,3 +114,6 @@ Tropical area, Sub tropical area
 3. [description](Botonic)(http://keralaplants.in/flowering-plants-kerala-dvd.aspx)
 4. [names](Vernacular)(http://envis.frlht.org/bot_search)
 5. [details](Cultivation)(https://hort.purdue.edu/newcrop/morton/citron.html)
+6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 68.**
+   Comprehensive fruit-enhancement recipe involving milk, flesh, fish, cow dung, rice, sesame-seed cake, and water applied to trees. Produces large, tasty, pulpy fruits resembling pots in size, so heavy that the tree bends under their weight. Recipe: milk, flesh, fish, gomaya, sali rice, tila khali, and water mixed and applied (Verse 143).
+   > *As cited in: Vrksayurveda of Surapala, Verse 143; Section 13*

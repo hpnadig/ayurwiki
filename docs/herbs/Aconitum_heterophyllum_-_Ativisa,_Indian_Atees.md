@@ -119,3 +119,6 @@ Western himalayas, Open woodland, Moisty soil area.
 2. [Bimbima](https://www.bimbima.com/herbs/ativisha/3956/)
 3. [details](Cultivation)(https://www.nmpb.nic.in/sites/default/files/publications/atees.pdf)
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2012/08/25/ativisa-benefits-dose-uses-ayurveda-details/)
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 82.**
+   Used in insect-elimination paste for treating plant infestations. Combined with kustha (Saussurea lappa) and other ingredients to prepare formulations applied to affected plant parts for removing harmful insects and micro-organisms. Insect paste: combined with kustha and other plant materials, applied to affected parts (Section 17).
+   > *As cited in: Vrksayurveda of Surapala, Section 17*

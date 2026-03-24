@@ -131,3 +131,6 @@ Western himalayas, Open woodland, Moisty soil area.
 6. [details](Cultivation)(https://www.researchgate.net/publication/290591233_Propagation_of_Bauhinia_variegata_L_by_cuttings_and_seed)
 7. [to grow](Season)(https://homeguides.sfgate.com/bauhinia-variegata-care-62930.html)
 8. [Ecosystem/Climate](Required)(http://apps.worldagroforestry.org/treedb/AFTPDFS/Bauhinia_variegata.PDF)
+9. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 30, 99.**
+   Listed among restricted campus trees not suitable for planting in residential compounds. As a hydrology indicator, Kancana (Kovidara) growing near specific landmarks indicates the presence of underground water sources.
+   > *As cited in: Vrksayurveda of Surapala, Sections 3, 21*

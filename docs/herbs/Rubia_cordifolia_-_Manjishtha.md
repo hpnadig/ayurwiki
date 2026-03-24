@@ -125,3 +125,6 @@ Forest edges, Evergreen forest, Rocky areas.
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/r/rubia-cordifolia)
 4. Karnataka Medicinal Plants Volume-3 by Dr.M. R. Gurudeva, Page No. 1010, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
 5. [Details](Cultivation)(http://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/rubia-cordifoli)
+6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 91.**
+   Used in colour-change recipes for plant flowers and fruits. When combined with darada (hingula), milk, and other minerals, and pasted over tree roots, transforms white flowers to golden colour. Also part of recipes for producing red-coloured fruits when combined with yava, kinkuka, nisa, and tila.
+   > *As cited in: Vrksayurveda of Surapala, Verses 231-232, 234; Section 19*

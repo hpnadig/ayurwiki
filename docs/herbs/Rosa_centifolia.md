@@ -78,3 +78,6 @@ Succeeds in most soils, preferring a circumneutral soil and a sunny position. Gr
 2. [Morphology]
 3. [Cultivation](http://temperate.theferns.info/plant/Rosa+centifolia)
 4. Indian Medicinal Plants by C.P.Khare
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 48.**
+   Propagated by semi-matured stem cuttings taken from the lower portion of branches. Best propagated during the month of Kartika (post-monsoon). After planting, should be irrigated constantly for two months, keeping the propagated material nearly submerged in water.
+   > *As cited in: Vrksayurveda of Surapala, Section 8*

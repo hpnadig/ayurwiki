@@ -123,3 +123,6 @@ Scattered forests, Sunny mountain slopes.
 4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:151
 5. [type required](Soil)(https://pfaf.org/user/Plant.aspx?LatinName=Terminalia+bellirica#:~:text=Terminalia%20bellirica%20is%20a%20deciduous,and%20prefers%20well%2Ddrained%20soil.)
 6. [names](Common)(https://sites.google.com/site/efloraofindia/species/a---l/cl/combretaceae/terminalia/terminalia-bellirica)
+7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 65-66, 75, 82, 99.**
+   Part of Triphala (with Haritaki and Amalaki), used extensively in plant fumigation and irrigation for fruit enhancement. Listed among vegetable-fruit plants receiving pig-bone fumigation during summer. As a hydrology indicator tree, the presence of an ant-hill adjacent to Vibhitaka signals underground water at a depth of four-and-a-half men's length.
+   > *As cited in: Vrksayurveda of Surapala, Verses 134, 137, 159; Sections 13, 14, 17, 21*

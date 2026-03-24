@@ -109,3 +109,6 @@ Meadows, Fields, Anthropogenic, Dry slopes and rocky places, Occasionally in par
 4. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 554
 5. [seen growing in areas](Commonly)(https://temperate.theferns.info/plant/Origanum+majorana)
 6. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.553, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 45, 47.**
+   Grown on fertile cultivated land. Special sowing procedure: seeds mixed with soil, irrigated with a solution of cow dung dissolved in water, then gradually watered. Best planted during Kartika month. Sowing: seeds mixed with soil (mrda), irrigated with gomaya-water solution, watered gradually (Section 8).
+   > *As cited in: Vrksayurveda of Surapala, Section 8*

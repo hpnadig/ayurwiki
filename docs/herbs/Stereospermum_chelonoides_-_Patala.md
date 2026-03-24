@@ -119,3 +119,6 @@ Moist parts, Deciduous forests, Humid climate, Hot climate, Lateritic loamy soil
 1. [constituents"](https://d2cax41o7ahm5l.cloudfront.net/cs/speaker-pdfs/k-sai-sruthi-sri-padmavathi-mahila-visvavidyalayam-india.pdf"Chemical)
 2. [https://d2cax41o7ahm5l.cloudfront.net/cs/speaker-pdfs/k-sai-sruthi-sri-padmavathi-mahila-visvavidyalayam-india.pdf"Morphology"](https://d2cax41o7ahm5l.cloudfront.net/cs/speaker-pdfs/k-sai-sruthi-sri-padmavathi-mahila-visvavidyalayam-india.pdf"Morphology")
 3. [ "Cultivation detail"]
+4. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 73, 99.**
+   In Dohada tradition, Patala tree should be irrigated with milk mixed with water to promote profuse flowering that attracts honey-bees. As a hydrology indicator tree, its presence signals availability of cows in the area. Dohada flowering: irrigate with milk-water mixture (Verse 157).
+   > *As cited in: Vrksayurveda of Surapala, Verses 157; Sections 14, 21*

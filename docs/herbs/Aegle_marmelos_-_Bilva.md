@@ -143,3 +143,6 @@ The Atharvaveda (20.136.15) states: "A great person is good and benevolent like 
 4. THE AYURVEDIC PHARMACOPOEIA OF INDIA, PART-I, VOLUME-1, page no 35.
 5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:239
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.18, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 26-27, 33, 67, 82.**
+   Planting Bilva confers the grace of Lord Siva and the blessings of goddess Laksmi, ensuring prosperity for future generations. Classified as a Jangala-adapted (arid-region) tree. Used as a component of Pancamula in treating Kapha diseases of plants. Fruit-enhancement recipe: solution of guda (jaggery), ghee, milk, and honey applied as irrigation to bilva and kapittha trees (Verse 140).
+   > *As cited in: Vrksayurveda of Surapala, Verses 1, 80, 140; Section 17 (Disease Treatment)*

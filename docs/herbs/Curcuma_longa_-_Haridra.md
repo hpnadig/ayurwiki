@@ -118,3 +118,6 @@ Tropical area, Southeast asia, Southern australia.
 2. [Morphology](Curcuma)(https://www.plantdelights.com/blogs/articles/curcuma-longa-turmeric-plant-zedoaria-ginger)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2013/10/23/turmeric-curcuma-longa-benefits-usage-dose-side-effects/)
 4. [Cultivation](http://practicalplants.org/wiki/Agrimonia_eupatoria)
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 30, 39, 68, 82, 91, 93.**
+   Propagated by tuber. Planting haridra within the house may cause loss of progeny and wealth according to ancient authorities. Its powder (haridra curna) used as fumigation ingredient for plant treatments, including conversion of tamarind into a climber.
+   > *As cited in: Vrksayurveda of Surapala, Verses 32, 144, 236, 241; Sections 3, 6, 13, 17, 19*

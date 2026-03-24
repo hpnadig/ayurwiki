@@ -105,3 +105,6 @@ Swampy localities, Ravines, Waste places, Roadsides, Mixed forests.
 2. [Morphology]
 3. [names](Common)(https://www.flowersofindia.net/catalog/slides/Large-Leaf%20Beauty%20Berry.html#:~:text=Callicarpa%20macrophylla%20%2D%20Large%2DLeaf%20Beauty%20Berry&text=Large%2DLeaf%20Beauty%20Berry%20is,and%20flower%2Dcluster%2Dstalks.&text=Large%2DLeaf%20Beauty%20Berry%20is%20found%20in%20the%20Himalaya%2C%20from,%2C%20India%2C%20Burma%2C%20S.)
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Callicarpa+macrophylla)
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 38, 39.**
+   Listed among plants in general plantation principles. Propagated by seed.
+   > *As cited in: Vrksayurveda of Surapala, Sections 5, 6*

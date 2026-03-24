@@ -105,3 +105,6 @@ Tropical area.
 2. [constituents](Chemical)(https://www.easyayurveda.com/2019/09/03/khirni-manilkara-hexandra/)
 3. [OF KERALA VER.2, N. Sasidharan Botanic description](PLANTS)(http://FLOWERING)
 4. [names](Vernacular)(http://envis.frlht.org/bot_search)
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 28, 44, 54.**
+   Referenced in the spiritual merit section: planting along with dadima, rambha, priyala, and panasa prevents sorrow for seven births. Seeds treated under standard processing and dried with head-cutting for improved viability. Recommended for planting during Sravana month.
+   > *As cited in: Vrksayurveda of Surapala, Sections 2, 7, 8*

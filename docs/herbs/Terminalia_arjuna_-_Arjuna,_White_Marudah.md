@@ -131,3 +131,6 @@ Humid areas, Red lateritic soils, Borders of forests, Fertile lateritic soils.
 5. [type required](Soil)(https://www.echarak.in/echarak/templates/Terminalia%20arjuna%20%20Wt.%20and%20Arn..pdf)
 6. [to grow](Season)(https://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/terminalia-arjuna)
 7. [Ecology](https://uses.plantnet-project.org/en/Terminalia_arjuna_(PROTA)#:~:text=Under%20natural%20conditions%20in%20India,(pH%208.5%E2%80%9310.5).)
+8. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 30, 59, 84, 99.**
+   Listed among restricted campus trees not suitable for planting in residential compounds. Bark used in wound-healing paste for damaged plants. As a hydrology indicator tree, its presence signals rainfall (vrsti). Wound paste: arjuna bark combined with other barks, applied to tree wounds (Section 17).
+   > *As cited in: Vrksayurveda of Surapala, Verses 119; Sections 3, 10, 17, 21*

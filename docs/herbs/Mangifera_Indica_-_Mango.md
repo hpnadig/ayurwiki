@@ -136,3 +136,6 @@ In the Mahabharata, trees including the mango are praised for their selfless ser
 5. [names](Verneculer)(https://indiabiodiversity.org/species/show/32002)
 6. Planet Ayurveda
 7. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.561, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+8. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 27, 32, 34, 43-44, 62, 65, 74, 90, 98.**
+   Planting five or six Amra trees ensures perpetual happiness and passage to Gandraloka. Classified as both Anupa-adapted and Sadharana-adapted (general region). For fruit production, roots are treated with a mixture of ankola fruit juice, ghee, honey, and pig fat dissolved in water, producing exceptionally sweet, large, and satisfying mangoes.
+   > *As cited in: Vrksayurveda of Surapala, Verses 1-2, 53-56, 126, 136, 152, 225; Sections 2, 5, 7, 11, 12, 14, 19, 21*

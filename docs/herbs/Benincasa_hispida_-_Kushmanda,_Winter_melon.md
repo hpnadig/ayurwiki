@@ -132,3 +132,6 @@ Tall grasslands, Meadows, Borders of forests and fields.
 4. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Benincasa+hispida)
 5. [to grow](Season)(https://pfaf.org/user/Plant.aspx?LatinName=Benincasa+hispida)
 6. [Ecosystem/Climate](Required)(http://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=e457)
+7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 46, 90, 93.**
+   Seeds sown for propagation; seedlings may also be planted. In horticultural wonders, stems of trapusa (cucumber) and kusmanda are pasted with honey and ghee, tied together with grass rope, covered with cow dung, and allowed to unite. When cut and grown, the resulting plant produces cucumber fruit in the size of kusmanda (ash gourd).
+   > *As cited in: Vrksayurveda of Surapala, Verses 227, 265-267; Sections 8, 19*

@@ -126,3 +126,6 @@ Scattered in teak forest, Mixed deciduous forest.
 1. [constituents](Chemical)(http://www.motherherbs.com/terminalia-chebula-extract.html)
 2. [Morphology](https://indiabiodiversity.org/species/show/31838)
 3. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Terminalia+chebula)
+4. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 60, 65-66, 82-83, 91.**
+   A key component of Triphala (with Bibhitaka and Amalaki), one of the most important formulations in the text. Triphala used extensively for fumigation and irrigation of fruit trees including panasa and dadima. Haritaki individually used in medicated irrigation mixed with honey, mustard, ghee, and nicula leaves.
+   > *As cited in: Vrksayurveda of Surapala, Verses 121, 134, 137, 231; Sections 11, 13, 17, 19*

@@ -79,3 +79,6 @@ Mixed deciduous forests.
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Grewia+asiatica)
 4. Indian Medicinal Plants by C.P.Khare
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 54.**
+   Recommended for directional planting in the southern direction near residences.
+   > *As cited in: Vrksayurveda of Surapala, Section 8*

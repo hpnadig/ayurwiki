@@ -123,3 +123,6 @@ Subtropical area, Indoors in a heated greenhouse, Warm shady humid place.
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2014/12/26/cardamom-uses-research-home-remedies-side-effects/)
 4. [details](Cultivation)(https://www.indiaagronet.com/indiaagronet/crop%20info/Cardamom.htm)
 5. ”Karnataka Medicinal Plants Volume - 2” by Dr.M. R. Gurudeva, Page No.125, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 39.**
+   Listed among seed-tuber propagated plants in the plant classification system.
+   > *As cited in: Vrksayurveda of Surapala, Section 6*

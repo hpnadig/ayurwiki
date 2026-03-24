@@ -123,3 +123,6 @@ The coconut is an essential offering (*naivedya*) in Hindu temples and ceremonie
 2. [description](Botanical)(http://www.dipbot.unict.it/palms/descr01.html)
 3. [details](Cultivation)(https://www.pfaf.org/USER/Plant.aspx?LatinName=Cocos+nucifera)
 4. [Health Benefits](Buko)(http://www.medicalhealthguide.com/articles/coconut.htm)
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 32, 62-63.**
+   Classified as Anupa-adapted (marshy/coastal region). Recipe 1: cow/pig/sisumara flesh cooked in water for irrigation (Verse 127).
+   > *As cited in: Vrksayurveda of Surapala, Verses 80, 127-131; Sections 5, 11*

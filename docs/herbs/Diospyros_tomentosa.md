@@ -63,3 +63,6 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 2. ["Morphology"]
 3. [ "Cultivation"]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 68, 98.**
+   Treated with behni (paddy variety) and masa mixed in water for fruit enhancement. As a hydrology indicator tree, its presence signals suitability for growing crops maturing in 60-day periods. Fruit treatment: behni and masa mixed in water for irrigation (Verse 142).
+   > *As cited in: Vrksayurveda of Surapala, Verses 142; Sections 13, 21*

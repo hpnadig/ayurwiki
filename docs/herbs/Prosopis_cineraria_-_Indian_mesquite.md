@@ -114,3 +114,6 @@ Tropical area.
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 318
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [details](Cultivation)(http://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/prosopis-cineraria)
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 33, 99.**
+   Classified as Jangala-adapted (arid region). As an indicator tree, its presence (along with Khadira) signals the likelihood of famine (durbhiksa) in the area.
+   > *As cited in: Vrksayurveda of Surapala, Sections 5, 21*

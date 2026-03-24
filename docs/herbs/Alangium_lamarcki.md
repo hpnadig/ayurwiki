@@ -79,3 +79,6 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 1. ["chemistry"]
 2. ["morphology"]
 3. [ "Cultivation"]
+4. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 62, 95.**
+   Oil extracted from ankola seeds extensively used for seed-impregnation treatments. Seeds soaked in ankola oil (combined with fish, sisumara, and crocodile oils) and dried produce plants that flower and fruit simultaneously. Ankola fruit juice also used in mango fruit-enhancement recipe along with ghee, honey, and animal fat.
+   > *As cited in: Vrksayurveda of Surapala, Verses 126, 259-263; Sections 11, 19*

@@ -123,3 +123,6 @@ Coastal thickets, Along streams, Along creeks, Lowland forest margins.
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2016/09/20/bitter-gourd-karela-benefits-remedies-research-side-effects/)
 4. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Momordica+charantia)
 5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:341
+6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 54, 75.**
+   Best planted during the month of Caitra (spring). Listed among vegetable-fruit plants receiving pig-bone fumigation during summer season for enhanced production. Vegetable fumigation: pig-bone fumigation during summer (Verse 159).
+   > *As cited in: Vrksayurveda of Surapala, Verses 80, 159; Sections 8, 14*

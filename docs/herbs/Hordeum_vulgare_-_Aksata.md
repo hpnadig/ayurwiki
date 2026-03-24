@@ -96,3 +96,6 @@ Temperate areas, Tropical areas.
 1. [Encyclopedia](https://en.wikipedia.org/wiki/Barley)
 2. [natural](Herbs)(http://www.naturalmedicinalherbs.net/herbs/h/hordeum-vulgare=barley.php)
 3. [university](Purdue)(https://www.hort.purdue.edu/newcrop/duke_energy/Hordeum_vulgare.html)
+4. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 63, 67, 83, 90-91.**
+   Barley is one of the most frequently used ingredients in plant-care formulations. Barley flour (yavacurna) used in coconut fruit-enhancement recipes with alkaline water and paddy husk. Part of bark-paste treatment (with lodhra) for fruit trees. Coconut recipe: yavacurna with alkaline water, paddy husk, pulse soup (Verse 130).
+   > *As cited in: Vrksayurveda of Surapala, Verses 130, 139, 234, 242-244; Sections 11, 13, 17, 19*

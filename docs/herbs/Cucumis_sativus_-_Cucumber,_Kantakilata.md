@@ -116,3 +116,6 @@ Tropical area, Sub tropical area
 4. [composition](Chemical)(http://gbpihedenvis.nic.in/PDFs/Glossary_Medicinal_Plants_Springer.pdf)
 5. [preparations](Ayurvedic)(https://easyayurveda.com/2016/08/24/cucumber-cucumis-sativus-benefits-ayurvedic-side-effects/)
 6. [details](Cultivation)(https://pfaf.org/user/Plant.aspx?LatinName=Cucumis+sativus)
+7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 45, 75, 93.**
+   Sown as intercropping on fertile cultivated land alongside other vegetable plants. In horticultural wonders, grafted with kusmanda by pasting stems with honey and ghee, tying together, and covering with cow dung — the united plant produces cucumber-sized fruits in ash-gourd proportions. Listed among vegetable plants receiving pig-bone fumigation during summer for enhanced production.
+   > *As cited in: Vrksayurveda of Surapala, Verses 80, 159, 265-266; Sections 8, 14, 19*

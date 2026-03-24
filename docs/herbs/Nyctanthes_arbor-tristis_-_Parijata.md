@@ -118,3 +118,6 @@ Tropical area, Sub tropical area
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2016/11/30/parijatha-nyctanthes-arbor-tristis-night-jasmine-coral-jasmine/)
 5. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Nyctanthes+arbor-tristis)
 6. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:221
+7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 33.**
+   Classified as a Jangala-adapted (arid region) tree suited for warmer climatic zones.
+   > *As cited in: Vrksayurveda of Surapala, Section 5*

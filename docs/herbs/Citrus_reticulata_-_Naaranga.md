@@ -94,3 +94,6 @@ Tropical area, Sub tropical area
 
 1. [description](Botonic)(http://keralaplants.in/flowering-plants-kerala-dvd.aspx)
 2. [names](Vernacular)(http://envis.frlht.org/bot_search)
+3. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 47, 68.**
+   Seeds are naturally curved and should be sown in their standing (curved) position. Fruit-enhancement recipe uses vidanga, masa, sesame, mustard, bilva, turmeric, and rabbit flesh mixed in water for irrigation, supplemented by pasting and fumigation treatments. Produces abundant large, juicy fruits that cause branches to bend with weight.
+   > *As cited in: Vrksayurveda of Surapala, Verse 144; Sections 8, 13*

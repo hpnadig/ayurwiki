@@ -116,3 +116,6 @@ Tropical area
 3. [OF KERALA VER.2, N. Sasidharan BOTANIC DESCRIPTION](PLANTS)(http://FLOWERING)
 4. [names](Vernacular)(http://envis.frlht.org/bot_search)
 5. [details](Cultivation)(https://www.hort.purdue.edu/newcrop/proceedings1999/v4-397.html)
+6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 54, 75, 90.**
+   Best planted during Phalguna month (spring). Fruit yield enhanced by applying fire from dry-grass fuel during Phalguna, followed by spraying with shalika-water during Caitra. Seedless fruit production achieved by treating seeds with boar oil before sowing and irrigating with the same oil-water mixture.
+   > *As cited in: Vrksayurveda of Surapala, Verses 160, 227; Sections 8, 14, 19*

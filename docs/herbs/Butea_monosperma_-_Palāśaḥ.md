@@ -111,3 +111,6 @@ Found throughout the drier parts of India, Often gregarious in forests, Open gra
 2. [Morphology]
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/b/butea-monosperma)
 4. [detail](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Butea+monosperma)
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 28, 30, 39.**
+   Planting seven Palasa trees grants passage to Brahmaloka where one enjoys divine pleasure. Propagated by both seed and stem methods. Listed among restricted campus trees that should not be planted in residential compounds as they are not considered conducive to domestic comfort.
+   > *As cited in: Vrksayurveda of Surapala, Verses 1-2; Sections 2, 3, 6*

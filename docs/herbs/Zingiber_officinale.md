@@ -108,3 +108,6 @@ A plant of the moist to wet tropics, where it is found at elevations up to 1,900
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Zingiber+officinale)
 5. Indian Medicinal Plants by C.P.Khare
 6. "Karnataka Medicinal Plants Volume - 2" by Dr.M. R. Gurudeva, Page No.661, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 39.**
+   Listed among tuber-propagated plants in the plant classification system.
+   > *As cited in: Vrksayurveda of Surapala, Section 6*

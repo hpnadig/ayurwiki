@@ -72,3 +72,6 @@ Edges of rice fields, Rock crevices, Savannah, Scrub land.
 1. [Chemistry]
 2. [Morphology]
 3. [Cultivation]
+4. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 97.**
+   Sacred grass referenced in hydrology section: land having growth of munja, kusa (darbha), and other grasses with blue soil keeps underground water sources that provide tasty water in abundance.
+   > *As cited in: Vrksayurveda of Surapala, Section 21*

@@ -128,3 +128,6 @@ Tropical area, Coastal area.
 5. [details](Cultivation)(https://pfaf.org/user/Plant.aspx?LatinName=Borassus+flabellifer)
 6. [preparations](Ayurvedic)(https://easyayurveda.com/2017/10/04/toddy-palm-asian-palmyra-palm-tala/)
 7. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.525, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+8. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 32, 62-63.**
+   Classified as Anupa-adapted (marshy/coastal region). Part of the coconut-allied palm group receiving similar nutritive treatments for fruit enhancement. Treated alongside narikela (coconut) group with animal-flesh water irrigation and nutritive oil-cake solutions (Verses 127, 131).
+   > *As cited in: Vrksayurveda of Surapala, Verses 80, 127, 131; Sections 5, 11*

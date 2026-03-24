@@ -127,3 +127,6 @@ Notophyll vine forests, Palm-dominated forests, Coastal region.
 2. [Constituents](Chemical)(http://www.mpbd.info/plants/alstonia-scholaris.php)
 3. [morphology](Plant)(https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=2705)
 4. [details](Cultivation)(http://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/alstonia-scholaris)
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 33, 73, 98.**
+   Classified as Jangala-adapted (arid region). In Dohada practice, irrigated with flesh-and-fish water to promote flowering. As an indicator tree, its presence signals suitability for barley (yava) cultivation. Dohada flowering: irrigate with mamsa (flesh) and fish mixed in water (Verse 158).
+   > *As cited in: Vrksayurveda of Surapala, Verses 158; Sections 5, 14, 21*

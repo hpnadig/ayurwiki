@@ -94,3 +94,6 @@ River banks, Coastal area.
 2. [Morphology]
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2017/10/05/kewda-flower-screw-pine-ketaki/)
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Pandanus+tectorius)
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 32, 73.**
+   Classified among Anupa-adapted (marshy region) plants. Flowering enhanced by irrigating with aromatic decoction prepared from eladi gandha (aromatic herbal oils) mixed with flesh-water. Alternatively, irrigation with honey-water and other waste-liquid mixtures promotes high flower yield.
+   > *As cited in: Vrksayurveda of Surapala, Verses 80, 150; Sections 5, 14*

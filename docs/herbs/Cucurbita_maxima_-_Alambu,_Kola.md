@@ -106,3 +106,6 @@ Tropical area.
 1. [Uses](https://www.star-ayurveda.com/cucurbita-maxima/)
 2. [composition](Chemical)(http://gbpihedenvis.nic.in/PDFs/Glossary_Medicinal_Plants_Springer.pdf)
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
+4. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 75.**
+   Listed among vegetable-fruit plants receiving pig-bone fumigation during summer for enhanced production. Vegetable fumigation: pig-bone fumigation during summer (Verse 159).
+   > *As cited in: Vrksayurveda of Surapala, Verse 159; Section 14*

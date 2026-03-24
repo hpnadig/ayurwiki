@@ -119,3 +119,6 @@ Tropical area, Sub tropical area
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2015/10/07/neelini-indigofera-tinctoria/)
 5. [details](Cultivation)(https://pfaf.org/user/Plant.aspx?LatinName=Indigofera+tinctoria)
+6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 30.**
+   Planting Nila within the house may cause loss of progeny and wealth. If such plants grow naturally on their own within the house, they are considered harmful. This is the view of well-versed authorities.
+   > *As cited in: Vrksayurveda of Surapala, Verse 32; Section 3*

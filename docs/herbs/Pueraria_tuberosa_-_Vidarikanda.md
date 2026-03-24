@@ -110,3 +110,6 @@ Tropical area, Sub tropical area
 3. [OF KERALA VER.2, N. Sasidharan BOTANIC DESCRIPTION](PLANTS)(http://FLOWERING)
 4. [names](Vernacular)(http://envis.frlht.org/bot_search)
 5. [preparations](Ayurvedic)(https://easyayurveda.com/2017/08/11/vidarikand-pueraria-tuberosa-indian-kudzu/)
+6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 84.**
+   Used in treatment of trees damaged by thunderbolts (lightning strikes). Part of restorative formulations applied to severely damaged trees to aid recovery. Thunderbolt-damage treatment: combined with other plant materials in restorative formulations (Section 17).
+   > *As cited in: Vrksayurveda of Surapala, Section 17*

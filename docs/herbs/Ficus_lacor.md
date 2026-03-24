@@ -67,3 +67,6 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 2. [Morphology]
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 27, 29.**
+   Planting four Plaksa trees earns the blessed merit of performing the rajasuyayajna. Should be planted in the northern direction of the house for auspicious results.
+   > *As cited in: Vrksayurveda of Surapala, Verses 1-2, 24-29*

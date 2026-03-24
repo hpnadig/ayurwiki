@@ -120,3 +120,6 @@ Found in large lakes.
 5. Indian Medicinal Plants by C.P.Khare
 6. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:155
 7. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.118, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+8. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 39, 90, 92, 94.**
+   Propagated by seed-tuber method. Root rhizomes of different lotus varieties extracted, tied together with thread, pasted with ghee and honey, then planted — resulting in blooming of multiple flower colours on a single plant. Seeds used in fruit-preservation pills combined with madhuka flowers, utpala, honey, sugar candy, and yastimadhu.
+   > *As cited in: Vrksayurveda of Surapala, Verses 228, 249, 269; Sections 6, 19, 20*

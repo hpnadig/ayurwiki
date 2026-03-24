@@ -98,3 +98,6 @@ River bank, Wet places.
 1. [constituents](Chemical)(https://easyayurveda.com/2017/10/05/saccharum-munja-shara/f)
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Saccharum+spontaneum)
+4. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 97.**
+   Referenced in hydrology section: land with growth of munja reed, kusa grass, and blue soil indicates underground water sources providing tasty water in abundance.
+   > *As cited in: Vrksayurveda of Surapala, Section 21*

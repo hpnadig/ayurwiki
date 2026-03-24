@@ -105,3 +105,6 @@ North temperate hemisphere, Tropical asia, Himalayas.
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2015/01/06/vacha-acorus-calamus-uses-research-side-effects-remedy/)
 4. [details](Cultivation)(http://nopr.niscair.res.in/bitstream/123456789/9381/1/NPR%203%281%29%2019-21.pdf)
 5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:233
+6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 82, 90.**
+   Used in insect treatments for plants and in the elaborate kapittha (wood apple) seed-purification process. Roots of vaca along with dhatri, abhaya, and other plant roots are boiled in milk as part of the kapittha seed treatment that transforms the tree into a climber form.
+   > *As cited in: Vrksayurveda of Surapala, Verses 242-244; Sections 17, 19*

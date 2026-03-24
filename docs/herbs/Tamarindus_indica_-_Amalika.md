@@ -128,3 +128,6 @@ Stream and riverbanks
 1. [constituents](Chemical)(https://www.researchgate.net/publication/254257793_Chemical_constituents_of_Tamarindus_indica_L_leaves)
 2. [Morphology]
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2015/10/11/tamarind-imali-tamarindus-indica/)
+4. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 93.**
+   In horticultural wonders, the tamarind tree can be converted from its normal tree form into a climber by treating it with a recipe of Triphala powder, sesame, barley, and masa mixed in water, followed by fumigation with turmeric powder. The transformed plant continues flowering regularly.
+   > *As cited in: Vrksayurveda of Surapala, Verse 241; Section 19*

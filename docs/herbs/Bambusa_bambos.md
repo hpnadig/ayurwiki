@@ -115,3 +115,6 @@ Moist deciduous forest, Mixed dry deciduous forest, Semi-evergreen forest, Along
 3. [names](Common)(https://www.flowersofindia.net/catalog/slides/Indian%20Thorny%20Bamboo.html)
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Bambusa+bambos)
 5. [Ecosystem/Climate](Required)(https://www.guaduabamboo.com/blog/bambusa-bambos)
+6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 32, 54.**
+   Classified as Anupa-adapted (marshy/riverine region). Also recommended for directional planting in the eastern direction near residences.
+   > *As cited in: Vrksayurveda of Surapala, Sections 5, 8*

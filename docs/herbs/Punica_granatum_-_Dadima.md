@@ -120,3 +120,6 @@ Tropical area, Sub Tropical area, Desert area.
 5. [preparations](Ayurvedic)(https://easyayurveda.com/2011/11/04/pomegranate-fruit-benefits-anti-oxidants-plus-tridosha-balancing-ayurveda-details/)
 6. [details](Cultivation)(https://pfaf.org/user/plant.aspx?latinname=Punica+granatum)
 7. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:195
+8. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 28, 30, 49, 64-65, 92-93.**
+   Planting dadima ensures freedom from sorrow for seven births. Listed among restricted campus trees (not for house compound). Extensive fruit-enhancement protocols: fish, flesh, and buffalo milk mixture produces large, sweet fruits that cause branches to bend with weight.
+   > *As cited in: Vrksayurveda of Surapala, Verses 1-2, 132-136, 250, 262; Sections 2, 3, 6, 8, 11, 12, 19*

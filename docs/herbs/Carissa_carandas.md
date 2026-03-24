@@ -101,3 +101,6 @@ Dry places, Sunny places.
 2. Kappathagudda medicinal plants
 3. [names](Common)(http://www.flowersofindia.net/catalog/slides/Karanda.html)
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Carissa+carandas)
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 54, 67.**
+   Recommended for directional planting in the eastern direction near residences. Listed among trees receiving bark-paste treatment with ghee, honey, ksara, lodhra, and barley for fruit enhancement. Bark-paste treatment: ghee, honey, ksara, lodhra, and yava applied after bark scratching (Verse 139).
+   > *As cited in: Vrksayurveda of Surapala, Verses 80, 139; Sections 8, 13*

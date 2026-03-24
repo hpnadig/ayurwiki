@@ -137,3 +137,6 @@ The resilience of the neem tree was demonstrated when it survived the devastatin
 2. [descroption](Botonic)(http://www.worldagroforestry.org/treedb/AFTPDFS/Azadirachta_indica.PDF)
 3. [method](Cultivation)(http://contentzza.com/azadirachta-indica-neem-cultivation-methods/)
 4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:267
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 27, 33, 54, 93, 98.**
+   Planting three Nimba trees grants access to Suryaloka for three divine years. Part of the auspicious pentad (pancavrksa) of trees. Classified as Jangala-adapted (arid region). Grafting method: nimba seed inserted into soft kusmanda fruit hole, sealed with ghee-honey paste, extracted after fruit ripens, sown in suitable land (Verse 267).
+   > *As cited in: Vrksayurveda of Surapala, Verses 1-2, 267; Sections 2, 5, 8, 19, 21*

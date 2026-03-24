@@ -126,3 +126,6 @@ Casual in irrigated areas, Moist shady situation, Undergrowth in birch forest.
 1. [Composition "]("Chemical)(http://www.phytojournal.com/archives/2017/vol6issue4/PartS/6-3-32-604.pdf)
 2. [description"]("plant)(http://www.flowersofindia.net/catalog/slides/Costus.html)
 3. [details"]("Cultivation)(https://www.pfaf.org/user/Plant.aspx?LatinName=Saussurea+costus)
+4. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 82.**
+   Used in insect-elimination paste for treating plant infestations. Combined with ativisa (Aconitum heterophyllum) and other ingredients to prepare formulations applied to affected plant parts. Insect paste: combined with ativisa and other materials, applied to affected plant parts (Section 17).
+   > *As cited in: Vrksayurveda of Surapala, Section 17*

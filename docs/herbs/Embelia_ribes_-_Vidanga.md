@@ -120,3 +120,6 @@ Central Himalayas, Lower Himalayas, Deccan Ghat, Western Ghats and South India.
 3. [description](Plant)(https://easyayurveda.com/2013/09/23/vidanga-embelia-ribes-benefits-usage-dose-side-effects/)
 4. [and Climate](Soil)(http://www.nmpb.nic.in/sites/default/files/publications/vai_vidang.pdf)
 5. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.1147, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 43-44, 47, 50, 60, 68, 82.**
+   Known as Krmisatru (enemy of worms), extensively used as an insecticidal agent in plant care. Seed/fruit powder applied in fumigation of seeds along with mustard. Used in seed-viability treatments: seeds are treated with honey and vidanga powder after cow-dung rubbing.
+   > *As cited in: Vrksayurveda of Surapala, Verses 53-55, 101, 122, 144; Sections 7, 8, 10, 13, 17*

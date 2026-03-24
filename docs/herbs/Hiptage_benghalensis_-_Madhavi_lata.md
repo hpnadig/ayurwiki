@@ -106,3 +106,6 @@ Tropical area, Sub tropical area
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 221
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [details](Cultivation)(http://www.iucngisd.org/gisd/species.php?sc=87)
+5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 38, 74.**
+   Listed in general plantation principles. In Dohada tradition, Madhavi (along with karavira and kurantaka) is irrigated with sura (alcoholic liquor) in the evening in a humble manner, promoting beautiful flowering. Dohada flowering: irrigate with sura (liquor) in evening (Verse 156).
+   > *As cited in: Vrksayurveda of Surapala, Verse 156; Sections 5, 14*
