@@ -35,7 +35,7 @@ date: 2020-08-06
 ![](../images/Dodonaea_viscosa_(Hopbush)_W_IMG_1898.jpg)
 **Dodonaea viscosa** is a spreading evergreen shrub or small tree. Usually grows upto 1.5 - 5 metres tall. The short bole can be 15 - 25cm in diameter. This tree is belongs to Sapindaceae family.
 ## Uses
-Rheumatism, Cold, Indigestion, Ulcers, Diarrhoea, Constipation, Dysmenorrhoea, Malaria.
+Rheumatism, Cold, Indigestion, Ulcers, Diarrhoea, Constipation, Dysmenorrhoea, Malaria, Headache, Wound healing, Snake bite, Fever.
 
 ## Parts Used
 Leaves.
@@ -46,12 +46,12 @@ It contains  β-carotene-linoleic acid; DPPH(•), ABTS(•+), superoxide scaven
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Aliyar, Sanatta |
+| Sanskrit | Aliyar, Sanatta, Sanatra |
 | English | The switch sorel |
 | Hindi | Aliyar, Sanaat |
-| Kannada | Anduragida, Angaraka |
-| Tamil | Velari, Virali |
-| Telugu | Bandaru, Bendedu |
+| Kannada | Anduragida, Angaraka, Baanamuraba, Bandari, Bandurgi, Bandanki, Bodara, Bondare pollari, Hangara, Hangaralu, Hangarike |
+| Tamil | Velari, Virali, Valarre |
+| Telugu | Bandaru, Bendedu, Gollapalleda, Bandemu |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -99,4 +99,5 @@ Sandy soils, Rocky soils, Stony soils, Dry slopes.
 1. [constituents](Chemical)(https://pubmed.ncbi.nlm.nih.gov/26866457/)
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Dodonaea+viscosa)
-4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:55
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 55.**
+   1. Andarugida leaves, Mangaravalli balli, and Komottaiya (type of plant) leaves combined, ground, and applied as a paste on the forehead and behind the ears on the face helps cure headaches within 8-10 days. 2. Leaf churna applied on wounds helps accelerate wound healing; the wound will not turn sep.

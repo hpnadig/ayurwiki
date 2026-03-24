@@ -34,7 +34,7 @@ date: 2020-08-11
 ![*Dadima*, *Punica granatum*](../images/Grenadier_(Turpin).JPG)
 **Dadima** has been used for thousands of years to cure a wide range of diseases across different cultures and civilizations. It has great nutritional value and numerous health benefits. This plant is belongs to **Punicacea** family.
 ## Uses
-Ulcers, Urinary infections, Skin disorders, Digestive disorders, Arthritis, Diarrhea, Bloating
+Ulcers, Urinary infections, Skin disorders, Digestive disorders, Arthritis, Diarrhea, Bloating, Anemia, Dysentery, Epistaxis, Mouth ulcers, Intestinal worms, Leucorrhea, Nausea, Tapeworms
 
 ## Parts Used
 Fruits, Seeds
@@ -45,12 +45,12 @@ Pomegranate fruit arils contain huge amounts of organic acids, sugars, minerals,
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Daadima, Daalimbe, Dadimbe |
+| Kannada | Daadima, Daalimbe, Dadimbe, Daadimba, Daadimma |
 | Malayalam | Dadimam, Matalam, Matalam-cheti, Matalanarakam, Urumampazham |
 | Sanskrit | Dadima, Raktabija, Raktapushpa, Lohithapushpa |
 | Tamil | Madalai-p-pazham, Maathulai, Maathulam |
 | Telugu | Daadimba, Daalimba chettu, Daalimma, Daanimma, Dadima |
-| Hindi | Anar |
+| Hindi | Anar, Anar-ki-par |
 | English | Pomegranate |
 
 ## Properties
@@ -119,7 +119,8 @@ Tropical area, Sub Tropical area, Desert area.
 4. [names](Vernacular)(http://envis.frlht.org/bot_search)
 5. [preparations](Ayurvedic)(https://easyayurveda.com/2011/11/04/pomegranate-fruit-benefits-anti-oxidants-plus-tridosha-balancing-ayurveda-details/)
 6. [details](Cultivation)(https://pfaf.org/user/plant.aspx?latinname=Punica+granatum)
-7. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:195
+7. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 195.**
+   1. Pomegranate fruit juice, when consumed regularly, helps treat anemia and improves hemoglobin levels. 2. The rind of pomegranate fruit dried and powdered, when consumed, helps treat diarrhea and dysentery. 3. Pomegranate flower buds ground and consumed help treat nasal bleeding (epistaxis). 4. Con.
 8. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 28, 30, 49, 64-65, 92-93.**
    Planting dadima ensures freedom from sorrow for seven births. Listed among restricted campus trees (not for house compound). Extensive fruit-enhancement protocols: fish, flesh, and buffalo milk mixture produces large, sweet fruits that cause branches to bend with weight.
    > *As cited in: Vrksayurveda of Surapala, Verses 1-2, 132-136, 250, 262; Sections 2, 3, 6, 8, 11, 12, 19*

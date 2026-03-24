@@ -40,7 +40,7 @@ date: 2020-08-13
 ![*Gmelina arborea*, *Madhumati*](../images/Gmelina_arborea_leaves_I_IMG_3458.jpg)
 **Madhumati** locally known as Gamhar. It is a fast-growing deciduous tree. Occurring naturally throughout greater part of India at altitudes up to 1,500 meters. It also occurs naturally in Myanmar, Thailand, Laos, Cambodia, Vietnam, and in southern provinces of China.
 ## Uses
-Fever, Gonorrhoea, Cough, Wounds, Ulcers, Leprosy, Blood diseases, Diarrhea.
+Fever, Gonorrhoea, Cough, Wounds, Ulcers, Leprosy, Blood diseases, Diarrhea, Piles, Urinary disorders, Diabetes, Dandruff.
 
 ## Parts Used
 Roots, Stem, Root bark, Stem bark, Fruits.
@@ -51,13 +51,13 @@ Hexenol (17.9%), 1-octen-3-ol (8.4%) and hexanol (6.1%) among the aliphatic alco
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Shivani |
+| Kannada | Shivani, Kashmiri, Kumbal, Kumbadi, Kumara, Kusa, Koora, Gandharigada, Gutti, Gumma |
 | Malayalam | Kumbil |
-| Sanskrit | Madhumati |
-| Tamil | Kumalaamaram |
-| Telugu | Peddagumudutekku |
-| Hindi | Gamhar |
-| English | Gamhar |
+| Sanskrit | Madhumati, Shreeparni, Kasmari, Gambara, Gulabaja, Bhadravarnika, Madhuvarnika |
+| Tamil | Kumalaamaram, Kumbi, Kungumbilli, Kattano |
+| Telugu | Peddagumudutekku, Gumaditikalu |
+| Hindi | Gamhar, Gumari, Gundhar |
+| English | Gamhar, Malaine Tree |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -128,4 +128,5 @@ Tropical area, Subtropical area, Moist teak forests.
 2. [description](Plant)(https://www.bimbima.com/herbs/gmelina-arborea/2960/)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2014/11/12/gambhari-gmelina-arborea-uses-side-effects-dose/)
 4. [Details](Cultivation)(http://vikaspedia.in/agriculture/forestry/tree-crops/gmelina-arborea)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:329
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 329.**
+   1. For headaches caused by fever, grinding the leaves and applying them as a poultice on the forehead provides relief. 2. Root scent, raw fruit, or bark decoction consumed helps treat piles and hemorrhoids. 3. Excessive consumption of the tree's fruit can cause increased thirst, heart palpitations, . Leaf juice with milk and sugar for urinary disorders. Root bark decoction for postpartum care.

@@ -40,7 +40,7 @@ date: 2023-06-05
 ![*Henna/Mehdi*](../images/Lawsonia_inermis_(Mehndi)_in_Hyderabad,_AP_W_IMG_0528.jpg)
 **Henna** is a flowering plant and the sole species of the Lawsonia genus. It is a heavily-scented, much-branched, slender, evergreen shrub or small tree. It usually grows up to 6 metres tall.
 ## Uses
-Bleeding, Nerve deseases, Amoebic dysentery, Wounds, Skin eruptions, Ulcers, Pimples, Diarrhea, Sore throats.
+Bleeding, Nerve deseases, Amoebic dysentery, Wounds, Skin eruptions, Ulcers, Pimples, Diarrhea, Sore throats, Jaundice, Liver disorders, Hair fall, Dandruff, Fungal infections, Kidney stones, Insomnia, Urinary tract infections, Headaches.
 
 ## Parts Used
 Leaves, Seeds.
@@ -51,13 +51,13 @@ The major components were ethyl hexadecanoate (24.4%), (E)-methyl cinnamate (11.
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Goranta, Gorante |
+| Kannada | Goranta, Gorante, Korate, Madarangi, Maryanisoppu, Honnuballi |
 | Malayalam | Mail-anschi, Mailanci |
-| Sanskrit | Dvivranta, Kokadanta |
-| Tamil | Aivanam, Aivanam |
-| Telugu | Goranta, Gorata |
-| Hindi | Hena |
-| English | Henna |
+| Sanskrit | Dvivranta, Kokadanta, Kuravaka, Raktagarbha |
+| Tamil | Aivanam, Aivanam, Koramam, Ivino, Marudondri |
+| Telugu | Goranta, Gorata, Kuravamu, Gorinta |
+| Hindi | Hena, Mehandi |
+| English | Henna, Henna Leaves, Henna Plant, Samphire |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -115,4 +115,5 @@ Warmer parts of South and North America, Meadows, Borders of forests and fields.
 2. [description](Plant)(https://www.herbal-supplement-resource.com/henna-herb-uses.html)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2016/08/09/henna-mehndi-benefits-usage-research-side-effects/)
 4. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Lawsonia+inermis)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:127
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 127.**
+   1. Consuming fresh henna leaf juice (7-14 mL) mixed with water (50-100 mL) and a little honey, taken 3 times daily, helps treat jaundice and liver-related disorders. 2. Applying henna (madarangi) leaf paste (2 spoonfuls) mixed with a glass of buttermilk consumed 1-2 times daily helps treat stomach u.

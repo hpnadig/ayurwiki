@@ -35,7 +35,7 @@ date: 2022-04-02
 ![*Cyperus rotundus*, *Tunge Gadde*,](../images/800px-Cyperus_rotundus_-_Kourou.jpg)
 **Cyperus rotundus** is a perennial plant that may reach a height of up to 140 cm. It prefers dry conditions, but will tolerate moist soils, and often grows in wastelands and in crop fields.
 ## Uses
-Leprosy, Excess thirst, Fever, Liver disorders, Blood diseases, Biliousness, Dysentery, Itching.
+Leprosy, Excess thirst, Fever, Liver disorders, Blood diseases, Biliousness, Dysentery, Itching, Indigestion, Cough, Diarrhea, Worm infestations, Skin diseases, Mouth ulcers, Joint pain, Rheumatoid arthritis.
 
 ## Parts Used
 Roots, Seeds.
@@ -46,13 +46,13 @@ Alpha-cyperone (11.0%), myrtenol (7.9%), caryophyllene oxide (5.4%) and beta-pin
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Abdahullu, Koranari-gadde |
+| Kannada | Abdahullu, Koranari-gadde, Abbahullu, Koranagadde, Geku, Gonenagadde, Chelenagadde, Tungehullu |
 | Malayalam | Karimuttan |
-| Sanskrit | Abhrabheda, Ambhodhara |
-| Tamil | Korai, Korai kilangu |
-| Telugu | Bhadratungamuste |
-| Hindi | Baranagarmotha |
-| English | Common nut sedge |
+| Sanskrit | Abhrabheda, Ambhodhara, Kuruballi, Bhadramushka, Mushka, Mushta, Mushtaka |
+| Tamil | Korai, Korai kilangu, Tangodde |
+| Telugu | Bhadratungamuste, Tungamushte, Gandala |
+| Hindi | Baranagarmotha, Motha, Muttha |
+| English | Common nut sedge, Nut Grass |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -117,7 +117,8 @@ Roadsides, Sandy fields, Cultivated ground, Damp places.
 2. [preparations](Ayurvedic)(https://easyayurveda.com/2015/01/07/musta-cyperus-rotundus-uses-research-side-effects/)
 3. [description](Leaves)(https://www.flowersofindia.net/catalog/slides/Common%20Nut%20Sedge.html)
 4. [details](Cultivation)(https://www.pfaf.org/user/Plant.aspx?LatinName=Cyperus+rotundus)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:101
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 101.**
+   1. Grinding the tuber into powder (5 grams) and consuming with water or honey 3-4 times a day helps reduce fever and body heat. 2. Mixing tuber powder (about 5 grams) with jaggery and consuming after meals acts as a digestive tonic. 3. The tuber powder when consumed helps treat indigestion and stren. Tuber powder: approximately 5 grams with water or honey, 3-4 times daily for fever. Tuber decoction for digestive and respiratory conditions.
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 73.**
    Used as an ingredient in decoction (along with jambu leaves and sura liquor) for irrigating all flowering plants to promote maximum bloom and flower yield. Flowering decoction: mustaka with kosira, jambu leaves in sura (liquor) for irrigation of flowering plants (Verse 149).
    > *As cited in: Vrksayurveda of Surapala, Verse 149; Section 14*

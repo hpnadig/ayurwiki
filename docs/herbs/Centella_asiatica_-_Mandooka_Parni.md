@@ -131,3 +131,5 @@ Along ditches, Wet areas, Marshy and open areas.
 4. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/c/centella-asiatica)
 5. Karnataka Medicinal Plants Volume - 2 by Dr.M. R. Gurudeva, Page No. 147
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.45, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+7. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 71.**
+   Recognized among Northeast Indian tribes for wound healing, anti-inflammatory, and cognitive-enhancing properties. Applied for skin conditions, memory improvement, and anxiety reduction.

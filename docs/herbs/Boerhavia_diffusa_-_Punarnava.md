@@ -39,7 +39,7 @@ date: 2020-11-06
 ![*Punarnava*, *Boerhavia diffusa*](../images/Boerhaavia_diffusa.jpg)
 **Punarnava** is a species of flowering plant in the four o'clock family which is commonly known as punarnava. It is taken in herbal medicine for pain relief and other uses. The leaves of punarnava are often used as a green vegetable in many parts of India. It's family is Nyctaginaceae.
 ## Uses
-Obesity, Dropsy, Blood pressure, Gastric disturbances, Asthma, Jaundice, Anascara, Anaemia, Internal inflammation, Indurated liver
+Obesity, Dropsy, Blood pressure, Gastric disturbances, Asthma, Jaundice, Anascara, Anaemia, Internal inflammation, Indurated liver, Edema, Enlarged spleen, Dysmenorrhoea, Urinary disorders, Kidney ailments, Skin diseases, Boils, Heart conditions
 
 ## Parts Used
 Roots, Seeds, Leaves
@@ -50,13 +50,13 @@ Major components are sitosterol, Esters of sitosterol, Punarnavine, Boerhaavia a
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Gonajali, Kommegida |
+| Kannada | Gonajali, Kommegida, Adakaputtina gida, Adatimamidi, Gayimore koppalu, Gonapali, Nadumurukana balli, Balavadike, Shanata, Sanadika |
 | Malayalam | Talutama, Tamilama |
-| Sanskrit | Punarnavah, Raktakanda |
-| Tamil | Caranai, Caranai ver |
-| Telugu | Ambati madu, Atikamamidi |
-| Hindi | Varshbhu |
-| English | Red spiderling |
+| Sanskrit | Punarnavah, Raktakanda, Rakta Punarnava, Shonagni |
+| Tamil | Caranai, Caranai ver, Mukkarattai |
+| Telugu | Ambati madu, Atikamamidi, Atladamamidi |
+| Hindi | Varshbhu, Gadhavarna, Thikri, Bishakapur, Sant |
+| English | Red spiderling, Spreading Hog Weed |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -126,6 +126,7 @@ Open places near the sea, Dry river valleys, Along roadsides, Warm river valleys
 
 1. [constituents](Chemical)(http://www.phytojournal.com/vol1Issue1/Issue_may_2012/5.pdf)
 2. [Morphology](https://indiabiodiversity.org/species/show/32997)
-3. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:07
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 07.**
+   1. Root and leaf decoction is consumed to treat edema and swelling-related conditions. 2. The plant is used in managing abdominal disorders including gastric problems, enlarged spleen, and liver conditions. 3. The root decoction is taken during menstrual irregularities, specifically for treating pai. Root decoction: 14-28 mL taken with appropriate adjuvants. The plant also has a variety (B. chinensis) that is mentioned alongside the main species.
 4. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Boerhavia+diffusa)
 5. [Ecosystem/Climate](Required)(https://pfaf.org/User/Plant.aspx?LatinName=Boerhavia+diffusa)

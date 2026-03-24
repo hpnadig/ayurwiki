@@ -28,7 +28,7 @@ date: 2021-05-20
 ![](../images/Tylophora_indica_(Burm.f)Merr._-_Flickr_-_lalithamba.jpg)
 **Indian ipepac** is a slender, hairy or glabrous branching climber, producing stems up to 1.5 metres tall from a short rhizome that is 3 - 4mm thick. The plant is used locally as a source of fibre and medicines. It belongs to Asclepiadaceae.
 ## Uses
-Asthma, Bronchitis, Dysentery, Diarrhoea.
+Asthma, Bronchitis, Dysentery, Diarrhoea, Wheezing, Blood disorders, Sinusitis, Whooping cough.
 
 ## Parts Used
 Roots.
@@ -39,14 +39,14 @@ It contains the non-alkaloidal compounds isolated from Tylophora indica are kaem
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Antrapachaka, Latakshiri |
-| English | Indian ipecac, Indian ipecacuanha |
+| Sanskrit | Antrapachaka, Latakshiri, Anantamula |
+| English | Indian ipecac, Indian ipecacuanha, Country Ipecacuanha |
 | Hindi | Antamul, Jangli pikvan |
-| Kannada | ಅಡುಮುಟ್ಟದಗಿಡ Adumuttadagida, ಅಂತಮೂಲ Antamula, |
+| Kannada | ಅಡುಮುಟ್ಟದಗಿಡ Adumuttadagida, ಅಂತಮೂಲ Antamula, Adumuttada Balli, Adumutrada, Kirumanji |
 | Malayalam | Vallippala |
 | Marathi | Khadaki rasna, Pitamari |
-| Tamil | Kalutai-p-palai, Naccaruppan |
-| Telugu | Kakkupala, Meka meyyani aaku |
+| Tamil | Kalutai-p-palai, Naccaruppan, Paishtalli, Nachihorrappan, Nay Pallai |
+| Telugu | Kakkupala, Meka meyyani aaku, Kukapala, Mettipala, Verighala |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -99,7 +99,8 @@ Common along the coast on sandy soils, Sandy coconut plantations.
 ## References
 
 1. [constituents](Chemical)(https://ijpsr.com/bft-article/a-brief-phytopharmacological-overview-of-tylophora-indica-an-endangered-medicinal-plant/?view=fulltext#:~:text=The%20non%2Dalkaloidal%20compounds%20isolated,chloride%2C%20quercetin%20and%20kaempferol%202.)
-2. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:29
+2. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 29.**
+   1. Consuming leaves and root helps treat wheezing, asthma, and blood-related disorders. (Note: This plant should not be used for inducing vomiting; it is suitable only for respiratory diseases.) 2. Adumuttada Balli root (1/4 liter), turmeric (20 grams), and coconut oil (1/4 liter) boiled together, s.
 3. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 380
 4. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/t/tylophora-indica)
 5. [Cultivation]

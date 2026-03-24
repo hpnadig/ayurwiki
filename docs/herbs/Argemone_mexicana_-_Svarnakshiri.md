@@ -34,7 +34,7 @@ date: 2020-08-11
 ![*Svarnakshiri*, *Adenanthera pavonina*](../images/Argemone_mexicana_2749.jpg)
 **Svarnakshiri** is an erect, branched, annual to perennial plant. It grows up to  60cm tall. The plant has a wide range of traditional medicinal applications and also provides an oil. This plant is belongs to Papaveraceae family.
 ## Uses
-Wound healing, Malaria, Fever, Worm infestation, Blood disorders
+Wound healing, Malaria, Fever, Worm infestation, Blood disorders, Eczema, Itching, Joint pain, Cough, Baldness, Toothache, Skin disorders
 
 ## Parts Used
 Root, Seeds, Latex
@@ -46,13 +46,13 @@ factor in seeds.
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | ಅರಸಿನ ಉಮ್ಮತ್ತ Arasina ummatta, ದತ್ತೂರಿ ಗಿಡ Datturi gida |
+| Kannada | ಅರಸಿನ ಉಮ್ಮತ್ತ Arasina ummatta, ದತ್ತೂರಿ ಗಿಡ Datturi gida, Arisina Kattale, Mullugida Datturi |
 | Malayalam | Kantankattiri, Ponnummattu |
-| Sanskrit | Canaksiri, Haimavathi, Katuparni, Svarnakshiri |
-| Tamil | Cirikalakantam, Cetikkurukku, Kurukkamceti, Ponnummattai |
-| Telugu | Balu rakkisa, Kusumapala, Pichy kusama chettu |
-| Hindi | Bharband, Satayanasi, Shialkanta |
-| English | Prickly Poppy |
+| Sanskrit | Canaksiri, Haimavathi, Katuparni, Svarnakshiri, Brahmadandi, Hemadugdha, Hemashika |
+| Tamil | Cirikalakantam, Cetikkurukku, Kurukkamceti, Ponnummattai, Kuruksham, Brahmatandu |
+| Telugu | Balu rakkisa, Kusumapala, Pichy kusama chettu, Datturichittu, Brahmadandi |
+| Hindi | Bharband, Satayanasi, Shialkanta, Parangi Dattura, Biladattura, Brahmadandi, Bhar Banda |
+| English | Prickly Poppy, Mexican Poppy, Yellow Thistle |
 | Marathi | Kante dhotra, Phirangi dhotra |
 
 ## Properties
@@ -113,4 +113,5 @@ Tropical area, Sub tropical area
 2. [composition](Chemical)(http://gbpihedenvis.nic.in/PDFs/Glossary_Medicinal_Plants_Springer.pdf)
 3. [description](Botonic)(http://keralaplants.in/flowering-plants-kerala-dvd.aspx)
 4. [names](Vernacular)(http://envis.frlht.org/bot_search)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:177
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 177.**
+   1. Grinding the root and applying on wounds and cuts helps heal injuries faster. 2. Consuming about 1 gram of root powder helps treat intestinal parasites and promotes bowel movement. 3. Applying Datturi plant's yellow milk (latex, about 1/2 ml) or its juice (about 5 ml) externally helps treat itchi.

@@ -41,7 +41,7 @@ date: 2021-10-27
 ![*Cassia fistula*](../images/Konnamaram.JPG)
 **Cassia fistula** known as the golden rain tree. It is a flowering plant. The species is native to the Indian subcontinent and adjacent regions of Southeast Asia. It ranges from southern Pakistan eastward throughout India to Myanmar and Thailand and south to Sri Lanka. This tree is belongs to Caesalpiniaceae.
 ## Uses
-Fever, Skin diseases, Rheumatic diseases, Cervical lyrnphadenitis, Cardiac diseases, Worm Infestations, Abdominal pain.
+Fever, Skin diseases, Rheumatic diseases, Cervical lyrnphadenitis, Cardiac diseases, Worm Infestations, Abdominal pain, Urinary disorders, Polyuria, Psoriasis, Syphilis, Ringworm, Eczema, Piles, Cough, Constipation.
 
 ### Food
 Cassia fistula can be used in food. Tender leaves and fl ower buds are cooked as vegetable.
@@ -55,16 +55,16 @@ Pulp of the pod contains anthraquinone glycosides, sennosides A and B, rhein and
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Krathamaala, Vyaadighata, Shampaaka |
+| Sanskrit | Krathamaala, Vyaadighata, Shampaaka, Aragvadha |
 | English | Indian Laburnum, Purging cassia |
 | Gujarati | Garamala, Garamalo |
-| Hindi | Amaltas |
-| Kannada | ಕಕ್ಕೆಮರ Kakkemara, ಕೊಂದೆ Konde |
+| Hindi | Amaltas, Umalbas |
+| Kannada | ಕಕ್ಕೆಮರ Kakkemara, ಕೊಂದೆ Konde, Aragvadha, Aragasa, Aravata, Kokke, Kosge, Kadumara, Rajataru |
 | KS | Kriyangal Phali |
 | Malayalam | Konna, Kritamalam |
 | Marathi | Bahava, Garamala, Amaltas |
 | Punjabi | Amaltas |
-| Tamil | Sarakonrai, Sarak konnai, Sarak kondi, Sharakkonrai |
+| Tamil | Sarakonrai, Sarak konnai, Sarak kondi, Sharakkonrai, Konnai, Kennai, Tirukontrai, Tirukonnai |
 | Telugu | Rela |
 .
 
@@ -139,6 +139,7 @@ Tropical area, Dry deciduous forests.
 2. [details](Cultivation)(https://pfaf.org/user/Plant.aspx?LatinName=Cassia+fistula)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2012/12/26/aragvadha-cassia-fistula-uses-qualities-ayurveda-details/)
 4. [name](Common)(https://sites.google.com/site/indiannamesofplants/via-species/c/cassia-fistula)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:57
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 57.**
+   1. Root paste mixed with a small amount of turmeric and sugar, taken orally for several days, helps treat various urinary disorders and Polyuria. 2. Bark decoction with a little honey taken for several days helps treat Psoriasis and other skin diseases (Charma roga). 3. Raw fruit of Kakke mara made .
 6. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 110
 7. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No. Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

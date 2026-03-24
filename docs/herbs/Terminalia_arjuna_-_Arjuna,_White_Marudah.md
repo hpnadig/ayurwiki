@@ -36,7 +36,7 @@ date: 2020-08-20
 ![* Nirmatti*, *Terminalia arjuna*](../images/800px-Terminalia_arjuna_07a.JPG)
 **Terminalia arjuna** is a tree of the genus Terminalia. The arjuna grows upto 20–25 metres tall. Usually has a buttressed trunk and forms a wide canopy at the crown, from which branches drop downwards. This plant is belongs to Cobretaceae family.
 ## Uses
-Atherosclerosis, Coronary artery disease, Myocardial infarction, Shortness of breath, Angina pectoris, Dyslipidemia, Hyper cholesterol, Hemorrhages, Bone Fractures.
+Atherosclerosis, Coronary artery disease, Myocardial infarction, Shortness of breath, Angina pectoris, Dyslipidemia, Hyper cholesterol, Hemorrhages, Bone Fractures, Ringworm, Skin conditions, Menstrual disorders, Snake bites, Scorpion bites, Mouth diseases.
 
 ## Parts Used
 Bark, Leaves.
@@ -51,13 +51,13 @@ Main chemical constitutes are tannins, triterpenoid saponins (arjunic acid, arju
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Kere matti |
+| Kannada | Kere matti, Arjuna, Karuha, Kudurekivimara, Neermutthi, Bilimutthi, Mutthi |
 | Malayalam | Neer maruthu |
-| Sanskrit | Arjuna |
-| Tamil | Maruda maram |
-| Telugu | Thella maddi |
-| Hindi | Arjuna |
-| English | Arjuna tree |
+| Sanskrit | Arjuna, Kamu |
+| Tamil | Maruda maram, Vellamatti, Marudu, Vellamard |
+| Telugu | Thella maddi, Yarramaddi |
+| Hindi | Arjuna, Kamu |
+| English | Arjuna tree, Arjuna Myrobalan |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -126,7 +126,8 @@ Humid areas, Red lateritic soils, Borders of forests, Fertile lateritic soils.
 
 1. [Constituents](Chemical)(http://www.motherherbs.com/terminalia-arjuna-extract.html)
 2. [description](Plant)(https://www.ayurtimes.com/terminalia-arjuna-arjun-tree/)
-3. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:175
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 175.**
+   1. Consuming half a tola of Toremutthi bark powder twice daily (morning and evening with honey) for 2-3 months helps treat heart-related diseases and complications. 2. Applying leaf juice helps treat ringworm and skin conditions. 3. Bark decoction or powder consumed orally helps treat menstrual diso. Bark powder: 1/2 tola, consumed with honey, twice daily for 2-3 months for heart diseases.
 4. [methods](Cultivation)(http://www.ecoindia.com/flora/trees/arjun-tree.html)
 5. [type required](Soil)(https://www.echarak.in/echarak/templates/Terminalia%20arjuna%20%20Wt.%20and%20Arn..pdf)
 6. [to grow](Season)(https://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/terminalia-arjuna)

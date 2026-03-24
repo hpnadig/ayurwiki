@@ -34,7 +34,7 @@ date: 2020-08-31
 ![*Asphota, Navamallika*](../images/Vallaris_solanacea_(2464292120).jpg)
 **Asphoṭa** consists of the dried root pieces of Vallaris solanacea Kuntze syn. V.heynei Spreng. It is a large woody climbing shrub, occurring wild in subtropical Himalayan forests, up to an altitude of 1500 m and on the Konkan coast and further south, often cultivated in the gardens as an ornamental plant due to its fragrant white flowers. This plant is belongs to Apocynaceae family.
 ## Uses
-Inflammation, Malaria, Diarrhea, Pain relief.
+Inflammation, Malaria, Diarrhea, Pain relief, Venomous bites, Glandular swellings, Dermatological conditions.
 
 ## Parts Used
 Roots, Bark.
@@ -45,11 +45,13 @@ V. solanacea, glycosides of vallaroside, solanoside, vallarosolanoside, 16-deace
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Bugudi balli, Bugudi hambu, Isa mallige |
+| Kannada | Bugudi balli, Bugudi hambu, Isa mallige, Kamarasa |
 | Malayalam | Attukottappala |
-| Sanskrit | Bhadravallī, Asphoṭa |
-| Telugu | Nagamalle, Nityamalle |
-| Hindi | Dudhibel |
+| Sanskrit | Bhadravallī, Asphoṭa, Bhadramunja, Vilalatrik |
+| Tamil | Vatti-pondar-ijarala |
+| Telugu | Nagamalle, Nityamalle, Jokkamalle, Chitta, Giddamalati, Arabimallika |
+| English | Vallaris, Milk Climber |
+| Hindi | Dudhibel, Ram Sar, Chamari-ki-vel |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -107,6 +109,7 @@ Terrestrial, Tropical area, Sub-Tropical area, Monsoonal area.
 1. The Ayuredic Pharmacopoeia of India Part-1, Volume-5, Page no-27
 2. [Morphology](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6962)
 3. [Uses](https://www.researchgate.net/publication/259139657_Botany_uses_phytochemistry_)
-4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:257
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 257.**
+   1. The plant's root decoction is given to those bitten by venomous creatures as an antidote. 2. Extracting the milky sap from the plant's creeper bark, squeezing the juice, and applying it on swollen glands helps reduce the swelling. 3. The white latex from the plant, when exposed to heat, helps rem. Root decoction for venomous bites; milky sap applied externally for glandular swellings and skin conditions.
 5. [Cultivation]
 6. [names](Common)(http://www.flowersofindia.net/catalog/slides/Bread%20Flower.html)

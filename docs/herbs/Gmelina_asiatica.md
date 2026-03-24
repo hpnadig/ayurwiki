@@ -37,7 +37,7 @@ date: 2020-08-07
 ![](../images/Gmelina_asiatica_111.JPG)
 **Gmelina asiatica** is a deciduous, usually spiny, straggling or scrambling, much-branched shrub or small tree that can grow up to 8 metres tall. The plant is harvested from the wild for local use as a medicine. It is widely cultivated as an ornamental.
 ## Uses
-Rheumatism, Incontinence, Gonorrhoea, Syphilis, Infections of the Bladder, Rheumatism, Nervous diseases, Eczema, Dropsy.
+Rheumatism, Incontinence, Gonorrhoea, Syphilis, Infections of the Bladder, Rheumatism, Nervous diseases, Eczema, Dropsy, Urinary problems.
 
 ## Parts Used
 Flowers, Leaves.
@@ -47,12 +47,12 @@ Flowers, Leaves.
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Kaasamaari |
+| Sanskrit | Kaasamaari, Govabhadra |
 | English | The asiatic melin |
 | Hindi | Odhaara |
-| Kannada | Kirushivani, Kalshivani |
+| Kannada | Kirushivani, Kalshivani, Gulma, Shivane |
 | Tamil | Nilakumila |
-| Telugu | Kavvagummudu |
+| Telugu | Kavvagummudu, Gammudu, Chirunelli, Jilgumudu |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -100,6 +100,7 @@ Forest edges, Thickets, Dry forest, Secondary vegetation.
 
 1. [Chemistry]
 2. [Morphology]
-3. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:89
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 89.**
+   1. Consuming the buds and leaves helps treat gonorrhea and urinary problems. 2. A decoction of bark or its powder helps reduce rheumatic (vata) conditions and purifies blood. 3. Grinding the leaves and applying on the body helps eliminate body odor. 4. Consuming the bark decoction acts as a virilize. Bark decoction or leaf decoction taken orally; leaf paste applied externally for body odor.
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Gmelina+asiatica)
 5. Indian Medicinal Plants by C.P.Khare

@@ -48,6 +48,7 @@ The preliminary phytochemical screening of Anthocephalus cadamba whole plant sho
 ## Common names
 | Language | Names |
 | --- | --- |
+| Kannada | ಕಮರಾಣಿ ಹಣ್ಣು, ದಾರೆಹುಳಿ, ಕಮರಾಣ್ ಮರ, ಕಮಾರಿಕಾಯಿ, ಕೋಮರಿಕೆ |
 | Sanskrit | Kadamba, Vrattapuspa, Sisupala |
 | Hindi | Kadam, Kadamb |
 | KA | Apathyada mara, Arisina thaega, Dhaaruja kaare, Kadambole |
@@ -124,6 +125,7 @@ Tropical area, Subtropical area.
 2. [Morphology](https://indiabiodiversity.org/species/show/32002)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2016/10/03/kadamba-neolamarckia-cadamba-benefits-remedies-research-side-effects/)
 4. [Cultivation](http://vikaspedia.in/agriculture/forestry/tree-crops/neolamarckia-cadamba)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:69
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 63.**
+   1. Bark decoction consumed helps reduce fever due to its antipyretic properties. 2. Bark juice and extract consumed with adjuvants helps treat eye conditions. 3. Eating the fruits helps treat fever associated with wasting. 4. Kadavala bark juice mixed with salt and sugar consumed helps cure stomach and digestive ailments. 5. Kadavala fruit mixed with churna and honey benefits reproductive health. 6. Kadavala bark churna consumed with wheat as adjuvant helps treat vata-related diseases.
 6. [required](Climate)(https://pdfs.semanticscholar.org/a7a1/8ccc08e97178830d33b1bf65b966e728e152.pdf)
 7. [type required](Soil)(https://vikaspedia.in/agriculture/forestry/tree-crops/neolamarckia-cadamba#:~:text=NAA%20500%20ppm.-,Plantation%20management,spacing%20during%20the%20monsoon%20season.)

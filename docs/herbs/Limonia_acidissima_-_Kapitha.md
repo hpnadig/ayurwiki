@@ -35,7 +35,7 @@ date: 2021-11-12
 ![*Kapitha*, *Limonia acidissima*](../images/Limonia_acidissima_(6941726106).jpg)
 **Limonia acidissima** is the only species within the monotypic genus Limonia. It is native to the Indomalaya ecozone to Bangladesh, India, Pakistan, Sri Lanka, and in Indochinese ecoregion east to Java and the Malesia ecoregion.
 ## Uses
-Indigestion, Earache, Scurvy, Diabetes, Kidney problems, Liver problems, Snakebites, Malaria, Sore throats.
+Indigestion, Earache, Scurvy, Diabetes, Kidney problems, Liver problems, Snakebites, Malaria, Sore throats, Bleeding disorders, Hiccups, Skin diseases, Leucoderma, Blood pressure, Pimples, Nausea, Night blindness, Headache, Mouth ulcers, Diarrhea, Acidity, Cough.
 
 ### Food
 Limonia acidissima can be used in Food. Pulp of ripe fruits is eaten raw and used in preparation of soft drink and jam.
@@ -49,13 +49,13 @@ Fruit pulp contains large quantity of citric acid and other fruit acids, mucilag
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Dadhiphala, Nayibel |
+| Kannada | Dadhiphala, Nayibel, Kapitta, Grap, Daratakara, Pushpaphala, Balolakayi, Belavala |
 | Malayalam | Vilankai, Vilarmaram |
-| Sanskrit | Dadhittha, Danthashatha |
-| Tamil | Vila, Vilampazam |
-| Telugu | Kapitthhamu |
-| Hindi | Pushpaphal, Katabel |
-| English | Wood apple, Monkey fruit |
+| Sanskrit | Dadhittha, Danthashatha, Kapittha, Dadhitva, Dadhiphala |
+| Tamil | Vila, Vilampazam, Vilamaram, Vilanga |
+| Telugu | Kapitthhamu, Velaga, Kapitramu |
+| Hindi | Pushpaphal, Katabel, Bulan, Kaith, Kavith |
+| English | Wood apple, Monkey fruit, Elephant Apple |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -120,5 +120,6 @@ Dry plains, Himalayas.
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 262
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2017/12/28/wood-apple-kaitha-feronia-limonia-limonia-acidissima/)
 4. [Details](Cultivation)(https://hort.purdue.edu/newcrop/morton/wood-apple.html)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:263
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 263.**
+   1. Belada fruit rind (along with Tangi Beru/Cassia occidentalis) and other herbs made into a decoction, consumed with water-based preparations, helps pacify excessive heat-related disorders. 2. The bark juice (1-2 tola) mixed with a little water, honey, and sugar, consumed twice daily for 3-5 days, .
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.105, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

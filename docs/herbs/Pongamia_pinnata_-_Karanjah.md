@@ -38,7 +38,7 @@ date: 2021-05-14
 ![*Karanjah*](../images/Pongamia_pinnata_(Karanj)_near_Hyderabad_W_IMG_7634.jpg)
 **Pongamia pinnata** is a genus of legume in the fabaceae family. Recently it has been proposed that the genus Pongamia be rejected in favor of the genus Millettia and many species have been reclassified. Due to recent interest in biofuels, Pongamia is often the generic name given for Millettia pinnata, a tree being explored for producing biodiesel.
 ## Uses
-Dyspepsia, Skin diseases, Rheumatic joints, Scabies, Bronchitis, Whooping cough, Febrifuge, Bleeding haemorrhoids
+Dyspepsia, Skin diseases, Rheumatic joints, Scabies, Bronchitis, Whooping cough, Febrifuge, Bleeding haemorrhoids, Ringworm, Fungal infections, Eczema, Dermatitis, Boils, Chronic ulcers, Teething pain, Cracked skin
 
 ## Parts Used
 Dried foliage, Whole herb.
@@ -49,17 +49,17 @@ The metabolities, beta-sitosteryl acetate and galactoside, stigma sterol, its ga
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Karanjaka, Natkamala |
-| English | Smooth leaved pongamia |
+| Sanskrit | Karanjaka, Natkamala, Snigdhavatra, Kalassanda, Tamala, Tamrikshi |
+| English | Smooth leaved pongamia, Indian Beach, Pungayil tree |
 | Gujarati | Kanajo, Karanji |
-| Hindi | Dithouri, Karuaini |
-| Kannada | ಹೊಂಗೆ ಮರ Honge mara, ಹುಲಿಗಿಲಿ ಮರ Huligili mara, ಕರಂಜ Karanja |
+| Hindi | Dithouri, Karuaini, Kanj, Karanj |
+| Kannada | ಹೊಂಗೆ ಮರ Honge mara, ಹುಲಿಗಿಲಿ ಮರ Huligili mara, ಕರಂಜ Karanja, Kanaga, Korinta, Batta |
 | KS | Kath |
 | Malayalam | Avittal, Ungu, Unu, Pungu |
 | Marathi | Karanja |
 | Punjabi | Karanj |
-| Tamil | Pungan, Pongana |
-| Telugu | Lamiga, Kanuga |
+| Tamil | Pungan, Pongana, Prange, Ponga |
+| Telugu | Lamiga, Kanuga, Kanugalu |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -123,4 +123,5 @@ River banks, Coastal areas.
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 316
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/p/pongamia-pinnata)
 4. [Details](Cultivation)(https://www.hort.purdue.edu/newcrop/duke_energy/Pongamia_pinnata.html)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:357
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 357.**
+   1. Honge seed oil applied on skin eruptions, rashes, and chronic skin diseases helps cure them. Mixing it with lemon juice and applying helps treat ringworm and fungal infections. 2. Honge bark ground into fine powder, mixed with water, applied on affected areas helps treat various skin ailments. 3. Honge seed oil mixed with lemon juice for ringworm. Combined bark decoction (100g each of multiple barks) with 50g turmeric, cumin, cloves and salt for chronic skin diseases.

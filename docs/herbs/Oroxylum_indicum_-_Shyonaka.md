@@ -39,7 +39,7 @@ date: 2021-11-15
 ![*Oroxylum indicum*, *Shyonaka*](../images/Oroxylum_indicum_W3_IMG_3170.jpg)
 **Shyonaka** is a species of flowering plant belonging to the family Bignoniaceae. It is a tree which can reach a height of 12 metres.
 ## Uses
-Wounds, Cuts, Snakebites, Curing liver disorders, Skin eruptions, Blotches, Pimples, Diarrhea, Sore throats.
+Wounds, Cuts, Snakebites, Curing liver disorders, Skin eruptions, Blotches, Pimples, Diarrhea, Sore throats, Arthritis, Blood disorders, Stomach cramps, Boils, Skin infections, Gas and bloating.
 
 ### Food
 Oroxylum indicum can be used in Food. Flowers are cooked as vegetable. Unripe fruits are pickled.
@@ -53,12 +53,12 @@ Baicalein, oroxylin and pinostrobin along with one sterol, Stigmast.
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Tattuna |
+| Kannada | Tattuna, Aralu, Basavandi, Tettu, Mandookapadi, Tatagalu, Bahubata, Donne, Sonepatte, Made |
 | Malayalam | Palaqapayyani |
-| Sanskrit | Aralu, Shyonaka |
-| Tamil | Cori-konnai |
-| Telugu | Pampena |
-| Hindi | Bhut-vriksha |
+| Sanskrit | Aralu, Shyonaka, Sonyapati, Somapaka |
+| Tamil | Cori-konnai, Patasanna, Selannai |
+| Telugu | Pampena, Mandookapannaga, Dandapati |
+| Hindi | Bhut-vriksha, Arlu, Sonnapata, Phalsa |
 | English | Broken Bones Tree, Indian Trumpet Flower |
 
 ## Properties
@@ -129,5 +129,6 @@ Tropical area, Borders of forests and fields.
 2. [Morphology](https://indiabiodiversity.org/species/show/16688)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2014/07/22/sona-patha-oroxylum-indicum-benefits-side-effects-research/)
 4. [details](Cultivation)(http://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/oroxylum-indicum)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:161
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 161.**
+   1. The bark of Tigadu tree, combined with Parijata and Trishala, is boiled and the decoction consumed to act as a remedy for snake poisoning and toxic bites. 2. Root bark decoction, taken daily for 15 days (about three pieces of root bark boiled in one portion of water, reduced to one-third), helps . Root bark decoction: Boil 3 pieces in water, reduce to one-third, consume daily for 15 days.
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.121, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

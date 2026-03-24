@@ -48,12 +48,12 @@ The stem contains cyclopeptide alkaloids. The plant contains coclaurine, magnofl
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Aadama balli, Adambuballi, Daagadiballi, Kaage maari, Sugadi balli |
+| Kannada | Aadama balli, Adambuballi, Daagadiballi, Kaage maari, Sugadi balli, Edaniballi, Dusaroballa, Singadiballa |
 | Malayalam | Pathalagarudakkodi |
-| Sanskrit | Garudi, Chilahinta, Vatsadani, Vikranta |
-| Tamil | Anantavalli, Calakattu, Kattukkodi, Nirppantikkoti, Uppaittiricci |
-| Telugu | Cheepurutheega, Chipurutige, Doosaratheege |
-| Hindi | Bajar bel, Jamti-ki-bel, Patal garudi |
+| Sanskrit | Garudi, Chilahinta, Vatsadani, Vikranta, Bilenda, Patalagarudi, Mahamoola, Dirghasinda |
+| Tamil | Anantavalli, Calakattu, Kattukkodi, Nirppantikkoti, Uppaittiricci, Hattukoddi |
+| Telugu | Cheepurutheega, Chipurutige, Doosaratheege, Dusatage |
+| Hindi | Bajar bel, Jamti-ki-bel, Patal garudi, Jamli-ki-jal, Pharid butti, Charot |
 .
 
 ## Properties
@@ -122,5 +122,6 @@ Tropical area
 2. [composition](Chemical)(http://gbpihedenvis.nic.in/PDFs/Glossary_Medicinal_Plants_Springer.pdf)
 3. [OF KERALA VER.2, N. Sasidharan BOTANIC DESCRIPTION](PLANTS)(http://FLOWERING)
 4. [names](Vernacular)(http://envis.frlht.org/bot_search)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:181
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 181.**
+   1. Consuming the root powder helps act as a surgical tonic. 2. Consuming the root powder helps treat snake bites. 3. Consuming root decoction mixed with black pepper and milk in the morning daily helps treat rheumatic and chronic joint diseases. 4. Leaf and root decoction consumed helps treat joint-. Root decoction with black pepper and milk daily. Dagadi powder: 3 parts, with triphaladi powder 1 part and ginger powder 1 part, ground in water and consumed for 3 days for veterinary conditions.
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.58, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

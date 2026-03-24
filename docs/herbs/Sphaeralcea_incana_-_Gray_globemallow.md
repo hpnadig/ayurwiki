@@ -29,7 +29,7 @@ date: 2020-08-12
 
 **Gray globemallow** with the common names Sphaeralcea incana and soft globemallow. It is a desert plant in the mallow family Malvaceae.
 ## Uses
-Urinary tract, Upper intestinal tract, Cough, Common colds, Flu, Wounds, Pimples, Diarrhea, Sore throats
+Urinary tract, Upper intestinal tract, Cough, Common colds, Flu, Wounds, Pimples, Diarrhea, Sore throats, Blood disorders, Piles, Stomach ache, Bloating, Gas, Hair growth, Tonsil disorders, Inflammation, Jaundice, Anemia, Skin diseases, Ulcers, Headache, Blood purification
 
 ## Parts Used
 Dried folaige, Whole herb.
@@ -40,7 +40,12 @@ Contains volatile oils, flavonoids, apigenin, luteolin, quercetin, kaempferol, t
 ## Common names
 | Language | Names |
 | --- | --- |
-| English | Gray globemallow |
+| Kannada | ಕರಂಡ, ಬೋದುಕಡಲೆ, ಮುಂಡಿಕಪ |
+| Sanskrit | Mundarika, Mundi, Billugaparivyat |
+| Hindi | Mundi, Gorak Mundi |
+| Tamil | Kottakkarandye, Vishnukarandye |
+| Telugu | Bodasavamu, Bodasoram, Bodataravpa Chettu |
+| English | Gray globemallow, Indian Speeranthas, East-Indian-Globe-Thistle |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -96,4 +101,5 @@ Tall grasslands, Meadows, Borders of forests and fields.
 
 1. [description](Plant)(https://extension.usu.edu/rangeplants/forbsherbaceous/gooseberryleaf-globemallow)
 2. [details](Cultivation)(http://temperate.theferns.info/plant/Sphaeralcea+incana)
-3. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:299
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 299.**
+   1. Root decoction mixed with buttermilk consumed helps cure blood-related disorders and piles. 2. Root bark ground in water, filtered (keeping 1/2 portion), and mixed with liquid extract, consumed twice daily for 41 days improves skin complexion and prevents various skin ailments. 3. Root bark groun. Root bark extract: 2 drops (10 ml) twice daily for 41 days. Root paste about 20 grams daily for skin diseases. 2-5 days treatment for stomach ache.

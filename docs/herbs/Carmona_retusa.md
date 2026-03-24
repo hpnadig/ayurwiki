@@ -25,7 +25,7 @@ date: 2020-08-06
 ![*Carmona retusa*](../images/Starr-010425-0048-Carmona_retusa-flower_and_fruit-Haiku-Maui_(23904296114).jpg)
 **Carmona retusa** is an evergreen shrub or much-branched small tree. It can grows up to 4 metres tall. The plant ranks among the top 10 of medicinal plants with potential in the Philippines, and thus a small-scale industry has developed around it. It is sometimes grown, especially in the Philippines, for the leaves which are used as a tea substitute and for medicinal purposes. It is also often grown as an ornamental and hedge plant and is a popular subject for bonsai. This plant belongs to Ehretia mcrophylla family.
 ## Uses
-Stomach problems, Dysentery, Coughs.
+Stomach problems, Dysentery, Coughs, Skin redness, Poisoning.
 
 ## Parts Used
 Fruits.
@@ -37,11 +37,11 @@ The leaves contain rosmarinic acid, flavonoid glycosides and triterpenoids.
 ## Common names
 | Language | Names |
 | --- | --- |
-| English | Cilon boxwood |
+| English | Cilon boxwood, Ceylon Boxwood |
 | Hindi | Phala |
-| Kannada | Ele-adike soppu, Ennebuddi gida |
-| Tamil | Kuruvingi |
-| Telugu | Bappanaburi, Baranki |
+| Kannada | Ele-adike soppu, Ennebuddi gida, Eskebuddigida, Kuruvingi, Buthe, Midigundige |
+| Tamil | Kuruvingi, Kattupatrilli |
+| Telugu | Bappanaburi, Baranki, Buri, Tichakkaburi |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -91,5 +91,6 @@ On sandy soils, On scrub forests.
 
 1. [constituents](Chemical)(http://www.sphinxsai.com/2017/ch_vol10_no6/2/(565-574)V10N6CT.pdf)
 2. [Morphology]
-3. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:45
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 45.**
+   1. Consuming the root helps improve body functions and is used to treat conditions where the body's normal processes are disrupted; also helps manage post-poisoning effects. 2. Leaf juice is used for treating red spots on the skin; applied along with lemon juice from the outside (for conditions caus. Root consumed for systemic conditions. Leaf juice applied with lemon juice externally for skin redness.
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Carmona+retusa)

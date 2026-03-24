@@ -30,7 +30,7 @@ date: 2020-10-07
 ![](../images/Clerodendrum_inerme.jpg)
 This plant is belings to Verbenaceae family.
 ## Uses
-Eye infection, Fever, Headache, Skin rashes.
+Eye infection, Fever, Headache, Skin rashes, Skin diseases, Venomous bites, Sexually transmitted diseases, Nosebleeds, Diabetes.
 
 ## Parts Used
 , stem.
@@ -43,14 +43,14 @@ sterols, steroids, carbohydrates, fixed oils, volatile oils and lignin.
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Kundali |
-| English | Glory Bower, Indian privet |
-| Hindi | Chhotiari |
-| Kannada | ನಾಯಿತೆಕ್ಕಿಲೆ Naitekkile, Itteru, ಕುಂಡಲಿ ಗಿಡ |
+| Sanskrit | Kundali, Krishnagrimantha |
+| English | Glory Bower, Indian privet, Garden Quinine |
+| Hindi | Chhotiari, Ban jom, Sangan kutti, Joti-arni |
+| Kannada | ನಾಯಿತೆಕ್ಕಿಲೆ Naitekkile, Itteru, ಕುಂಡಲಿ ಗಿಡ, Kiritakku, Nayitekshalle, Bhataraja, Vanajayi |
 | Malayalam | Nirnochi |
 | Marathi | Sangam |
-| Tamil | Sangam |
-| Telugu | Erup-pichha |
+| Tamil | Sangam, Veenasagam-kesina |
+| Telugu | Erup-pichha, Eshinika, Utitettu, Virup-pitta |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -97,4 +97,5 @@ A straggling branched shrub
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
 5. [names](Local)(http://www.flowersofindia.net/catalog/slides/Glory%20Bower.html)
-6. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:323
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 323.**
+   1. Roots are cut, fried in sesame oil, and the oil from the heated plant used externally to reduce swelling and cure skin diseases. 2. Roots ground and applied on bites or stings from poisonous creatures help neutralize venom. 3. Leaves are heated in water, and after cooling, the water is used for b. 3-4 fresh leaves daily for diabetes. Root oil preparation for external application on swellings. Leaf decoction with sugar for reproductive disorders.

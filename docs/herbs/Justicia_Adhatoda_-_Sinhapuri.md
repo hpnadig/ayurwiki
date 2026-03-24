@@ -120,3 +120,5 @@ Lower himalayas, Tropical areas, Moisture areas, Dry soils
 1. [comoposition of vasaka](Chemical)(http://www.gyanunlimited.com/health/vasaka-malabar-nut-medicinal-uses-benefits-and-side-effects/11317/)
 2. [description](Plant)(https://www.bimbima.com/ayurveda/vasa-malabar-nut-benefits-medicinal-uses-and-side-effects/915/)
 3. [Cultivation](http://onfarming.com/articles/7188-cultivation-of-malabar-nut-herb-and-its-uses)
+4. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 72.**
+   Known in Northeast Indian tribal medicine for bronchodilator and expectorant properties. Used to treat respiratory ailments including asthma, bronchitis, cough, and other respiratory disorders.

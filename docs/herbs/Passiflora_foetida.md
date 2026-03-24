@@ -30,7 +30,7 @@ date: 2021-05-12
 ![**Passiflora foetida**](../images/Passiflora_caerulea_NBG_LR.jpg)
 **Passiflora foetida** is a species of passion flower out of 550 species of Passiflora. It is native to the southwestern United States, Mexico, the Caribbean, Central America, Africa and much of South America. This plant is belongs to Passifloraceae family.
 ## Uses
-Emmenagogue, Headache, Intestinal nematodes, Flatworms, Cold, Cough, Tuberculosis.
+Emmenagogue, Headache, Intestinal nematodes, Flatworms, Cold, Cough, Tuberculosis, Hysteria, Epilepsy, Hair fall, Constipation.
 
 ## Parts Used
 Fruits, Leaves.
@@ -41,9 +41,10 @@ Phytochemicals such as carbohydrates, protein, fat, reducing sugar, ascorbic aci
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Kukkiballi |
+| Kannada | Kukkiballi, Kadukukke, Kallukukkeballi, Gadiyarada balli |
 | Malayalam | Chirranchantiya, Poochapalam |
-| Tamil | Siruppunaikkali, Chiru punai-k-kali |
+| Sanskrit | Mukkennora |
+| Tamil | Siruppunaikkali, Chiru punai-k-kali, Mupparisavalla, Sirupannekkalli |
 | Telugu | Tellajumiki |
 | Hindi | Jhumka lata |
 | English | Love-in-a-mist, Stinking passionflower |
@@ -99,4 +100,5 @@ Lowland forest.
 1. [composition](Chemical)(https://pdfs.semanticscholar.org/8d48/15993b6fdacac588c03c46718eace9ee9bde.pdf)
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 294
 3. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Passiflora+foetida)
-4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:93
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 93.**
+   1. Drinking a decoction of the creeper helps cure hysteria and epileptic conditions. 2. Grinding the leaves and applying as a poultice on the head helps relieve headaches and also reduces hair fall. 3. Consuming the fruits helps act as a laxative similar to other remedies. Creeper decoction taken internally; leaf paste applied to the scalp.

@@ -133,6 +133,7 @@ Lowland rainforest, Riverine forest, Dry forests
 2. [Morphology]
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/a/alangium-salviifolium-subsp-hexapetalum)
 4. [details](Cultivation)(http://agritech.tnau.ac.in/forestry/forestry_nursery_alangium_salvifolium.html)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:45
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 47.**
+   1. Root mixed with sesame oil or hemp oil and applied to the gums with honey helps stop diarrhea. 2. Root decoction or paste applied on a dog bite helps neutralize the venom. 3. An oil preparation from the bark is used for treating various skin conditions and external infections. 4. Root bark decoction (5-10 gunje) consumed helps reduce fever. 5. Ankole seed churna consumed helps build physical strength and vitality. 6. Ankole seed churna mixed with honey helps treat snake poison.
 6. Kappathagudda Medicinal plants of Gadag book, Page no:50
 7. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.19, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

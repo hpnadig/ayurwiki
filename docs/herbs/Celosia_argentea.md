@@ -37,7 +37,7 @@ date: 2021-10-27
 ![](../images/Celosia_argentea0.jpg)
 **Common cockscomb** is an erect, usually much-branched, annual plant. It grows upto 40 - 200cm tall. This species is one of the most promising leaf crops for cultivation in poor or variable growing conditions. It is sometimes cultivated in western tropical Africa, and a few other areas of the tropics, for its edible leaves. It's family is Amaranthaceae.
 ## Uses
-Diarrhoea, Bloodshot eyes, Blurring of vision, Cataracts, Hypertension, Diabetes, Snakebites, Colic, Gonorrhoea, Eczema.
+Diarrhoea, Bloodshot eyes, Blurring of vision, Cataracts, Hypertension, Diabetes, Snakebites, Colic, Gonorrhoea, Eczema, Liver disorders, Urinary tract diseases, Nervous disorders.
 
 ### Food
 Celosia argentea can be used in food. Young leaves are cooked as vegetable and seeds are used in lapshi - a sweet preparation.
@@ -50,13 +50,13 @@ Leaves, Young shoots, Seeds.
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Mayurasikha |
+| Sanskrit | Mayurasikha, Vituna |
 | English | Silver Cockscomb, White Cockscomb |
-| Hindi | Gadrya, Garke |
-| Kannada | Anne soppu, Hanne soppu |
+| Hindi | Gadrya, Garke, Safed Murgha, Sarvari |
+| Kannada | Anne soppu, Hanne soppu, Annesoppu, Khadakatira, Hallesoppu |
 | Marathi | Kurdu |
-| Tamil | Makili-k-kirai |
-| Telugu | Gurugu |
+| Tamil | Makili-k-kirai, Pannai |
+| Telugu | Gurugu, Gulug kur, Panchikittu |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -110,6 +110,7 @@ Open moist places, Open areas and weed of crop fields.
 
 1. [Chemistry]
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 120
-3. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:11
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 11.**
+   1. Drinking the decoction of Annesoppu root helps treat cannabis-induced intoxication and related nervous disorders. 2. Consuming leaf juice or decoction with bitter gourd helps treat liver disorders (Liver) and urinary tract diseases. 3. Drinking water in which the seeds have been soaked helps stop. Root decoction taken orally for intoxication. Seeds soaked in water for diarrhea. Seed paste applied externally for eye conditions.
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Celosia+argentea)
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.44, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

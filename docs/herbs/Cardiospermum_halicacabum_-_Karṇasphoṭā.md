@@ -40,7 +40,7 @@ date: 2021-04-08
 
 **Karṇasphoṭā** consists of the root of Cardiospermum halicacabum. It is native to India, ascending upto 1200m in the North Western Himalayas. This plant is belongs to Sapindaceae family.
 ## Uses
-Rheumatism, Nervous diseases, Stiffness of the limbs, Snakebite, Itchy skin, Swellings, Earache.
+Rheumatism, Nervous diseases, Stiffness of the limbs, Snakebite, Itchy skin, Swellings, Earache, Chronic cough, Blood disorders, Bleeding piles, Gonorrhea, Joint pain, Piles, Anal fissures, Syphilis, Eye inflammation, Urticaria.
 
 ## Parts Used
 Leaves.
@@ -51,13 +51,13 @@ The leaves contain beta-sitosterol and its D-glucoside, an alkaloid, oxalic acid
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Kanakayya  ಕನಕಾಯ, Agniballi ಅಗ್ನಿಬಳ್ಳಿ |
+| Kannada | Kanakayya  ಕನಕಾಯ, Agniballi ಅಗ್ನಿಬಳ್ಳಿ, Aruvanasu, Urunduburu, Batakihambu, Battikayiballi, Minchuballi |
 | Malayalam | Ulinna, Karuttakunni |
-| Sanskrit | Karnasphota, Sphutavalkali |
-| Tamil | Modikkottan, Mudakkarutana(Siddha), Mudukkottan |
+| Sanskrit | Karnasphota, Sphutavalkali, Karpu, Kakatikka, Jyotishatti, Paravatapadi |
+| Tamil | Modikkottan, Mudakkarutana(Siddha), Mudukkottan, Nalagurisponda, Valudisa |
 | Telugu | Vekkudutiga, Jyotishmati |
-| Hindi | Kaanphuti, Lataaphataki |
-| English | Ballon Vine, Heart's Pea |
+| Hindi | Kaanphuti, Lataaphataki, Kan phut |
+| English | Ballon Vine, Heart's Pea, Winter Cherry |
 | Marathi | Kanphuti, Kapal phodi |
 
 ## Properties
@@ -125,4 +125,5 @@ Moist deciduous forests, Scrub jungles, Forest margins, Shrublands, Grasslands, 
 3. [name](Common)(https://sites.google.com/site/indiannamesofplants/via-species/c/cardiospermum-halicacabum-l)
 4. [details](Cultivation)(https://pfaf.org/user/Plant.aspx?LatinName=Cardiospermum+halicacabum)
 5. [preparations](Ayurvedic)(https://easyayurveda.com/2017/12/28/balloon-vine-cardiospermum-halicacabum-karnasphota/)
-6. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:259
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 259.**
+   1. The root decoction of the plant is given to those with chronic cough for relief. 2. Root and leaf decoction when consumed helps cure blood disorders (Raktamoolavyadhi), bleeding piles (Pradara), gonorrhea-like conditions (Gonasthambhya). The decoction is also applied on wounds to prevent infectio. Root decoction for cough and snake bites; leaf poultice for joint pain; leaf juice as rectal instillation for piles.

@@ -35,7 +35,7 @@ date: 2021-03-25
 ![](../images/ThoraThora4.jpg)
 **Calotropis procera** tree is a large. It grows upto 4 metres tall. The plant can sometimes produce a single bole that is free of branches for up to the first 2.5 metres.
 ## Uses
-Boils, Infected wounds, Skin problems, Asthma, Earache, Stomachache, Arthritis.
+Boils, Infected wounds, Skin problems, Asthma, Earache, Stomachache, Arthritis, Scorpion stings, Snake bites, Warts, Elephantiasis, Dropsy, Leprosy, Chronic fevers, Ringworm, Paralysis, Liver enlargement, Spleen disorders, Indigestion, Bloating, Rheumatism.
 
 ## Parts Used
 Leaves.
@@ -47,14 +47,14 @@ reported for the first time in literature consist of nine identified compounds i
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Adityapushpika |
-| English | Rubber Bush, Apple of sodom |
-| Hindi | Aak, Mudar |
-| Kannada | Bili ekkada gida |
+| Sanskrit | Adityapushpika, Arka, Pretarka |
+| English | Rubber Bush, Apple of sodom, Swallow-wort |
+| Hindi | Aak, Mudar, Akkad, Madar, Safed Aak |
+| Kannada | Bili ekkada gida, Arka, Ekka, Devara Ekka |
 | Malayalam | Erikku |
 | Marathi | Mandara |
-| Tamil | Vellai erukkan |
-| Telugu | Erra jilledu |
+| Tamil | Vellai erukkan, Vellerku |
+| Telugu | Erra jilledu, Jilledu |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -110,4 +110,5 @@ Along degraded roadsides, Lagoon edges, Overgrazed native pastures, Sandy soils.
 1. [constituents](Chemical)(https://www.imedpub.com/articles/chemical-compositions-of-leaf-and-stem-essential-oils-of-calotropisprocera-ait-rbr-asclepiadaceae.pdf)
 2. Kappatagudda - A Repertoire of Medicinal Plants of Gadag pdf, Page no - 92
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Calotropis+procera)
-4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:245
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 245.**
+   1. The milky latex from the plant applied to scorpion stings and venomous bites neutralizes the venom. People in the area apply the leaf on the bitten area. 2. The root bark powder (about 2 grains) mixed with black pepper is given for snake bites; it induces vomiting and helps expel the venom. 3. Ap.

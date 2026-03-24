@@ -26,7 +26,7 @@ date: 2020-08-28
 ![](../images/Tylophora_dalzellii_(4745807521).jpg)
 **Tylophora fasciculata** is a small, slender, much-branched undershrub or twining pubescent herb producing stems 30 - 90cm tall. The rhizome is 25 - 50mm in diameter. The plant is sometimes gathered from the wild for local use as a medicine and rat poison. It belongs to the Asclepiadaceae family.
 ## Uses
-Fever, Ulcers, Wounds.
+Fever, Ulcers, Wounds, Wheezing, Asthma, Blood disorders, Sinusitis, Whooping cough.
 
 ## Parts Used
 Leaves, Roots.
@@ -37,12 +37,12 @@ Tylophora indica contains 0.2%–0.3% alkaloids but the alkaloid content (w/w) i
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Anantamula |
+| Sanskrit | Anantamula, Antrapachaka |
 | English | Countryipikakyun |
-| Hindi | Anantamul |
-| Kannada | Adumuttada balli |
-| Tamil | Pyapaalai |
-| Telugu | Kaakapaala |
+| Hindi | Anantamul, Antamul, Janglipikvaan |
+| Kannada | Adumuttada balli, Antamula, Adumutrada, Kirumanji |
+| Tamil | Pyapaalai, Paishtalli, Nachihorrappan, Nay Pallai |
+| Telugu | Kaakapaala, Kukapala, Mettipala, Verighala |
 .
 
 ## Properties
@@ -91,6 +91,7 @@ Thickets, Hills among grass.
 
 1. [constituents](Chemical)
 2. [Morphology]
-3. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:29
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 29.**
+   1. Consuming leaves and root helps treat wheezing, asthma, and blood-related disorders. (Note: This plant should not be used for inducing vomiting; it is suitable only for respiratory diseases.) 2. Adumuttada Balli root (1/4 liter), turmeric (20 grams), and coconut oil (1/4 liter) boiled together, s.
 4. [Cultivation](https://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/tylophora-indica)
 5. Indian Medicinal Plants by C.P.Khare

@@ -106,4 +106,5 @@ Tall grasslands, Borders of forests and fields.
 1. [Constituents](Chemical)(http://www.mpbd.info/plants/tragia-involucrata.php)
 2. [Morphology](https://indiabiodiversity.org/species/show/231373)
 3. [Cultivation]
-4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:63
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 63.**
+   1. Bark decoction consumed helps reduce fever due to its antipyretic properties. 2. Bark juice and extract in equal quantities consumed together with relevant adjuvants helps treat eye conditions; consuming in appropriate quantities with salt helps with certain conditions. 3. Eating the fruits produ.

@@ -121,3 +121,5 @@ Village groves, Roadsides, Waste places.
 1. [Constituents](Chemical)(https://www.ncbi.nlm.nih.gov/pubmed/21626787)
 2. [description](Botanical)(http://keralaplants.in/)
 3. [Cultivation](http://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/andrographis-paniculata)
+4. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, pp. 71-72.**
+   Used in Northeast Indian tribal medicine for its strong anti-inflammatory, antiviral, and antibacterial properties. Employed to treat infections, boost the immune system, and improve liver function.

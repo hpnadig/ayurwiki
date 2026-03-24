@@ -37,7 +37,7 @@ date: 2020-09-11
 ![*Trikantajata*, *Azima tetracantha*](../images/Azima_tetracantha_01_ies.jpg)
 **Trikantajata**  is a much-branched, spiny, evergreen shrub growing from 0.5 - 3 metres tall. Usually erect with arching branches, the plant sometimes adopts a more climbing habit. The spines are axillary, in pairs up to 4cm long. The plant is harvested from the wild mainly for local use as a medicine. This herb is belongs to Salvadoraceae family.
 ## Uses
-Brochitis, Cough, Asthma, Diabetes, Diarrhea, Arthritis, Rat bits, Bleeding, Dysentry.
+Brochitis, Cough, Asthma, Diabetes, Diarrhea, Arthritis, Rat bits, Bleeding, Dysentry, Stomach ache, Intestinal colic, Boils, Skin diseases, Constipation.
 
 ## Parts Used
 Whole plant
@@ -48,12 +48,12 @@ The leaves contain the alkaloids azimine, azcarpine and carpine.
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Bilee uppina gida, Ganjimullu, Yagachi mullu |
+| Kannada | Bilee uppina gida, Ganjimullu, Yagachi mullu, Uppimullu, Esagali, Ajuga, Uppugoli, Egata, Esagali motu, Chelubasupra, Hulla sunde |
 | Malayalam | Sankunkuppi |
 | Sanskrit | Kantangur, Kundali |
-| Tamil | Ancirikacceti, Anji |
-| Telugu | Mundla kampa, Tella uppi |
-| Hindi | Kantagurkamai |
+| Tamil | Ancirikacceti, Anji, Itandi, Chegan chedi, Sunga-chedi, Nallacchongam |
+| Telugu | Mundla kampa, Tella uppi, Uppichiku, Tallibuppi |
+| Hindi | Kantagurkamai, Kandagarkamas, Pantagur Kamar |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -112,4 +112,5 @@ Tropical area.
 2. [description](Botonic)(http://keralaplants.in/flowering-plants-kerala-dvd.aspx)
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [composition](Chemical)(http://gbpihedenvis.nic.in/PDFs/Glossary_Medicinal_Plants_Springer.pdf)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:41
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 41.**
+   1. Root juice or decoction mixed with honey is given to those suffering from stomach ache and intestinal colic. 2. Root ground and mixed with butter and salt water is consumed for treating excess bile and reducing excessive salivation. 3. If poison has been consumed and vomiting is needed, root is g.

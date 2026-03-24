@@ -38,7 +38,7 @@ date: 2020-10-15
 
 **Dhatura** is a toxic shrub that can be found growing on roadsides and wastelands. It is sold in markets, both for traditional use and as a source of compounds for the pharmaceutical industry. The plant is also used as a pesticide and repellent. It is often grown as an ornamental in tropical to temperate areas of the world, particularly types with double flowers and purple flowers. This tree is belongs to Solanaseae.
 ## Uses
-Inflammation, Skin disorders, Asthma, Fever, Arthritis, Wound healing.
+Inflammation, Skin disorders, Asthma, Fever, Arthritis, Wound healing, Insomnia, Burns, Mumps.
 
 ## Parts Used
 Root, Leaves, Flower, Seeds
@@ -49,12 +49,12 @@ Chemical investigation of an acidic methanol extract of the whole plant of Datur
 ## Common names,
 | Language | Names |
 | --- | --- |
-| Kannada | Biliyummatta, Dathuri, Datthoora, Unmatta |
+| Kannada | Biliyummatta, Dathuri, Datthoora, Unmatta, Ummatti gida |
 | Malayalam | Mudela-nila-hummatu, Ummattu |
-| Sanskrit | Dhatura, Dhurta, Ghantapuspa, Shivapriya |
-| Tamil | Unmattam, Vellaiyumattai |
-| Telugu | Tella-ummetha, Duthooramu, Ummettha |
-| Hindi | Dhattura |
+| Sanskrit | Dhatura, Dhurta, Ghantapuspa, Shivapriya, Krishnadastura |
+| Tamil | Unmattam, Vellaiyumattai, Karuumatti, Velumatti |
+| Telugu | Tella-ummetha, Duthooramu, Ummettha, Nallaummatti |
+| Hindi | Dhattura, Kaladattur, Sadaattur |
 | English | Datura, Thorn apple |
 
 ## Properties
@@ -122,5 +122,6 @@ Tropical area, Sub tropical area
 3. [details](Cultivation)(https://pfaf.org/user/Plant.aspx?LatinName=Datura+metel)
 4. [DESCRIPTION](BOTANIC)(http://keralaplants.in/)
 5. [names](Vernacular)(http://envis.frlht.org/bot_search)
-6. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:77
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 77.**
+   1. Boiling the root of the datura plant in water and drinking the decoction helps treat poisonous bites. 2. Warming datura leaves in milk or oil and applying on swollen areas or painful joints provides relief; heating leaves with castor oil and applying at night on swollen joints reduces inflammatio.
 7. [constituents](Chemical)(http://vjs.ac.vn/index.php/vjchem/article/view/2525-2321.2017-00442#:~:text=Chemical%20investigation%20of%20an%20acidic,and%20dioscoroside%20D%20(7).)

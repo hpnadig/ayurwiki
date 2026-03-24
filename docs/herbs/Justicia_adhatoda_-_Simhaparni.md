@@ -41,7 +41,7 @@ date: 2021-01-26
 ![**Malabar Nut**](../images/Justicia_adhatoda_1.jpg)
 **Simhaparni** is the sanskrit name of **Justicia adhatoda**. It is native to Asia, widely used in Siddha Medicine, Ayurveda, homeopathy and Unani systems of medicine. The plant's range includes Sri Lanka, Nepal, India, Pakistan, Indonesia, Malaysia, and China as well as Panama where it is thought to have been introduced.
 ## Uses
-Joint pain, Cuts, Cough, Skin itchiness, Respiratory disorders, Asthma, Abnormal bleeding, Peptic ulcers, Piles.
+Joint pain, Cuts, Cough, Skin itchiness, Respiratory disorders, Asthma, Abnormal bleeding, Peptic ulcers, Piles, Fever, Leucorrhoea, Pimples, Strangury, Oliguria.
 
 ## Parts Used
 Roots, Leaves, Stem, Flowers.
@@ -52,12 +52,12 @@ Adhatoda zeylanica contains a number of chemical constituents which are responsi
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Aadu muttada gida, Aadu soge ಅಡುಸೋಗೆ |
+| Kannada | Aadu muttada gida, Aadu soge ಅಡುಸೋಗೆ, Almage, Adusokada gida, Edemutramdi soppu |
 | Malayalam | Adel-odagam |
-| Sanskrit | Arus, Vajidantakahaatarusha |
+| Sanskrit | Arus, Vajidantakahaatarusha, Vasa, Vasaka, Simhaparne |
 | Tamil | Aadaathodai, Acalai |
 | Telugu | Addasaramu, Addasarapaku |
-| Hindi | Adusa, Vasak |
+| Hindi | Adusa, Vasak, Adalli, Adulasa, Arusa |
 | English | Malabar nut |
 | Marathi | Adulasa |
 
@@ -125,5 +125,8 @@ Himalayas, Tropical area, At cold forest.
 2. [Information](General)(https://www.bimbima.com/ayurveda/vasa-malabar-nut-benefits-medicinal-uses-and-side-effects/915/)
 3. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Justicia+adhatoda)
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2014/07/25/vasaka-adhatoda-vasica-uses-side-effects-research/)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:33
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 33.**
+   1. Root decoction taken by grinding helps children expel phlegm and relieves cough. 2. Leaf juice (14-28 mL) taken with a little honey, three times daily, treats cough, fever, and respiratory tract diseases. 3. Leaf juice (14-28 mL) with a little honey, taken once daily, cures leucorrhoea (white vag.
 6. Kappathagudda - A Repertoire of Medicinal Plants of Gadag, Page no: 42
+7. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 72.**
+   Known in Northeast Indian tribal medicine for bronchodilator and expectorant properties. Used to treat respiratory ailments including asthma, bronchitis, cough, and other respiratory disorders.

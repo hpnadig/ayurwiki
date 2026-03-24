@@ -38,7 +38,7 @@ date: 2020-08-07
 ![*Bhrngraja*](../images/400px-Eclipta_prostrata_04791.jpg)
 **Eclipta prostrata** is a species of plant in the sunflower family. It is widespread across much of the world. It is widely distributed throughout **India**, **Nepal**. This plant is belongs to Asteraceae family.
 ## Uses
-Loss of appetite, Asthma, Productive cough, Hyperlipidemia, Mild hypertension, Intestinal worm, Jaundice, Piles, Abdominal pain, Hairfall, Preature greying of hair, Lucoderma.
+Loss of appetite, Asthma, Productive cough, Hyperlipidemia, Mild hypertension, Intestinal worm, Jaundice, Piles, Abdominal pain, Hairfall, Preature greying of hair, Lucoderma, Diarrhea, Fever, Epilepsy, Anemia, Skin diseases, Ear infections.
 
 ## Parts Used
 Young shoots, Leaves.
@@ -49,13 +49,13 @@ Wedelolactone, Luteolin, Apigenin, Triterpenoids – Eclalbatin, alpha-amyrin, o
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Ajagara |
+| Kannada | Ajagara, Kadugaruga, Kadigaruga, Keshavardhana, Garagalu, Garunga |
 | Malayalam | Kannunni |
-| Sanskrit | Bhrngaraja |
-| Tamil | Karisilanganni, Kavanthakara |
+| Sanskrit | Bhrngaraja, Kesharaja |
+| Tamil | Karisilanganni, Kavanthakara, Karisale, Garuga |
 | Telugu | Galagara |
-| Hindi | Bhrngaraj, Kesharaj |
-| English | False Daisy, Trailing eclipta |
+| Hindi | Bhrngaraj, Kesharaj, Bhangra |
+| English | False Daisy, Trailing eclipta, The Kesuri |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -120,4 +120,5 @@ Poorly drained area, Wet areas.
 2. ["morphology"](https://indiabiodiversity.org/species/show/229618)
 3. [preparations"]("Ayurvedic)(https://easyayurveda.com/2013/09/16/bhringraj-eclipta-alba-benefits-usage-dose-side-effects/)
 4. [Details"]("Cultivation)(http://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/eclipta-alba-1)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:117
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 117.**
+   1. Applying fresh plant juice on the nose (a few drops) helps cure snakebite poison. 2. Taking equal parts of leaf and peppercorn, grinding well, rolling into small pills, and consuming with buttermilk helps treat indigestion and related conditions. 3. Drinking fresh plant juice helps treat diarrhea.

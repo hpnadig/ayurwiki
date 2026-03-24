@@ -32,7 +32,7 @@ date: 2021-10-27
 ![*Kubhīkaḥ*](../images/Kumbhi_(Marathi-_कुंभी)_(3362443430).jpg)
 **Kulaµjana** consists of dried rhizome of Alpinia galanga. It is a plant grows up to about 2m tall. It is native to eastern Himalayas and southwest India. This plat is belongs to Lecythidaceae family.
 ## Uses
-Body swellings, Cough, Cold.
+Body swellings, Cough, Cold, Body pain, Fever, Wounds.
 
 ### Food
 Careya arborea can be used in food. Flowers cooked as vegetable and fruits are pickled.
@@ -46,13 +46,13 @@ Seeds contain triterpenoid sapogenols, sterols; leaves contain a triterpene este
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Daddala, Gudda, Daddippe |
+| Kannada | Daddala, Gudda, Daddippe, Alagavvale, Kavalumara, Kaval, Kavale, Kumbara, Kumbha, Garvahannu, Gavagile, Guddaneshta, Gonde, Davvala, Honnumatti |
 | Malayalam | Pezuntol |
 | Sanskrit | Svādupuṣpa, Viṭapī, Sthala Kumbhī |
 | Tamil | Ayma |
-| Telugu | Gadava |
+| Telugu | Gadava, Duddhipa |
 | Hindi | Kumbhi |
-| English | Cyloneoek |
+| English | Cyloneoek, Ceylon Oak |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -121,5 +121,6 @@ Secondary forest, Slightly seasonal forest, Along forest edges.
 2. [Morphology]
 3. [details](Cultivation)(https://shodhganga.inflibnet.ac.in/bitstream/10603/3893/10/10_chapter%204.pdf)
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2017/10/05/kumbhi-tree-careya-abrorea-ceylon-oak/)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:111
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 111.**
+   1. Consuming a decoction of bark helps treat cold, cough, and associated symptoms. 2. Consuming a decoction of bark also helps reduce body pain, fever, and treats cold and related conditions. 3. Applying bark paste on wounds and injuries helps in healing. 4. Consuming bark decoction over a period he. Bark decoction for oral consumption; bark paste for external wound application. Veterinary use: grinding bark of the tree and applying on cattle wounds helps healing.
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.39, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

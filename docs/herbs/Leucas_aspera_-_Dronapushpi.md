@@ -33,7 +33,7 @@ date: 2021-11-10
 ![*Dronapushpi*, *Leucas aspera*](../images/Leucas_aspera_at_Gandipet,_Hyderabad,_AP_W2_IMG_9054.jpg)
 **Dronapushpi** is a species within the Leucas genus and the Lamiaceae family. Leucas aspera is commonly found throughout India and the Philippines as well as the plains of Mauritius and Java. In India and the Philippines Leucas aspera is a very common weed.
 ## Uses
-Sores of the eyes, Sores of the nose, Fever, Cough, Skin eruptions, Cold, Snakebite, Wounds, Sore throats.
+Sores of the eyes, Sores of the nose, Fever, Cough, Skin eruptions, Cold, Snakebite, Wounds, Sore throats, Headache, Asthma, Rheumatic pain, Worm infections, Ringworm, Fungal infections.
 
 ### Food
 Leucas aspera can be used in Food. Leaves are cooked as vegetable and seeds eaten raw. Seeds also yield an oil which is used for cooking.
@@ -47,12 +47,13 @@ Preliminary chemical examination of L aspera revealed presence of triterpenoids 
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Tumbe gida |
+| Kannada | Tumbe gida, Ollitumbe, Tunchasoppu |
 | Malayalam | Tumba |
-| Tamil | Thumbai |
+| Sanskrit | Drona, Dronapushpi |
+| Tamil | Thumbai, Tumbaikiidi |
 | Telugu | Tummachettu |
 | Hindi | Chhota halkusa |
-| English | Common Leucas |
+| English | Common Leucas, White Head Nettle |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -124,5 +125,6 @@ Perhumid areas, Mostly grassy plains, Arable crops.
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 256
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2014/11/15/dronapushpi-leucas-cephalotes-uses-dosage-side-effects/)
 4. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Leucas+aspera)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:167
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 167.**
+   1. Tumbe plant's 2 drops of leaf juice instilled into the nostrils helps relieve headache and cold congestion (it may cause sneezing which helps clear sinuses). 2. Leaf juice mixed with pepper, dried ginger, cumin, and jaggery creates a decoction for respiratory ailments. 3. About 1 spoon of flower .
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.94, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

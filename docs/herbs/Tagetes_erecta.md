@@ -34,7 +34,7 @@ date: 2020-08-18
 
 **African marigold** is an aromatic, erect, annual plant that can grow up to 180cm tall, but is more likely to be around 25cm. The plant has a wide range of medicinal uses. It is also used as a flavouring in food, a popular dye plant and is an effective repellent. It is cultivated as a dye plant in the Americas, and is widely cultivated in temperate to tropical regions as an ornamental plant. This plant is belongs to Asteraceae family.
 ## Uses
-Indigestion, Colic, Severe constipation, Coughs, Dysentery, Sores, Ulcers, Eczema, Sore eyes, Rheumatism, Boils.
+Indigestion, Colic, Severe constipation, Coughs, Dysentery, Sores, Ulcers, Eczema, Sore eyes, Rheumatism, Boils, Blood purification, Blood disorders, Baldness.
 
 ## Parts Used
 Leaves, Flowers.
@@ -45,12 +45,12 @@ Twenty five compounds were identified in the oil of T. erecta, of which linalool
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Janduga, Sthulapushpa |
+| Sanskrit | Janduga, Sthulapushpa, Ganduga |
 | English | African merregold |
-| Hindi | Genda |
-| Kannada | Chendu hu, Gondegida |
-| Tamil | Turukkasamandi |
-| Telugu | Banti |
+| Hindi | Genda, Gutteer |
+| Kannada | Chendu hu, Gondegida, Chendumallige, Seemekashnavanti |
+| Tamil | Turukkasamandi, Turukashtamandra |
+| Telugu | Banti, Banta, Bantachettu |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -99,6 +99,7 @@ Pine-oak forest zone, Dry thickets, On waste ground.
 
 1. [constituents](Chemical)(https://www.tandfonline.com/doi/abs/10.1080/0972060X.2009.10643747#:~:text=Twenty%20five%20compounds%20were%20identified,%25)%20are%20the%20main%20components.)
 2. [Morphology]
-3. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:137
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 137.**
+   1. Drinking the juice of marigold flower petals helps purify the blood. 2. Consuming the flower petal juice also helps treat blood-related disorders and related conditions. 3. Grinding flower petals, adding sugar and mixing with sesame oil, placing in a clay vessel and burying underground for a mont.
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Tagetes+erecta)
 5. Indian Medicinal Plants by C.P.Khare

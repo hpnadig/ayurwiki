@@ -37,7 +37,7 @@ date: 2021-06-01
 ![*Parijata*, *Nyctanthes arbor-tristis*](../images/Nyctanthes_arbor-tristis_at_Rajbiraj,_Saptari,_Nepal.jpg)
 **Parijata** is a large shrub or small tree with spreading branches. It grows up to 10 metres tall. The plant is particularly valued for its flowers which are used in traditional medicine as a dye and as a source of an essential oil. The plant has very fragrant flowers and is widely cultivated as an ornamental in tropical and subtropical regions all over the world. It is often planted near Hindu temples in India and Sri Lanka, as well as in Malaysia and Indonesia. This plant is belongs Oleaceae family.
 ## Uses
-Sciatica, Constipation, Intestinal worms, Asthma, Difficulty in micturition, Poisoning.
+Sciatica, Constipation, Intestinal worms, Asthma, Difficulty in micturition, Poisoning, Cough, Skin diseases, Snakebite, Fever, Hemorrhoids, Cold, Dandruff, Hair fall.
 
 ## Parts Used
 Bark, Leaves, Heartwood, Seeds
@@ -46,13 +46,13 @@ Bark, Leaves, Heartwood, Seeds
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Harisringi, Paarijaatha |
+| Kannada | Harisringi, Paarijaatha, Sanjeparijata, Harasingar, Shekhalika |
 | Malayalam | Manjapumaram, Parijatakam |
-| Sanskrit | Harasimgara, Kharapatraka |
-| Tamil | Pavazha-malli, Pavilamalligai |
-| Telugu | Krishnavaeni, Shvethasurasa |
+| Sanskrit | Harasimgara, Kharapatraka, Shephalika, Parijata |
+| Tamil | Pavazha-malli, Pavilamalligai, Pavala Mallige |
+| Telugu | Krishnavaeni, Shvethasurasa, Shekhali |
 | Hindi | Harshingar, Seoli |
-| English | Coral Jasmine |
+| English | Coral Jasmine, Night Jasmine |
 .
 
 ## Properties
@@ -117,7 +117,8 @@ Tropical area, Sub tropical area
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2016/11/30/parijatha-nyctanthes-arbor-tristis-night-jasmine-coral-jasmine/)
 5. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Nyctanthes+arbor-tristis)
-6. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:221
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 221.**
+   1. One gunja (approximately a small measure) each of leaf and flower powder, dissolved in betel leaf juice and consumed, relieves cough. 2. Grinding leaves and flower stalk and applying the paste helps cure skin diseases. 3. Leaf juice is given to those bitten by snakes as a remedy. 4. Consuming lea. Leaf and flower powder: one gunja measure dissolved in betel leaf juice for cough.
 7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 33.**
    Classified as a Jangala-adapted (arid region) tree suited for warmer climatic zones.
    > *As cited in: Vrksayurveda of Surapala, Section 5*

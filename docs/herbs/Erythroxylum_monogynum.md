@@ -30,7 +30,7 @@ date: 2020-10-20
 
 **Erythroxylum monogynum** is valued for its wood, which is used locally. It also has medicinal applications, yields an essential oil and a wood oil. This plant is belongs to Erythroxylaceae family.
 ## Uses
-Fever, Stomachache, Skin deseases, Joint pain, Kidney problems.
+Fever, Stomachache, Skin deseases, Joint pain, Kidney problems, Urogenital diseases, Urinary tract problems, Rheumatic conditions, Itching, Skin rashes.
 
 ## Parts Used
 Fruits, Leaves.
@@ -43,11 +43,11 @@ AcE and CD.
 ## Common names
 | Language | Names |
 | --- | --- |
-| English | Red Cedar |
-| Kannada | Natkadeodar |
+| English | Red Cedar, Bastard Sandal |
+| Kannada | Natkadeodar, Kuruvakumara, Kumbalakke, Gyadari, Gumbagiri, Chambutalu, Jeevadari, Devadari |
 | Malayalam | Devataru |
-| Tamil | Sembulichan |
-| Telugu | Gatiri |
+| Tamil | Sembulichan, Devadaru, Chimmannakki, Tasadari |
+| Telugu | Gatiri, Adavi goranthi, Devadaru |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -94,6 +94,7 @@ Dry country in Sri Lanka, Evergreen forests.
 
 1. [constituents](Chemical)(https://www.tsijournals.com/articles/phytochemical-studies-and-demonstration-of-antimicrobial-activity-of-erythroxylum-monogynum.pdf)
 2. [Morphology]
-3. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:133
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 133.**
+   1. Consuming the root with chitramula (Plumbago) root and sandalwood helps treat related urogenital diseases and disorders. 2. Consuming the bark decoction helps treat abdominal pain, fever, urinary tract problems, and related conditions. 3. Using the bark decoction with dried ginger, rock salt, asa. Bark decoction with dried ginger, rock salt, and asafoetida for rheumatic conditions. Leaf juice with sugar for vitality enhancement. Oil for external skin application.
 4. [Cultivation]
 5. Indian Medicinal Plants by C.P.Khare

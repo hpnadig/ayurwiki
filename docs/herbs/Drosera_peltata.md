@@ -25,7 +25,7 @@ date: 2020-08-13
 ![](../images/Drosera_peltata_flower_bud_detail.jpg)
 **Drosera peltata** is a perennial herbaceous plant with an erect or climbing stem from 9 - 32cm tall.  The plant grows from a subterranean tuber about 8mm in diameter and is only in leaf for a few months each year. The plant is harvested from the wild for local medicinal use. This plant belongs to Droseraceae family.
 ## Uses
-Arthritis, Rheumatism.
+Arthritis, Rheumatism, Whooping cough, Urinary disorders, Intestinal worms.
 
 ## Parts Used
 .
@@ -33,6 +33,12 @@ Arthritis, Rheumatism.
 ## Chemical Composition
 
 ## Common names
+| Language | Names |
+| --- | --- |
+| Kannada | Krimibhakshe, Prutapa |
+| Hindi | Mukhipali |
+| English | Sun Dew Plant |
+
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
 ### Dravya
@@ -83,4 +89,5 @@ lamina](../images/DroseraPeltataLamina.jpg)
 1. [Chemistry]
 2. [Morphology]
 3. [Cultivation]
-4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:347
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 347.**
+   1. The root paste applied on calluses (corns) helps soften and remove them. 2. In cases of whooping cough, the plant extract mixed with buttermilk and salt is given to drink. The root paste is also applied on wind-related swellings to get relief. 3. Whole plant root extract consumed with buttermilk . Root paste applied on corns for removal. Plant extract with buttermilk for whooping cough.

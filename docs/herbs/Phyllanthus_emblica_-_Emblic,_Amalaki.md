@@ -150,3 +150,5 @@ In the Agni Purana (chapters 140-141), the Amalaki is listed among key medicinal
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 27, 54, 66, 82, 90.**
    Planting grants spiritual merit equal to that of celibacy and land donation. Recommended for western directional planting near residences. A key ingredient of Triphala (along with Haritaki and Bibhitaka), widely used in plant disease treatment, fumigation, and bark-paste applications for fruit enhancement.
    > *As cited in: Vrksayurveda of Surapala, Verses 1-2, 24-29, 134, 137-139; Section 17*
+7. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 71.**
+   Rich in vitamin C with strong antioxidant properties as recognized by Northeast Indian tribes. Employed to boost the immune system, improve digestion, and promote heart health.

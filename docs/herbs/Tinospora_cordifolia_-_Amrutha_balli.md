@@ -44,7 +44,7 @@ date: 2020-08-25
 ![*Amrutha balli*](../images/Tinospora_cordifolia_leaves.jpg)
 **Tinospora cordifolia** which is known by the common names **heart-leaved moonseed, guduchi and giloy** is an herbaceous vine of the family Menispermaceae indigenous to the tropical areas of India, Myanmar and Sri Lanka. It's family is Menispermaceae.
 ## Uses
-Osteoarthritis, Pimples, Piles, Skin diseases, Diabetes, Blood pressure, Heart Diseases, Fever, Jaundice, Hyperacidity, Gout.
+Osteoarthritis, Pimples, Piles, Skin diseases, Diabetes, Blood pressure, Heart Diseases, Fever, Jaundice, Hyperacidity, Gout, Bleeding disorders, Leprosy, Arthritis, Flu, Influenza, Phlegm, Hysteria, Tuberculosis, Wrinkles, Food poisoning.
 
 ## Parts Used
 Stem, Roots, Leaves.
@@ -55,17 +55,17 @@ Terpenoids and alkaloids, Columbin, tinosporaside, jatrorhizine, palmatine, berb
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Amrithavalli, Amritha, Madhuparni, Guduchika, chinnobhaava |
-| English | Heart-leaved moonseed |
+| Sanskrit | Amrithavalli, Amritha, Madhuparni, Guduchika, chinnobhaava, Guduchi, Madhuvarka, Vatsani, Chinnaruha, Tantrikamrita, Jeevantika |
+| English | Heart-leaved moonseed, Gulancha Tinospora |
 | Gujarati | Galac, Garo |
-| Hindi | Giloe, Gurcha |
-| Kannada | ಅಮರ Amara, ಅಮೃತಬಳ್ಳಿ Amritaballi, ಉಗನಿ ಬಳ್ಳಿ Ugani balli |
+| Hindi | Giloe, Gurcha, Giloy, Gudicha, Gulancha |
+| Kannada | ಅಮರ Amara, ಅಮೃತಬಳ್ಳಿ Amritaballi, ಉಗನಿ ಬಳ್ಳಿ Ugani balli, Kaduhaku Kale, Guduchi, Madhuparna, Madhuvarka |
 | KS | Amrita, Gilo |
 | Malayalam | Nerinjil |
 | Marathi | Gulvel |
 | Punjabi | Gilo |
-| Tamil | Seendal, Seendil kodi |
-| Telugu | Thippateega |
+| Tamil | Seendal, Seendil kodi, Amudam, Amritavalli, Sindal |
+| Telugu | Thippateega, Guduchi, Somida |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -132,5 +132,8 @@ Subtropical and tropical climate area, Sandy loam soil.
 2. [morphology](Leaf)(https://indiabiodiversity.org/species/show/231352)
 3. THE AYURVEDIC PHARMACOPOEIA OF INDIA, PART-I, VOLUME-1, page no 53.
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2012/08/28/guduchi-giloy-ayurvedic-details-benefits-usage-dose-formulations/)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:13
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 13.**
+   1. Condensed decoction or kashaya of Amruta Balli treats diabetes effectively. 2. Amruta Balli churna, kashaya, and satva are important Ayurvedic preparations; it is recognized in Ayurvedic texts as an excellent Rejuvenator. 3. Amruta Balli juice (1.5-2 spoons) taken with a little honey on an empty .
 6. [names](Common)(http://www.flowersofindia.net/catalog/slides/Gulbel.html)
+7. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 72.**
+   Recognized in Northeast Indian tribal medicine for immunomodulatory, anti-inflammatory, and antipyretic properties. Used to boost immunity, treat fever, and manage diabetes.

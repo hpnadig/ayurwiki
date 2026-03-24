@@ -170,6 +170,26 @@
   text-decoration: underline;
 }
 
+/* References & External Links — smaller, subdued citation text */
+.md-typeset h2[id^="references"],
+.md-typeset h2#external-links {
+  font-size: 0.9rem;
+  margin-top: 2em;
+  padding-top: 0.8em;
+  border-top: 1px solid #e0e0e0;
+  color: #555;
+}
+.md-typeset h2[id^="references"] ~ *:not(h2),
+.md-typeset h2#external-links ~ *:not(h2) {
+  font-size: 0.8rem;
+  line-height: 1.6;
+  color: #555;
+}
+.md-typeset h2[id^="references"] ~ blockquote {
+  font-size: 0.75rem;
+  color: #777;
+}
+
 /* Recent changes table — compact rows */
 .md-typeset table:not([class]) td:last-child {
   white-space: nowrap;

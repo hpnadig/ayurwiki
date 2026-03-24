@@ -30,7 +30,7 @@ date: 2021-06-30
 ![Spade flower](../images/(hybanthus_enneaspermus)_shrub_at_Kambalakonda_02.JPG)
 **Hybanthus enneaspermus** is a plant commonly found during the rainy season in dry regions with gravel and stones in the Deccan plateu of India. It can grow upto 60cm tall.
 ## Uses
-Diarrhea, Urinary tract infections, Inflammation, Wound healing, Asthma.
+Diarrhea, Urinary tract infections, Inflammation, Wound healing, Asthma, Leucoderma, Kidney conditions, Sexually transmitted diseases.
 
 ## Parts Used
 Barks, Flowers.
@@ -41,11 +41,11 @@ The phytocompounds present in H. enneaspermus have been extensively investigated
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Charaata, Purusharatna |
+| Kannada | Charaata, Purusharatna, Ratnapurusha, Sirantigida |
 | Malayalam | Nelam-parenda, Orilattamara |
-| Sanskrit | Purusharatna, Padmacarini, Charati |
-| Tamil | Oorithal thamarai, Orilaittamarai |
-| Telugu | Nelakobbari, Purusharathnam |
+| Sanskrit | Purusharatna, Padmacarini, Charati, Suryakanti |
+| Tamil | Oorithal thamarai, Orilaittamarai, Oridalthamarai |
+| Telugu | Nelakobbari, Purusharathnam, Suryakant |
 | Hindi | Ratanpurus |
 | English | Spade flower |
 
@@ -100,4 +100,5 @@ Tropical area
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 224
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [constituents](Chemical)(http://www.jocpr.com/articles/hybanthus-enneaspermus-l-f-muell-a-phytopharmacological-review-onherbal-medicine.pdf)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:225
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 225.**
+   1. The root is eaten by children to cure abdominal disorders. 2. The root paste mixed with cow's ghee is applied on the body to treat leucoderma and skin conditions; it is also tied as a poultice on the forehead. 3. The root along with ashwagandha and other herbs is taken with milk to improve vitali. Root mixed with honey and milk for vitality; root decoction in cow's milk for 41 days for reproductive health issues.

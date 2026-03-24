@@ -32,7 +32,7 @@ date: 2020-10-15
 
 **Virataru** is a deciduous or semi-deciduous shrub. It can grow upto 1 - 8 metres tall. The plant is covered with spines and is sometimes suckering and thicket-forming. A true multi-purpose tree, providing food, medicines, fuel and various commodities. This shrub is belongs to Memosaceae family.
 ## Uses
-Diarrhea, Excessive thirst, Kidney stones, Gynecological disorders, Urinary retention.
+Diarrhea, Excessive thirst, Kidney stones, Gynecological disorders, Urinary retention, Joint inflammation, Urinary tract infections, Eye disorders.
 
 ## Parts Used
 Bark, Root, Heartwood
@@ -43,12 +43,12 @@ It contain apigenin-7-O-apiosyl (1 → 2) glucoside (1) (Liet al., 1997), chryso
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | ಎಡತರಿ Edatari, ಶಮಿ Shami |
+| Kannada | ಎಡತರಿ Edatari, ಶಮಿ Shami, Vadatari, Odavane, Mav pallinataru |
 | Malayalam | Viravrksam, Vitattal |
-| Sanskrit | Bahuvaraka, Dirghamula |
-| Tamil | Karukavi, Vadataram, Vidattalai, Vitattali |
-| Telugu | Nalla venuturu, Velthuru, Veluthuru chettu |
-| Hindi | Goya-khair, Kheri |
+| Sanskrit | Bahuvaraka, Dirghamula, Vallantara, Veeravriksha, Veerataru |
+| Tamil | Karukavi, Vadataram, Vidattalai, Vitattali, Vadatala, Vadatare, Vadatam |
+| Telugu | Nalla venuturu, Velthuru, Veluthuru chettu, Vadataru, Nallinaturu, Nellami |
+| Hindi | Goya-khair, Kheri, Vatulla, Veri |
 | English | Sicklebush |
 .
 
@@ -111,4 +111,5 @@ Tropical area.
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [details](Cultivation)(https://uses.plantnet-project.org/en/Dichrostachys_cinerea_(PROTA))
 5. [constituents](Chemical)(https://www.japsonline.com/admin/php/uploads/2428_pdf.pdf)
-6. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:317
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 317.**
+   1. Root bark or leaf decoction consumed helps relieve joint inflammation. 2. Root decoction or bark decoction consumed helps relieve urinary tract infections and kidney stone problems. 3. Root bark decoction given to those with rheumatic conditions helps cure inflammation. 4. Stem bark consumed with. Root bark decoction for joint inflammation and urinary conditions.

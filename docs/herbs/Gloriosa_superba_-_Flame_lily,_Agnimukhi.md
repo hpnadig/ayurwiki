@@ -40,7 +40,7 @@ date: 2020-08-07
 ![*Gloriosa*,*Agnimukhi*](../images/Gloriosa_superba_Flower_Kondazhi,_Thrissur.JPG)
 **Agnimukhi** is a genus of 12 species in the plant family Colchicaceae. It is herbaceous tendril climber with underground cylindrical white tuberous rhizome. It is native to Africa, Australia, Burma, Indonesia, Madagascar, Malacca, Malasia, South china, Srilanka and Veetnam. In india it is found throughout the country.
 ## Uses
-Arthritis, Gout, Rheumatism, Inflammation, Ulcer, Skin diseases, Leprosy, Snake bite, Gonorrhoea, Itching, Infertility, Abdominal pain.
+Arthritis, Gout, Rheumatism, Inflammation, Ulcer, Skin diseases, Leprosy, Snake bite, Gonorrhoea, Itching, Infertility, Abdominal pain, Parasitic infections.
 
 ## Parts Used
 Flowers, Fruits.
@@ -51,13 +51,13 @@ Seed contain high level of colchicines. Cornigerine, 3-demethyl-N-formyl-N-deace
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Agnisikhe  ಅಗ್ನಿಶಿಖಾ, Karadikanninagadde |
+| Kannada | Agnisikhe  ಅಗ್ನಿಶಿಖಾ, Karadikanninagadde, Kolikutumana gadde, Akshatangi balli, Kolikutukana gadde, Langulike, Nangulike |
 | Malayalam | Kithonni, Mendoni |
-| Sanskrit | Agnimukhi |
-| Tamil | Kallappai kilangu |
-| Telugu | Agnisikha |
-| Hindi | Bachnag, Kadyanag |
-| English | Glory Lily, Gloriosa lily |
+| Sanskrit | Agnimukhi, Agnishikha, Kalikari, Garbhagatini, Languli |
+| Tamil | Kallappai kilangu, Akshanichalam, Kargikkelang |
+| Telugu | Agnisikha, Kalapragadda, Phottimumpa |
+| Hindi | Bachnag, Kadyanag, Kalihari, Languli |
+| English | Glory Lily, Gloriosa lily, Climbing Lily, Superb Lily |
 | Marathi | Bachnag, Kal-lavi |
 
 ## Properties
@@ -128,4 +128,5 @@ Tropical area, Subtropical area, Warmer temperate region.
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2017/08/14/langali-gloriosa-superba/)
 5. [Details](Cultivation)(http://agritech.tnau.ac.in/horticulture/horti_medicinal%20crops_gloriosa.html)
 6. Heritage Amruth, February 1999, Page no.25
-7. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:73
+7. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 73.**
+   1. Tuber (gadde) paste applied externally and taken internally in controlled doses helps treat snake bites and venomous stings. 2. Preparations from the plant help in treating skin conditions and various inflammatory diseases. 3. The tuber is used in specific quantities to induce labor and address g.

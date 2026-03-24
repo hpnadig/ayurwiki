@@ -30,7 +30,7 @@ date: 2023-02-21
 
 **Country mallow** is an erect, many branched, usually perennial plant with stems up to about 2 metres tall that become rather woody, especially at the base, and persist for a number of years. Sometimes though, the stems are annual, with the plant dying back each year to a woody base. The plant is sometimes gathered from the wild for local use as a food, medicine and source of fibre. It is grown as an ornamental in gardens. This is belongs to Malvaceae family.
 ## Uses
-Fever, Colic, Open areas, Wounds. Ulcers, Boils. Haemorrhoids, Cough, Leprosy, Fevers.
+Fever, Colic, Open areas, Wounds. Ulcers, Boils. Haemorrhoids, Cough, Leprosy, Fevers, Eye diseases, Bleeding disorders, Urinary diseases, Dental problems, Paralysis, Joint pain.
 
 ## Parts Used
 Roasted seeds.
@@ -41,8 +41,12 @@ The investigation on the chemical constituents of the whole plant of Abutilon in
 ## Common names
 | Language | Names |
 | --- | --- |
-| English | Indian Mallow |
-| Kannada | Mudre Gida |
+| English | Indian Mallow, Country Mallow |
+| Kannada | Mudre Gida, Kiranga, Gidutingi, Turubaga, Naladuruve, Hagade, Hattikasu, Patri |
+| Sanskrit | Kankatika, Atibala, Mahabala |
+| Hindi | Kangi, Kampani, Rupati, Prutari, Kepari |
+| Tamil | Parayara Tuti, Parun Tutti |
+| Telugu | Tutturu Banda, Botta Botta, Tuttiri Bitta |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -99,5 +103,6 @@ Requires a sunny position or part day shade in a fertile well-drained soil.
 1. [constituents](Chemical)(https://www.tandfonline.com/doi/abs/10.1080/10286020802016545#:~:text=The%20investigation%20on%20the%20chemical,well%20as%2028%20known%20compounds.)
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Abutilon+indicum)
-4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:227
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 227.**
+   1. The root paste is applied around the eyes like collyrium to cure eye diseases. 2. Consuming the root decoction helps with bleeding disorders, stomach problems, pregnancy weakness, urinary diseases, and strengthens the body. 3. A decoction of root and leaf is taken to cure urinary and bladder prob. Root decoction mixed with sesame oil for external application on joints; leaf poultice for dental issues.
 5. Kappathagudda - A Repertoire of Medicinal Plants of Gadag, Page no: 32

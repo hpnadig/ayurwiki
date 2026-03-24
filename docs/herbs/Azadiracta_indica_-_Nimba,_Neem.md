@@ -43,7 +43,7 @@ date: 2020-08-12
 ![**Neem**, **Nimba**](../images/Neem_(Azadirachta_indica)_in_Hyderabad_W_IMG_6976.jpg)
 **Azadirachta indica** also known as Neem. It is a tree in the mahogany family Meliaceae. It is one of the two species in the genus Azadirachta and is native to India and the Indian subcontinent including Nepal, Pakistan, Bangladesh, and Sri Lanka.
 ## Uses
-Skin diseases, Hair problems, Liver problems, Detoxify the blood, Fever, Blotches, Dental problems, Cough, Asthma, Ulcer, Piles, Skin disease, Worm infestation, Blood purifier, Wound.
+Skin diseases, Hair problems, Liver problems, Detoxify the blood, Fever, Blotches, Dental problems, Cough, Asthma, Ulcer, Piles, Skin disease, Worm infestation, Blood purifier, Wound, Urinary conditions, Kidney problems, Eye diseases, Pimples, Urinary stones, Joint pain, Diabetes, Itching, Gum diseases, Malaria.
 
 ## Parts Used
 Bark, Leaves, Seeds.
@@ -54,13 +54,13 @@ It contains Nimbandiol, Immobile, Nimocinol, Quercetin, and Beta-sitosterol And 
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Kirubevu, Turakabevu |
+| Kannada | Kirubevu, Turakabevu, Ollevevu, Kahivevu |
 | Malayalam | Ayurveppu, Nimbam |
-| Sanskrit | Nimbaka, Pakvakrita |
+| Sanskrit | Nimbaka, Pakvakrita, Nimba, Vanchi, Brahmadala, Arishta, Sarvatochabharta, Singuriyaas |
 | Tamil | Veppa, Vembu |
 | Telugu | Vepa |
 | Hindi | Neem |
-| English | Neem tree, Yepa |
+| English | Neem tree, Yepa, Margosa Tree, Indian Lilac |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -136,7 +136,8 @@ The resilience of the neem tree was demonstrated when it survived the devastatin
 1. [Pharmacology](https://www.sigmaaldrich.com/life-science/nutrition-research/learning-center/plant-profiler/azadirachta-indica.html)
 2. [descroption](Botonic)(http://www.worldagroforestry.org/treedb/AFTPDFS/Azadirachta_indica.PDF)
 3. [method](Cultivation)(http://contentzza.com/azadirachta-indica-neem-cultivation-methods/)
-4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:267
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 267.**
+   1. Neem bark decoction, purified and made into powder, is consumed daily for 1-2 days as an anthelmintic (to expel intestinal worms) and to cleanse the system. 2. Neem leaf decoction (1/4 lota) taken with 5 gumps of tola (a small measure) mixed with kadhuburini for several days relieves fever. 3. On.
 5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 27, 33, 54, 93, 98.**
    Planting three Nimba trees grants access to Suryaloka for three divine years. Part of the auspicious pentad (pancavrksa) of trees. Classified as Jangala-adapted (arid region). Grafting method: nimba seed inserted into soft kusmanda fruit hole, sealed with ghee-honey paste, extracted after fruit ripens, sown in suitable land (Verse 267).
    > *As cited in: Vrksayurveda of Surapala, Verses 1-2, 267; Sections 2, 5, 8, 19, 21*

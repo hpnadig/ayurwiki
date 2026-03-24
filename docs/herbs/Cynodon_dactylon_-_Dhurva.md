@@ -29,7 +29,7 @@ date: 2020-10-14
 ![*Doorwa*, *Cynodon dactylon*](../images/Cynodon_dactylon_plant1_(6920282935).jpg)
 **Cynodon dactylon** is a short-lived, prostrate, perennial grass. It is creeps along the ground and roots wherever a node touches the ground. The erect or ascending culms are generally 5 - 45cm long. The plant has a wide range of uses. Occasionally employed as a food, it is commonly used for a wide variety of medicinal purposes.
 ## Uses
-Wound healing, Conjunctivitis, Bleeding disorders, Skin diseases, Scorpion bite.
+Wound healing, Conjunctivitis, Bleeding disorders, Skin diseases, Scorpion bite, Piles, Headache, Urinary disorders, Vomiting, Insomnia.
 
 ## Parts Used
 Leaves
@@ -41,13 +41,13 @@ terpenoides, triterpenoids steroids, saponins, tannins, resins, phytosterols, re
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Ambate, Ambate hullu, Balli garike, Doorve, Garike, Garike hullu |
+| Kannada | Ambate, Ambate hullu, Balli garike, Doorve, Garike, Garike hullu, Ante, Karikehullu, Karki hullu, Kadugarike, Kudigarike, Harimale |
 | Malayalam | Belicaraga, Karuka, Karukappullu |
-| Sanskrit | Amrita, Ananta, Anuvallika, Asitalata, Bahucirya, Bhargavi, Dhurva, Mahaushadi, Mahavari, Mangala, Nanda, Niladurva, Sahsravirya, Shiveshta |
-| Tamil | Rugam pullu, Arugam-pillu, Arugampillu, Arugampul, Arugampullu |
-| Telugu | Garika gaddi, Garike, Gariki-gaddi, Gerichagadd |
-| Hindi | Dhub, Dobri, Dru |
-| English | Bermuda grass |
+| Sanskrit | Amrita, Ananta, Anuvallika, Asitalata, Bahucirya, Bhargavi, Dhurva, Mahaushadi, Mahavari, Mangala, Nanda, Niladurva, Sahsravirya, Shiveshta, Haritali |
+| Tamil | Rugam pullu, Arugam-pillu, Arugampillu, Arugampul, Arugampullu, Arugu pullu |
+| Telugu | Garika gaddi, Garike, Gariki-gaddi, Gerichagadd, Haravali |
+| Hindi | Dhub, Dobri, Dru, Hariyali |
+| English | Bermuda grass, Couch Grass, Creeping Grass, Dun Grass, Bahama Grass, Durb Grass, Wire Grass |
 .
 
 ## Properties
@@ -114,5 +114,6 @@ Tropical area
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2017/10/15/durva-cynodon-dactylon-bermuda-grass/)
 5. [details](Cultivation)(https://pfaf.org/user/Plant.aspx?LatinName=Cynodon+dactylon)
-6. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:113
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 113.**
+   1. Garike grass juice (4-6 spoons) mixed with sugar, along with curd, is taken daily on an empty stomach in the morning for conditions like piles; this treatment helps stop bleeding in piles and related issues. 2. About 2 handfuls of fresh garike grass are soaked overnight and the strained liquid is. Fresh juice: 4-6 teaspoons with sugar on empty stomach. Whole plant juice: 7-14 mL daily for urinary disorders. Duration: typically 14 days for hemorrhoid treatment.
 7. [constituents](Chemiacl)(http://iosrphr.org/papers/v6i7V2/D06721731.pdf)

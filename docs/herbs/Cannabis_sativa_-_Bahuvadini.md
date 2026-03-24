@@ -38,7 +38,7 @@ date: 2023-04-25
 
 **Bahuvadini** is an annual herbaceous plant in the species of the Cannabaceae family. People have cultivated Cannabis sativa throughout recorded history as a source of industrial fibre, seed oil, food, recreation, religious and spiritual moods, and medicine.
 ## Uses
-Cancer, Glaucoma, HIV, Muscle spasms, Seizures, Severe pain, Severe nausea.
+Cancer, Glaucoma, HIV, Muscle spasms, Seizures, Severe pain, Severe nausea, Hair loss, Ear pain, Inflammation, Rheumatic pain, Flatulence, Insomnia, Chronic cough, Constipation.
 
 ## Parts Used
 Seeds, Leaves.
@@ -49,13 +49,13 @@ Most varieties contain cannabinol and cannabinin.
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | ಭಂಗಿ Bhangi, ಗಾಂಜಾ ಗಿಡ Ganja gida |
+| Kannada | ಭಂಗಿ Bhangi, ಗಾಂಜಾ ಗಿಡ Ganja gida, Kusumba, Ganjanagida, Siddhapathri |
 | Malayalam | Cherukanchava, Ginjilachilachi |
-| Sanskrit | Bahuvadini, Banga |
-| Tamil | Alatam, Ananta muli |
-| Telugu | Bangiaaku, Bangiaku, Gaanja chettu |
-| Hindi | Bhang, Ganja, Charas |
-| English | Marijuana, Hemp, Gallow grass |
+| Sanskrit | Bahuvadini, Banga, Vijaya, Ganjika |
+| Tamil | Alatam, Ananta muli, Ganja, Bhangi |
+| Telugu | Bangiaaku, Bangiaku, Gaanja chettu, Ganjai, Kallanchittu |
+| Hindi | Bhang, Ganja, Charas, Siddhi Jay |
+| English | Marijuana, Hemp, Gallow grass, Ganja, Indian Hemp |
 | KS | Banga |
 | Marathi | Bhanga, Bhrnga |
 
@@ -115,4 +115,5 @@ Houseplant, Sea coast, Landscape.
 2. [morphology](Description)(https://www.hort.purdue.edu/newcrop/duke_energy/Cannabis_sativa.html)
 3. [names](common)(https://sites.google.com/site/indiannamesofplants/via-species/c/cannabis-sativa)
 4. [details](Cultivation)(https://www.pfaf.org/User/Plant.aspx?LatinName=Cannabis+sativa)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:273
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 273.**
+   Note: This is an intoxicating substance; excessive use causes hallucination, delusion, mental imbalance, visual disturbance, and other harmful effects. Its controlled and measured use is recommended only under medical supervision. 1. Applying leaf juice on the scalp helps reduce hair loss and promot.

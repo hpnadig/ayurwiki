@@ -30,7 +30,7 @@ date: 2020-08-12
 
 **Broom weed** is a much-branched, perennial plant producing somewhat woody stems 1 - 2 metres tall from a woody rootstock. The plant is harvested from the wild as a local source of medicines and fibre. This plant is belongs to Malvaceae family.
 ## Uses
-Fevers, Dysentery, Wounds, Headache, Headache, Toothache.
+Fevers, Dysentery, Wounds, Headache, Headache, Toothache, Parasites, Body fatigue, Reproductive disorders, Numbness, Paralysis, Rheumatic joint pain, Inflammation, Edema, Urinary disorders, Digestive complaints.
 
 ## Parts Used
 Bark, Stems, Leaves, Young twigs.
@@ -41,13 +41,13 @@ It contains three types of alkaloidal constituents, viz., beta-phenethylamines, 
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Baraira |
-| English | Common Wireweed, Morning mallow |
-| Hindi | Baraira |
-| Kannada | Bheemana kaddi |
+| Sanskrit | Baraira, Bala, Rajabala, Pranajeevika, Vatsalika, Vatta |
+| English | Common Wireweed, Morning mallow, The Horn Beam Leaves Sida |
+| Hindi | Baraira, Vireta, Bariyar |
+| Kannada | Bheemana kaddi, Dodda Bindige Gida, Vishakaddi |
 | Malayalam | Malatanni Shiruparuva |
-| Tamil | Arivaḷmanaip puṇṭu |
-| Telugu | Muttavapulagamu |
+| Tamil | Arivaḷmanaip puṇṭu, Pajapasi, Malaitangi |
+| Telugu | Muttavapulagamu, Chittamu, Chittamutta, Vishayodhi |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -93,4 +93,5 @@ On Roadsides, On Wastelands.
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
 5. [names](Local)(http://www.flowersofindia.net/catalog/slides/Common%20Wireweed.html)
-6. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:277
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 277.**
+   1. Consuming the root or leaf decoction helps repel insects and parasites from the body. 2. Applying root paste on wounds and sore areas helps promote healing. 3. Consuming the root decoction helps relieve body fatigue and enhances physical strength and vitality. It has nerve-tonic properties (Naapu.

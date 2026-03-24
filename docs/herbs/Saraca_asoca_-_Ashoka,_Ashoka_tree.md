@@ -45,7 +45,7 @@ date: 2020-08-05
 ![*Ashoka flolwer & leaf*](../images/ASHOKa_(1).jpg)
 **Ashoka** tree is one of the most legendary and sacred trees of India and holds valuable importance in Hinduism, Buddhism, and Jainism. It is an evergreen tree 15-20 meters high. Its family is Ceasalpiniaceae.
 ## Uses
-Menstrual cramps, Uterine bleeding, Uterine fibroids, Haemorrhoids, Internal bleeding, Blotches, Pimples, Diarrhea, Sore throats, White discharge, Excess vaginal bleeding, Menstrual disorder.
+Menstrual cramps, Uterine bleeding, Uterine fibroids, Haemorrhoids, Internal bleeding, Blotches, Pimples, Diarrhea, Sore throats, White discharge, Excess vaginal bleeding, Menstrual disorder, Skin diseases, Internal inflammation.
 
 ## Parts Used
 Bark, Seeds, Flowers
@@ -56,11 +56,11 @@ Flavonoids, two tannins, allagic acid, catechin, quercetin and quercitrin and Di
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Achenge, Ashoka ಅಶೋಕ |
+| Kannada | Achenge, Ashoka ಅಶೋಕ, Ashoka Vriksha, Akshata, Asuge, Kankelli, Kusse, Gandhapushpi, Chasuvriksha |
 | Malayalam | Asokam, Hemapushpam |
-| Sanskrit | Anganapriya, Apashaka |
-| Tamil | Anagam, Ashogam |
-| Telugu | Asokamu, Vanjulamu |
+| Sanskrit | Anganapriya, Apashaka, Ashoka, Kankeli, Pakula Vriksha, Vanjula |
+| Tamil | Anagam, Ashogam, Ashogu |
+| Telugu | Asokamu, Vanjulamu, Ashok, Shankeli |
 | Hindi | Ashok, Asok |
 | English | Ashoka tree |
 | Marathi | Ashok |
@@ -138,7 +138,8 @@ The Varah Purana describes the importance of planting and maintaining trees, inc
 1. [Constituents](Chemical)(http://www.stuartxchange.org/Asoka)
 2. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/s/saraca-asoca)
 3. [decsription](Plant)(https://indiabiodiversity.org/species/show/18020)
-4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:25
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 25.**
+   1. Bark and flower preparations help manage menstrual disorders and excessive uterine bleeding. The bark is described as sacred in Hindu tradition, associated with Sita in Ramayana and with Buddha's birthplace. 2. Bark decoction combined with other ingredients helps treat uterine disorders. 3. Bark . Bark decoction prepared with water. Various bark and flower preparations used for gynecological conditions. The tree grows 20-30 feet tall and is commonly used as an ornamental tree in gardens.
 5. [in the field](Planting)(http://e-charak.in/echarak/templates/Saraca%20asoca%20%20(Roxb.)%20de%20Willde.pdf)
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 33, 54, 72, 91.**
    Classified as Jangala-adapted (arid region) and part of the auspicious pentad (pancavrksa) of trees. In Dohada tradition, when a beautiful young woman adorned with anklet ornaments and painted with lac-dye touches the tree with her lotus-like feet, it instantaneously responds with pleasure and blooms profusely.

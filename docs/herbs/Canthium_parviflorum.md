@@ -27,7 +27,7 @@ date: 2021-03-29
 ![](../images/Canthium_parviflorum_(8582483478).jpg)
 This plant is belongs to Rubeaceae family. It is a thorny shrub.
 ## Uses
-Dysentry, Flux, Diabetes.
+Dysentry, Flux, Diabetes, Intestinal worms, Vitiligo, Diarrhea.
 
 ## Parts Used
 Stem, Leaves, Root.
@@ -40,8 +40,8 @@ Canthium parviflorum contains Polyphenols, Glutathione, and Flavonoids.
 | --- | --- |
 | Sanskrit | Gangeruki |
 | English | Canthium |
-| Kannada | Kaare gida |
-| Tamil | Kaaraichedi |
+| Kannada | Kaare gida, Acchumullu, Ganduka korka |
+| Tamil | Kaaraichedi, Karchehidi |
 | Telugu | Balusu chettu |
 
 ## Properties
@@ -83,5 +83,6 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 
 1. [Chemistry]
 2. [Morphology]
-3. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:87
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 87.**
+   1. Consuming the bark decoction helps destroy intestinal worms. 2. Applying a paste of fruits with rock salt and lemon juice on skin patches (vitiligo) helps heal them. 3. Consuming a decoction of leaf or bark helps treat diarrhea and dysentery.
 4. [Cultivation]

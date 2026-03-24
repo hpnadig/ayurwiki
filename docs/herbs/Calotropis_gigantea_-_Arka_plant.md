@@ -45,7 +45,7 @@ date: 2021-03-25
 ![* Sadapushpa*, *Mandara*, *Calotropis flower*](../images/"Calotropis_flower".JPG)
 **Calotropis procera** is a large shrub growing to 4m tall. It has clusters of waxy flowers that are either white or lavender in color. This plant is belongs to Aslepiacea family.
 ## Uses
-Rheumatism, Painful joints, Skin blemishes, Leucoderma, Vitiligo, Piles, Pain in ears
+Rheumatism, Painful joints, Skin blemishes, Leucoderma, Vitiligo, Piles, Pain in ears, Scorpion stings, Snake bites, Asthma, Warts, Elephantiasis, Dropsy, Leprosy, Chronic fevers, Ringworm, Paralysis, Liver enlargement, Spleen disorders, Indigestion, Bloating
 
 ## Parts Used
 Roots, Bark, Flowers, Leaves, Latex.
@@ -56,11 +56,11 @@ The milky sap contains a complex mix of chemicals, some of which are steroidal h
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Bhaanu, Ravi, Tapana, Arka |
-| English | Aakado |
+| Sanskrit | Bhaanu, Ravi, Tapana, Arka, Pretarka |
+| English | Aakado, Swallow-wort |
 | Gujarati | Aakado |
-| Hindi | Aak, Akavana, Madar |
-| Kannada | Ekka, Ekkadagida, Ekkegida |
+| Hindi | Aak, Akavana, Madar, Akkad, Safed Aak |
+| Kannada | Ekka, Ekkadagida, Ekkegida, Arka, Devara Ekka |
 | KS | Vasa |
 | Malayalam | Erikku |
 | Marathi | Rui |
@@ -130,4 +130,5 @@ Tropical area, Indian subcontinent.
 2. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Calotropis+gigantea)
 3. [uses of Madar](Medicinal)(https://www.bimbima.com/herbs/medicinal-uses-of-madar-or-arka/688/)
 4. [Composition](Chemical)(https://www.researchgate.net/publication/241039494_Chemical_composition_of_Calotropis_gigantea)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:245
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 245.**
+   1. The milky latex from the plant applied to scorpion stings and venomous bites neutralizes the venom. People in the area apply the leaf on the bitten area. 2. The root bark powder (about 2 grains) mixed with black pepper is given for snake bites; it induces vomiting and helps expel the venom. 3. Ap.

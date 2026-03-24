@@ -38,7 +38,7 @@ date: 2021-06-30
 
 **Hygrophila auriculata** is an erect, stout, branched or unbranched, annual herb. It can grows up to 150cm or more tall. Occasionally the basal part of the stem is creeping and rooting. The plant is harvested from the wild for local use as a food and a medicine. It is cultivated in water beds in west Africa both as a vegetable and for the vegetable salt it can yield. This plant is belongs to Acanthaceae family.
 ## Uses
-Blennorrhoea, Hhydropsy, Anuria, Stomach ache, Dropsy, Rheumatism, Corneal ulcers.
+Blennorrhoea, Hhydropsy, Anuria, Stomach ache, Dropsy, Rheumatism, Corneal ulcers, Urinary disorders, Gonorrhea, Gout.
 
 ## Parts Used
 Young leaves.
@@ -48,16 +48,16 @@ Young leaves.
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Kokilaksah |
-| English | Marsh Barbel |
+| Sanskrit | Kokilaksah, Ikshugandha, Kandekke, Ikshura, Kshura |
+| English | Marsh Barbel, Long Leaves Barleria |
 | Gujarati | Ekharo |
-| Hindi | Bhankari |
-| Kannada | Gokantaka |
+| Hindi | Bhankari, Tal-makhan |
+| Kannada | Gokantaka, Kolavanke, Kolavake mullan gida, Kolasamullin gida, Kolilakke, Gorividi, Neergobbu, Neerummagida |
 | Malayalam | Vaya schulli |
 | Marathi | Ekhara |
 | Punjabi | Talmakhana |
 | Tamil | Nir-mulli |
-| Telugu | Enugu palleru |
+| Telugu | Enugu palleru, Neergobbu |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -109,6 +109,7 @@ Wet places, Often brackish, Estuarine, Littoral.
 
 1. [Chemistry]
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 225
-3. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:105
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 105.**
+   1. Grinding the whole plant and mixing with clarified butter, then consuming with cow's urine in small quantities, mixed with milk, helps treat urinary disorders and also prevents gonorrhea-like conditions. 2. Drinking a decoction of the plant or consuming it as a vegetable helps treat gout. 3. Cons. Seed powder: 3-6 grams; Plant extract: 1-3 grams daily. Seeds with milk or water for reproductive health.
 4. [Cultivation]
 5. Indian Medicinal Plants by C.P.Khare

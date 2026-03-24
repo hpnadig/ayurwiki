@@ -28,7 +28,7 @@ date: 2020-08-13
 ![*Mirabilis jalapa*](../images/Mirabilis_jalapa,_Burdwan,_West_Bengal,_India_02_01_2013_(2).jpg)
 **Mirabilis jalapa** is the marvel of Peru or four o'clock flower. It is the most commonly grown ornamental species of Mirabilis plant. It is available in a range of colours. Mirabilis in Latin means wonderful and Jalapa is the state capital of Veracruz in México. Mirabilis jalapa was cultivated by the Aztecs for medicinal and ornamental purposes. This plant is belongs to Nyctaginaceae family.
 ## Uses
-Dropsy, Wounds, Swelling.
+Dropsy, Wounds, Swelling, Constipation, Nasal congestion, Boils, Dandruff, Hair loss.
 
 ## Parts Used
 Leaves, Roots.
@@ -39,13 +39,13 @@ Bioassay-guided fractionation of the methanolic extract of M. jalapa also led to
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Gulamaji, Naalku ghante hoo |
+| Kannada | Gulamaji, Naalku ghante hoo, Kallulli, Gullumanti, Bhadrattipoo, Madhyahna Mallige, Vibhutipoo, Sanchamallige |
 | Malayalam | Anthimalari, Anti-mantaram, naalu mani poovu |
-| Sanskrit | Krishnakeli |
-| Tamil | Pattarashu, Andhi Mandarai |
+| Sanskrit | Krishnakeli, Krishnakoli |
+| Tamil | Pattarashu, Andhi Mandarai, Badrakshi |
 | Telugu | Chandrakantha, Chandramalli |
 | Hindi | Gul abbas, Gulbakshi |
-| English | Four O'clock, Beauty-of-the-night, Marvel of Peru |
+| English | Four O'clock, Beauty-of-the-night, Marvel of Peru, Four O'Clock Plant |
 .
 
 ## Properties
@@ -94,4 +94,5 @@ Garden area, Mountain area
 1. [composition](Chemical)(https://www.sciencedirect.com/science/article/abs/pii/S0960894X06014776)
 2. [Identification](http://www.flowersofindia.net/catalog/slides/Four%20O'clock.html)
 3. [Cultivation ](https://en.wikipedia.org/wiki/Mirabilis_jalapa#cite_note-14)
-4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:327
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 327.**
+   1. Root decoction consumed acts as a gentle purgative, similar to mild laxative action. 2. Root bark powder placed on the tongue and swallowed with milk helps strengthen the body and improve vitality. 3. Root scent inhaled helps cure nasal congestion and running nose. 4. Leaves ground and applied on. Root decoction as a gentle purgative. Root bark ground with sesame oil for scalp application over several days.

@@ -124,3 +124,5 @@ Trophical region, Borders of forests and fields.
 1. [Constituents](Chemical)(http://www.biologydiscussion.com/medicinal-plants/rauvolfia-serpentina-habitat-history-and-constituents/51900)
 2. [description](Plant)(https://hort.purdue.edu/newcrop/CropFactSheets/rauvolfia.html)
 3. [Cultivation](http://www.yourarticlelibrary.com/biology/alkaloid/rauwolfia-sources-cultivation-and-uses-with-diagram/49643)
+4. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 72.**
+   Known in Northeast Indian tribal medicine for antihypertensive and sedative properties. Used to treat high blood pressure, anxiety, and insomnia.

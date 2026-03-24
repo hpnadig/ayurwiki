@@ -33,7 +33,7 @@ date: 2020-08-07
 ![*Solanum erianthum*](../images/Solanum_erianthum_Don_W2_IMG_1621.jpg)
 Big eggplant is an unarmed shrub or small tree usually growing up to 4 metres tall, with occasional specimens to 10 metres. The stem is up to 20 cm in diameter. The plant is cultivated in some areas for its fruits, which are used in curries. This plant is belongs to Solanaceae family.
 ## Uses
-Leucorrhoea, Vertigo, Piles, Haemorrhoids, Scrofula, Headache, Headache, Dysentery, Diarrhoea, Fever, Arthritis.
+Leucorrhoea, Vertigo, Piles, Haemorrhoids, Scrofula, Headache, Headache, Dysentery, Diarrhoea, Fever, Arthritis, Swelling, Body pain.
 
 ## Parts Used
 Fruits.
@@ -44,10 +44,11 @@ It contains the major components of the leaf oil were the hydrocarbon monoterpen
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Gandhira, Pathi |
-| Kannada | Choudangi, Kaadusunde, Arimanigida |
-| Tamil | Anaichundai |
-| Telugu | Rasagadi |
+| Sanskrit | Gandhira, Pathi, Pathya, Priyankari |
+| Kannada | Choudangi, Kaadusunde, Arimanigida, Arimakegida, Kamusunde, Kalpatre, Savadangi, Sodangi |
+| Hindi | Ashet |
+| Tamil | Anaichundai, Annetundre, Malemundre, Sundai |
+| Telugu | Rasagadi, Budama |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -97,4 +98,5 @@ Slightly shaded places, In brushwood, On roadsides, In field edges, On waste gro
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Solanum+erianthum)
 4. Indian Medicinal Plants by C.P.Khare
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:139
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 139.**
+   1. Grinding the dried root of the plant, soaking in hot water, and applying the paste as a poultice helps reduce swelling and provide pain relief. 2. During pregnancy, when there is excess bleeding, grinding the fresh root juice, straining, and mixing with a little ghee helps provide strength and st. Root paste soaked in hot water for poultice application. Fresh root juice with ghee for pregnancy bleeding. Leaf paste for hemorrhoid application.

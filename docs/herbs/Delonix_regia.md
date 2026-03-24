@@ -24,7 +24,7 @@ date: 2020-10-15
 
 **Delonix regia** is a fast-growing tree with an umbrella shaped, spreading crown. The tree grows upto 10 - 18 metres tall. This tree is belongs to Caesalpiniaceae family..
 ## Uses
-Constipation, Inflammation, Rheumatoid arthritis, Diabetes, Pneumonia, Malaria.
+Constipation, Inflammation, Rheumatoid arthritis, Diabetes, Pneumonia, Malaria, Fever, Kidney stones.
 
 ## Parts Used
 Seedpod.
@@ -33,6 +33,13 @@ Seedpod.
 The active compounds include flavonoids, alkaloids, saponins, sterols, beta-sitosterol, lupeol, tannins, carotenoids, and phenolic acids.
 
 ## Common names
+| Language | Names |
+| --- | --- |
+| Kannada | Sankeshwara, Seemasankeshwara, Sunkesara, Kempukenjiga, Neerangi |
+| Tamil | Vatanarayana, Padanarayanam, Parugodde |
+| Telugu | Vatanarayanamu, Chinnakeribaseri |
+| English | White Gul Mohar, Tiger Bean |
+
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
 ### Dravya
@@ -79,4 +86,5 @@ Forests in warm humid areas.
 1. [constituents](Chemical)(http://www.sphinxsai.com/Vol.3No.1/chem_jan-mar11/pdf/CT=44(280-283)%20JMCT11.pdf)
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Delonix+regia)
-4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:321
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 321.**
+   1. Root bark powder or leaf decoction consumed helps relieve rheumatic conditions and abdominal disorders. 2. The tree's bark decoction consumed helps cure fever and reduces body inflammation. 3. Root bark or leaf consumed as decoction helps relieve urinary tract problems and kidney-related stone is. Root bark powder or leaf decoction for rheumatic conditions.

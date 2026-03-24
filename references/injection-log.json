@@ -778,5 +778,161 @@
     "references_added": 0,
     "sources_used": [],
     "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Acorus_calamus_-_Jatila.md",
+    "plant": "Sweet Flag",
+    "latin_name": "Acorus calamus",
+    "references_added": 1,
+    "sources_used": [
+      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Centella_asiatica_-_Mandooka_Parni.md",
+    "plant": "Gotu Kola",
+    "latin_name": "Centella asiatica",
+    "references_added": 1,
+    "sources_used": [
+      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Zingiber_officinale.md",
+    "plant": "Ginger",
+    "latin_name": "Zingiber officinale",
+    "references_added": 1,
+    "sources_used": [
+      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Ocimum_tenuiflorum_-_Tulsi_plant.md",
+    "plant": "Holy Basil",
+    "latin_name": "Ocimum tenuiflorum",
+    "references_added": 1,
+    "sources_used": [
+      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Phyllanthus_emblica_-_Emblic,_Amalaki.md",
+    "plant": "Indian Gooseberry",
+    "latin_name": "Phyllanthus emblica",
+    "references_added": 1,
+    "sources_used": [
+      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Curcuma_longa_-_Haridra.md",
+    "plant": "Turmeric",
+    "latin_name": "Curcuma longa",
+    "references_added": 1,
+    "sources_used": [
+      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Andrographis_paniculata_-_Kalmegh.md",
+    "plant": "King of Bitters",
+    "latin_name": "Andrographis paniculata",
+    "references_added": 1,
+    "sources_used": [
+      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Justicia_adhatoda_-_Simhaparni.md",
+    "plant": "Vasaka",
+    "latin_name": "Justicia adhatoda",
+    "references_added": 1,
+    "sources_used": [
+      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Justicia_Adhatoda_-_Sinhapuri.md",
+    "plant": "Vasaka",
+    "latin_name": "Justicia adhatoda",
+    "references_added": 1,
+    "sources_used": [
+      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Tinospora_cordifolia_-_Amrutha_balli.md",
+    "plant": "Guduchi",
+    "latin_name": "Tinospora cordifolia",
+    "references_added": 1,
+    "sources_used": [
+      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Terminalia_chebula_-_Haritaki.md",
+    "plant": "Haritaki",
+    "latin_name": "Terminalia chebula",
+    "references_added": 1,
+    "sources_used": [
+      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Rauvolfia_serpentina_-_Sarpa_Gandha.md",
+    "plant": "Indian Snakeroot",
+    "latin_name": "Rauvolfia serpentina",
+    "references_added": 1,
+    "sources_used": [
+      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Chameleon Plant",
+    "latin_name": "Houttuynia cordata",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Swertia_chirayita_-_chirayata.md",
+    "plant": "Chirayata",
+    "latin_name": "Swertia chirayita",
+    "references_added": 1,
+    "sources_used": [
+      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Murraya_koenigii_-_Girinimba.md",
+    "plant": "Curry Leaf Tree",
+    "latin_name": "Murraya koenigii",
+    "references_added": 1,
+    "sources_used": [
+      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Sohbyrthit",
+    "latin_name": "Adenostemma lavenia",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
   }
 ]

@@ -129,3 +129,5 @@ Scattered in teak forest, Mixed deciduous forest.
 4. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 60, 65-66, 82-83, 91.**
    A key component of Triphala (with Bibhitaka and Amalaki), one of the most important formulations in the text. Triphala used extensively for fumigation and irrigation of fruit trees including panasa and dadima. Haritaki individually used in medicated irrigation mixed with honey, mustard, ghee, and nicula leaves.
    > *As cited in: Vrksayurveda of Surapala, Verses 121, 134, 137, 231; Sections 11, 13, 17, 19*
+5. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 72.**
+   Valued among Northeast Indian tribes for strong antioxidant and anti-inflammatory properties. Employed to improve digestion, promote weight loss, and manage diabetes.

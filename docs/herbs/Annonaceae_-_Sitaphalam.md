@@ -40,7 +40,7 @@ date: 2020-08-13
 ![*Sitaphalam*, *Annonaceae*](../images/Annona_squamosa.jpg)
 **Annonaceae** is in the custard apple family. It is the largest family in the Magnoliales. Several genera produce edible fruit, most notably Annona, Anonidium, Asimina, Rollinia and Uvaria. Common names custard apple, sugar apple etc.
 ## Uses
-Wounds, Cuts, Snakebites, Curing liver disorders, Skin eruptions, Blotches, Pimples, Diarrhea, Sore throats.
+Wounds, Cuts, Snakebites, Curing liver disorders, Skin eruptions, Blotches, Pimples, Diarrhea, Sore throats, Toothache, Dysentery, Skin infections, Fever, Lice, Boils.
 
 ## Parts Used
 Bark, Leaves, Fruits.
@@ -51,13 +51,13 @@ salzmannii; sesquiterpenes predominated in both essential oils. Bicyclogermacren
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Sitaphala |
+| Kannada | Sitaphala, Amrutaphala, Amutikaayi, Duranja |
 | Malayalam | Seethapazham |
-| Sanskrit | Atrupyum |
-| Tamil | Atta |
+| Sanskrit | Atrupyum, Gandagatra, Sitaphala, Bahubijaka |
+| Tamil | Atta, Sitaphalam |
 | Telugu | Sita-phalamu |
-| Hindi | Sharifa, Sitaphal |
-| English | Sugar Apple, Sweetsop |
+| Hindi | Sharifa, Sitaphal, Parikh |
+| English | Sugar Apple, Sweetsop, Custard Apple |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -120,4 +120,5 @@ Tall grasslands, Meadows, Borders of forests and fields.
 1. [constituents](Chemical)(https://www.ncbi.nlm.nih.gov/pubmed/22583044)
 2. [Morphology](http://www.biologydiscussion.com/angiosperm/dicotyledons/annonaceae-characters-distribution-and-types/47740)
 3. [Cultivation](http://ageconsearch.umn.edu/record/261375?ln=en)
-4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:337
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 337.**
+   Note: The seed powder is toxic. It can cause eye damage and vision loss if it contacts the eyes; this has been mentioned by Kirtikar and other authors in their reference works. Use with caution. 1. Leaves are boiled in water, ground into a paste, and applied on wounds and boils to promote faster hea. Leaf paste on wounds for healing. Seed paste with turmeric for skin infections. Leaf paste with turmeric applied for 7-14 days for boils.

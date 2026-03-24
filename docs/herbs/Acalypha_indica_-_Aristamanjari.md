@@ -30,7 +30,7 @@ date: 2021-01-26
 ![*Aristamanjari*, *Acalypha indica*](../images/Acalypha_indica_plant_01.JPG)
 **Acalypha indica** is an annual to sometimes short-lived perennial herb that usually grows up to 1.5 metres tall. It is an important medicinal plant in the Indian Ocean islands as well as in India. This is plant belongs to Ephorbeaceae family.
 ## Uses
-Intestinal parasites, Stomach infection, Piles, Inflammation, Skin diseases, Headache.
+Intestinal parasites, Stomach infection, Piles, Inflammation, Skin diseases, Headache, Cough, Breathing difficulties, Bedsores, Scabies, Rheumatic pain, Asthma.
 
 ## Parts Used
 Leaves
@@ -42,13 +42,14 @@ cyanogenic glycoside.
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Aristamanjari, Arittamanjarie, Haritamanjari, Manshinka |
-| English | Indian Nettle |
-| Kannada | ಜಲಮಲಿ Jalamali, ಕುಪ್ಪಿಗಿಡ Kuppigida |
+| Sanskrit | Aristamanjari, Arittamanjarie, Haritamanjari, Manshinka, Avakshashti |
+| English | Indian Nettle, Indian Acalypha, Cat's Tail |
+| Kannada | ಜಲಮಲಿ Jalamali, ಕುಪ್ಪಿಗಿಡ Kuppigida, Kuppantisoppu, Chalasgi, Tuppakeere |
 | Malayalam | Kuppa-mani, Kuppaman-cheti |
 | Marathi | Khajoti, Khojoti, Khokalee, Khokali, Khokla |
 | Tamil | Kuppamani, Kuppai meni |
 | Telugu | Harita-manjari, Kuppichettu, Kupppinta, Murukonda-Chettu, Murupindi, Puppante |
+| Hindi | Kuppa, Khokali |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -105,4 +106,5 @@ Waste places, Road sides
 3. [names](Common)(http://envis.frlht.org/index.php/bot_search)
 4. [Uses](http://www.ayurvedavignan.com/2011/08/acalypha-indica.html)
 5. [ Cultivation]
-6. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:95
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 95.**
+   1. Grinding the leaves, mixing with buttermilk and consuming helps relieve cough; mixing with sesame oil and consuming relieves breathing difficulties. 2. Applying a paste of the plant juice with a little turmeric helps heal bedsores; if insects are present in the wound, the paste also helps elimina. Leaf juice mixed with sesame oil or buttermilk for internal use; paste applied externally for bedsores and scabies.

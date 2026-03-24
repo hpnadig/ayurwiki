@@ -47,16 +47,16 @@ Volatile oil of Vitex negundo is reported to contain β-carryophyllene, sabinene
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Indrani, Nirgundi |
+| Sanskrit | Indrani, Nirgundi, Neelanirgundi, Sindhuvara |
 | English | Five-leaved chaste tree, Indian privet |
 | Gujarati | Nagod |
-| Hindi | Indrani, Nirgunthi |
-| Kannada | ಇನ್ದ್ರಾಣಿ Indrani, ಕರಿ ಲಕ್ಕಿ Kari lakki, ಲಕ್ಕಿ ಗಿಡ Lakki gida |
+| Hindi | Indrani, Nirgunthi, Nisunda, Nishinda, Nirgund |
+| Kannada | ಇನ್ದ್ರಾಣಿ Indrani, ಕರಿ ಲಕ್ಕಿ Kari lakki, ಲಕ್ಕಿ ಗಿಡ Lakki gida, Kannaikki, Nekkili, Nota, Bilinekki |
 | Malayalam | Karinocchi, Nocchi |
 | Marathi | Indrani, Niguda |
 | Punjabi | Marwande |
-| Tamil | Karu-nocci, Nocci |
-| Telugu | Nirgundi, Sambali |
+| Tamil | Karu-nocci, Nocci, Karunosi, Chinduvaram, Nosi, Vennosi |
+| Telugu | Nirgundi, Sambali, Tellavavilli, Nallavavili, Sindhuvarumu |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -103,4 +103,5 @@ Mixed thickets.
 3. [Morphology]
 4. [Cultivation]
 5. Indian Medicinal Plants by C.P.Khare
-6. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:303
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 303.**
+   1. Leaf decoction along with castor oil and spices taken internally and externally treats rheumatic conditions. Heating leaves with 1 pinch of turmeric and tying over joints relieves joint pain (2-3 days treatment). 2. Leaves heated and placed on the forehead treats headache. Leaves bandaged over pa.

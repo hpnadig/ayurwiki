@@ -25,7 +25,7 @@ date: 2020-08-20
 ![*Terminalia catappa*](../images/A_Hoverfly_on_a_Desi_Badam_(Terminalia_catappa)_in_Hyderabad,_AP_W_IMG_0494.jpg)
 **Indian almond** is a fast-growing deciduous or semi-evergreen tree, usually growing about 15 metres tall with specimens up to 40 metres recorded. The canopy has a pagoda-like habit when young, but this becomes less noticeable as the tree ages and the branches elongate and droop at the tips. This plant is belongs to Combretaceae family.
 ## Uses
-Stomachache, Headache, Itching.
+Stomachache, Headache, Itching, Skin rashes, Eczema, Skin diseases, Dizziness.
 
 ## Parts Used
 Seeds, Fruits.
@@ -35,12 +35,12 @@ Seeds, Fruits.
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Grahadruma |
+| Sanskrit | Grahadruma, Grahavrikshama |
 | English | Indianalmond tree |
-| Hindi | Deshi badam |
-| Kannada | Naadu badami, Uru badami |
-| Tamil | Amandimaram |
-| Telugu | Naatubadam |
+| Hindi | Deshi badam, Janglibadam |
+| Kannada | Naadu badami, Uru badami, Kadubadami |
+| Tamil | Amandimaram, Nattuvadummai |
+| Telugu | Naatubadam, Ingudi, Tapasataruppu |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -93,4 +93,5 @@ Near river mouths, On coastal plains.
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Terminalia+catappa)
 4. Indian Medicinal Plants by C.P.Khare
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:203
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 203.**
+   1. Applying the tender leaves on wounds and skin eruptions helps treat skin rashes, eczema, and various skin diseases. 2. Chewing the tender leaves helps relieve headache and dizziness. Tender leaves applied externally on skin conditions. Leaves chewed for headache relief.

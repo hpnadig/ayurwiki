@@ -40,7 +40,7 @@ date: 2021-10-21
 ![](../images/Abrus_precatorius_%E2%80%94_Scott_Zona_001.jpg)
 **Abrus precatorius** is a severely invasive plant in warm temperate to tropical regions. The plant is best known for its seeds, which are used as beads and in percussion instruments and which are toxic because of the presence of abrin. This plant belongs to Fabaceae family.
 ## Uses
-Blisters in mouths, Mouth sores, Bleeding piles, Leucorrhoea, Mild diabetes, Cough, Physical weakness, Ulcer, Urinary trouble, Snakebite, Infection in intestine.
+Blisters in mouths, Mouth sores, Bleeding piles, Leucorrhoea, Mild diabetes, Cough, Physical weakness, Ulcer, Urinary trouble, Snakebite, Infection in intestine, Hair loss, Sore throat, Joint pain, Rheumatic conditions, Ringworm, Skin pigmentation, Boils, Spermatorrhea.
 ### Food
 Gunja can be used in food. Leaves are sweet and are chewed with paan or also eaten raw
 
@@ -53,13 +53,13 @@ Mature seeds contain alkali like abrine, precatorine, etc.
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Gulaganji, ಗುಲಗಂಜಿ |
+| Kannada | Gulaganji, ಗುಲಗಂಜಿ, Guncha, Gundumani, Madhukashke, Podige |
 | Malayalam | Kunni, Kunnikkuru |
-| Sanskrit | Gunja |
-| Tamil | Gundumani, Kundumani |
-| Telugu | Gurivinda |
-| Hindi | Gaungchi, Gunchi |
-| English | Equirity |
+| Sanskrit | Gunja, Guncha |
+| Tamil | Gundumani, Kundumani, Kunnimani |
+| Telugu | Gurivinda, Guriginja |
+| Hindi | Gaungchi, Gunchi, Rati |
+| English | Equirity, Crab's Eye, Indian Liquorice, Jequirity |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -130,6 +130,7 @@ Tropical area, Subtropical area.
 2. [Morphology](https://indiabiodiversity.org/species/show/32002)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2015/09/12/rosary-pea-abrus-precatorius/)
 4. [details](Cultivation)(https://www.researchgate.net/post/How_to_cultivate_Abrus_precatorius)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:121
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 121.**
+   1. Grinding the roots and leaves into a paste, adding milk, and applying on the scalp and hair helps promote hair growth and prevent greying; it can also be used to darken grey hair. 2. Consuming the root decoction with milk and fruit helps treat conditions related to spermatorrhea. 3. Placing the r.
 6. Kappathagudda - A Repertoire of Medicinal Plants of Gadag book, Page no: 30
 7. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.15, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

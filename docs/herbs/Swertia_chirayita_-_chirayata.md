@@ -112,3 +112,5 @@ Pasture areas, Slope areas of Himalayas
 1. [constituent"]("Chemical)(http://www.shergaonforests.org/2011/03/swertia-chirata.html)
 2. [decsription"]("plant)(https://www.flowersofindia.net/catalog/slides/Chirayita.html)
 3. [details"]("Cultivation)(https://www.pfaf.org/user/Plant.aspx?LatinName=Swertia+chirayita)
+4. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 72.**
+   Used in Northeast Indian tribal medicine for antimalarial, antipyretic, and anti-inflammatory properties. Employed to treat fever, malaria, and digestive disorders.

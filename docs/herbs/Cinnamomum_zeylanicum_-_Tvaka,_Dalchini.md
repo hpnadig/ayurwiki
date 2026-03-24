@@ -35,7 +35,7 @@ date: 2020-08-11
 ![*Dalchini*, *Tvaka*](../images/Cinnamomum_zeylanicum_(2284445265).jpg)
 **Cinnamon** is a spice obtained from the inner bark of several tree species from the genus Cinnamomum. Cinnamon is used in both sweet and savoury foods. The term **Cinnamon** also refers to its mid-brown colour. This plant is belongs to **Lauraceae** Family.
 ## Uses
-Indigestion, Gastrointestinal disorders, Respiratory disorders, Headache, Catarrh, Rheumatism, Stomach gas, Intestinal gas.
+Indigestion, Gastrointestinal disorders, Respiratory disorders, Headache, Catarrh, Rheumatism, Stomach gas, Intestinal gas, Cold, Cough, Congestion, Flu, Throat infections, Tonsillitis, Gum diseases, Tooth decay, Dengue fever, Diarrhea, Fever, Menstrual irregularity, Nausea, Dental pain.
 
 ## Parts Used
 Bark, Leaves.
@@ -46,13 +46,13 @@ The primary chemical constituents of this herb include cinnamaldehyde, gum, tann
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Dalchinni, Dalachini |
+| Kannada | Dalchinni, Dalachini, Sambarachakke, Sambrapatrasa |
 | Malayalam | Ceriyayilavannam, Cheriya-ela-vanna-toli, Cheriyayilavannam |
-| Sanskrit | Bahugandha, Balya, Bhringa |
-| Tamil | Ankaparainati, Ariyavanati |
-| Telugu | Bhryngamu, Dalchinachekka |
+| Sanskrit | Bahugandha, Balya, Bhringa, Tamalapattra, Gudatvak, Varanga |
+| Tamil | Ankaparainati, Ariyavanati, Patte, Lavanga patte |
+| Telugu | Bhryngamu, Dalchinachekka, Lavangapatte, Chakke, Dalchini |
 | Hindi | Dalchini, Darchini |
-| English | Cinnamon |
+| English | Cinnamon, Chinese Cassia |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -107,4 +107,5 @@ Forests in moist, Well drained soils.
 1. [constituents](Chemical)(http://www.spicesmedicinalherbs.com/cinnamon-spice-uses-constituents.html)
 2. [Morphology](http://eol.org/pages/490672/details)
 3. [detail](Planting)(http://www.kisansuvidha.com/cinnamon/)
-4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:185
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 185.**
+   1. A combination of cinnamon, bay leaf, cardamom, and other spices ground together and consumed with hot water (about 10 grams in a cup, 3-4 times daily) helps relieve cold, cough, congestion, and flu symptoms. 2. Mixing cinnamon powder with warm water and gargling helps treat throat infections, ton. Spice mix: about 10 grams in hot water, 3-4 times daily. Cinnamon oil for topical application. Cinnamon powder gargle for oral health.

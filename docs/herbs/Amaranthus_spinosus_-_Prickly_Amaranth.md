@@ -41,7 +41,7 @@ date: 2021-10-21
 ![](../images/Starr_080531-5004_Amaranthus_spinosus.jpg)
 **Amaranthus spinosus** is much-branched annual plant. It grows up to 100cm tall. The plant is harvested from the wild for local use as a source of food and medicines. The leaves are sometimes sold as a vegetable in local markets.
 ## Uses
-Internal bleeding, Diarrhoea, Excessive menstruation, Snake bites, Ulcerated mouths, Vaginal discharges, Nosebleeds, Wounds, Eczema, Boils, Burns.
+Internal bleeding, Diarrhoea, Excessive menstruation, Snake bites, Ulcerated mouths, Vaginal discharges, Nosebleeds, Wounds, Eczema, Boils, Burns, Gonorrhea, Stomach ache, Constipation, Urinary blockage, Scorpion bites, Swelling.
 
 ### Food
 Prickly Amaranth can be used in food. Tender shoots and leaves are cooked as vegetable. Sharp thorns are clipped off before cooking. Young leaves are dried and stored for use in off season
@@ -56,12 +56,13 @@ Seven compounds, including two diglycoside flavonoids hesperidin and rutin, one 
 | Language | Names |
 | --- | --- |
 | Sanskrit | Tanduliuyah |
-| English | Prickly Amaranth |
-| Hindi | Kanta chaulai |
-| Kannada | Mulluharive soppu |
+| English | Prickly Amaranth, Thorny Amaranth |
+| Hindi | Kanta chaulai, Kattilichaulle |
+| Kannada | Mulluharive soppu, Mullu Arive, Mullu Kereganja, Mullu Gokoj |
 | Malayalam | Kattumullenkeera |
 | Marathi | Kante bhaji |
-| Tamil | mullukkeerai |
+| Tamil | mullukkeerai, Mullukakshire |
+| Telugu | Mullutotakuru |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -118,5 +119,6 @@ Roadsides, Waste places, Fields, Open areas.
 1. [Chemistry](https://onlinelibrary.wiley.com/doi/abs/10.1002/vjch.201900023)
 2. [Morphology]
 3. Useful tropical plants by The ferns.information website
-4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:295
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 295.**
+   1. A decoction of the roots consumed in 1-2 spoon doses helps relieve gonorrhea. 2. Root decoction or bark decoction consumed helps cure stomach ache. 3. Fresh leaf juice consumed daily helps relieve constipation and urinary blockage. 4. Whole plant decoction consumed helps cure snake and scorpion v. Root decoction in 1-2 spoon doses for gonorrhea. Fresh leaf juice daily for constipation.
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.21, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

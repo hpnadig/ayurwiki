@@ -37,13 +37,13 @@ Whole plant.
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Bhisatta, Okharadi |
+| Sanskrit | Bhisatta, Okharadi, Dhasatna |
 | English | Oldman's Cap |
 | Hindi | Bugyale |
-| Kannada | Paade mullu gida |
+| Kannada | Paade mullu gida, Arishinasave |
 | Malayalam | Katu-mailosina |
 | Marathi | Koyap, Maitosin |
-| Tamil | Nilaisedachi, Cataicciver |
+| Tamil | Nilaisedachi, Cataicciver, Nilsedat |
 | Telugu | Bommasari, Rajuma |
 
 ## Properties
@@ -95,4 +95,5 @@ Ellipsoid capsule, Adhesive with soft spines. Fruiting season is Through out the
 3. [names](Common)(http://www.flowersofindia.net/catalog/slides/Oldman's%20Cap.html)
 4. [Cultivation]
 5. Indian Medicinal Plants by C.P.Khare
-6. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:231
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 231.**
+   1. In cases of venomous bites, the leaves of this plant are applied over the bitten area, and a leaf decoction is also taken internally. 2. A decoction of the leaves is consumed to cure jaundice. 3. For boils (gulte), swelling, and other skin eruptions, the plant leaves are ground and applied extern. Leaf decoction taken orally for jaundice; leaf paste applied topically for venomous bites and boils.

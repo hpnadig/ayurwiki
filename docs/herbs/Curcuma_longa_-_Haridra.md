@@ -121,3 +121,5 @@ Tropical area, Southeast asia, Southern australia.
 5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 30, 39, 68, 82, 91, 93.**
    Propagated by tuber. Planting haridra within the house may cause loss of progeny and wealth according to ancient authorities. Its powder (haridra curna) used as fumigation ingredient for plant treatments, including conversion of tamarind into a climber.
    > *As cited in: Vrksayurveda of Surapala, Verses 32, 144, 236, 241; Sections 3, 6, 13, 17, 19*
+6. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 71.**
+   Well-known among Northeast Indian tribes for anti-inflammatory, antioxidant, and anticancer properties. Applied in treating arthritis, skin conditions, and digestive disorders.

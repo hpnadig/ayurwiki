@@ -94,6 +94,7 @@ Cultivated ground, On dry forests, Especially on stony hills.
 
 1. [Chemistry]
 2. [Morphology]
-3. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:23
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 23.**
+   1. Leaf juice applied on the scalp helps treat dandruff and headache. 2. Gum (Bondi) dissolved in buttermilk and consumed helps treat diarrhea and blood-related disorders. 3. Gum (Bondi) dissolved in water, mixed with alum, and used as a gargle helps relieve throat and gum pain. 4. Leaf and flower j. Leaf juice applied topically on the scalp. Gum dissolved in buttermilk for diarrhea. Gum dissolved in water with alum as a gargle solution.
 4. Indian Medicinal Plants by C.P.Khare
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.59, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

@@ -36,7 +36,7 @@ date: 2021-11-12
 ![* Ranjal*, *Mimusops elengi*](../images/Mimusops_elengi_flowers.jpg)
 **Mimusops elengi** is a medium-sized evergreen tree found in tropical forests in South Asia, Southeast Asia and northern Australia.
 ## Uses
-Diarrhoea, Dysentery, Gum inflammation, Toothache, Gonorrhoea, Snakebites, Fever, Wounds, Sore throats.
+Diarrhoea, Dysentery, Gum inflammation, Toothache, Gonorrhoea, Snakebites, Fever, Wounds, Sore throats, Bleeding disorders, Headache, Migraine, Mumps, Heart disorders.
 
 ### Food
 Mimusops elengi can be used in Food. Ripe fruits are eaten raw.
@@ -50,11 +50,13 @@ DPPH1,1-diphenyl-2-picrylhydrazylABTS2,2′-azino-bis(3-ethylbenzthiazoline-6-su
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Ranjal |
+| Kannada | Ranjal, Kanda, Kal hala, Kavala, Ponna, Bakulasari, Bogada, Halku |
 | Malayalam | Ilanni |
-| Tamil | Magizhamboo |
-| Hindi | Maulsari |
-| English | Spanish cherry |
+| Sanskrit | Bakula, Polasinda |
+| Tamil | Magizhamboo, Magilam, Mogada |
+| Hindi | Maulsari, Bakul, Maltan |
+| Telugu | Vakulamu, Pogada |
+| English | Spanish cherry, Bullet-wood Tree, Indian Medlar |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -124,7 +126,8 @@ Tall grasslands, Meadows, Borders of forests and fields.
 2. [morphology](Plant)(https://indiabiodiversity.org/species/show/15876)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2016/11/28/bakula-mimusops-elengi-bullet-wood-spanish-cherry/)
 4. [details](Cultivation)(https://www.pfaf.org/user/Plant.aspx?LatinName=Mimusops+elengi)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:213
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 213.**
+   1. Bark decoction of the Pagade tree consumed helps treat diarrhea, dysentery (pravahika), blood in stools, and bleeding disorders. 2. Bark decoction used as a gargle helps treat dental problems and prevents teeth from loosening. 3. Chewing the green bark helps maintain dental health and prevents to. Bark decoction for oral and gargle use. Flower decoction for nasal drops and internal consumption. Fruit consumed for reproductive health.
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.114, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
 7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 33, 44, 71, 91, 93.**
    Classified as Jangala-adapted (arid region). In Dohada tradition, the tree blooms profusely when a beautiful young woman sprays wine from her mouth onto it — this process defines the concept of Dohada (the distinctive desire of a plant). Flowering further enhanced with a recipe of kalaya, jaggery, and snake powder mixed in water with mud.

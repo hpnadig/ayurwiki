@@ -45,7 +45,7 @@ date: 2021-05-25
 ![*Sandal leaf*](../images/Sandal_leaf.jpg)
 **Sandalwood** is the name of a class of woods from trees in the genus Santalum. Species of these slow-growing trees have suffered over-harvesting in the past century. This plant is belongs to Santalaceae family.
 ## Uses
-Skin diseases, Swelling, Itching, Eczema, Acne, Bronchitis, Fever, Headache, Gastric problem, Chronic cough, Scabies, Gonorrhoea, Blood purifier.
+Skin diseases, Swelling, Itching, Eczema, Acne, Bronchitis, Fever, Headache, Gastric problem, Chronic cough, Scabies, Gonorrhoea, Blood purifier, Urinary burning, Urinary infections, Boils, Pustules, Ear discharge, Ear infection.
 
 ## Parts Used
 Leaves, Stem.
@@ -56,12 +56,12 @@ Sandal wood oil contains mixture of two isomers α and β-santolol (90%), α and
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | ಶ್ರೀಗಂಧ Srigandha |
+| Kannada | ಶ್ರೀಗಂಧ Srigandha, Gandha, Chandana, Bhadrashri |
 | Malayalam | Chandanam, Chandana-mutti |
-| Sanskrit | Chandanam |
-| Tamil | Anukkam, Asam |
-| Telugu | Bhadrasri |
-| Hindi | Chandan |
+| Sanskrit | Chandanam, Shrigandha, Shveta Chandana |
+| Tamil | Anukkam, Asam, Chandanamaram |
+| Telugu | Bhadrasri, Chandanamu |
+| Hindi | Chandan, Safed Chandan |
 | Punjabi | Chandan |
 | English | Sandalwood, Indian sandalwood |
 
@@ -127,4 +127,5 @@ Stony hills area, Stony meadows
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 332
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/s/santalum-album)
 4. [details](Cutlivation)(https://agrifarmingtips.com/sandalwood-tree-cultivation/)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:131
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 131.**
+   1. Rubbing sandalwood on a wet stone and consuming the paste (approximately one tola of sandalwood paste with a tola of sugar) mixed with water, once or twice a week for 1-2 weeks, helps treat urinary burning and infections. 2. Rubbing sandalwood and mixing with buttermilk, applying the paste on the.

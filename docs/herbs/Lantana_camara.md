@@ -37,7 +37,7 @@ date: 2021-11-11
 ![](../images/Lantana_camara_2.jpg)
 **Lantana camara** is a scrambling, thorny, evergreen shrub. It can grow up to 2 metres tall and perhaps 2.5 metres wide. Some forms of the plant are able to climber into other plants for support and thus reach greater heights. The plant is widely used in domestic medicine. It is commonly cultivated as an ornamental in tropical gardens, where it is also grown as a hedge plant. This herb is belongs to Verbenaceae family.
 ## Uses
-Skin itches, Wounds, Leprosy, Scabies, Tuberculosis, Asthma, Toothache, Headache, Inflammation, Gonorrhoea, Leucorrhoea.
+Skin itches, Wounds, Leprosy, Scabies, Tuberculosis, Asthma, Toothache, Headache, Inflammation, Gonorrhoea, Leucorrhoea, Rheumatic joint diseases, Malaria.
 
 ### Food
 Lantana camara can be used in Food. Ripe fruits are eaten raw.
@@ -51,12 +51,12 @@ It contains  triterpenoids, steroids, alkaloids, flavonoids, tannins etc.
 ## Common names
 | Language | Names |
 | --- | --- |
-| English | Lantana |
+| English | Lantana, Lantana Bush |
 | Hindi | Raimuniya |
-| Kannada | Kaadujola, Kasuthi hoo |
+| Kannada | Kaadujola, Kasuthi hoo, Chaduranga, Rojan gida, Lantavani, Hesige hoo |
 | Marathi | Tantani |
 | Tamil | Unnichedi |
-| Telugu | Pulikampa |
+| Telugu | Pulikampa, Makkadamu |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -110,5 +110,6 @@ Plantation crops, Moist habitats.
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Lantana+camara)
 4. Indian Medicinal Plants by C.P.Khare
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:315
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 315.**
+   1. Lantana plant leaves are ground and applied with turmeric on itchy skin or wounds to provide relief and heal the skin condition. 2. In Guinea, a decoction of this plant is used to treat rheumatic joint diseases and malaria. Leaf paste with turmeric for external application on wounds and itchy skin.
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.91, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

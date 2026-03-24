@@ -41,7 +41,7 @@ date: 2023-02-21
 ![*Bilva*](../images/Aegle_marmelos_flower_02.JPG)
 **Bilva** consists of pulp of entire, unripe or half ripe fruits of Aegle marmelos Carr, It is a tree, attaining a height of 12 m growing wild and also cultivated throughout the country, rind of fruit is removed and pulp is bruised and dried.
 ## Uses
-Fever, Nasal bleeding, Diarrhoea, Skin disease, Intestinal worms, Cough, Diabetes, Vomiting, Cough, Stomachache, Infection in intestine.
+Fever, Nasal bleeding, Diarrhoea, Skin disease, Intestinal worms, Cough, Diabetes, Vomiting, Cough, Stomachache, Infection in intestine, Hemorrhoids, Jaundice, Dysentery, Constipation.
 
 ### Food
 Bilva can be used in food. Ripe fruit pulp is eaten raw and also used for making soft drinks and jam
@@ -55,13 +55,13 @@ A number of coumarins (including xanthotoxol and alloimperatorin methyl ether), 
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Bilva patre |
+| Kannada | Bilva patre, Billa, Bilvada, Belapina, Chelivatre, Malur |
 | Malayalam | Koovalam |
-| Sanskrit | Shreephala |
-| Tamil | Vilvam |
-| Telugu | Maredu |
+| Sanskrit | Shreephala, Shri Billa, Kandilla, Kailasa, Malur |
+| Tamil | Vilvam, Billa, Villam |
+| Telugu | Maredu, Pandu Billa |
 | Hindi | Bela, Sriphal |
-| English | Bengal Quince, Bael fruit |
+| English | Bengal Quince, Bael fruit, Stone Apple |
 | Marathi | Bel, Baela |
 | Gujarati | Bill, Bilum, Bilvaphal |
 | Punjabi | Bil |
@@ -141,7 +141,8 @@ The Atharvaveda (20.136.15) states: "A great person is good and benevolent like 
 2. [Morphology](https://en.wikipedia.org/wiki/Aegle_marmelos)
 3. [details](Cultivation)(https://www.nmpb.nic.in/sites/default/files/publications/bael.pdf)
 4. THE AYURVEDIC PHARMACOPOEIA OF INDIA, PART-I, VOLUME-1, page no 35.
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:239
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 239.**
+   1. Applying Bilva leaf paste on cow dung-affected wounds on the scalp or body cures infections quickly. 2. Bilva leaf crushed finely and mixed with half a measure of curd and half a measure of decoction, combined with cow's milk; this preparation when given to children helps with vomiting, diarrhea,.
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.18, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
 7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 26-27, 33, 67, 82.**
    Planting Bilva confers the grace of Lord Siva and the blessings of goddess Laksmi, ensuring prosperity for future generations. Classified as a Jangala-adapted (arid-region) tree. Used as a component of Pancamula in treating Kapha diseases of plants. Fruit-enhancement recipe: solution of guda (jaggery), ghee, milk, and honey applied as irrigation to bilva and kapittha trees (Verse 140).

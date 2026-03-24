@@ -120,3 +120,5 @@ Tall grasslands, Meadows, Borders of forests and fields.
 2. [description](Plant)(http://www.flowersofindia.net/catalog/slides/Curry%20Leaf.html)
 3. [cultivation](Inter)(http://agritech.tnau.ac.in/horticulture/horti_vegetables_curry%20leaf.html)
 4. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.244 and 247, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+5. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 72.**
+   Valued among Northeast Indian tribes for antioxidant, antimicrobial, and hepatoprotective properties. Used to promote digestive health, control diabetes, and improve hair and skin health.

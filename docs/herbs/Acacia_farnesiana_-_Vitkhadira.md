@@ -33,7 +33,7 @@ date: 2022-01-06
 ![*Vitkhadira*, *Acacia farnesiana*](../images/Acaciafarnesiana1web.jpg)
 **Vitkhadira** is a shrub which usually grows to a height of around 1 to 1.5 metres. Almost every part of the plant contains sharp thorns. It is a multipurpose tree with a wide range of uses as a food, medicine, perfume and source of materials. This plant is belongs to Memosaceae family.
 ## Uses
-Oral problems, Diarrhea, Inflammation, Cough, Itching, Urinary tract disorders.
+Oral problems, Diarrhea, Inflammation, Cough, Itching, Urinary tract disorders, Bleeding disorders, Skin diseases, Asthma, Uterine disorders.
 
 ## Parts Used
 Stem, Bark, Heartwood.
@@ -44,12 +44,12 @@ Ripe pods contain tannins and several polyphenolic compounds. Essential oil from
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Byadala gida, Kasturi Jaali |
-| Sanskrit | Arimedah, Godhaskanda, Kalaskandha, Vitkhadir |
-| Tamil | Arimetam, Kacappuppivelamaram, Kasturivel, Kirimetam, Peyvel |
-| Telugu | Arimidamu, Kampu tumma, Kasthoori thumma, Murikitumma, Piyyathumma |
-| Hindi | Durgandhakhair, Gandhi-babul,  Guhbabul, Pissibabul |
-| English | Cassie |
+| Kannada | Byadala gida, Kasturi Jaali, Kegottalli Mara, Karikasturi, Kasturi Gottalli, Kirijaali, Sannajaali |
+| Sanskrit | Arimedah, Godhaskanda, Kalaskandha, Vitkhadir, Gandhavada |
+| Tamil | Arimetam, Kacappuppivelamaram, Kasturivel, Kirimetam, Peyvel, Pavalam, Okkavel |
+| Telugu | Arimidamu, Kampu tumma, Kasthoori thumma, Murikitumma, Piyyathumma, Kemputumma, Nugatumma |
+| Hindi | Durgandhakhair, Gandhi-babul,  Guhbabul, Pissibabul, Gand Babul, Vilayati Kikar |
+| English | Cassie, Babul, Sponge Tree |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -109,4 +109,5 @@ Tropical area, Sub tropical areas.
 2. [composition](Chemical)(http://gbpihedenvis.nic.in/PDFs/Glossary_Medicinal_Plants_Springer.pdf)
 3. [description](Botanic)(http://keralaplants.in/)
 4. [names](Vernacular)(http://envis.frlht.org/bot_search)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:81
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 81.**
+   1. Chewing the bark of the plant like sugarcane and consuming the juice helps manage bleeding disorders and blood-related symptoms. 2. Grinding the bark and making it into a paste with gandha (fragrance-producing substance) applied as body paste helps treat skin diseases. 3. Bathing with a decoction. Bark decoction and powder are the main preparations; applied externally as paste or taken internally as decoction.

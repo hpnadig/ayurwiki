@@ -39,7 +39,7 @@ date: 2020-08-11
 ![*Moringa oleifera*, *Nugge soppu*](../images/7561107678_2e8fb3110e_z.jpg)
 **Moringa oleifera** is the most widely cultivated species of the genus Moringa, which is the only genus in the family Moringaceae.  This plant is belongs Moringaceae family.
 ## Uses
-Arthritis, Joint pain, Asthma, Cancer, Diabetes, Constipation, Epilepsy, Diarrhea, Stomachache.
+Arthritis, Joint pain, Asthma, Cancer, Diabetes, Constipation, Epilepsy, Diarrhea, Stomachache, Cold, Urinary disorders, Liver enlargement, Spleen enlargement, Malaria, Kidney stones, Urinary tract infections, Obesity, Ear infections, Back pain, Skin conditions, Hydrocele, Bedwetting.
 
 ## Parts Used
 Leaves, Flowers, Pods, Seeds.
@@ -50,12 +50,13 @@ Investigation of the carotenoid contents from the leaves, flowers and fruits of 
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Nuggekayee |
+| Kannada | Nuggekayee, Nuggekayi mara, Mochaka mara |
 | Malayalam | Muringa |
-| Tamil | Murungai Maram |
-| Telugu | Munagachettu |
-| Hindi | Sahjan |
-| English | Drumstick |
+| Sanskrit | Shigru, Koshandana, Teekshaagandha, Aksheeba, Mochaka |
+| Tamil | Murungai Maram, Murangge |
+| Telugu | Munagachettu, Sajana, Munaga |
+| Hindi | Sahjan, Sonjan |
+| English | Drumstick, Drum Stick Tree, Horse-Radish |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -119,7 +120,8 @@ Tropical area, Subtropical area, Equatorial climate areas.
 2. [of life](Encyclopedia)(http://eol.org/pages/486251/details)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2012/12/06/moringa-benefits-medicinal-usage-complete-ayurveda-details/)
 4. [details](Cultivation)(https://treesforlife.org/our-work/our-initiatives/moringa/how-to-grow)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:205
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 205.**
+   1. Moringa leaves and drumstick pods cooked and consumed help improve eyesight, provide nutrition, and act as a general health tonic. 2. Moringa root consumed in small quantities helps cure various respiratory and digestive ailments (consuming in large amounts can be harmful, use cautiously). 3. Mor.
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 33.**
    Classified as a Jangala-adapted (arid/xerophytic region) tree, suited for warmer and drier climatic conditions.
    > *As cited in: Vrksayurveda of Surapala, Section 5*

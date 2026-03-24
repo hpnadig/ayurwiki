@@ -36,7 +36,7 @@ date: 2020-12-02
 ![*Momordica charantia*, *Bitter gourd*](../images/Taiwan_2009_Tainan_City_Organic_Farm_Bitter_Gourd_FRD_7956.jpg)
 **Momordica charantia ** is a very vigorous, annual climbing plant. It produces stems up to 5 metres long. This plant is climb up into the surrounding vegetation, supporting itself by means of tendrils.
 ## Uses
-Colitis, Dysentery, Diabetes, Malignant ulcers, Stomach worms, Fever, Phlegm, Hypertension.
+Colitis, Dysentery, Diabetes, Malignant ulcers, Stomach worms, Fever, Phlegm, Hypertension, Piles, Constipation, Joint pain, Skin diseases, Night blindness, Ringworm, Flatulence.
 
 ## Parts Used
 Fruits.
@@ -47,12 +47,12 @@ Amino acids, Glutamic acid, Lactamic acid, Beta-lactamic acid, Phenylalanine, Pr
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Haagalakaayi |
-| Sanskrit | Kaarvellakah |
-| Tamil | Iraca-valli |
+| Kannada | Haagalakaayi, Kahalakayi, Midikayi |
+| Sanskrit | Kaarvellakah, Sukavi |
+| Tamil | Iraca-valli, Pavakkalanedi, Parakayi |
 | Telugu | Kakara |
-| Hindi | Kathilla |
-| English | Bitter gourd |
+| Hindi | Kathilla, Karel |
+| English | Bitter gourd, Karilla Fruit |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -122,7 +122,8 @@ Coastal thickets, Along streams, Along creeks, Lowland forest margins.
 2. [Charecteristics](https://gobotany.newenglandwild.org/species/momordica/charantia/)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2016/09/20/bitter-gourd-karela-benefits-remedies-research-side-effects/)
 4. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Momordica+charantia)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:341
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 341.**
+   1. Bitter gourd consumed in various preparations helps treat digestive disorders, improves appetite, cleans the intestines, and helps manage worm infestations. Used regularly in diet. 2. Fresh bitter gourd juice (about 1 cup) with honey consumed every morning (10-12 days) or for 7 days with buttermi. Fresh juice 1 cup with honey every morning for 10-12 days for piles. 5 grams each of bitter gourd leaf with curry leaf, kanthari and tulasi for diabetes daily.
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 54, 75.**
    Best planted during the month of Caitra (spring). Listed among vegetable-fruit plants receiving pig-bone fumigation during summer season for enhanced production. Vegetable fumigation: pig-bone fumigation during summer (Verse 159).
    > *As cited in: Vrksayurveda of Surapala, Verses 80, 159; Sections 8, 14*

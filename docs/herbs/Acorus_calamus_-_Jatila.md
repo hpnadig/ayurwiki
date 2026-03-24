@@ -36,7 +36,7 @@ date: 2020-08-11
 ![*Bhutanashini*](../images/Acorus_calamus1.jpg)
 **Jatila** is a tall perennial wetland monocot of the Acoraceae family, in the genus Acorus. The scented leaves and more strongly scented rhizomes have traditionally been used medicinally and to make fragrances, and the dried and powdered rhizome has been used as a substitute for [Ginger](Ginger.md), [Sthula tvak](Sthula_tvak.md) and nutmeg. This plant is belongs to Aracea family.
 ## Uses
-Epilepsy, Oedema, Scrotal enlargement, Skin diseases, Headache, Alopecia, Wounds, Diarrhea, Eye diseases, Acid gastritis, Heart problems
+Epilepsy, Oedema, Scrotal enlargement, Skin diseases, Headache, Alopecia, Wounds, Diarrhea, Eye diseases, Acid gastritis, Heart problems, Cold, Cough, Joint pain, Paralysis, Earache, Indigestion, Intestinal worms, Urinary blockages
 
 ## Parts Used
 Rhizome, Roots.
@@ -47,12 +47,13 @@ Both triploid and tetraploid A. calamus contain alpha-asarone. Other phytochemic
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Athibaje, Baje, Baje gida |
+| Kannada | Athibaje, Baje, Baje gida, Bajeberu, Nelama, Vaja, Mastaka, Sugandhina |
 | Malayalam | Vaembu, Vashampa |
-| Sanskrit | Bacha, Bhadra, Bhutanashini |
-| Tamil | Akaraveci, Akkitam |
+| Sanskrit | Bacha, Bhadra, Bhutanashini, Vacha, Ugra, Golami, Shadagrantha, Tamasevini |
+| Tamil | Akaraveci, Akkitam, Vashambu |
 | Telugu | Vadaja, Vasa |
-| Hindi | Bacc, Bach |
+| Hindi | Bacc, Bach, Ghoda, Gor Bach |
+| English | Sweet Flag |
 
 ## Habit
 Herb
@@ -104,7 +105,10 @@ North temperate hemisphere, Tropical asia, Himalayas.
 2. [description](Leaves)(http://www.friendsofthewildflowergarden.org/pages/plants/sweetflag.html)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2015/01/06/vacha-acorus-calamus-uses-research-side-effects-remedy/)
 4. [details](Cultivation)(http://nopr.niscair.res.in/bitstream/123456789/9381/1/NPR%203%281%29%2019-21.pdf)
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:233
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 233.**
+   1. Rubbing the rhizome with a small amount of food and applying it on the chest area of children, repeating this treatment 2-3 times, helps reduce cold and cough. 2. Burning the rhizome and applying the smoke over sore areas helps relieve inflammatory swelling. 3. Consuming Baje rhizome along with g. Baje rhizome 10 grams decoction for 40 days for epilepsy; 300 mg powder with 5-10 grams supporting ingredients for cough; rubbed on children's chest for cold relief.
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 82, 90.**
    Used in insect treatments for plants and in the elaborate kapittha (wood apple) seed-purification process. Roots of vaca along with dhatri, abhaya, and other plant roots are boiled in milk as part of the kapittha seed treatment that transforms the tree into a climber form.
    > *As cited in: Vrksayurveda of Surapala, Verses 242-244; Sections 17, 19*
+7. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 71.**
+   Valued in Northeast Indian tribal medicine for its sedative, analgesic, and antispasmodic properties. Employed to treat digestive disorders, fever, and respiratory conditions.

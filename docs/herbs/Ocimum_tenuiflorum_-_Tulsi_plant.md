@@ -137,3 +137,5 @@ Ayurvedic texts describe four types of Tulsi: Rama/Sri/Lakshmi (Green Leaf), Kri
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 26.**
    Regarded as supremely sacred; planting and maintaining Tulasi in one's home is said to earn the reward of residence in Vaikuntha (the divine abode of Lord Vishnu) for twelve thousand years.
    > *As cited in: Vrksayurveda of Surapala, Verse 1*
+7. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 71.**
+   Valued in Northeast Indian tribal medicine for its antimicrobial, adaptogenic, and anti-inflammatory properties. Used to boost immunity, manage stress, and treat respiratory infections.

@@ -33,7 +33,7 @@ date: 2021-05-20
 ![*Akshah*, *Bahuvirya*, *Terminalia bellerica*, *Bibhitaki*](../images/515px-Terminalia_bellerica_02.JPG)
 **Bibhitaki** is growing widely throughout the Indian subcontinent, Sri Lanka and  SE Asia. In the  Traditional  system  of  medicine   like   Siddha and  Unani.  Medicinal uses  have  been described  as  it  is  works  in  disease  of  every  system. This plant is belongs to Combretaceae family.
 ## Uses
-Indigestion, Respiratory problems, Diarrhoea, Chronic constipation, Hoarseness, Cough, Sore eyes, Sore throats
+Indigestion, Respiratory problems, Diarrhoea, Chronic constipation, Hoarseness, Cough, Sore eyes, Sore throats, Cold, Eye diseases, Headaches, Dizziness, Urinary retention, Skin diseases, Swelling, Ulcers, Bleeding, Impotence, Body odor
 
 ## Parts Used
 Seeds, Fruits.
@@ -44,12 +44,12 @@ Beta-sitosterol,gallic acid,ellagic acid,ethyl gallate,galloyl glucose,chebulagi
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Thare, Tare Mara |
+| Kannada | Thare, Tare Mara, Tari, Shantimara, Sohonne |
 | Malayalam | Thani, Thannikka |
-| Sanskrit | Akshah, Kasaghnah |
-| Tamil | Semmaram, Vibidagam |
-| Telugu | Karshaphalamu |
-| Hindi | Bahuvirya, Bahera |
+| Sanskrit | Akshah, Kasaghnah, Akshapaka, Bibara, Bheetaka, Tusha, Karshaphala |
+| Tamil | Semmaram, Vibidagam, Akshamam, Taan, Tamnik-kaya |
+| Telugu | Karshaphalamu, Tandra, Tani, Tandi, Tadi, Katti, Baluppe |
+| Hindi | Bahuvirya, Bahera, Bahir |
 | English | Bedda nut tree, Belliric myrobalan |
 .
 
@@ -120,7 +120,8 @@ Scattered forests, Sunny mountain slopes.
 1. [Phytochemicals](https://www.mdidea.com/products/proper/proper06003.html)
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 368
 3. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Terminalia+bellirica)
-4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:151
+4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 151.**
+   1. Consuming the fruit decoction with cumin, pepper, and jaggery (about 10 ml each) helps treat cough, cold, and related respiratory disorders. 2. The kernel, pepper, dried ginger, and similar herbs combined make an effective remedy for eye diseases, headaches, and dizziness. 3. Consuming ripe fruit. Fruit decoction: approximately 10 ml. Fruit powder mixed with honey and ghee for oral consumption. Oil from seeds for external application.
 5. [type required](Soil)(https://pfaf.org/user/Plant.aspx?LatinName=Terminalia+bellirica#:~:text=Terminalia%20bellirica%20is%20a%20deciduous,and%20prefers%20well%2Ddrained%20soil.)
 6. [names](Common)(https://sites.google.com/site/efloraofindia/species/a---l/cl/combretaceae/terminalia/terminalia-bellirica)
 7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 65-66, 75, 82, 99.**

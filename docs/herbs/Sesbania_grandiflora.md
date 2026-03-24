@@ -39,7 +39,7 @@ date: 2023-11-06
 ![](../images/Dok_khae317.jpg)
 **Sesbania grandiflora** is a short-lived, soft-wooded, loosely-branching tree with a rather open crown. It can grow 8 - 15 metres tall. The straight, cylindrical bole can be 25 - 30cm in diameter. A true multi-purpose tree, providing a range of foods, medicines, timber, gum and tannins, mainly for local use. The plant is cultivated in many tropical areas as an ornamental, a green manure crop, in soil reclamation schemes and for its many useful properties. It is sold as a vegetable in local markets.
 ## Uses
-Swellings, Rheumatism, Itching, Gastric troubles, Colic, Diarrhoea, Dysentery, Fever, Diabetes, Malaria
+Swellings, Rheumatism, Itching, Gastric troubles, Colic, Diarrhoea, Dysentery, Fever, Diabetes, Malaria, Cough, Phlegm, Wound healing, Headache, Eye irritation, Body aches, Urinary problems, Nasal congestion, Vaginal infections
 
 ## Parts Used
 Flowers, Immature seedpods, Young seedpods, Seeds, Young leaves.
@@ -50,14 +50,14 @@ It contains three isoflavanoids, isovestitol (1), medicarpin (2), and sativan (3
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Varnari |
-| English | Agati |
+| Sanskrit | Varnari, Agastya, Muni, Munitaru, Vakrapushpi, Vyanati, Buka |
+| English | Agati, Stamp tree, Sesban |
 | Gujarati | Agathio |
-| Hindi | Gaach-munga |
-| Kannada | Agasi |
+| Hindi | Gaach-munga, Agasta, Basna, Patiya, Hadaga |
+| Kannada | Agasi, Agase, Agate, Augate, Vakrapushpi |
 | Marathi | Shevari |
-| Tamil | Sevvagatti |
-| Telugu | Avisha |
+| Tamil | Sevvagatti, Agatti |
+| Telugu | Avisha, Agise, Anise, Avisechittu |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -107,6 +107,7 @@ On dry wasteland, On roadsides.
 
 1. [constituents](Chemical)(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3763669/)
 2. [Morphology]
-3. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:03
+3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 03.**
+   1. Bark decoction (1/4 to 3/4 tola) taken three times a day mixed in half a cup of warm water reduces cough and phlegm. 2. Bark powder is applied on wounds after grinding with turmeric to promote healing. 3. Agase leaf stalk extract is used as nasal drops to relieve headache; similarly the extract a.
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Sesbania+grandiflora)
 5. Indian Medicinal Plants by C.P.Khare

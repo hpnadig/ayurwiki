@@ -111,3 +111,5 @@ A plant of the moist to wet tropics, where it is found at elevations up to 1,900
 7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 39.**
    Listed among tuber-propagated plants in the plant classification system.
    > *As cited in: Vrksayurveda of Surapala, Section 6*
+8. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 71.**
+   Used in Northeast Indian tribal medicine for its potent anti-inflammatory and antioxidant effects. Employed to relieve nausea, treat indigestion, and reduce muscle pain and soreness.

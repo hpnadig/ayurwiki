@@ -52,7 +52,7 @@ date: 2020-08-11
 ![*Citraka*](../images/Plumbago_zeylanica.jpg)
 **Citraka** consists of dried mature root. It is a large perennial sub-scandent shrub, found throughout India in wile state and occasionally cultivated in gardens.
 ## Uses
-Piles, Gulma, Swelling, Promoting Digestion, Malabsorption, Dysentery, Skin Diseases, Haemorrhoids, Intestinal Worms, Cough.
+Piles, Gulma, Swelling, Promoting Digestion, Malabsorption, Dysentery, Skin Diseases, Haemorrhoids, Intestinal Worms, Cough, Ringworm, Constipation.
 
 ## Parts Used
 Seeds, Stem, Leaves, Roots.
@@ -63,17 +63,17 @@ It contains Plumbagin and Roots of the plant contain an acrid crystalline princi
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Agni, Vahni, Dahana, Hutabhuk |
-| English | Lead war |
+| Sanskrit | Agni, Vahni, Dahana, Hutabhuk, Chitraka, Agnibi |
+| English | Lead war, Ceylon Leadwort, White Leadwort |
 | Gujarati | Chitrakmula |
 | Hindi | Chira, Chitra |
-| Kannada | Chitramula, Vahni, Bilichitramoola |
+| Kannada | Chitramula, Vahni, Bilichitramoola, Agnipavaka, Chitramoolike |
 | KS | Chitra, Shatranja |
 | Malayalam | Vellakeduveli, Thumpokkoduveli |
 | Marathi | Chitraka |
 | Punjabi | Chitra |
-| Tamil | Chitramoolam, Kodiveli |
-| Telugu | Chitramulam |
+| Tamil | Chitramoolam, Kodiveli, Karimbu |
+| Telugu | Chitramulam, Agnimanth |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -139,4 +139,5 @@ Subtropical region, At Gardens, Warm temperate region, Cool climates, At thicket
 2. [Morphology](https://www.prota4u.org/database/protav8.asp?g=pe&p=Plumbago+zeylanica+L.)
 3. [detail](Cultivation)(http://chandigarh.gov.in/green_herb_chitr.htm)
 4. THE AYURVEDIC PHARMACOPOEIA OF INDIA, PART-I, VOLUME-1, page no 39.
-5. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:253
+5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 253.**
+   1. Chitramula root paste mixed with equal parts of Barleria (Gokarna) leaf is applied to affected areas for treating skin ailments and swellings. 2. Chitramula root decoction taken orally helps improve digestion and cures abdominal conditions. 3. Chitramula root is an important ingredient in many tr.

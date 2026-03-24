@@ -40,7 +40,7 @@ date: 2021-11-12
 ![](../images/Bingdi_lotuses_2.jpg)
 **Nelumbo nucifera** is perennial water plant, growing from a tuberous rootstock lying in mud at the bottom of lakes and ponds. The plant produces large leaves which float on the surface of the water. The Sacred Lotus of India has a long history of use as a food crop and medicine in tropical and subtropical Asia, where it is also seen as a symbol of purity and beauty. The plant is often cultivated for food and medicine and is often sold in markets. This plant is belongs to Nelubonaceae family.
 ## Uses
-Premature ejaculation, Abdominal cramps, Bloody discharges, Gastric ulcers, Excessive menstruation, Post-partum haemorrhage, Haemolysis, Uterine bleeding.
+Premature ejaculation, Abdominal cramps, Bloody discharges, Gastric ulcers, Excessive menstruation, Post-partum haemorrhage, Haemolysis, Uterine bleeding, Piles, Leucorrhea, Urinary disorders, Fever, Headache, Anemia, Heart disease, Skin diseases.
 
 ### Food
 Nelumbo nucifera can be used in Food. Starchy rhizome is cooked as vegetable. Bhaji (Pakodas) are made by coating the cut pieces of rhizome with batter of gram flour and then frying in oil. Rhizome is sometimes pickled. Boiled leaf stalks and flowers are consumed as vegetable. Seeds eaten raw, roasted or cooked.
@@ -54,17 +54,17 @@ A phytochemical investigation of N. nucifera leaves led to the isolation of 13 m
 ## Common names
 | Language | Names |
 | --- | --- |
-| Sanskrit | Kamalam, Padma |
-| English | Lotus, Sacred lotus |
+| Sanskrit | Kamalam, Padma, Abuja |
+| English | Lotus, Sacred lotus, Indian Lotus, Chinese Water Lily, Egyptian Bean, Pythagorean Bean |
 | Gujarati | Kamal, Padma |
-| Hindi | Kamal, Padma |
-| Kannada | ಕಮಲ Kamala, ತಾವರೆ Tavare |
+| Hindi | Kamal, Padma, Ambuja, Kanval, Lalkamala |
+| Kannada | ಕಮಲ Kamala, ತಾವರೆ Tavare, Kamaladahoo, Tamara, Tavaregadde, Kendavare, Bili Davare |
 | KS | Kamal |
 | Malayalam | Tamara |
 | Marathi | Kamal, Padma |
 | Punjabi | Kanwal |
-| Tamil | Tamarai |
-| Telugu | Tamara-puvvu |
+| Tamil | Tamarai, Ambal, Shivapputamare |
+| Telugu | Tamara-puvvu, Kalung, Yerratamara |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -118,7 +118,8 @@ Found in large lakes.
 3. [Morphology]
 4. [Cultivation](http://temperate.theferns.info/plant/Nelumbo+nucifera)
 5. Indian Medicinal Plants by C.P.Khare
-6. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:155
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 155.**
+   1. Consuming lotus flower and rhizome decoction helps cure piles, bleeding disorders, and related conditions. 2. Lotus stem and rhizome consumed in food helps treat digestive issues and improves appetite. 3. Lotus seeds ground into powder and consumed with milk helps treat leucorrhea and urinary dis.
 7. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.118, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
 8. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 39, 90, 92, 94.**
    Propagated by seed-tuber method. Root rhizomes of different lotus varieties extracted, tied together with thread, pasted with ghee and honey, then planted — resulting in blooming of multiple flower colours on a single plant. Seeds used in fruit-preservation pills combined with madhuka flowers, utpala, honey, sugar candy, and yastimadhu.
