@@ -8,6 +8,7 @@ Recent content updates to Ayurwiki.
 
 | Article | Section | Change | Date |
 | --- | --- | --- | --- |
+| [Contributors](credits.md) | General | Update recent changes and credits after Vol 2 enrichment | 25 Mar 2026 |
 | [Acacia concinna - Bahuphenarasa](herbs/Acacia_concinna_-_Bahuphenarasa.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
 | [Acacia ferruginea - Arimedah](herbs/Acacia_ferruginea_-_Arimedah.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
 | [Acacia nilotica - Aaavartaki](herbs/Acacia_nilotica_-_Aaavartaki.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
@@ -87,7 +88,6 @@ Recent content updates to Ayurwiki.
 | [Zea mays](herbs/Zea_mays.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
 | [Zingiber officinale](herbs/Zingiber_officinale.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
 | [Ziziphus mauritiana - Common jujube](herbs/Ziziphus_mauritiana_-_Common_jujube.md) | Herbs | Enrich 82 herb pages from Karnataka Medicinal Plants Vol 2 | 25 Mar 2026 |
-| [Contributors](credits.md) | General | Reorder sidebar stats: Herbs first, Articles last | 24 Mar 2026 |
 | [A](A.md) | General | Apply edit suggestion: update A.md glossary description | 24 Mar 2026 |
 | [Abrus precatorius - Gunja](herbs/Abrus_precatorius_-_Gunja.md) | Herbs | Additions and citations | 24 Mar 2026 |
 | [Abutilon indicum - Atibala](herbs/Abutilon_indicum_-_Atibala.md) | Herbs | Additions and citations | 24 Mar 2026 |
