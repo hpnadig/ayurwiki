@@ -111,7 +111,7 @@ Mountain forests, Alpine lithosols,  Western Himalayas.
 
 ## References
 
-1. [resource](Ncbi)(https://www.ncbi.nlm.nih.gov/pubmed/25233604)
+1. [Chemical analysis of volatile oils from West Himalayan Pindrow Fir Abies pindrow] (Ncbi)(https://www.ncbi.nlm.nih.gov/pubmed/25233604)
 2. [details](Cultivation)(https://homeguides.sfgate.com/grow-conifers-seed-45549.html)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2014/12/19/abies-webbiana-taleesa-patra-uses-research-side-effects/)
 4. [description](Botanical)(http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=242420054)
