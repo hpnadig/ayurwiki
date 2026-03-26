@@ -28,9 +28,9 @@ date: 2018-09-19
 | Jātī patra (Jātī API) | [Jasminum officinal evar.grandiflorum](Jasminum_officinal_evar.grandiflorum.md) | Lf. | 14.76 g |
 | --- | --- | --- | --- |
 | Nimba-patra API | [Azadirachta indica](Azadirachta_indica.md) | Lf. | 14.76 g |
-| Paṭola-patra API | [Trichosanthes dioica](../herbs/Trichosanthes_dioica.md) | Lf. | 14.76 g |
+| Paṭola-patra API | [Trichosanthes dioica](../herbs/Trichosanthes_dioica_-_Parval,_Kaadu_Padaval,_Kambupudalai,_Kommu_Potla.md) | Lf. | 14.76 g |
 | Kaṭuka API | [Picrorhiza kurroa](../herbs/Picrorhiza_kurroa.md) | Rz. | 14.76 g |
-| Dārvī (Dāruharidrā API) | [Berberis aristata](../herbs/Berberis_aristata.md) | St. | 14.76 g |
+| Dārvī (Dāruharidrā API) | [Berberis aristata](../herbs/Berberis_aristata_-_Indian_Barberry,_Baagi_soothra,_Chitra,_Kasturimanjal,_Daruharidra,_Maradarisina,_Daruhalad.md) | St. | 14.76 g |
 | Niśā (Haridrā API) | [Curcuma longa](Curcuma_longa.md) | Rz. | 14.76 g |
 | Sārivā (Śveta sārivā API) | [Hemidesmus indicus](Hemidesmus_indicus.md) | Rt. | 14.76 g |
 | Mañjiṣṭā API | [Rubia cordifolia](Rubia_cordifolia.md) | Rt. | 14.76 g |

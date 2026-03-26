@@ -6,5 +6,5 @@ title: "Category: Ayurvedic Herbs known to be helpful to treat High blood sugar"
 
 Pages in this category: **2**
 
-* [Galanthus nivalis - Snowdrop](../herbs/Galanthus_nivalis_-_Snowdrop.md)
-* [Rauvolfia serpentina - Sarpa Gandha](../herbs/Rauvolfia_serpentina_-_Sarpa_Gandha.md)
+* [Galanthus nivalis - Snowdrop](../herbs/Galanthus_nivalis_-_Indian_Snake_Wood,_Sutranavi,_Sarpagandha,_Chivan_amelpodi,_Paataala_goni,_Suvapavalforiyan.md)
+* [Rauvolfia serpentina - Sarpa Gandha](../herbs/Rauvolfia_serpentina_-_Snake-root,_Sarpagandha,_Chivan_amelpodi,_Paataala_goni,_Suvapavalforiyan.md)

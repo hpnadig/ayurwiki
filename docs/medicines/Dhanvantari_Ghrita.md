@@ -12,7 +12,7 @@ date: 2023-09-12
 **Dhanvantari Ghrita** is used for Diabetes, Urinary problems, Anaemia, Body ache and It will increase the Body strength
 
 ## List of Ayurvedic herb in which used in this preparation
-[Clitoria ternatea](../herbs/Clitoria_ternatea.md), [Crateva nurvala](Crateva_nurvala.md)
+[Clitoria ternatea](../herbs/Clitoria_ternatea_-_Kounch_flower,_Kanti_soppu,_Aparaajit,_Shankapushpam,_Shankapushpmamu,_Gokarni.md), [Crateva nurvala](Crateva_nurvala.md)
 
 ## References
 

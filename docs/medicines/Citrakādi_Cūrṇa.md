@@ -27,7 +27,7 @@ date: 2018-09-23
 ## Formulation composition
 | Citraka API | [Plumbago zeylanica](Plumbago_zeylanica.md) | Rt. | 12 g |
 | --- | --- | --- | --- |
-| Nāgara (Śuṇṭhī API) | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 12 g |
+| Nāgara (Śuṇṭhī API) | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 12 g |
 | Hiṅgu API | Ferula foetida | Exd. | 12 g |
 | Pippalī AP | [Piper longum](Piper_longum.md) | Fr | 12 g |
 | Pippalījaṭā (Pippalī API) | [Piper longum](Piper_longum.md) | St. | 12 g |

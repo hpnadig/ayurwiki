@@ -12,7 +12,7 @@ date: 2023-06-27
 **Amritapaasha Gritha** Can be used as a tonic, Reduces Tiredness and Exhaustion, Useful for Loss of appetite.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

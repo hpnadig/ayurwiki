@@ -24,7 +24,7 @@ Ensures gastrointestinal (GI) health: As an antioxidant, Diarex restores GI heal
 **[Bael](Bael.md)** (Bilva) fruit has a host of medicinal benefits for intestinal disorders. The unripe Bael fruit has high tannin content, which makes it an effective treatment for dysentery and diarrhea. The fruit exhibits antibacterial and antiviral activity against pathogens which cause intestinal infections such as infectious diarrhea. It alleviates abdominal colic and flatulence because of its antispasmodic and carminative properties. Marmin, a coumarin isolated from the roots, possesses anti-inflammatory properties, which helps in the management of inflammatory intestinal disorders such as colitis.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Helicteres isora - Avartani](../herbs/Helicteres_isora_-_Avartani.md), [Holarrhena pubescens](Holarrhena_pubescens.md)
+[Helicteres isora - Avartani](../herbs/Helicteres_isora_-_Indian_screw_tree,_ಭೂತಕರುಳು,_Marodphali,_Edampuri,_Aadasamanthi,_Ishvaramuli.md), [Holarrhena pubescens](Holarrhena_pubescens.md)
 
 ## References
 

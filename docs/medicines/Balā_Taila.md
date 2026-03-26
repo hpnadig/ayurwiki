@@ -55,12 +55,12 @@ date: 2018-09-28
 | Mañjiṣṭhā API | [Rubia cordifolia](Rubia_cordifolia.md) | Rt. | 48 g |
 | Aguru (Agaru API) | [Aquilaria agallocha](Aquilaria_agallocha.md) | Ht. Wd. | 48 g |
 | Candana (Rakta candana API) | [Pterocarpus santalinus](Pterocarpus_santalinus.md) | Ht. Wd. | 48 g |
-| Padmaka API | [Prunus cerasoides](../herbs/Prunus_cerasoides.md) | Ht. Wd. | 48 g |
+| Padmaka API | [Prunus cerasoides](../herbs/Prunus_cerasoides_-_Wild_himalayan_cherry,_Padmaka,_Padam,_Patumugam,_Padmakla.md) | Ht. Wd. | 48 g |
 | Atibalā API | [Abutilon indicum](Abutilon_indicum.md) | Rt. | 48 g |
 | Mustā API | [Cyperus rotundus](Cyperus_rotundus.md) | Rz. | 48 g |
 | Śūrpaparṇīdvaya |  |  |  |
 | a. Mudgaparṇī API | [Phaseolus trilobus](../herbs/Phaseolus_trilobus.md) | Pl. | 48 g |
-| b. Māṣaparṇī API | [Teramnus labialis](../herbs/Teramnus_labialis.md) | Pl. | 48 g |
+| b. Māṣaparṇī API | [Teramnus labialis](../herbs/Teramnus_labialis_-_Blue_wiss,_Kadu_uddu.md) | Pl. | 48 g |
 | Hareṇu (Reṇukā (API)) | [Vitex agnus-castus](Vitex_agnus-castus.md) [Vitex negundo (Official Substitute)] | Fr. | 48 g |
 | Yaṣṭayāhva (Yaṣṭī API) | [Glycyrrhiza glabra](Glycyrrhiza_glabra.md) | Rt. | 48 g |
 | Surasa (Tulasī API) | [Ocimum sanctum](Ocimum_sanctum.md) | Pl | . 48 g |
@@ -86,8 +86,8 @@ date: 2018-09-28
 | Kaṅkola API | [Piper cubeba](Piper_cubeba.md) | Fr. | 48 g |
 | Kuṣṭha API | [Saussurea lappa](Saussurea_lappa.md) | Rt. | 48 g |
 | Māṃsī (JatāmāṃsīAPI) | [Nardostachys jatamansi](Nardostachys_jatamansi.md) | Rz. | 48 g |
-| Priyaṅgu API | [Callicarpa macrophylla](../herbs/Callicarpa_macrophylla.md) | Fl. | 48 g |
-| Sthauṇeya API | [Taxus baccata](../herbs/Taxus_baccata.md) | Lf. | 48 g |
+| Priyaṅgu API | [Callicarpa macrophylla](../herbs/Callicarpa_macrophylla_-_Largeleaf_Beauty_Berry,_ಱುಷಿಪತ್ರಿ,_Bastara,_Kattukumil,_Chimpompil,_Kanphuli.md) | Fl. | 48 g |
+| Sthauṇeya API | [Taxus baccata](../herbs/Taxus_baccata_-_Himalayan_Yew,_Gallu,_Barmi.md) | Lf. | 48 g |
 | Tagara API | [Valeriana wallichi](Valeriana_wallichi.md)| Rz. | 48 g |  |
 | Dhyāma (Rohiṣa API) | [Cymbopogon martini](Cymbopogon_martini.md) | Pl. | 48 g |
 | Vacā API | [Acorus calamus](Acorus_calamus.md) | Rz. | 48 g |

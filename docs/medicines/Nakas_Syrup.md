@@ -12,7 +12,7 @@ date: 2023-09-03
 **Paramgi Rasaayanam** is Useful for Chestpain, Syphilis, Gonorrhea, Veginal Cancer, Penis cancer, Menstrual problems and All type of skin diseases.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Sarcostemma brevistigma](../herbs/Sarcostemma_brevistigma.md)
+[Sarcostemma brevistigma](../herbs/Sarcostemma_brevistigma_-_Moon_Creeper,_Konana_Hambu,_Somalat,_Kodikalli,_Aku_Jemmudu.md)
 
 ## References
 

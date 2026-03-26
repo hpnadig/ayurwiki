@@ -7,7 +7,7 @@ categories:
 date: 2020-03-23
 ---
 ## General Descripition
-Certain drugs or combination of drugs are made into coarse powder(Yavakūṭa) and kept for preparation of Kaṣāya. such powders are called Kvātha Cūrṇa. [Althaea officinalis - Khatmī](../herbs/Althaea_officinalis_-_Khatmī.md) is used to prepare this churna.
+Certain drugs or combination of drugs are made into coarse powder(Yavakūṭa) and kept for preparation of Kaṣāya. such powders are called Kvātha Cūrṇa. [Althaea officinalis - Khatmī](../herbs/Althaea_officinalis_-_Marsh_Mallow,_Khatmi.md) is used to prepare this churna.
 
 ## Method of preparation
 Drugs are cleaned and dried. They are coarsely powdered(Yavakūṭa), weighed as per formula, and then mixed well. the process of making [Kvātha](../Kvātha.md) from Kvātha Cūrṇa is the method for prepaation.

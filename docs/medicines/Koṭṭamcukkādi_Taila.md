@@ -21,7 +21,7 @@ date: 2018-09-20
 ## Formulation composition
 | Koṭṭam (Kuṣṭha API) | [Saussurea lappa](Saussurea_lappa.md) | Rt. | 21 g |
 | --- | --- | --- | --- |
-| Cukku (Śuṇṭhī API) | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 21 g |
+| Cukku (Śuṇṭhī API) | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 21 g |
 | Vayambu (Vacā API) | [Acorus calamus](Acorus_calamus.md) | Rz. | 21 g |
 | Śigru API | [Moringa oleifera](Moringa_oleifera.md) | St Bk. | 21 g |
 | Laśuna API | [Allium sativum](Allium_sativum.md) | Bl. | 21 g |

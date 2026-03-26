@@ -12,7 +12,7 @@ date: 2023-07-14
 **Vaatavidvamsa rasa**is Useful for complications caused by cold like Febrile fever, Flatulence.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

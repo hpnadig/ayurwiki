@@ -20,7 +20,7 @@ date: 2023-09-06
 **Dantadhāvana cūrṇa** is Used as Tooth powder. It is useful for all types of Dental and Gum problems
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md), [Myristica fragrans](Myristica_fragrans.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md), [Myristica fragrans](Myristica_fragrans.md)
 
 ## References
 

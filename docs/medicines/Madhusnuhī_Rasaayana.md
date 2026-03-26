@@ -35,7 +35,7 @@ date: 2023-07-03
 **Madhusnuhī Rasaayana** is a semisolid Avaleha preparation made with the ingredients in the Formulation composition given below.
 
 ## Formulation composition
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 6 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 6 g |
 | --- | --- | --- | --- |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 6 g |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 6 g |
@@ -53,12 +53,12 @@ date: 2023-07-03
 | Śveta jīraka API | [Cuminum cyminum](Cuminum_cyminum.md) | Fr. | 6 g |
 | Kṛṣṇa Jīraka API | [Carum carvi](Carum_carvi.md) | Fr. | 6 g |
 | Viḍaṅga API | [Embelia ribes](Embelia_ribes.md) | Fr. | 6 g |
-| Cavya API | [Piper chaba](../herbs/Piper_chaba.md) | St. | 6 g |
+| Cavya API | [Piper chaba](../herbs/Piper_chaba_-_Long_Pepper,_Kandan_Lippili,_Pipli,_Tippili,_Pippallu,_Tippali.md) | St. | 6 g |
 | Kuṣṭha API | [Saussuera lappa](Saussuera_lappa.md) | Rt. | 6 g |
 | Trivṛtā (Trivṛt API) | [Ipomoea turpethum](Ipomoea_turpethum.md) | Rt. | 6 g |
 | Granthika (Pippalīmūla API) | [Piper longum](Piper_longum.md) | Rt. | 6 g |
 | Vājigandhikā (Aśvagandā API) | [Withania somnifera](Withania_somnifera.md) | Rt. | 6 g |
-| Bhārṅgī API | [Clerodendrum serratum](../herbs/Clerodendrum_serratum.md) | Rt. | 6 g |
+| Bhārṅgī API | [Clerodendrum serratum](../herbs/Clerodendrum_serratum_-_Blue-flowered_Glory_Tree,_Bharangi,_Sirutekku,_Gantu_barangu.md) | Rt. | 6 g |
 | Tejovatī-Bīja API | [Zanthoxylum alatum](Zanthoxylum_alatum.md) | Sd. | 6 g |
 | Keśara (Nāgakeśara API) | [Mesua ferrea](Mesua_ferrea.md) | Stmn. | 6 g |
 | Śuddha Gandha (Gandhaka API) | [Sulphur](Sulphur.md) |  | 192 g |

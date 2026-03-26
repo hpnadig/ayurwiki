@@ -38,7 +38,7 @@ date: 2023-08-01
 | áat¡var¢ API | [Asparagus racemosus](Asparagus_racemosus.md) | Rt. Tr. | 25.6 g |
 | áigru API | [Moringa oleifera](Moringa_oleifera.md) | St. Bk. | 25.6 g |
 | Varu¸a API | [Crataeva nurvala](Crataeva_nurvala.md) | St. Bk. | 25.6 g |
-| Arka API | [Calotropis procera](../herbs/Calotropis_procera.md) | Rt. | 25.6 g |
+| Arka API | [Calotropis procera](../herbs/Calotropis_procera_-_Rubber_Bush,_Bili_ekkada_gida,_Aak,_Vellai_erukkan,_Erra_jilledu,_Erikku,_Mandara.md) | Rt. | 25.6 g |
 | Karaµjaka (Karaµja API) | [Pongamia pinnata](Pongamia_pinnata.md) | St. Bk. | 25.6 g |
 | Era¸·a API | [Ricinus communis](Ricinus_communis.md) | Rt. | 25.6 g |
 | Kora¸¶a (Sahacara API) | [Barleria prionitis](Barleria_prionitis.md) | Pl. | 25.6 g |
@@ -49,7 +49,7 @@ date: 2023-08-01
 | b. áyon¡ka API | [Oroxylum indicum](Oroxylum_indicum.md) | Rt. | 25.6 g |
 | c. Gambh¡r¢ API | [Gmelina arborea](Gmelina_arborea.md) | St. Bk. | 25.6 g |
 | d. P¡¶al¡ API | [Stereospermum suaveolens](Stereospermum_suaveolens.md) | St. Bk. | 25.6 g |
-| e. Agnimantha API | [Clerodendrum phlomidis](../herbs/Clerodendrum_phlomidis.md) | Rt. | 25.6 g |
+| e. Agnimantha API | [Clerodendrum phlomidis](../herbs/Clerodendrum_phlomidis_-_Arni,_Caralluma.md) | Rt. | 25.6 g |
 | Jala API | for decoction Potable Water | – | 24.576 l |
 | reduced to 6.144 l |  |  |  |
 | Taila (Tila Taila API) | Sesame oil | – | 1.536 kg |
@@ -59,10 +59,10 @@ date: 2023-08-01
 | Tagara API | [Valeriana wallichi](Valeriana_wallichi.md) | Rz. | 12 g |
 | Amarak¡À¶ha (Devad¡ru API) | [Cedrus deodar](Cedrus_deodar.md) | Ht. Wd. | 12 g |
 | El¡ (S£kÀmail¡ API) | [Elettaria cardamomum](Elettaria_cardamomum.md) | Sd. | 12 g |
-| áu¸¶h¢ API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 12 g |
+| áu¸¶h¢ API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 12 g |
 | SarÀapa API | [Brassica campestris](../herbs/Brassica_campestris.md) | Sd. | 12 g |
 | Coraka API | [Angelica glauca](Angelica_glauca.md) | Rz. | 12 g |
-| áat¡hv¡ API | [Anethum sowa](../herbs/Anethum_sowa.md) | Fr. | 12 g |
+| áat¡hv¡ API | [Anethum sowa](../herbs/Anethum_sowa_-_Dil,_Sabbasige,_Sova,_Shatakuppi_Sompa,_Sapasige.md) | Fr. | 12 g |
 | KuÀ¶ha API | Saussurea lappa | Rt. | 12 g |
 | Sindh£ttha (Saindhava Lava¸a (API)) | Rock salt | – | 12 g |
 | R¡sn¡ API | [Pluchea lanceolata](../herbs/Pluchea_lanceolata.md) | Rz. | 12 g |

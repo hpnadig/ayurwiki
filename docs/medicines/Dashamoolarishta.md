@@ -12,7 +12,7 @@ date: 2023-08-13
 **Dashamoolarishta** is used for Heart health, Nerves weakness, Indigestion, Apatite and It will boost the immunity
 
 ## List of Ayurvedic herb in which used in this preparation
-[Curcuma zedoaria](../herbs/Curcuma_zedoaria.md), [Areca catechu](Areca_catechu.md)
+[Curcuma zedoaria](../herbs/Curcuma_zedoaria_-_Zeedore,_Kadu_Arisina,_Kachuru,_Kichchili_Kilangu,_Kachoram,_Kachoori_kilannu.md), [Areca catechu](Areca_catechu.md)
 
 ## References
 

@@ -33,7 +33,7 @@ date: 2018-09-23
 **Punarnavaadi mandura** (Tablet) is a compressed tablet preparation made with the ingredients in the Formulation Composition given below
 
 ## Formulation composition
-| Punarnava (Rakta Punarnava API) | [Boerhavia diffusa](../herbs/Boerhavia_diffusa_-_Punarnava.md) | Rt. | 48 g |
+| Punarnava (Rakta Punarnava API) | [Boerhavia diffusa](../herbs/Boerhavia_diffusa_-_Red_spiderling,_Gonajali,_Varshbhu,_Caranai,_Ambati_madu,_Talutama.md) | Rt. | 48 g |
 | --- | --- | --- | --- |
 | Trivrt API | [Ipomea turpethum](Ipomea_turpethum.md) | Rt. | 48 g |
 | Vyosha |  |  |  |

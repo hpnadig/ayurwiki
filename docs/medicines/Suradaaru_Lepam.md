@@ -12,7 +12,7 @@ date: 2023-07-14
 Mix the **Suradaaru Lepam** with Yogurt, Lemon juice or Hot water and should be applied to the Inflamed area.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

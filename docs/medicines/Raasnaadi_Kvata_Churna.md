@@ -12,7 +12,7 @@ date: 2023-08-01
 **Raasnaadi Kvata Churna** is Useful to Protect the Body from Germs. Useful for Vata and Rheumatism.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md), [Ricinus communis](Ricinus_communis.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md), [Ricinus communis](Ricinus_communis.md)
 
 ## References
 

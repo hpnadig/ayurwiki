@@ -12,7 +12,7 @@ date: 2022-08-24
 **Madanakameshwari Taila** is used to increase the glowness and It will give strength.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Curcuma zedoaria](../herbs/Curcuma_zedoaria.md)
+[Curcuma zedoaria](../herbs/Curcuma_zedoaria_-_Zeedore,_Kadu_Arisina,_Kachuru,_Kichchili_Kilangu,_Kachoram,_Kachoori_kilannu.md)
 
 ## References
 

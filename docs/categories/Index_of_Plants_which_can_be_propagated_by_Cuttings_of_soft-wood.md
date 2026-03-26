@@ -6,6 +6,6 @@ title: "Category: Index of Plants which can be propagated by Cuttings of soft-wo
 
 Pages in this category: **3**
 
-* [Viburnum coriaceum](../herbs/Viburnum_coriaceum.md)
+* [Viburnum coriaceum](../herbs/Viburnum_coriaceum_-_Cylindrical_Viburnum,_Kala_Titmalia.md)
 * [Viburnum cotinifolium](../herbs/Viburnum_cotinifolium.md)
 * [Viburnum nervosum](../herbs/Viburnum_nervosum.md)

@@ -42,8 +42,8 @@ date: 2023-06-22
 | Dhātakī API | [Woodfordia fruticosa](Woodfordia_fruticosa.md) | Fl. | 768 g |
 | Ajājī (śveta Jīraka API) | [Cuminum cyminum](Cuminum_cyminum.md) | Fr | 48 g |
 | Mustaka (Mustā API) | [Cyperus rotundus](Cyperus_rotundus.md) | Rz. | 48 g |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 48 g |
-| Dārvī (Dāruharidrā) API) | [Berberis aristata](../herbs/Berberis_aristata.md) | St. | 48 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 48 g |
+| Dārvī (Dāruharidrā) API) | [Berberis aristata](../herbs/Berberis_aristata_-_Indian_Barberry,_Baagi_soothra,_Chitra,_Kasturimanjal,_Daruharidra,_Maradarisina,_Daruhalad.md) | St. | 48 g |
 | Utpala API | [Nymphaea stellata](../herbs/Nymphaea_stellata.md) | Fl. | 48 g |
 | Harītakī API | [Terminalia chebul](Terminalia_chebul.md) | P. | 48 g |
 | Bibhītaka API | [Terminalia belerica](Terminalia_belerica.md) | P. | 48 g |

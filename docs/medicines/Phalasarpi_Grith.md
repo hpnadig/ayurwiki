@@ -12,7 +12,7 @@ date: 2022-04-02
 **Phalasarpi Grith** is used to treat Urinary bladder and Kidney Problems. It is a good tonic for pregnant women
 
 ## List of Ayurvedic herb in which used in this preparation
-[Biophytum sensitivum - Alambusha](../herbs/Biophytum_sensitivum_-_Alambusha.md)
+[Biophytum sensitivum - Alambusha](../herbs/Biophytum_sensitivum_-_Little_Tree_Plant,_Dodda_horamuchhaka,_Lakhshana,_Tintanali,_Attapatti,_Mukkutti.md)
 
 ## References
 

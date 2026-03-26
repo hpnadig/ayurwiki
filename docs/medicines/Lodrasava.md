@@ -12,7 +12,7 @@ date: 2023-08-13
 **Lodrasava** is used to treat Womb diseases, Irregular periods, Diabetes, Piles, Skin diseases, Anaemia and Tastelessness.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Biophytum sensitivum - Alambusha](../herbs/Biophytum_sensitivum_-_Alambusha.md), [Areca catechu](Areca_catechu.md)
+[Biophytum sensitivum - Alambusha](../herbs/Biophytum_sensitivum_-_Little_Tree_Plant,_Dodda_horamuchhaka,_Lakhshana,_Tintanali,_Attapatti,_Mukkutti.md), [Areca catechu](Areca_catechu.md)
 
 ## References
 

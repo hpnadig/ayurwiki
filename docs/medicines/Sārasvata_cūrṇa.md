@@ -12,7 +12,7 @@ date: 2023-07-14
 **Sārasvata cūrṇa** is used to treat Epilepsy and Brain related problems
 
 ## List of Ayurvedic herb in which used in this preparation
-[Trachyspermum ammi](Trachyspermum_ammi.md), [Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Trachyspermum ammi](Trachyspermum_ammi.md), [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

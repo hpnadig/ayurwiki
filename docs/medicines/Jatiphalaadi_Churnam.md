@@ -12,7 +12,7 @@ date: 2023-08-21
 **Jatiphalaadi Churnam** is used to treat Indigestion, Dysentery, Cold, Cough, and Asthma
 
 ## List of Ayurvedic herb in which used in this preparation
-[Elettaria cardamomum](Elettaria_cardamomum.md), [Mesua ferrea linn](Mesua_ferrea_linn.md), [Zingiber officinale](../herbs/Zingiber_officinale.md), [Sesamum indicum](Sesamum_indicum.md)
+[Elettaria cardamomum](Elettaria_cardamomum.md), [Mesua ferrea linn](Mesua_ferrea_linn.md), [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md), [Sesamum indicum](Sesamum_indicum.md)
 
 ## References
 

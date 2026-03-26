@@ -44,9 +44,9 @@ date: 2022-04-03
 | Pāṭalā API | [Stereospermum suaveolens](Stereospermum_suaveolens.md) | Rt./St. Bk. | * 480 g |
 | Agnimantha API | Clerodendrum phlomidis |[Premna integrifolia](Premna_integrifolia.md) | Rt./St. Bk. | * 480 g |
 | Śālaparṇī API | [Desmodium gangeticum](Desmodium_gangeticum.md) | Pl. | 480 g |
-| Pṛśniparṇī API | [Uraria picta](../herbs/Uraria_picta.md) | Pl. | 480 g |
+| Pṛśniparṇī API | [Uraria picta](../herbs/Uraria_picta_-_Andhriparni,_Dabra,_Sittirappaladai,_Kolkuponna,_Muvila,_Pitvan.md) | Pl. | 480 g |
 | Bṛhatī API | [Solanum indicum](Solanum_indicum.md) | Pl | . 480 g |
-| Kaṇṭakārī API | [Solanum xanthocarpum](../herbs/Solanum_xanthocarpum.md) | Pl. | 480 g |
+| Kaṇṭakārī API | [Solanum xanthocarpum](../herbs/Solanum_xanthocarpum_-_Thorny_nightshade,_Kantkari.md) | Pl. | 480 g |
 | Gokśura API | [Tribulus terrestris](Tribulus_terrestris.md) | Pl | . 480 g |
 | Payasyā (Ksīrakākolī API) | [Fritillaria roylei Sub](Fritillaria_roylei_Sub.md) | . Rt | . 480 g |
 | Aśvagandhā API | [Withania somnifera](Withania_somnifera.md) | Rt. | 480 g |
@@ -72,7 +72,7 @@ date: 2022-04-03
 | Madhūka API | [Madhuca indica](Madhuca_indica.md) | Fl. | 96 g |
 | Mṛdvīkā (Drākṣā API) | [Vitis vinifera](Vitis_vinifera.md) | Dr. Fr. | 96 g |
 | Yavānī API | [Trachyspermum ammi](Trachyspermum_ammi.md) | Fr. | 96 g |
-| Nāgara (Śuṇṭhī API) | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 96 g |
+| Nāgara (Śuṇṭhī API) | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 96 g |
 
 ## Method of preparation
 * Take all ingredients of pharmacopoeial quality.

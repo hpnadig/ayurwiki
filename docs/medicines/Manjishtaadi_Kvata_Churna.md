@@ -12,7 +12,7 @@ date: 2023-07-03
 **Manjishadi Kvata Churna** is a blood purifier. It is used for all types of skin diseases.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Centella asiatica](Centella_asiatica.md), [Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Centella asiatica](Centella_asiatica.md), [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

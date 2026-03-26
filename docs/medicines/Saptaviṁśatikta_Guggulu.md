@@ -63,7 +63,7 @@ date: 2018-09-22
 **Saptaviṁśatika Guggulu** Vati is a preparation made with the ingredients in Formulation composition given below with Guggulu as the basic ingredient.
 
 ## Formulation composition
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 1 part |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 1 part |
 | --- | --- | --- | --- |
 | Marica API | [Piper nigrum](Piper_nigrum.md)[ | Fr. | 1 part |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 1 part |
@@ -81,16 +81,16 @@ date: 2018-09-22
 | Suradāru (Devadāra API) | [Cedrus deodara](Cedrus_deodara.md) | Ht. Wd. | 1 part |
 | Tumburu (Tejovatī API) | [Zanthoxylum aromaticum](Zanthoxylum_aromaticum.md) | Fr. | 1 part |
 | Puṣkara API | [Saussurea lappa](Saussurea_lappa.md) | Rt. | 1 part |
-| Cavya API | [Piper chaba](../herbs/Piper_chaba.md) | St. | 1 part |
+| Cavya API | [Piper chaba](../herbs/Piper_chaba_-_Long_Pepper,_Kandan_Lippili,_Pipli,_Tippili,_Pippallu,_Tippali.md) | St. | 1 part |
 | Viśālā (Rakta Indravāruṇī API) | [Citrullus colocynthi](Citrullus_colocynthi.md) | Rt. | 1 part |
 | Haridrā API | [Curcuma longa](Curcuma_longa.md) | Rz. | 1 part |
-| Dāruharidrā API | [Berberis aristata](../herbs/Berberis_aristata.md) | St. | 1 part |
+| Dāruharidrā API | [Berberis aristata](../herbs/Berberis_aristata_-_Indian_Barberry,_Baagi_soothra,_Chitra,_Kasturimanjal,_Daruharidra,_Maradarisina,_Daruhalad.md) | St. | 1 part |
 | Viḍa Lavaṇa API |  |  | 1 part |
 | Sauvarcala Lavaṇa API |  |  | 1 part |
 | Yavakṣāra (Yava API) | [Hordeum vulgare](Hordeum_vulgare.md) | Water soluble ash of Pl | . 1 part |
 | Sarjikā Kṣāra (Svarjī Kṣāra API) |  |  | 1 part |
 | Saindhava Lavaṇa API |  |  | 1 part |
-| Gajapippalī API | [Scindapsus officinalis](../herbs/Scindapsus_officinalis.md) | Fr. | 1 part |
+| Gajapippalī API | [Scindapsus officinalis](../herbs/Scindapsus_officinalis_-_Long_pepper,_Dodda_hippali,_Anaittippili,_Enugapippalu,_Anattippali,_Gaja_pimpli.md) | Fr. | 1 part |
 | Guggulu-Śuddha API | [Commiphora wighti](Commiphora_wighti.md) | O.R. | 54 parts |
 
 ## Method of preparation

@@ -24,7 +24,7 @@ date: 2018-09-20
 | Ajā kṣīra | Goat’s milk |  | 3.07 l |
 | --- | --- | --- | --- |
 | Abhayā (Harītakī API) | [Terminalia chebula](Terminalia_chebula.md) | P. | 24 g |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 24 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 24 g |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 24 g |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 24 g |
 | Pāṭhā API | [Cissampelos pareira](Cissampelos_pareira.md) | Rt. | 24 g |

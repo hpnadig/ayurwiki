@@ -12,7 +12,7 @@ date: 2023-11-06
 **Vidangaarishta** is Useful for All kinds of Worms and Anal Fistula
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md), [Holarrhena pubescens](Holarrhena_pubescens.md), [Embelia ribes](Embelia_ribes.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md), [Holarrhena pubescens](Holarrhena_pubescens.md), [Embelia ribes](Embelia_ribes.md)
 
 ## References
 

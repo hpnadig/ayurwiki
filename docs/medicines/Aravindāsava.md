@@ -23,7 +23,7 @@ date: 2018-09-21
 **Aravindasāva** is a fermented liquid preparation made with the ingredients in the Formulation composition given below. It contains not more than 10 per cent, and not less than 5 per cent of alcohol that is self generated in the preparation over a period of time.
 
 ## Formulation composition
-| Aravinda (Kamala API) | [Nelumbo nucifera](../herbs/Nelumbo_nucifera.md) | Fl. | 16 g |
+| Aravinda (Kamala API) | [Nelumbo nucifera](../herbs/Nelumbo_nucifera_-_Lotus,_ಕಮಲ,_Kamal,_Tamarai,_Tamara-puvvu,_Tamara.md) | Fl. | 16 g |
 | --- | --- | --- | --- |
 | Uśīra API | [Vetivera zizanioides](Vetivera_zizanioides.md) | Rt. | 16 g |
 | Kāśmarī (Gambhārī API) | [Gmelina arborea](Gmelina_arborea.md) | Fr. | 16 g |
@@ -41,8 +41,8 @@ date: 2018-09-21
 | Śathī API | [Hedychium spicatum](Hedychium_spicatum.md) | Rz. | 16 g |
 | Śyāmā (Trivṛt API) | [Ipomoea turpethum](Ipomoea_turpethum.md) | Rt. | 16 g |
 | Nīlinī (Nīli API) | [Indigofera tinctoria](Indigofera_tinctoria.md) | Rt. | 16 g |
-| Paṭola API | [Trichosanthes dioica](../herbs/Trichosanthes_dioica.md) |  | Lf. / Pl. 16 g |
-| Parpaṭa API | [Fumaria parviflora](../herbs/Fumaria_parviflora.md) | Pl. | 16 g 11 |
+| Paṭola API | [Trichosanthes dioica](../herbs/Trichosanthes_dioica_-_Parval,_Kaadu_Padaval,_Kambupudalai,_Kommu_Potla.md) |  | Lf. / Pl. 16 g |
+| Parpaṭa API | [Fumaria parviflora](../herbs/Fumaria_parviflora_-_Indian_Fumitory,_Papara,_Chatarashi,_Parpatakam.md) | Pl. | 16 g 11 |
 | Pārtha (Arjuna API) | [Terminalia arjuna](Terminalia_arjuna.md) | St. Bk. | 16 g |
 | Madhūka API | [Madhuca indica](Madhuca_indica.md) | Fl. | 16 g |
 | Madhuka (Yaṣṭī API) | [Glycyrrhiza glabra](Glycyrrhiza_glabra.md) | Rt. | 16 g |

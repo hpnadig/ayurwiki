@@ -8,4 +8,4 @@ Pages in this category: **3**
 
 * [Opuntia dillenii](../herbs/Opuntia_dillenii.md)
 * [Tetragonia expansa](../herbs/Tetragonia_expansa.md)
-* [Vitex trifolia - Jalanirgundi](../herbs/Vitex_trifolia_-_Jalanirgundi.md)
+* [Vitex trifolia - Jalanirgundi](../herbs/Vitex_trifolia_-_Three-Leaved_Chaste_Tree,_Karinochi,_Nichinda,_Karunochi,_Chiruvavil,_Chara-nosi.md)

@@ -37,9 +37,9 @@ date: 2018-09-20
 | Śyonāka API | [Oroxylum indicum](Oroxylum_indicum.md) | St.Bk. | 59.07 g |
 | Gambhārī API | [Gmelina arborea](Gmelina_arborea.md) | St.Bk. | 59.07 g |
 | Pāṭalā API | [Stereospermum suaveolens](Stereospermum_suaveolens.md) | St.Bk. | 59.07 g |
-| Gaṇikārikā(Laghu Agnimantha API) | [Clerodendrum phlomidis](../herbs/Clerodendrum_phlomidis.md) | St.Bk. | 59.07 g |
+| Gaṇikārikā(Laghu Agnimantha API) | [Clerodendrum phlomidis](../herbs/Clerodendrum_phlomidis_-_Arni,_Caralluma.md) | St.Bk. | 59.07 g |
 | Śālaparṇī API | [Desmodium gangeticum](Desmodium_gangeticum.md) | Pl. | 59.07 g |
-| Pṛśniparṇī API | [Uraria picta](../herbs/Uraria_picta.md) | Pl. | 59.07 g |
+| Pṛśniparṇī API | [Uraria picta](../herbs/Uraria_picta_-_Andhriparni,_Dabra,_Sittirappaladai,_Kolkuponna,_Muvila,_Pitvan.md) | Pl. | 59.07 g |
 | Bṛhatī API | [Solanum indicum](Solanum_indicum.md) | Rt. | 59.07 g |
 | Kaṇṭakārī API | [Solanum surattense](Solanum_surattense.md) | Rt. | 59.07 g |
 | Gokṣura API | [Tribulus terrestris](Tribulus_terrestris.md) | Fr. | 59.07 g |
@@ -71,8 +71,8 @@ date: 2018-09-20
 | Harītakī API | [Terminalia chebula](Terminalia_chebula.md) | P. | 6 g |
 | Āmalakī API | [Phyllanthus emblica](Phyllanthus_emblica.md) (Emblica officinalis) | P. | 6 g |
 | Bibhītaka API | [Terminalia bellirica](Terminalia_bellirica.md) | P. | 6 g |
-| Śatāhvā API | [Anethum sowa](../herbs/Anethum_sowa.md) | Fr. | 6 g |
-| Sūrpaparṇi (Māṣaparṇī API) | [Teramnus labialis](../herbs/Teramnus_labialis.md) | Pl. | 6 g |
+| Śatāhvā API | [Anethum sowa](../herbs/Anethum_sowa_-_Dil,_Sabbasige,_Sova,_Shatakuppi_Sompa,_Sapasige.md) | Fr. | 6 g |
+| Sūrpaparṇi (Māṣaparṇī API) | [Teramnus labialis](../herbs/Teramnus_labialis_-_Blue_wiss,_Kadu_uddu.md) | Pl. | 6 g |
 | Elā (Sūkṣmailā API) | [Elettaria cardamomum](Elettaria_cardamomum.md) | Sd. | 6 g |
 | Tvak API | [Cinnamomum zeylanicum](Cinnamomum_zeylanicum.md) | St.Bk | 6 g |
 | Patra (Tejapatra API) | [Cinnamomum tamala](Cinnamomum_tamala.md) | Lf. | 6 g |

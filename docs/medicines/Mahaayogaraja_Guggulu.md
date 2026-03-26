@@ -12,7 +12,7 @@ date: 2023-07-03
 **Mahaayogaraja Guggulu** is Used for Flatulence, Nail disease, Dysentery, Stomach ache, Indigestion, Cough, Hoarseness, Bladder stones and Purging blood.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

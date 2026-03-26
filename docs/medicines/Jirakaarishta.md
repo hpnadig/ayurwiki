@@ -12,7 +12,7 @@ date: 2023-09-06
 **Jirakaarishta** is Useful for Burning in limbs, Diarrhoea, Indigestion etc. Acts as a tonic for Vaginitis.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md), [Myristica fragrans](Myristica_fragrans.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md), [Myristica fragrans](Myristica_fragrans.md)
 
 ## References
 

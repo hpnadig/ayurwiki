@@ -50,10 +50,10 @@ date: 2018-09-22
 | Gokṣura API | [Tribulus terrestris](Tribulus_terrestris.md) | Fr. | 1 Part |
 | Vṛddhadāru API | [Ipomoea petaloidea](../herbs/Ipomoea_petaloidea.md) | Rt. | 1 Part |
 | Rāsnā API | [Pluchea lanceolata](../herbs/Pluchea_lanceolata.md) | Lf. | 1 Part |
-| Śathāhvā API | [Anethum sowa](../herbs/Anethum_sowa.md) | Fr. | 1 Part |
+| Śathāhvā API | [Anethum sowa](../herbs/Anethum_sowa_-_Dil,_Sabbasige,_Sova,_Shatakuppi_Sompa,_Sapasige.md) | Fr. | 1 Part |
 | Śaṭī API | [Hedychium spicatum](Hedychium_spicatum.md) | Rz | . 1 Part |
 | Yavānī API | [Trachyspermum ammi](Trachyspermum_ammi.md) | Fr. | 1 Part |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 1 Part |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 1 Part |
 | Guggulu-Śuddha API | [Commiphora wightii](Commiphora_wightii.md) | O.R. | 12 Parts |
 | Goghṛta API | Clarified butter from Cow s milk. |  | 1 Part |
 

@@ -7,4 +7,4 @@ title: "Category: Herbs that are commonly seen in the region of Damp shady place
 Pages in this category: **2**
 
 * [Justicia procumbens](../herbs/Justicia_procumbens.md)
-* [Persicaria maculosa - Spotted lady thumb](../herbs/Persicaria_maculosa_-_Spotted_lady_thumb.md)
+* [Persicaria maculosa - Spotted lady thumb](../herbs/Persicaria_maculosa_-_Redshank.md)

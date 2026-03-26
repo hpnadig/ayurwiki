@@ -35,18 +35,18 @@ date: 2018-09-28
 | --- | --- | --- | --- |
 | 2 Taila (Tila Taila API) | [Sesame](Sesame.md) oil | – | 768 ml |
 | 3 Mañjiṣṭhā API | [Rubia cordifolia](Rubia_cordifolia.md) | Rt. 48 g |  |
-| 4 Padmaka API | [Prunus cerasoides](../herbs/Prunus_cerasoides.md) | Ht. Wd. | 48 g |
+| 4 Padmaka API | [Prunus cerasoides](../herbs/Prunus_cerasoides_-_Wild_himalayan_cherry,_Padmaka,_Padam,_Patumugam,_Padmakla.md) | Ht. Wd. | 48 g |
 | 5 Lodhra API | [Symplocos racemosa](Symplocos_racemosa.md) | St. Bk. | 48 g |
 | 6 Candana (Rakta Candana API) | [Pterocarpus santalinus](Pterocarpus_santalinus.md) | Ht. Wd | . 48 g |
 | 7 Gairika API - Śuddha | Red ochre | – | 48 g |
 | 8 Balā API | [Sida cordifolia](Sida_cordifolia.md) | Rt. | 48 g |
 | 9 Rajanīdvaya |  |  |  |
 | a. Haridrā API | [Curcuma longa](Curcuma_longa.md) | Rz. | 48 g |
-| b. Dāruharidrā API | [Berberis aristata](../herbs/Berberis_aristata.md) | St. | 48 g |
+| b. Dāruharidrā API | [Berberis aristata](../herbs/Berberis_aristata_-_Indian_Barberry,_Baagi_soothra,_Chitra,_Kasturimanjal,_Daruharidra,_Maradarisina,_Daruhalad.md) | St. | 48 g |
 | 10 Keṣara (Nāgakeṣara API) | [Mesua ferrea](Mesua_ferrea.md) | Stmn. | 48 g |
-| 11 Priyaṅgu API | [Callicarpa macrophylla](../herbs/Callicarpa_macrophylla.md) | Fl. | 48 g |
+| 11 Priyaṅgu API | [Callicarpa macrophylla](../herbs/Callicarpa_macrophylla_-_Largeleaf_Beauty_Berry,_ಱುಷಿಪತ್ರಿ,_Bastara,_Kattukumil,_Chimpompil,_Kanphuli.md) | Fl. | 48 g |
 | 12 Madhuyaṣṭikā (Yaṣṭī API) | [Glycyrrhiza glabra](Glycyrrhiza_glabra.md) | Rt. | 48 g |
-| 13 Prapauṇḍarīka API | [Nelumbo nucifera](../herbs/Nelumbo_nucifera.md) | Rt. | 48 g |
+| 13 Prapauṇḍarīka API | [Nelumbo nucifera](../herbs/Nelumbo_nucifera_-_Lotus,_ಕಮಲ,_Kamal,_Tamarai,_Tamara-puvvu,_Tamara.md) | Rt. | 48 g |
 | 14 Gopī (Śveta Sārivā API) | [Hemidesmus indicus](Hemidesmus_indicus.md) | Rt. | 48 g |
 
 ## Method of preparation

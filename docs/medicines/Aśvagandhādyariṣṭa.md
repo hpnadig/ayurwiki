@@ -55,7 +55,7 @@ date: 2023-06-27
 | [Prakṣepa Dravya](Prakṣepa_Dravya.md)s |  |  |  |
 | Mākṣika (Madhu API) | Honey |  | 14.4 kg |
 | Dhātakī API | Woodfordia fruticosa | Fl. | 768 g |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 96 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 96 g |
 | Marica API | Piper nigrum | Fr. | 96 g |
 | Pippalī API | Piper longum | Fr. | 96 g |
 | Tvak API | Cinnamomum zeylanicum | St. Bk. | 192 g |

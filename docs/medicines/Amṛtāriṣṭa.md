@@ -23,7 +23,7 @@ date: 2018-09-21
 | Pāṭalā API | [Stereospermum suaveolens](Stereospermum_suaveolens.md) | St. Bk. | 480 g |
 | Agnimantha API | [Premna mucronata](Premna_mucronata.md) | St. Bk. | 480 g |
 | Śālaparṇī API | [Desmodium gangeticum](Desmodium_gangeticum.md) | Pl. | 480 g |
-| Pṛṣniparṇī API | [Uraria picta](../herbs/Uraria_picta.md) | Pl. | 480 g |
+| Pṛṣniparṇī API | [Uraria picta](../herbs/Uraria_picta_-_Andhriparni,_Dabra,_Sittirappaladai,_Kolkuponna,_Muvila,_Pitvan.md) | Pl. | 480 g |
 | Bṛhatī API | [Solanum melongena var. Indicum](Solanum_melongena_var._Indicum.md) | Pl. | 480 g |
 | kaṇṭakārī API | [Solanum surattense](Solanum_surattense.md) | Pl. | 480 g |
 | Gokṣura API | [Tribulus terrestris](Tribulus_terrestris.md) | Pl. | 480 g |
@@ -32,9 +32,9 @@ date: 2018-09-21
 | Guḍa API | Jaggery |  | 14.4 kg |
 | [Prakṣepa Dravya](Prakṣepa_Dravya.md)s: |  |  |  |
 | Ajājī (Śveta Jīraka API) | [Cuminum cyminum](Cuminum_cyminum.md) | Fr. | 768 g |
-| Raktapuṣpaka (Parpaṭa API) | [Fumaria parviflora](../herbs/Fumaria_parviflora.md) | Pl. | 96 g |
+| Raktapuṣpaka (Parpaṭa API) | [Fumaria parviflora](../herbs/Fumaria_parviflora_-_Indian_Fumitory,_Papara,_Chatarashi,_Parpatakam.md) | Pl. | 96 g |
 | Saptacchada (Saptaparṇa API) | [Alstonia scholaris](Alstonia_scholaris.md) | St. Bk. | 48 g 7 |
-| Śuṇṭhc API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 48 g |
+| Śuṇṭhc API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 48 g |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 48 g |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 48 g |
 | Nāgakeśara API | [Mesua ferrea](Mesua_ferrea.md) | Stmn. | 48 g |

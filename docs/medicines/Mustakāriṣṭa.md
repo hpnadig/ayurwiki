@@ -28,7 +28,7 @@ date: 2023-07-04
 | Guḍa API | Jaggery |  | 3.6 kg |
 | Dhātakī API | [Woodfordia fruticosa](Woodfordia_fruticosa.md) | Fl. | 192 g |
 | Yamānī (Yavānī API) | [Trachyspermum ammi](Trachyspermum_ammi.md) | Fr. | 24 g |
-| Viśvabheṣaja (Śuṇṭhī API) | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 24 g |
+| Viśvabheṣaja (Śuṇṭhī API) | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 24 g |
 | Marica API | [Piper longum](Piper_longum.md) | Fr. | 24 g |
 | Lavaṅga (Devapuṣpa API) | [Syzygium aromaticum](Syzygium_aromaticum.md) | Fl. Bd | 24 g |
 | Methī API | [Trigonella foenum-graecum](Trigonella_foenum-graecum.md) | Sd. | 24 g |
@@ -68,7 +68,7 @@ date: 2023-07-04
 | Methanol | Absent |
 
 ## List of Ayurvedic herb in which used in this preparation
-[Biophytum sensitivum](Biophytum_sensitivum.md), [Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Biophytum sensitivum](Biophytum_sensitivum.md), [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

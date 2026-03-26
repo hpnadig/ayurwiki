@@ -32,18 +32,18 @@ date: 2018-09-14
 | Pāṭalā API | [Stereospermum suaveolens](Stereospermum_suaveolens.md) | St.Bk. | 240 g |
 | Agnimantha API | [Premna integrifolia](Premna_integrifolia.md) | St.Bk. | 240 g |
 | Śālaparṇī API | [Desmodium gangeticum](Desmodium_gangeticum.md) | Pl. | 240 g |
-| Pṛśniparṇī API | [Uraria picta](../herbs/Uraria_picta.md) | Pl. | 240 g |
+| Pṛśniparṇī API | [Uraria picta](../herbs/Uraria_picta_-_Andhriparni,_Dabra,_Sittirappaladai,_Kolkuponna,_Muvila,_Pitvan.md) | Pl. | 240 g |
 | Bṛhatī API | [Solanum indicum](Solanum_indicum.md) | Pl. | 240 g |
-| Kaṇṭakārī API | [Solanum xanthocarpum](../herbs/Solanum_xanthocarpum.md) | Pl. 2 | 40 g |
+| Kaṇṭakārī API | [Solanum xanthocarpum](../herbs/Solanum_xanthocarpum_-_Thorny_nightshade,_Kantkari.md) | Pl. 2 | 40 g |
 | Gokṣura API | [Tribulus terrestris](Tribulus_terrestris.md) | Pl | 240 g |
 | Jala API for decoction | Water |  | 12.29 |
 | Reduced to |  |  | 3.07 l |
 | Kṣīra (Godugdha API) | Cow’s milk |  | 3.072 l |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 21.33 g |
 | Pippalī mūla API | [Piper longum](Piper_longum.md) | Rt. | 21.33 g |
-| Cavya API | [Piper chaba](../herbs/Piper_chaba.md) | Rt. | 21.33 g |
+| Cavya API | [Piper chaba](../herbs/Piper_chaba_-_Long_Pepper,_Kandan_Lippili,_Pipli,_Tippili,_Pippallu,_Tippali.md) | Rt. | 21.33 g |
 | Citraka API | [Plumbago zeylanica](Plumbago_zeylanica.md) | Rt. | 21.33 g |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 21.33 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 21.33 g |
 | Kṣāra (Yava API) | [Hordeum vulgare](Hordeum_vulgare.md) | Ash of Pl. | 21.33 g |
 | Sarpi (Goghṛta API) | Clarified butter from cow’s milk |  | 768 g |
 

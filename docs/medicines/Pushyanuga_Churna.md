@@ -12,7 +12,7 @@ date: 2023-07-03
 **Pushyanuga Churna** is used to treat Irregular periods, White Discharge and It is goof for uterus. It will control the more number of periods. Useful for Vaginitis, Diarrhoea, Dysentery etc
 
 ## List of Ayurvedic herb in which used in this preparation
-[Bombax ceiba](Bombax_ceiba.md), [Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Bombax ceiba](Bombax_ceiba.md), [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

@@ -8,4 +8,4 @@ Pages in this category: **3**
 
 * [Ficus altissima](../herbs/Ficus_altissima.md)
 * [Ophiopogon japonicus - Fountainplant](../herbs/Ophiopogon_japonicus_-_Fountainplant.md)
-* [Paeonia emodi](../herbs/Paeonia_emodi.md)
+* [Paeonia emodi](../herbs/Paeonia_emodi_-_Himalayan_Peony,_Chandayra.md)

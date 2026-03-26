@@ -34,7 +34,7 @@ date: 2023-06-29
 | Guḍa API | Jaggery |  | 14.4 kg |
 | Prakṣepa Dravyas: |  |  |  |
 | Dhātakī API | [Woodfordia fruticosa](Woodfordia_fruticosa.md) | Fl. | 768 g |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 48 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 48 g |
 | Jātīphala API | [Myristica fragrans](Myristica_fragrans.md) | Sd. | 48 g |
 | Mustaka (Mustā API) | [Cyperus rotundus](Cyperus_rotundus.md) | Rz. | 48 g |
 | Tvak API | [Cinnamomum zeylanicum](Cinnamomum_zeylanicum.md) | St. Bk. | 48 g |

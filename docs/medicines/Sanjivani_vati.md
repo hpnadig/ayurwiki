@@ -23,7 +23,7 @@ date: 2023-11-05
 ## Formulation composition
 | Vi·a´ga API | [Embelia ribes](Embelia_ribes.md) | Fr | 1 part |
 | --- | --- | --- | --- |
-| N¡gara (áu¸¶h¢ API) | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 1 part |
+| N¡gara (áu¸¶h¢ API) | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 1 part |
 | K¤À¸¡ (Pippal¢ API) | [Piper longum](Piper_longum.md) | Fr. | 1 part |
 | Pathy¡ (Har¢tak¢ API) | [Terminalia chebula](Terminalia_chebula.md) | P. | 1 part |
 | Ëmala (Ëmalak¢ API) | [Phyllanthus emblica](Phyllanthus_emblica.md) | P. | 1 part |

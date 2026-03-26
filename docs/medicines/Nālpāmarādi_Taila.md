@@ -27,7 +27,7 @@ date: 2018-09-28
 ## Formulation composition
 | Paimannal rasa (Haridrā (API)) - Ārdra | [Curcuma longa](Curcuma_longa.md) | Rz. fresh | 1.536 l |
 | --- | --- | --- | --- |
-| Parpaṭa API - rasa | [Fumaria parviflora](../herbs/Fumaria_parviflora.md) | Pl. | 1.536 l |
+| Parpaṭa API - rasa | [Fumaria parviflora](../herbs/Fumaria_parviflora_-_Indian_Fumitory,_Papara,_Chatarashi,_Parpatakam.md) | Pl. | 1.536 l |
 | Eṇṇa (Tila Taila API) | Sesame oil | – | 768 ml |
 | Nyagrodha API | [Ficus bengalensis](Ficus_bengalensis.md) | St. Bk | 15 g |
 | Udumbara API | [Ficus racemosa](Ficus_racemosa.md) | St. Bk | 15 g |

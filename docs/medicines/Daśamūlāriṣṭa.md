@@ -66,9 +66,9 @@ date: 2018-09-21
 | Pāṭalā API | [Stereospermum suaveolens](Stereospermum_suaveolens.md) | St. Bk 4 | 8 g |
 | Agnimantha API | [Premna mucronata](Premna_mucronata.md) (Official substitute) | St. Bk | 48 g |
 | Śālaparṇī API | [Desmodium gangeticum](Desmodium_gangeticum.md) | Pl. | 48 g |
-| Pṛṣniparṇī API | [Uraria picta](../herbs/Uraria_picta.md) | Pl. | 48 g |
+| Pṛṣniparṇī API | [Uraria picta](../herbs/Uraria_picta_-_Andhriparni,_Dabra,_Sittirappaladai,_Kolkuponna,_Muvila,_Pitvan.md) | Pl. | 48 g |
 | Bṛhatī API | [Solanum indicum](Solanum_indicum.md) | Pl. | 48 g |
-| Kaṇṭakārī API | [Solanum xanthocarpum](../herbs/Solanum_xanthocarpum.md) | Pl. | 48 g |
+| Kaṇṭakārī API | [Solanum xanthocarpum](../herbs/Solanum_xanthocarpum_-_Thorny_nightshade,_Kantkari.md) | Pl. | 48 g |
 | GoṣÀura API | [Tribulus terrestris](Tribulus_terrestris.md) | Pl. | 48 g |
 | Citraka API | [Plumbago zeylanicum](Plumbago_zeylanicum.md) | Rt. | 240 g |
 | Pauṣkara (Puṣkara API) | [Inula racemosa](Inula_racemosa.md) | Rt. | 240 g |
@@ -84,24 +84,24 @@ date: 2018-09-21
 | Devadāru API | [Cedrus deodara](Cedrus_deodara.md) | Ht. Wd. | 19 g |
 | Viḍaṅga API | [Embelia ribes](Embelia_ribes.md) | Fr. | 19 g |
 | Madhuka API | [Glycyrrhiza glabra](Glycyrrhiza_glabra.md) | Rt. | 19 g |
-| Bhārṅgī API | [Clerodendrum serratum](../herbs/Clerodendrum_serratum.md) | Rt. | 19 g |
+| Bhārṅgī API | [Clerodendrum serratum](../herbs/Clerodendrum_serratum_-_Blue-flowered_Glory_Tree,_Bharangi,_Sirutekku,_Gantu_barangu.md) | Rt. | 19 g |
 | Kapittha API | [Feronia limonia](../herbs/Feronia_limonia.md) | Fr.P. | 19 g |
 | Bibhītaka API | [Terminalia bellirica](Terminalia_bellirica.md) | P. | 19 g |
 | Punarnavā (Rakta Punarnav¡ API) | [Boerhavia diffusa](Boerhavia_diffusa.md) | Rt. | 19 g |
 | Cavya API | [Piper retrofractum](Piper_retrofractum.md) | St. | 19 g |
 | Māṁsī (JaṭāMāṁsī API) | [Nardostachys jatamansi](Nardostachys_jatamansi.md) | Rz. | 19 g |
-| Priyaṅgu API | [Callicarpa macrophylla](../herbs/Callicarpa_macrophylla.md) | Fl. | 19 g |
+| Priyaṅgu API | [Callicarpa macrophylla](../herbs/Callicarpa_macrophylla_-_Largeleaf_Beauty_Berry,_ಱುಷಿಪತ್ರಿ,_Bastara,_Kattukumil,_Chimpompil,_Kanphuli.md) | Fl. | 19 g |
 | Sārivā API | [Hemidesmus indicus](Hemidesmus_indicus.md) | Rt. | 19 g |
 | Kṛṣṇa J¢raka API | [Carum carvi](Carum_carvi.md) | Fr. | 19 g |
 | Trivṛtā (Trivṛt API) | [Operculina turpethum](../herbs/Operculina_turpethum.md) | Rt. | 19 g |
-| Reṇukā API | [Vitex negundo](../herbs/Vitex_negundo.md) | Sd. | 19 g |
+| Reṇukā API | [Vitex negundo](../herbs/Vitex_negundo_-_Five-leaved_chaste_tree,_ಇನ್ದ್ರಾಣಿ,_Indrani,_Karu-nocci,_Nirgundi,_Karinocchi.md) | Sd. | 19 g |
 | Rāsnā API | [Pluchea lanceolata](../herbs/Pluchea_lanceolata.md) | Lf. | 19 g |
 | Pippalī API | [Piper longum](Piper_longum.md) |  | Fr. 19 g |
 | Kramuka (Pūga API) | [Areca catechu](Areca_catechu.md) | Sd | 19 g |
 | Śaṭhī (Śaṭī API) | [Hedychium spicatum](Hedychium_spicatum.md) | Rz. | 19 g |
 | Haridrā API | [Curcuma longa](Curcuma_longa.md) | Rz. | 19 g |
-| Śatapuṣpā (Śathāhvā API) | [Anethum sowa](../herbs/Anethum_sowa.md) | Fr. | 19 g |
-| Padmaka API | [Prunus cerasoides](../herbs/Prunus_cerasoides.md) | St. | 19 g |
+| Śatapuṣpā (Śathāhvā API) | [Anethum sowa](../herbs/Anethum_sowa_-_Dil,_Sabbasige,_Sova,_Shatakuppi_Sompa,_Sapasige.md) | Fr. | 19 g |
+| Padmaka API | [Prunus cerasoides](../herbs/Prunus_cerasoides_-_Wild_himalayan_cherry,_Padmaka,_Padam,_Patumugam,_Padmakla.md) | St. | 19 g |
 | Nāgakeṣara API | [Mesua ferrea](Mesua_ferrea.md) | Stmn. | 19 g |
 | Musta (Mustā API) | [Cyperus rotundus](Cyperus_rotundus.md) | Rz. | 19 g |
 | Indrayava API | [Holarrhena antidysenterica](Holarrhena_antidysenterica.md) | Sd. | 19 g |
@@ -112,8 +112,8 @@ date: 2018-09-21
 | Mahāmedā API | [Asparagus racemosus](Asparagus_racemosus.md) (Official substitute) | Rt.Tr. | 19 g |
 | Kākolī API | [Withania somnifera](Withania_somnifera.md) (Official substitute) | Sub.Rt. | 19 g |
 | Kṣīrakākolī API | [Withania somnifera](Withania_somnifera.md) (Official substitute) | Sub.Rt | 19 g |
-| Ṛddhi API | [Dioscorea bulbifera](../herbs/Dioscorea_bulbifera.md) (Official substitute) | Sub.Rt.Tr. | 19 g |
-| Vṛddhi API | [Dioscorea bulbifera](../herbs/Dioscorea_bulbifera.md) (Official substitute) | Sub.Rt.Tr. | 19 g |
+| Ṛddhi API | [Dioscorea bulbifera](../herbs/Dioscorea_bulbifera_-_Air_potato,_Heggenasu,_Jamin_Kand,_Ponnu_Kilangu,_Chedu_Padddumpa.md) (Official substitute) | Sub.Rt.Tr. | 19 g |
+| Vṛddhi API | [Dioscorea bulbifera](../herbs/Dioscorea_bulbifera_-_Air_potato,_Heggenasu,_Jamin_Kand,_Ponnu_Kilangu,_Chedu_Padddumpa.md) (Official substitute) | Sub.Rt.Tr. | 19 g |
 | Jalafor decoction | Water |  | 20 l |
 | reduced to |  |  | 5 l |
 | Drākṣā API | [Vitis vinifera](Vitis_vinifera.md) | Dr.Fr. | 600 g |

@@ -17,12 +17,12 @@ date: 2018-09-21
 ## Formulation composition
 | Saindhava lavaṇa | Rock salt |  | 28 g |
 | --- | --- | --- | --- |
-| Arka API | [Calotropis procera](../herbs/Calotropis_procera.md) | Rt. | 28 g |
+| Arka API | [Calotropis procera](../herbs/Calotropis_procera_-_Rubber_Bush,_Bili_ekkada_gida,_Aak,_Vellai_erukkan,_Erra_jilledu,_Erikku,_Mandara.md) | Rt. | 28 g |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 28 g |
 | Jvalanākhya (Citraka) API | [Plumbago zeylanica](Plumbago_zeylanica.md) | Rt. | 28 g |
 | Mārkava (Bhṛṅgarāja) API | [Eclipta alba](Eclipta_alba.md) | Pl. | 28 g |
 | Haridrā API | [Curcuma longa](Curcuma_longa.md) | Rz. 2 | 8 g |
-| Dāruharidrā API | [Berberis aristata](../herbs/Berberis_aristata.md) | St. | 28 g |
+| Dāruharidrā API | [Berberis aristata](../herbs/Berberis_aristata_-_Indian_Barberry,_Baagi_soothra,_Chitra,_Kasturimanjal,_Daruharidra,_Maradarisina,_Daruhalad.md) | St. | 28 g |
 | Tila taila API | Sesamum indicum | Ol. | 768 g |
 | Jala API | Water |  | 3.07 l |
 

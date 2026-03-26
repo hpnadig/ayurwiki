@@ -12,7 +12,7 @@ date: 2023-07-03
 **Bhaskara Lavanam** is Increases appetite, Good for digestion. Useful for Nail disease, Flatulence, Nausea, Dysentery, Constipation, Tastelessness and Menstrual disorders.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

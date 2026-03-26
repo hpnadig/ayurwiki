@@ -29,11 +29,11 @@ date: 2018-09-14
 | Śringī (Karkatasrngī API) | [Pistacia integerrima](Pistacia_integerrima.md) | Gl. | 1 part |
 | Yamānī (Yavānī API) | [Trachyspermum ammi](Trachyspermum_ammi.md) | Fr. | 1 part |
 | Kāravī (Krsnajīraka API) | [Carum carvi](Carum_carvi.md) | Fr. | 1 part |
-| Śunthī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 1 part |
+| Śunthī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 1 part |
 | Marīca API | [Piper nigrum](Piper_nigrum.md) | Fr. | 1 part |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | |1 part |
 | Madhu API | Honey |  | 12 parts |
-| Ārdraka API ([Svarasa](../Svarasa.md)) | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Fresh juice of Rz. | Q.S.for Bhāvana |
+| Ārdraka API ([Svarasa](../Svarasa.md)) | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Fresh juice of Rz. | Q.S.for Bhāvana |
 
 ## Method of preparation
 * Wash, dry and powder the ingredients 1 to 8 separately and pass through sieve number 85.

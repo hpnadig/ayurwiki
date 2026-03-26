@@ -59,7 +59,7 @@ date: 2018-09-21
 | Madhuka (Yaṣṭī API) | [Glycyrrhiza glabra](Glycyrrhiza_glabra.md) | Rt. | 8.72 g |
 | Kṣīra kākolī API | [Fritillaria roylei](../herbs/Fritillaria_roylei.md) | Rt. | 8.72 g |
 | Mudhuparṇī (Guḍūcī API) | [Tinospora cordifolia](Tinospora_cordifolia.md) | St. | 8.72 g |
-| Nidigdhikā (Kaṇṭakārī API) | [Solanum xanthocarpum](../herbs/Solanum_xanthocarpum.md) | Pl. | 8.72 g |
+| Nidigdhikā (Kaṇṭakārī API) | [Solanum xanthocarpum](../herbs/Solanum_xanthocarpum_-_Thorny_nightshade,_Kantkari.md) | Pl. | 8.72 g |
 | Ghṛta (Goghṛta API) | Clarified butter from Cow  milk |  | 768 g |
 
 ## Method of preparation

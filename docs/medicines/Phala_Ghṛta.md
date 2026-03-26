@@ -35,7 +35,7 @@ date: 2018-09-19
 | Śarkarā API | Sugar |  | 12 g |
 | Vacā API | [Acorus calamus](Acorus_calamus.md) | Rz. | 12 g |
 | Haridrā API | [Curcuma longa](Curcuma_longa.md) | Rz. | 12 g |
-| Dāru haridrā API | [Berberis aristata](../herbs/Berberis_aristata.md) | St. | 12 g |
+| Dāru haridrā API | [Berberis aristata](../herbs/Berberis_aristata_-_Indian_Barberry,_Baagi_soothra,_Chitra,_Kasturimanjal,_Daruharidra,_Maradarisina,_Daruhalad.md) | St. | 12 g |
 | Madhuka (Ya¾°ī API) | [Glycyrrhiza glabra](Glycyrrhiza_glabra.md) | Rt. | 12 g |
 | Medā API | [Asparagus racemosus](Asparagus_racemosus.md) (Official substitute) | Rt.Tr. | 12 g |
 | Dīpyaka (Yavānī API) | [Trachyspermum ammi](Trachyspermum_ammi.md) | Fr. | 12 g |

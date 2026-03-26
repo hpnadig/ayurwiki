@@ -30,13 +30,13 @@ date: 2018-09-20
 | Gandharva hasta mūla (Eraṇḍa API) | [Ricinus communis](Ricinus_communis.md) | Rt. | 4.8 k g |
 | --- | --- | --- | --- |
 | Yava API | [Hordeum vulgare](Hordeum_vulgare.md) | Sd. | 3.07 kg |
-| Nāgara (Śuṇṭhī API) | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 96 g |
+| Nāgara (Śuṇṭhī API) | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 96 g |
 | Jala API for decoction | Water |  | 24.58 l |
 | Reduced to |  |  | 6.14 l |
 | Kṣīra (Godugdha API) | Cow’s milk |  | 1.54 l |
 | Eraṇḍa API | Taila Ricinus communis | Oil | 768 g |
 | Gandharvahasta mūla (Eraṇḍa API) | [Ricinus communis](Ricinus_communis.md) | Rt. | 192 g |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 48 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 48 g |
 
 ## Method of preparation
 * Take all ingredients of pharmacopoeial quality.

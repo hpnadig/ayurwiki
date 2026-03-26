@@ -30,7 +30,7 @@ date: 2022-04-14
 | Brāhmī [svarasa](svarasa.md) (Brāhmī API) | [Bacopa monnieri](Bacopa_monnieri.md) | Pl. | 1.536 l |
 | --- | --- | --- | --- |
 | Ghṛta (Go Ghṛta) API | Clarified butter from cow’s milk |  | 768 g |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 12 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 12 g |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 12 g |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 12 g |
 | Śyāmā (Trivṛt API) | [Operculina turpethum](../herbs/Operculina_turpethum.md) | Rt. | 12 g |
@@ -38,7 +38,7 @@ date: 2022-04-14
 | Dantī API | [Baliospermum montanum](Baliospermum_montanum.md) | Rt. | 12 g |
 | Śaṇkhapuṣpī API | [Convolvulus pluricaulis](../herbs/Convolvulus_pluricaulis.md) | W. P. | 12 g |
 | Nṛpadruma (Āragvadha API) | [Cassia fistula](Cassia_fistula.md) | Fr. Pulp | 12 g |
-| Saptalā API | [Euphorbia dracunculoides](../herbs/Euphorbia_dracunculoides.md) | W. P. | 12 g |
+| Saptalā API | [Euphorbia dracunculoides](../herbs/Euphorbia_dracunculoides_-_Dragon_Spurge,_Bilee_kaddi,_Bamburi,_Tilla-kada,_Tillakada,_Khachar_Dudhi.md) | W. P. | 12 g |
 | Kṛmihara (Viḍaṅga API) | [Embelia ribes](Embelia_ribes.md) | Fr. | 12 g |
 
 ## Method of preparation

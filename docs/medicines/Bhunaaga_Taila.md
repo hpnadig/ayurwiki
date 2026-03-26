@@ -12,7 +12,7 @@ date: 2023-10-15
 **Bhunaaga Taila** is the useful oil for Epilepsy. Should give this oil with hot milk to drink
 
 ## List of Ayurvedic herb in which used in this preparation
-[Anethum sowa](../herbs/Anethum_sowa.md)
+[Anethum sowa](../herbs/Anethum_sowa_-_Dil,_Sabbasige,_Sova,_Shatakuppi_Sompa,_Sapasige.md)
 
 ## References
 

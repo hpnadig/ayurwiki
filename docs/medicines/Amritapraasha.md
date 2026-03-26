@@ -12,7 +12,7 @@ date: 2022-08-24
 **Amritapraasha** is used for Constipation, To purify the blood, Body ache and To increase the face Glowness
 
 ## List of Ayurvedic herb in which used in this preparation
-[Curcuma zedoaria](../herbs/Curcuma_zedoaria.md)
+[Curcuma zedoaria](../herbs/Curcuma_zedoaria_-_Zeedore,_Kadu_Arisina,_Kachuru,_Kichchili_Kilangu,_Kachoram,_Kachoori_kilannu.md)
 
 ## References
 

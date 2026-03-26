@@ -12,7 +12,7 @@ date: 2022-08-23
 **Braahmi Tailam** is used to increase the memory power
 
 ## List of Ayurvedic herb in which used in this preparation
-[Centella asiatica - Mandooka Parni](../herbs/Centella_asiatica_-_Mandooka_Parni.md)
+[Centella asiatica - Mandooka Parni](../herbs/Centella_asiatica_-_Pennywort,_ಬ್ರಾಹ್ಮಿ_ಸೊಪ್ಪು,_Bheki,_Kacappi,_Mandukaparni,_Kutakam.md)
 
 ## References
 

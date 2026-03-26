@@ -17,7 +17,7 @@ date: 2018-09-28
 ## Formulation composition
 | Hiṅgu API | [Ferula foetida](Ferula_foetida.md) | Exd. | 1 part |
 | --- | --- | --- | --- |
-| Tumburu (Tejovat¢ API) | [Zanthoxylum armatum](../herbs/Zanthoxylum_armatum.md) | Fr | . 1 part |
+| Tumburu (Tejovat¢ API) | [Zanthoxylum armatum](../herbs/Zanthoxylum_armatum_-_Winged_Prickly_Ash,_Jimmi,_Tejphal,_Timur,_Konda-Kasimi.md) | Fr | . 1 part |
 | Śuṇṭhī API | [Zingiber officinalis](Zingiber_officinalis.md) | Rz. | 1 part |
 | Sārṣapa Taila (Sarṣapa Taila API) | Mustard oil | – | 12 parts |
 | Jala API | Potable Water | – | 48 parts |

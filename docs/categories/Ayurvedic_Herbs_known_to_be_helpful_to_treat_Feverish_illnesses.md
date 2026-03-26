@@ -6,5 +6,5 @@ title: "Category: Ayurvedic Herbs known to be helpful to treat Feverish illnesse
 
 Pages in this category: **2**
 
-* [Fritillaria cirrhosa](../herbs/Fritillaria_cirrhosa.md)
+* [Fritillaria cirrhosa](../herbs/Fritillaria_cirrhosa_-_Himalayan_Fritillary,_Kakoli.md)
 * [Salix fragilis](../herbs/Salix_fragilis.md)

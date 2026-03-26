@@ -12,7 +12,7 @@ date: 2023-05-30
 **Styplon Tablet** is used to treat Bleeding and Piles.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Ruta chalepensis](../herbs/Ruta_chalepensis.md)
+[Ruta chalepensis](../herbs/Ruta_chalepensis_-_Common_rue,_Haavunanjina_gida,_Pismaram,_Aruvada,_Aruda,_Aruta,_Sathaapa.md)
 
 ## References
 

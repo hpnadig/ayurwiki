@@ -12,7 +12,7 @@ date: 2022-04-04
 **Proctocalm ointment** is used to treat Rickets and Anal fissure
 
 ## List of Ayurvedic herb in which used in this preparation
-[Allium cepa](../herbs/Allium_cepa.md)
+[Allium cepa](../herbs/Allium_cepa_-_Onion,_Irulli,_Pyaj,_Vengayam,_Nirulli,_Bavanga.md)
 
 ## References
 

@@ -43,7 +43,7 @@ date: 2023-07-14
 ## Formulation composition
 | Loha cūrṇa-Śodhita (Lauha API) | Iron dust |  | 192 g |
 | --- | --- | --- | --- |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 192 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 192 g |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 192 g |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 192 g |
 | Harītakī API | [Terminalia chebula](Terminalia_chebula.md) | P. | 192 g |

@@ -25,7 +25,7 @@ The drug is known to have carminative and anti-spasmodic action.
 * [Piper longum](Piper_longum.md)
 * [Piper nigrum](Piper_nigrum.md)
 * [Asafoetida](Asafoetida.md)
-* [Zingiber officinale](../herbs/Zingiber_officinale.md)
+* [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 * [Carium](Carium.md)
 * [Roxburghianum](Roxburghianum.md)
 * [Piper retrofracturn](Piper_retrofracturn.md)

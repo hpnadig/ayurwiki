@@ -51,22 +51,22 @@ date: 2018-09-20
 | --- | --- | --- | --- |
 | Bibhītaka API | [Terminalia bellirica](Terminalia_bellirica.md) | P. | 12 g |
 | Āmalakī API | [Phyllanthus emblica](Phyllanthus_emblica.md) (Emblica officinalis) | P. | 12 g |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 12 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 12 g |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 12 g |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 12 g |
 | Drākṣā API | [Vitis vinifera](Vitis_vinifera.md) | Dr.Fr. | 12 g |
 | Madhuka (Yaṣṭī API) | [Glycyrrhiza glabra](Glycyrrhiza_glabra.md) | Rt. | 12 g |
 | Kaṭurohiṇī (Kaṭukā API) | [Picrorhiza kurroa](../herbs/Picrorhiza_kurroa.md) | Rz./Rt | 12 g |
-| Prapauṇḍarīka (Kamala API) | [Nelumbo nucifera](../herbs/Nelumbo_nucifera.md) | Fl. | 12 g |
+| Prapauṇḍarīka (Kamala API) | [Nelumbo nucifera](../herbs/Nelumbo_nucifera_-_Lotus,_ಕಮಲ,_Kamal,_Tamarai,_Tamara-puvvu,_Tamara.md) | Fl. | 12 g |
 | Sūkṣmailā API | [Eletteria cardamomum](Eletteria_cardamomum.md) | Sd. | 12 g |
 | Vi²aṅga API | [Embelia ribes](Embelia_ribes.md) | Fr. 1 | 2 g |
 | Nāgakeśara API | [Mesua ferrea](Mesua_ferrea.md) | Stmn. | 12 g |
 | Nīlotpala (Utpala API) | [Nymphaea stellata](../herbs/Nymphaea_stellata.md) | Fl. | 12 g |
 | Śveta sārivā API | [Hemidesmus indicus](Hemidesmus_indicus.md) | Rt. | 12 g |
-| Kṛṣṇa sārivā API | [Cryptolepis buchanani](../herbs/Cryptolepis_buchanani.md) | Rt. | 12 g |
+| Kṛṣṇa sārivā API | [Cryptolepis buchanani](../herbs/Cryptolepis_buchanani_-_Indian_Sarsaparilla,_Medhagulihambu,_Karanta,_Paalkodi,_Adavipaalatige,_Kattupalvalli.md) | Rt. | 12 g |
 | Candana (Śvetā candana API) | [Santalum album](Santalum_album.md) | Ht.Wd | 12 g |
 | Haridrā API | [Curcuma longa](Curcuma_longa.md) | Rz. | 12 g |
-| Dāruharidrā API | [Berberis aristata](../herbs/Berberis_aristata.md) | St. | 12 g |
+| Dāruharidrā API | [Berberis aristata](../herbs/Berberis_aristata_-_Indian_Barberry,_Baagi_soothra,_Chitra,_Kasturimanjal,_Daruharidra,_Maradarisina,_Daruhalad.md) | St. | 12 g |
 | Ghṛta (Go ghŗta API) | Clarified butter from cow’s milk |  | 768 g |
 | Pāyasa (Godugdha API) | Cow’s milk |  | 768 g |
 | Triphalā – Kvātha | Kvatha of [Emblica officinalis](Emblica_officinalis.md), [Terminalia chebula](Terminalia_chebula.md), [Terminalia bellirica](Terminalia_bellirica.md) |  | 2.3 l |

@@ -34,7 +34,7 @@ date: 2022-04-13
 | Harītakī API | [Terminalia chebula](Terminalia_chebula.md) | P. | 96 g |
 | Bibhītaka API | [Terminalia bellerica](Terminalia_bellerica.md) | P. | 96 g |
 | Āmalakī API | [Phyllanthus emblica](Phyllanthus_emblica.md) | P. | 96 g |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 48 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 48 g |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 48 g |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 48 g |
 | Varuṇa API | [Crataeva nurvala](Crataeva_nurvala.md) | St. Bk. | 48 g |

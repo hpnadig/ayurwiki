@@ -6,5 +6,5 @@ title: "Category: Herbs that are commonly seen in the region of Rhododendron thi
 
 Pages in this category: **2**
 
-* [Rhododendron campanulatum](../herbs/Rhododendron_campanulatum.md)
-* [Rhododendron cinnabarinum](../herbs/Rhododendron_cinnabarinum.md)
+* [Rhododendron campanulatum](../herbs/Rhododendron_campanulatum_-_Bell_Rhododendron,_Burans.md)
+* [Rhododendron cinnabarinum](../herbs/Rhododendron_cinnabarinum_-_Tree_Rhododendron,_Burans,_Billi,_Kattupoo_varasu.md)

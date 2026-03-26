@@ -39,7 +39,7 @@ date: 2018-09-21
 | Madhu API | Honey |  | 4.8 kg |
 | Prakṣepa Dravyas: |  |  |  |
 | Dhātakī API | [Woodfordia fruticosa](Woodfordia_fruticosa.md) | Fl. | 336 g |
-| Jātī API | [Jasminum officinale](../herbs/Jasminum_officinale.md) | Fl. | 24 g |
+| Jātī API | [Jasminum officinale](../herbs/Jasminum_officinale_-_Common_Jasmine,_Mallige,_Chameli,_Malligai,_Jaji_puvvu,_Pichakam,_Chembeli.md) | Fl. | 24 g |
 | Lavaṅga API | [Syzygium aromaticum](Syzygium_aromaticum.md) | Fl. | Bud 24 g |
 | Kakkola (Kaṅkola API) | [Piper cubeba](Piper_cubeba.md) | Fr. | 24 g |
 | Lavalīphala API | [Cicca acida](Cicca_acida.md) | Fr. | 24 g |

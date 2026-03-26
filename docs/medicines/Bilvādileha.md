@@ -28,7 +28,7 @@ date: 2018-09-14
 | Trutī (Sūksmailā API) | [Elettaria cardamomum](Elettaria_cardamomum.md) | Sd. | 12 g |
 | Tvak API | [Cinnamomum zeylanicum](Cinnamomum_zeylanicum.md) | St.Bk. | 12 g |
 | Keśara (Nāgakeśara API) | [Mesua ferrea](Mesua_ferrea.md) | Stmn. | 12 g |
-| Śunthī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz | 12 g |
+| Śunthī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz | 12 g |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 12 g |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 12 g |
 

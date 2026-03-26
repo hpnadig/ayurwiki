@@ -12,7 +12,7 @@ date: 2023-05-29
 **Keshasanjivini Taila** is used to treat Hairfall, Headache, Hair growth, White hairs, and Dandruff
 
 ## List of Ayurvedic herb in which used in this preparation
-[Costus speciosus](../herbs/Costus_speciosus.md)
+[Costus speciosus](../herbs/Costus_speciosus_-_Wild_ginger,_Kundige_gida,_Kusht,_Kottam,_Bomma,_Naagali.md)
 
 ## References
 

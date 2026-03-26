@@ -46,13 +46,13 @@ date: 2018-09-25
 | (d.) Kāśmarī (Gambhārī API) | [Gmelina arborea](Gmelina_arborea.md) | Rt./St. Bk. |  |
 | (e.) Pātalā API | [Stereospermum suaveolens](Stereospermum_suaveolens.md) | Rt./St. Bk. |  |
 | (f.) Śālaparnī API | [Desmodium gangeticum](Desmodium_gangeticum.md) | Pl |  |
-| (g.) Pṛṣniparṇī API | [Uraria picta](../herbs/Uraria_picta.md) | Pl |  |
+| (g.) Pṛṣniparṇī API | [Uraria picta](../herbs/Uraria_picta_-_Andhriparni,_Dabra,_Sittirappaladai,_Kolkuponna,_Muvila,_Pitvan.md) | Pl |  |
 | (h.) Śvadaṁṣtrā (Gokṣura API) | [Tribulus terrestris](Tribulus_terrestris.md) | Pl |  |
 | (i.) Bṛhatī API | [Solanum indicum](Solanum_indicum.md) | Pl |  |
 | (j.) Kāntakārī API | [Solanum surattense](Solanum_surattense.md) | Pl |  |
 | Pathyā (Harītakī API) – cūrņa | [Terminalia chebula](Terminalia_chebula.md) | P. | 3.07 kg |
 | Guda API | Jaggery |  | 4.80 kg |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 96 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 96 g |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 96 g |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 96 g |
 | Tvak API | [Cinnamomum zeylanicum](Cinnamomum_zeylanicum.md) | St.Bk. 9 | 6 g |

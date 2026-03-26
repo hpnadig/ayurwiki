@@ -8,4 +8,4 @@ Pages in this category: **3**
 
 * [Geranium robertianum](../herbs/Geranium_robertianum.md)
 * [Geum urbanum](../herbs/Geum_urbanum.md)
-* [Sisymbrium officinale - Hedge mustard](../herbs/Sisymbrium_officinale_-_Hedge_mustard.md)
+* [Sisymbrium officinale - Hedge mustard](../herbs/Sisymbrium_officinale_-_Hedge_Mustard.md)

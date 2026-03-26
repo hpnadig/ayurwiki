@@ -12,7 +12,7 @@ date: 2023-11-06
 **Saraswataarishta** is used for Brain health and Nervous system. Useful in Dullness, Dementia, Forgetfulness, Depression, Nervousness etc. Consuming it cleanses the throat. Useful for Singers and Lecturers.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Centella asiatica](Centella_asiatica.md), [Zingiber officinale](../herbs/Zingiber_officinale.md), [Embelia ribes](Embelia_ribes.md)
+[Centella asiatica](Centella_asiatica.md), [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md), [Embelia ribes](Embelia_ribes.md)
 
 ## References
 

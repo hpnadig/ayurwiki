@@ -44,7 +44,7 @@ date: 2018-09-14
 | Ghṛta API | Clarified butter from cow’s milk |  | 768 g |
 | Khaṇḍa API | Sugar candy |  | 4.8 kg |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 96 g |
-| Śṛṅgavera (Śunhī API) | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 96 g |
+| Śṛṅgavera (Śunhī API) | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 96 g |
 | Jīraka (Śveta jīraka API) | [Cuminum cyminum](Cuminum_cyminum.md) | Fr. | 96 g |
 | Tvak API | [Cinnamomum zeylanicum](Cinnamomum_zeylanicum.md) | St. Bk. | 24 g |
 | Elā (Sūksmailā API) | [Elettaria cardamomum](Elettaria_cardamomum.md) | Sd. | 24 g |
