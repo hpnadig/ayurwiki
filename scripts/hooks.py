@@ -222,6 +222,7 @@ def _generate_recent_changes():
 # ============================================================
 
 _credits_data = {}  # Populated in on_config, consumed by on_page_content
+_short_urls = {}    # src_path -> numeric id, populated in on_config
 
 # Pages that should not show contributor credits
 _SKIP_CREDITS = {
@@ -516,13 +517,66 @@ def _generate_credits_page():
 
 
 # ============================================================
+# Short URLs
+# ============================================================
+
+def _build_short_urls():
+    """Build a mapping of herb page src_paths to numeric short IDs."""
+    mapping = {}
+    herb_pages = []
+
+    # Collect all herb .md files (excluding index)
+    herbs_path = os.path.join(DOCS_DIR, "herbs")
+    if os.path.isdir(herbs_path):
+        for fn in sorted(os.listdir(herbs_path)):
+            if fn.endswith(".md") and fn != "index.md":
+                src = f"herbs/{fn}"
+                herb_pages.append(src)
+
+    # Assign sequential IDs (alphabetical order by filename)
+    for i, src in enumerate(herb_pages, start=1):
+        mapping[src] = i
+
+    return mapping
+
+
+def _generate_short_url_redirects(config):
+    """Generate redirect HTML pages at site/h/{id}/index.html."""
+    site_dir = config.get("site_dir", os.path.join(ROOT_DIR, "site"))
+    site_url = config.get("site_url", "").rstrip("/")
+
+    for src, sid in _short_urls.items():
+        # Convert src_path to URL path: herbs/Foo.md -> herbs/Foo/
+        url_path = src[:-3] + "/"  # strip .md, add trailing slash
+        full_url = f"{site_url}/{url_path}" if site_url else f"/{url_path}"
+
+        redirect_dir = os.path.join(site_dir, "h", str(sid))
+        os.makedirs(redirect_dir, exist_ok=True)
+
+        redirect_html = (
+            '<!DOCTYPE html>'
+            '<html><head>'
+            f'<meta http-equiv="refresh" content="0;url=/{url_path}">'
+            f'<link rel="canonical" href="{full_url}">'
+            f'<title>Redirecting...</title>'
+            '</head><body>'
+            f'<a href="/{url_path}">Redirecting...</a>'
+            '</body></html>'
+        )
+
+        with open(os.path.join(redirect_dir, "index.html"), "w") as f:
+            f.write(redirect_html)
+
+
+# ============================================================
 # MkDocs Hooks
 # ============================================================
 
 def on_config(config, **kwargs):
-    """Load and merge contributor data (runs once per build)."""
-    global _credits_data
+    """Load contributor data and build short URL mapping (runs once per build)."""
+    global _credits_data, _short_urls
     _credits_data = _load_credits()
+    _short_urls = _build_short_urls()
     return config
 
 
@@ -543,27 +597,66 @@ def on_page_content(html, page, config, files, **kwargs):
         return html
 
     page_data = _credits_data.get("pages", {}).get(src)
-    if not page_data:
+    credits_html = ""
+    n = 0
+
+    if page_data:
+        credits_html = _build_credits_html(page_data)
+        n = len(page_data.get("contributors", []))
+        anon = page_data.get("anonymous", {}).get("edit_count", 0)
+        if anon:
+            n += 1
+
+    # Build share button if page has a short URL
+    share_btn = ""
+    short_id = _short_urls.get(src)
+    if short_id:
+        short_path = f"/h/{short_id}/"
+        share_btn = (
+            f'<button class="aw-tab aw-share-btn" '
+            f'data-short-url="{short_path}" '
+            f'title="Copy short link">'
+            '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" '
+            'viewBox="0 0 24 24" fill="none" stroke="currentColor" '
+            'stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
+            '<path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/>'
+            '<polyline points="16 6 12 2 8 6"/>'
+            '<line x1="12" y1="2" x2="12" y2="15"/>'
+            '</svg> Share'
+            '</button>'
+        )
+
+    # If no credits and no share button, return as-is
+    if not credits_html and not share_btn:
         return html
 
-    credits_html = _build_credits_html(page_data)
-    if not credits_html:
-        return html
-
-    # Count contributors for tab label
-    n = len(page_data.get("contributors", []))
-    anon = page_data.get("anonymous", {}).get("edit_count", 0)
-    if anon:
-        n += 1  # count anonymous as one entry
+    # Build contributors tab (only if credits exist)
+    contributors_tab = ""
+    contributors_pane = ""
+    if credits_html:
+        contributors_tab = (
+            f'<button class="aw-tab" data-tab="contributors">'
+            f'Contributors ({n})</button>'
+        )
+        contributors_pane = (
+            f'<div class="aw-tab-pane" data-tab="contributors">'
+            f'{credits_html}</div>'
+        )
 
     return (
         '<div class="aw-tabs">'
         '<div class="aw-tab-bar">'
         '<button class="aw-tab active" data-tab="article">Article</button>'
-        f'<button class="aw-tab" data-tab="contributors">'
-        f'Contributors ({n})</button>'
+        f'{contributors_tab}'
+        f'{share_btn}'
         '</div>'
         f'<div class="aw-tab-pane active" data-tab="article">{html}</div>'
-        f'<div class="aw-tab-pane" data-tab="contributors">{credits_html}</div>'
+        f'{contributors_pane}'
         '</div>'
     )
+
+
+def on_post_build(config, **kwargs):
+    """Generate short URL redirect pages after the site is built."""
+    if _short_urls:
+        _generate_short_url_redirects(config)

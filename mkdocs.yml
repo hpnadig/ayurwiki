@@ -74,6 +74,7 @@ extra_javascript:
   - javascripts/edit-modal.js
   - javascripts/pagination.js
   - javascripts/content-tabs.js
+  - javascripts/share.js
 
 nav:
   - Home: index.md
