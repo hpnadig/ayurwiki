@@ -12,7 +12,7 @@ date: 2023-09-06
 **Kasturyadi Gutika** is used to treat Breathing problems. It is good for Heart's health
 
 ## List of Ayurvedic herb in which used in this preparation
-[Biophytum sensitivum - Alambusha](../herbs/Biophytum_sensitivum_-_Alambusha.md), [Myristica fragrans](Myristica_fragrans.md)
+[Biophytum sensitivum - Alambusha](../herbs/Biophytum_sensitivum_-_Little_Tree_Plant,_Dodda_horamuchhaka,_Lakhshana,_Tintanali,_Attapatti,_Mukkutti.md), [Myristica fragrans](Myristica_fragrans.md)
 
 ## References
 

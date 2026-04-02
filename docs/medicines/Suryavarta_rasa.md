@@ -12,7 +12,7 @@ date: 2023-07-18
 **Suryavarta rasa** is Useful for Indigestion, Phlegm, Vomiting, Morning sickness, Cough and Asthma
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md), [Gossypium herbaceum](Gossypium_herbaceum.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md), [Gossypium herbaceum](Gossypium_herbaceum.md)
 
 ## References
 

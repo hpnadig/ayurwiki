@@ -6,6 +6,6 @@ title: "Category: Ayurvedic Herbs known to be helpful to treat Intestinal proble
 
 Pages in this category: **3**
 
-* [Amorphophallus konjac - Devil's Tongue](../herbs/Amorphophallus_konjac_-_Devil's_Tongue.md)
+* [Amorphophallus konjac - Devil's Tongue](../herbs/Amorphophallus_konjac_-_Devils_Tongue.md)
 * [Jasminum humile](../herbs/Jasminum_humile.md)
-* [Magnolia grandiflora - Him Champa](../herbs/Magnolia_grandiflora_-_Him_Champa.md)
+* [Magnolia grandiflora - Him Champa](../herbs/Magnolia_grandiflora_-_Chinese_Magnolia,_हिम_चम्पा.md)

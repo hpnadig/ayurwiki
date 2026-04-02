@@ -31,7 +31,7 @@ date: 2018-09-19
 ## Formulation composition
 | Nimba API | [Azadirachta indica](Azadirachta_indica.md) | St.Bk. | 480 g |
 | --- | --- | --- | --- |
-| Paṭola API | [Trichosanthes dioica](../herbs/Trichosanthes_dioica.md) | Lf. | 480 g |
+| Paṭola API | [Trichosanthes dioica](../herbs/Trichosanthes_dioica_-_Parval,_Kaadu_Padaval,_Kambupudalai,_Kommu_Potla.md) | Lf. | 480 g |
 | Vyāghrī (Kaṇṭakārī API) | [Solanum surattense](Solanum_surattense.md) | Pl. | 480 g |
 | Guḍūcī API | [Tinospora cordifolia](Tinospora_cordifolia.md) | St. | 480 g |
 | Vāsaka (Vāsā API) | [Adhatoda vasica](Adhatoda_vasica.md) | Rt. | 480 g |

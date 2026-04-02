@@ -46,7 +46,7 @@ date: 2023-09-08
 **Lavaṅgādi cūrṇa** is Useful for Indigestion, Cough, Hiccups, Dysentery, Fever and Diabetes.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md), [Myristica fragrans](Myristica_fragrans.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md), [Myristica fragrans](Myristica_fragrans.md)
 
 ## References
 

@@ -39,7 +39,7 @@ date: 2022-04-03
 | 5 Pippala (Aśvattha API) | [Ficus religiosa](Ficus_religiosa.md) | Fr. | 192 g |
 | 6 Śatī API | [Hedychium spicatum](Hedychium_spicatum.md) | Rz. | 192 g |
 | 7 Anantā (Śveta sārivā API) | [Hemidesmus indicus](Hemidesmus_indicus.md) | Rt. | 192 g |
-| 8 Padmaka API | [Prunus cerasoides](../herbs/Prunus_cerasoides.md) | St. | 192 g |
+| 8 Padmaka API | [Prunus cerasoides](../herbs/Prunus_cerasoides_-_Wild_himalayan_cherry,_Padmaka,_Padam,_Patumugam,_Padmakla.md) | St. | 192 g |
 | 9 Śla (Hrīvera API) | [Coleus vettiveroides](../herbs/Coleus_vettiveroides.md) | Rt. | 192 g |
 | 10 Pāṭhā API | [Cissampelos pareira](Cissampelos_pareira.md) | Rt. | 192 g |
 | 11 Dhātrī (Āmalakī API) | [Emblica officinalis](Emblica_officinalis.md) | P. | 192 g |

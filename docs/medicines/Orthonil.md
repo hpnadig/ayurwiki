@@ -12,7 +12,7 @@ date: 2023-06-24
 **Orthonil** is used to treat Sprain. It is available as oil and Ointment
 
 ## List of Ayurvedic herb in which used in this preparation
-[Allium cepa](../herbs/Allium_cepa.md), [Aloe vera](Aloe_vera.md)
+[Allium cepa](../herbs/Allium_cepa_-_Onion,_Irulli,_Pyaj,_Vengayam,_Nirulli,_Bavanga.md), [Aloe vera](Aloe_vera.md)
 
 ## References
 

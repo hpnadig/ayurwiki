@@ -12,7 +12,7 @@ date: 2023-09-07
 **Mahadrakshadi Rasaayana** is used to treat Useful in Vertigo, Vomiting, Indigestion, Stomachache, Ulcer, Urinary Incontinence and Constipation.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md), [Myristica fragrans](Myristica_fragrans.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md), [Myristica fragrans](Myristica_fragrans.md)
 
 ## References
 

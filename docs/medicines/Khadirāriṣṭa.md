@@ -37,7 +37,7 @@ date: 2023-09-06
 | --- | --- | --- | --- |
 | Devadāru API | [Cedrus deodara](Cedrus_deodara.md) | Ht. Wd | 2.4 kg |
 | Bākucī API | [Psoralea corylifolia](Psoralea_corylifolia.md) | Sd. | 576 g |
-| Dārvī (Dāruharidrā API) | [Berberis aristata](../herbs/Berberis_aristata.md) | St. | 960 g |
+| Dārvī (Dāruharidrā API) | [Berberis aristata](../herbs/Berberis_aristata_-_Indian_Barberry,_Baagi_soothra,_Chitra,_Kasturimanjal,_Daruharidra,_Maradarisina,_Daruhalad.md) | St. | 960 g |
 | Harītakī API | [Terminalia chebula](Terminalia_chebula.md) | P. | 960 g |
 | Bibhītaka API | [Terminalia belerica](Terminalia_belerica.md) | P. | 960 g |
 | āmalakī API | [Emblica officinalis](Emblica_officinalis.md) | P. | 960 g |

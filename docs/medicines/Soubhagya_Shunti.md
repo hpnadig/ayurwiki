@@ -12,7 +12,7 @@ date: 2023-11-05
 **Soubhagya Shunti** will Increases Appetite, Good for Indigestion, Taking this medicine for 2-3 months can prevent all kinds of diseases caused by germs.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Curcuma zedoaria](../herbs/Curcuma_zedoaria.md), [Zingiber officinale](../herbs/Zingiber_officinale.md), [Myristica fragrans](Myristica_fragrans.md), [Asparagus racemosus](Asparagus_racemosus.md)
+[Curcuma zedoaria](../herbs/Curcuma_zedoaria_-_Zeedore,_Kadu_Arisina,_Kachuru,_Kichchili_Kilangu,_Kachoram,_Kachoori_kilannu.md), [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md), [Myristica fragrans](Myristica_fragrans.md), [Asparagus racemosus](Asparagus_racemosus.md)
 
 ## References
 

@@ -12,7 +12,7 @@ date: 2023-06-27
 **Ashchakanchuki rasa** Useful in Stomach disorders, Fever, Weak and Children.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

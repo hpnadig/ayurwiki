@@ -12,7 +12,7 @@ date: 2023-10-15
 **Bala Ashwagandhaadi Taila** is useful for Nerves Disorder and TB
 
 ## List of Ayurvedic herb in which used in this preparation
-[Anethum sowa](../herbs/Anethum_sowa.md)
+[Anethum sowa](../herbs/Anethum_sowa_-_Dil,_Sabbasige,_Sova,_Shatakuppi_Sompa,_Sapasige.md)
 
 ## References
 

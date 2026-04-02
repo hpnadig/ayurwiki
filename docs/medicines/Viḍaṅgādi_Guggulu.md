@@ -30,7 +30,7 @@ date: 2018-09-20
 | b. Bibhītaka API | [Terminalia belerica](Terminalia_belerica.md) | P. | 20 g |
 | c. Āmalakī API | [Emblica officinalis](Emblica_officinalis.md) | P. | 20 g |
 | Vyoṣa |  |  |  |
-| a. Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 20 g |
+| a. Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 20 g |
 | b. Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 20 g |
 | c. Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 20 g |
 | Guggulu API - Śuddha | Commiphora wighti | O. R. | 180 g |

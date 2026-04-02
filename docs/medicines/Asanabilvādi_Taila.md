@@ -27,7 +27,7 @@ date: 2018-09-28
 | Jala API for decoction | Potable Water | – | 12.288 l |
 | reduced to |  |  | 3.072 l |
 | Madhuka (Yaṣṭī API) | [Glycyrrhiza glabra](Glycyrrhiza_glabra.md) | Rt. | 38.4 g |
-| Nāgaraka (Śuṇṭhī API) | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz | . 38.4 g |
+| Nāgaraka (Śuṇṭhī API) | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz | . 38.4 g |
 | Triphlā |  |  |  |
 | a. Harīakī API | [Terminalia chebula](Terminalia_chebula.md) | P. | 38.4 g |
 | b. Bibhītaka API | [Terminalia bellirica](Terminalia_bellirica.md) | P. | 38.4 g |

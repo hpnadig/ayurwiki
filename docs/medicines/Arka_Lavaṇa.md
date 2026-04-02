@@ -21,7 +21,7 @@ date: 2018-09-20
 **Arka Lavaṇa** is a preparation made with the ingredients in the Formulation composition given below.
 
 ## Formulation composition
-| Arka patra API | [Calotropis procera](../herbs/Calotropis_procera.md) | Lf. | 1 part |
+| Arka patra API | [Calotropis procera](../herbs/Calotropis_procera_-_Rubber_Bush,_Bili_ekkada_gida,_Aak,_Vellai_erukkan,_Erra_jilledu,_Erikku,_Mandara.md) | Lf. | 1 part |
 | --- | --- | --- | --- |
 | Saindhava lavaṇa API | Rock salt |  | 1 part |
 

@@ -65,18 +65,18 @@ date: 2023-06-29
 | --- | --- | --- | --- |
 | Amṛtā (Guḍūcī API) | [Tinospora cordifolia](Tinospora_cordifolia.md) | St. | 480 g |
 | Vṛṣa (Vāsā API) | [Adhatoda vasica](Adhatoda_vasica.md) | Rt. | 480 g |
-| Paṭola API | [Trichosanthes dioica](../herbs/Trichosanthes_dioica.md) | Lf./Pl.* | 480 g |
-| Nidigdhikā (Kaṇṭkārī API) | [Solanum xanthocarpum](../herbs/Solanum_xanthocarpum.md) | Pl. | 480 g |
+| Paṭola API | [Trichosanthes dioica](../herbs/Trichosanthes_dioica_-_Parval,_Kaadu_Padaval,_Kambupudalai,_Kommu_Potla.md) | Lf./Pl.* | 480 g |
+| Nidigdhikā (Kaṇṭkārī API) | [Solanum xanthocarpum](../herbs/Solanum_xanthocarpum_-_Thorny_nightshade,_Kantkari.md) | Pl. | 480 g |
 | Jala for decoction API | Water |  | 12.288 l |
 | reduced to |  |  | 1.5361 |
 | Ghṛta (Goghṛta API) | Clarified butter from Cow s milk |  | 768 g |
 | Pāṭhā API | [Cissampelos pareira](Cissampelos_pareira.md) | Rt | 12 g |
 | Viḍaṅga API | [Embelia ribes](Embelia_ribes.md) | Fr. | 12 g |
 | Suradāru (Devadāru API) | [Cedrus deodara](Cedrus_deodara.md) | Ht. Wd. | 12 g |
-| Gajopakulyā (Gajapippalī API) | [Scindapsus officinalis](../herbs/Scindapsus_officinalis.md) | Fr | 12 g |
+| Gajopakulyā (Gajapippalī API) | [Scindapsus officinalis](../herbs/Scindapsus_officinalis_-_Long_pepper,_Dodda_hippali,_Anaittippili,_Enugapippalu,_Anattippali,_Gaja_pimpli.md) | Fr | 12 g |
 | Yavakṣāra (Yava API) | [Hordeum vulgare](Hordeum_vulgare.md) | Pl | 12 g |
 | Sarjikākṣāra (Svarjikṣāra API) |  |  | 12 g |
-| Nāgara (Śuṇṭhī API) | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 12 g |
+| Nāgara (Śuṇṭhī API) | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 12 g |
 | Niśā (Haridrā API) | [Curcuma longa](Curcuma_longa.md) | Rz. | 12 g |
 | Miśi (Miśreyā API) | [Foeniculum vulgare](Foeniculum_vulgare.md) | Fr. | 12 g |
 | Cavya API | [Piper retrofractum](Piper_retrofractum.md) | St. | 12 g |

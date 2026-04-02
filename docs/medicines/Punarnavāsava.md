@@ -31,27 +31,27 @@ date: 2023-07-03
 **Punarnavāsava** is a fermented liquid preparation, made with the ingredients of the Formulation composition given below. It contains not more than 10 per cent, and not less than 5 per cent of alcohol that is self generated in the preparation over a period of time
 
 ## Formulation composition
-| Śuṇṭhi API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 16 g |
+| Śuṇṭhi API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 16 g |
 | --- | --- | --- | --- |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 16 g |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 16 g |
 | Harītakī API | [Terminalia chebula](Terminalia_chebula.md) | Fr.P | 16 g |
 | Bibhtaka API | [Terminalia belerica](Terminalia_belerica.md) | Fr.P | 16 g |
 | Āmalakī API | [Emblica officinalis](Emblica_officinalis.md) | Fr.P | 16 g |
-| Dārvī (Dāruharidrā) API | [Berberis aristata](../herbs/Berberis_aristata.md) | St. | 16 g |
+| Dārvī (Dāruharidrā) API | [Berberis aristata](../herbs/Berberis_aristata_-_Indian_Barberry,_Baagi_soothra,_Chitra,_Kasturimanjal,_Daruharidra,_Maradarisina,_Daruhalad.md) | St. | 16 g |
 | Śvadaṁṣtrā (Gokṣura) API | [Tribulus terrestris](Tribulus_terrestris.md) | Fr. | 16 g |
 | Bṛhatī API | [Solanum indicum](Solanum_indicum.md) | Rt. | 16 g |
-| Kaṇṭakārī API | [Solanum xanthocarpum](../herbs/Solanum_xanthocarpum.md) | Pl. | 16 g |
+| Kaṇṭakārī API | [Solanum xanthocarpum](../herbs/Solanum_xanthocarpum_-_Thorny_nightshade,_Kantkari.md) | Pl. | 16 g |
 | Vāsāmūla (Vāsā) AP | [Adhatoda vasica](Adhatoda_vasica.md) | Rt. | 16 g |
 | Eraṇḍaamūla (Eraṇḍa) API | [Ricinus communis](Ricinus_communis.md) | Rt. | 16 g |
 | Kaṭukī API | [Picrorrhiza kurroa](Picrorrhiza_kurroa.md) | Rt./Rz. | 16 g |
-| Gajapippalī API | [Scindapsus officinalis](../herbs/Scindapsus_officinalis.md) | Fr. | 16 g |
+| Gajapippalī API | [Scindapsus officinalis](../herbs/Scindapsus_officinalis_-_Long_pepper,_Dodda_hippali,_Anaittippili,_Enugapippalu,_Anattippali,_Gaja_pimpli.md) | Fr. | 16 g |
 | Śothaghnī (Punarnavā) API | [Boerhaavia diffusa](Boerhaavia_diffusa.md) | Rt. | 16 g |
 | Picumarda (Nimba) API | [Azadirachta indica](Azadirachta_indica.md) | St. Bk. | 16 g |
 | Guḍucī API | [Tinospora cordifolia](Tinospora_cordifolia.md) | St. | 16 g |
 | Suṣka mūlaka (mūlaka) API | [Raphanus sativus](Raphanus_sativus.md) | Rt. | 16 g |
 | Durālabhā API | [Fagonia cretica](Fagonia_cretica.md) | Rt. | 16 g |
-| Paṭola API | [Trichosanthes dioica](../herbs/Trichosanthes_dioica.md) | Lf. | 16 g |
+| Paṭola API | [Trichosanthes dioica](../herbs/Trichosanthes_dioica_-_Parval,_Kaadu_Padaval,_Kambupudalai,_Kommu_Potla.md) | Lf. | 16 g |
 | Dhātakī API | [Woodfordia fruticosa](Woodfordia_fruticosa.md) | Fl. | 256 g |
 | Drākṣā API | [Vitis vinifera](Vitis_vinifera.md) | Dr. Fr. | 320 g |
 | Sitā API | Sugar |  | 1.6 kg |

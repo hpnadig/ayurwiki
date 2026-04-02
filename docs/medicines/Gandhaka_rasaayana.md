@@ -12,7 +12,7 @@ date: 2023-07-14
 **Gandhaka rasaayana**is used to purify the blood. It is used to treat Skin diseases, Wounds, Leprosy and Eczema
 
 ## List of Ayurvedic herb in which used in this preparation
-[Elettaria cardamomum](Elettaria_cardamomum.md), [Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Elettaria cardamomum](Elettaria_cardamomum.md), [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

@@ -27,7 +27,7 @@ date: 2018-09-14
 | --- | --- | --- | --- |
 | Yamānī (Yavānī API) | [Trachyspermum ammi](Trachyspermum_ammi.md) | Fr. | 2 part |
 | Ajamodā API | [Apium leptophyllum](Apium_leptophyllum.md) | Fr. | 3 parts |
-| Nāgara (Śuṇṭhī API) | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 5 parts |
+| Nāgara (Śuṇṭhī API) | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 5 parts |
 | Harītakī API | [Terminalia chebula](Terminalia_chebula.md) | P. | 12 parts |
 
 ## Method of preparation

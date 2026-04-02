@@ -12,7 +12,7 @@ date: 2023-06-29
 **Tribhuvana Kirthirasa** is used to treat Influenza, Cold, Cough, Fever and Nose blocking.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Ocimum tenuiflorum](Ocimum_tenuiflorum.md), [Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Ocimum tenuiflorum](Ocimum_tenuiflorum.md), [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

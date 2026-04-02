@@ -20,7 +20,7 @@ date: 2023-07-15
 **Sūtaśekhara rasa** is Useful in Vomiting, Hiccups, Burning in throat, Dizziness and Indigestion.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

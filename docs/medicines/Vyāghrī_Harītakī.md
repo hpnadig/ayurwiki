@@ -33,7 +33,7 @@ date: 2018-09-14
 | reduced to |  |  | 3.07 l |
 | Harītakī API | [Terminalia chebula](Terminalia_chebula.md) | P. | (100 in No.) 1.2 kg |
 | Guḍa API | Jaggery |  | 4.8 kg |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 96 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 96 g |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 96 g |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 96 g |
 | Tvak API | [Cinnamomum zeylanicum](Cinnamomum_zeylanicum.md) | St. Bk. | 48 g |

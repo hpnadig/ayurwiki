@@ -8,4 +8,4 @@ Pages in this category: **3**
 
 * [Fritillaria roylei](../herbs/Fritillaria_roylei.md)
 * [Nasturtium officinale](../herbs/Nasturtium_officinale.md)
-* [Sutherlandia frutescens - Balloon pea](../herbs/Sutherlandia_frutescens_-_Balloon_pea.md)
+* [Sutherlandia frutescens - Balloon pea](../herbs/Sutherlandia_frutescens_-_Avaram_senna,_āvarike,_Tarwar,_āvārai,_taṃgēḍu.md)

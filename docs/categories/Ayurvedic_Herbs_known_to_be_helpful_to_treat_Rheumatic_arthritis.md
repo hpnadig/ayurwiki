@@ -6,5 +6,5 @@ title: "Category: Ayurvedic Herbs known to be helpful to treat Rheumatic arthrit
 
 Pages in this category: **2**
 
-* [Celastrus paniculatus - Jyotishmati](../herbs/Celastrus_paniculatus_-_Jyotishmati.md)
+* [Celastrus paniculatus - Jyotishmati](../herbs/Celastrus_paniculatus_-_Black_oil_plant,_Bhavanga_beeja,_Malakanguni,_Carasvati,_Baavanji,_Ceruppunna.md)
 * [Lycopodium clavatum](../herbs/Lycopodium_clavatum.md)

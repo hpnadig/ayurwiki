@@ -12,7 +12,7 @@ date: 2023-11-05
 **Shatavari Lehyam** is used as a Tonic and Useful for Bladder infections and Jaundice.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Phyllanthus amarus](Phyllanthus_amarus.md), [Zingiber officinale](../herbs/Zingiber_officinale.md), [Asparagus racemosus](Asparagus_racemosus.md)
+[Phyllanthus amarus](Phyllanthus_amarus.md), [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md), [Asparagus racemosus](Asparagus_racemosus.md)
 
 ## References
 

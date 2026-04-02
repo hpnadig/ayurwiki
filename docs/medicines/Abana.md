@@ -24,7 +24,7 @@ Inhibits platelet aggregation: The drug reduces abnormal platelet adhesion and a
 **Indian Bdellium** [Guggul](../medicines/Guggul.md) effectively lowers triglyceride levels, total cholesterol levels and free fatty acid levels, through liver lipolysis (the breakdown of lipids in the liver), increased fecal bile acid excretion, inhibiting the biosynthesis of hepatic cholesterol (production of cholesterol in the liver) and inhibiting the oxidation of LDL.
 
 ## Other Ayurvedic herb in which used in this preparation
-[Centella asiatica](Centella_asiatica.md), [Ocimum tenuiflorum](Ocimum_tenuiflorum.md), [Zingiber officinale](../herbs/Zingiber_officinale.md), [Celastrus paniculatus](Celastrus_paniculatus.md)
+[Centella asiatica](Centella_asiatica.md), [Ocimum tenuiflorum](Ocimum_tenuiflorum.md), [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md), [Celastrus paniculatus](Celastrus_paniculatus.md)
 
 ## Directions for use
 Please consult your physician to prescribe the dosage that best suits the condition.

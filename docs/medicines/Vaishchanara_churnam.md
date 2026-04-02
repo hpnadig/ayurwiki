@@ -12,7 +12,7 @@ date: 2023-07-14
 **Vaishchanara churnam** is Improves Gigestion. Useful for Indigestion and Flatulence. It works as a Laxative.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Biophytum sensitivum - Alambusha](../herbs/Biophytum_sensitivum_-_Alambusha.md), [Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Biophytum sensitivum - Alambusha](../herbs/Biophytum_sensitivum_-_Little_Tree_Plant,_Dodda_horamuchhaka,_Lakhshana,_Tintanali,_Attapatti,_Mukkutti.md), [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

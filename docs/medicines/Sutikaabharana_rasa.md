@@ -12,7 +12,7 @@ date: 2023-07-15
 **Sutikaabharana rasa** is Useful for Typhoid and It is useful in diseases of tetanus. Eliminates toxins from the body. Prevents diseases caused by germs.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Aloe vera](Aloe_vera.md), [Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Aloe vera](Aloe_vera.md), [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

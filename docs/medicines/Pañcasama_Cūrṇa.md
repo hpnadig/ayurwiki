@@ -25,7 +25,7 @@ date: 2018-09-14
 **Pañcasama Cūrṇa** is a powder preparation made with the ingredients in the Formulation composition given below
 
 ## Formulation composition
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 1 part |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 1 part |
 | --- | --- | --- | --- |
 | Harītakī API | [Terminalia chebula](Terminalia_chebula.md) | P. | 1 part |
 | Kṛṣṇā (Pippalī API) | [Piper longum](Piper_longum.md) | Fr. | 1 part |

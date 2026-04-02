@@ -13,6 +13,6 @@ Pages in this category: **10**
 * [Jasminum angustifolium](../herbs/Jasminum_angustifolium.md)
 * [Jasminum auriculatum](../herbs/Jasminum_auriculatum.md)
 * [Juniperus virginiana](../herbs/Juniperus_virginiana.md)
-* [Syzygium cumini - Jambu, Malabar plum](../herbs/Syzygium_cumini_-_Jambu,_Malabar_plum.md)
+* [Syzygium cumini - Jambu, Malabar plum](../herbs/Syzygium_cumini_-_Java_plum,_Jambunerale,_Jamun,_Nagai.md)
 * [Syzygium cumini - Nerale](../herbs/Syzygium_cumini_-_Nerale.md)
 * [Syzygium cuminii](../herbs/Syzygium_cuminii.md)

@@ -12,7 +12,7 @@ date: 2023-09-06
 **Aarogyakara Kasturi Maatre** is Useful for Hiccup, Cold, Cough and Asthma.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md), [Myristica fragrans](Myristica_fragrans.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md), [Myristica fragrans](Myristica_fragrans.md)
 
 ## References
 

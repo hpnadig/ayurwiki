@@ -12,7 +12,7 @@ date: 2023-07-04
 ** Mahaasuryavarta Rasa** is Useful for Indigestion, Flatulence, Vomiting and Morning sickness
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

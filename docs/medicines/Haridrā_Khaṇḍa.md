@@ -27,7 +27,7 @@ date: 2018-09-23
 | Kṣīra (Godugdha API) | Cow milk | – |  |
 | Khaṇḍa (Śarkarā API) | Sugar Syrup |  | 2.400 kg |
 | Trikaṭu |  |  |  |
-| a. Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 48 g |
+| a. Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 48 g |
 | b. Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 48 g |
 | c. Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 48 g |
 | Trijāta |  |  |  |

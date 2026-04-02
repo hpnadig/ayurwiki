@@ -12,7 +12,7 @@ date: 2023-06-27
 **Ashtakshaari Gutika** is used to treat Indigestion, Dysentery, Windiness and Piles.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Biophytum sensitivum](Biophytum_sensitivum.md), [Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Biophytum sensitivum](Biophytum_sensitivum.md), [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

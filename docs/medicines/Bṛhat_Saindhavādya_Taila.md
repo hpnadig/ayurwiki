@@ -47,14 +47,14 @@ date: 2018-09-28
 ## Formulation composition
 | Saindhava (Saindhava Lavaṇa (API)) | Rock salt | – | 24 g |
 | --- | --- | --- | --- |
-| Śreyasī (Gajapippalī API) | [Scindapsus officinalis](../herbs/Scindapsus_officinalis.md) | Fr. | 24 g |
+| Śreyasī (Gajapippalī API) | [Scindapsus officinalis](../herbs/Scindapsus_officinalis_-_Long_pepper,_Dodda_hippali,_Anaittippili,_Enugapippalu,_Anattippali,_Gaja_pimpli.md) | Fr. | 24 g |
 | Rāsnā API | [Pluchea lanceolata](../herbs/Pluchea_lanceolata.md) [Alpinia galanga (Official Substitute)] | Rt. | 24 g |
-| Śatapuṣpā (Śatāhvā API) | [Anethum sowa](../herbs/Anethum_sowa.md) | Fr. | 24 g |
+| Śatapuṣpā (Śatāhvā API) | [Anethum sowa](../herbs/Anethum_sowa_-_Dil,_Sabbasige,_Sova,_Shatakuppi_Sompa,_Sapasige.md) | Fr. | 24 g |
 | Yamānikā (Yavānā API) | [Trachyspermum ammi](Trachyspermum_ammi.md) | Fr. | 24 g |
 | Sarjikā (Svarjīkṣāra (API)) | Crude alkaline earth | – | 24 g |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 24 g |
 | Kuṣṭha API | [Saussurea lappa](Saussurea_lappa.md) | Rt. | 24 g |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 24 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 24 g |
 | Sauvarcala (Sauvarcala Lava¸a (API)) | Black salt | – | 24 g |
 | Viḍa (Via Lavaṇa) |  |  | 24 g |
 | Vacā API | [Acorus calamus](Acorus_calamus.md) | Rz. | 24 g |
@@ -64,7 +64,7 @@ date: 2018-09-28
 | Pauṣkara (Puṣkara API) | [Inula racemosa](Inula_racemosa.md) | Rt. | 24 g |
 | Kaṇā (Pippalī API) | [Piper longum](Piper_longum.md) | Fr. | 24 g |
 | Eraṇḍa Taila (API) | Castor oil | – | 768 g |
-| Śatapuṣpajāmbu (Śatāhvā API) | [Anethum sowa](../herbs/Anethum_sowa.md) | Fr. | 3.0720 l |
+| Śatapuṣpajāmbu (Śatāhvā API) | [Anethum sowa](../herbs/Anethum_sowa_-_Dil,_Sabbasige,_Sova,_Shatakuppi_Sompa,_Sapasige.md) | Fr. | 3.0720 l |
 | Jala API for phaṇṭa | Potable Water | - | 768 g |
 | Kāñjika (API) | Sour gruel | – | 1.536 l |
 | [Mastu](../Mastu.md) (Godadhi (API)) | Curd whey from cow milk | – | 1.536 l |

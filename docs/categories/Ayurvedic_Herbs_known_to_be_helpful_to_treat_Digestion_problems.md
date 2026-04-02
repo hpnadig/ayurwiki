@@ -6,5 +6,5 @@ title: "Category: Ayurvedic Herbs known to be helpful to treat Digestion problem
 
 Pages in this category: **2**
 
-* [Pediomelum cuspidatum](../herbs/Pediomelum_cuspidatum.md)
+* [Pediomelum cuspidatum](../herbs/Pediomelum_cuspidatum_-_Indian_breadroot.md)
 * [Pyrus communis](../herbs/Pyrus_communis.md)

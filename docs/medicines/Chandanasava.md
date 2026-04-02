@@ -19,7 +19,7 @@ Harmaturia, Dysuria, Burning, Micturition, Spermatorrhsea, Leucorrhoea, Ganorrhr
 4 tablets 2 times/day
 
 ## Ingredients in which used in this preparation
-[Santalum album](Santalum_album.md), [Chrysopogon zizanioides](Chrysopogon_zizanioides.md), [Cyperus rotundus - Mustaka](../herbs/Cyperus_rotundus_-_Mustaka.md), [Nelumbo nucifera](../herbs/Nelumbo_nucifera.md), [Madhuca longifolia](Madhuca_longifolia.md), [Rubia cordifolia](Rubia_cordifolia.md), [Mangifera Indica](Mangifera_Indica.md), [Ficus bengalensis](Ficus_bengalensis.md), [Rubia cordifolia](Rubia_cordifolia.md).
+[Santalum album](Santalum_album.md), [Chrysopogon zizanioides](Chrysopogon_zizanioides.md), [Cyperus rotundus - Mustaka](../herbs/Cyperus_rotundus_-_Common_nut_sedge,_Abdahullu,_Baranagarmotha,_Korai,_Bhadratungamuste,_Karimuttan.md), [Nelumbo nucifera](../herbs/Nelumbo_nucifera_-_Lotus,_ಕಮಲ,_Kamal,_Tamarai,_Tamara-puvvu,_Tamara.md), [Madhuca longifolia](Madhuca_longifolia.md), [Rubia cordifolia](Rubia_cordifolia.md), [Mangifera Indica](Mangifera_Indica.md), [Ficus bengalensis](Ficus_bengalensis.md), [Rubia cordifolia](Rubia_cordifolia.md).
 
 ## References
 

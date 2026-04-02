@@ -12,7 +12,7 @@ date: 2023-09-07
 **Mahaakandardhaka Lehya** is Useful for Nausea, Vomiting, Indigestion, Flatulence and Bilious troubles
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md), [Myristica fragrans](Myristica_fragrans.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md), [Myristica fragrans](Myristica_fragrans.md)
 
 ## References
 

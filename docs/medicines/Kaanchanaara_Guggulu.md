@@ -12,7 +12,7 @@ date: 2023-09-13
 **Kaanchanaara Guggulu** is Useful for Useful for Gandamale, Spleen, Arbuda, Leprosy and Bagandhara.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md), [Crateva nurvala](Crateva_nurvala.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md), [Crateva nurvala](Crateva_nurvala.md)
 
 ## References
 

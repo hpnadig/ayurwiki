@@ -7,4 +7,4 @@ title: "Category: Ayurvedic Herbs known to be helpful to treat Bacterial infecti
 Pages in this category: **2**
 
 * [Alpinia speciosa - Shell Ginger](../herbs/Alpinia_speciosa_-_Shell_Ginger.md)
-* [Sesbania bispinosa - Itkaṭa](../herbs/Sesbania_bispinosa_-_Itkaṭa.md)
+* [Sesbania bispinosa - Itkaṭa](../herbs/Sesbania_bispinosa_-_Utkaṭa,_Ikkada,_Mudchembai,_Ettejangaa,_Kitamu.md)

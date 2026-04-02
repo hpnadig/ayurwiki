@@ -38,8 +38,8 @@ date: 2018-09-20
 | Drākṣā API | [Vitis vinifera](Vitis_vinifera.md) | Dr. Fr. | 9.14 g |
 | Ambu (Hrīvera API) | [Coleus vettiveroides](../herbs/Coleus_vettiveroides.md) | Rt. | 9.14 g |
 | Śauṇḍī (Pippalī API) | [Piper longum](Piper_longum.md) | Ft. | 9.14 g |
-| Vasuka | [Calotropis procera](../herbs/Calotropis_procera.md) (Official substitute) | Pl. | 9.14 g |
-| Vaśira (Cavya API) | [Piper chaba](../herbs/Piper_chaba.md) | Rt. | 9.14 g |
+| Vasuka | [Calotropis procera](../herbs/Calotropis_procera_-_Rubber_Bush,_Bili_ekkada_gida,_Aak,_Vellai_erukkan,_Erra_jilledu,_Erikku,_Mandara.md) (Official substitute) | Pl. | 9.14 g |
+| Vaśira (Cavya API) | [Piper chaba](../herbs/Piper_chaba_-_Long_Pepper,_Kandan_Lippili,_Pipli,_Tippili,_Pippallu,_Tippali.md) | Rt. | 9.14 g |
 | Kāśa API | [Saccharum spontaneum](Saccharum_spontaneum.md) | Rt. | 9.14 g |
 | Ikṣu-mūla API | [Saccharum officinale](Saccharum_officinale.md) | Rt. | 9.14 g |
 | Matsyākṣikā (Matsyākṣī API) | [Alternanthera sessilis](Alternanthera_sessilis.md) | Pl. | 9.14 g |

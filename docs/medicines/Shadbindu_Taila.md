@@ -13,7 +13,7 @@ date: 2023-08-12
 **Shadbindu Taila** is Useful for Headaches
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md), [Ricinus communis](Ricinus_communis.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md), [Ricinus communis](Ricinus_communis.md)
 
 ## Importance
 It is used for Nasya Ayurvedic treatment. It is useful in Ayurvedic treatment of headache, dizziness, migraine.

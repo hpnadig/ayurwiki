@@ -12,7 +12,7 @@ date: 2023-06-29
 **Digestone** is used for Loss of Apatite and Indigestion.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Allium sativum](Allium_sativum.md), [Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Allium sativum](Allium_sativum.md), [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

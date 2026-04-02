@@ -12,7 +12,7 @@ date: 2023-06-29
 **Draakshaadi Churnam** Is Strengthens the body, Increases appetite, Useful for Cough and Menstrual disorders.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

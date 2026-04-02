@@ -12,7 +12,7 @@ date: 2023-10-15
 **Kumaryasava** is used to trat Indigestion, Urine related diseases and Stomach's tumor. It is the best medicine for Monthly discharge Problems
 
 ## List of Ayurvedic herb in which used in this preparation
-[Anethum sowa](../herbs/Anethum_sowa.md)
+[Anethum sowa](../herbs/Anethum_sowa_-_Dil,_Sabbasige,_Sova,_Shatakuppi_Sompa,_Sapasige.md)
 
 ## References
 

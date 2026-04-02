@@ -12,7 +12,7 @@ date: 2023-07-14
 **Sanjeevani vati** is Used for Scorpion Bite and Snake Bite. Stimulates Appetite and Protects the body from Germs,
 
 ## List of Ayurvedic herb in which used in this preparation
-[Semecarpus anacardium](Semecarpus_anacardium.md), [Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Semecarpus anacardium](Semecarpus_anacardium.md), [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

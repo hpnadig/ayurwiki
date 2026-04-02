@@ -46,12 +46,12 @@ date: 2018-09-19
 | Devadāru API | [Cedrus deodara](Cedrus_deodara.md) | Ht.Wd | 12 g |
 | Elāvāluka API | [Prunus avium](Prunus_avium.md)] | St.Bk | 12 g |
 | Śveta sārivā API | [Hemidesmus indicus](Hemidesmus_indicus.md) | Rt. | 12 g |
-| Kṛṣṇa sārivā API | [Cryptolepis buchanani](../herbs/Cryptolepis_buchanani.md) | Rt. | 12 g |
+| Kṛṣṇa sārivā API | [Cryptolepis buchanani](../herbs/Cryptolepis_buchanani_-_Indian_Sarsaparilla,_Medhagulihambu,_Karanta,_Paalkodi,_Adavipaalatige,_Kattupalvalli.md) | Rt. | 12 g |
 | Haridrā API | [Curcuma longa](Curcuma_longa.md) | Rz. | 12 g |
-| Dāru haridrā API | [Berberis aristata](../herbs/Berberis_aristata.md) | St. | 12 g |
+| Dāru haridrā API | [Berberis aristata](../herbs/Berberis_aristata_-_Indian_Barberry,_Baagi_soothra,_Chitra,_Kasturimanjal,_Daruharidra,_Maradarisina,_Daruhalad.md) | St. | 12 g |
 | Śālaparṇī API | [Desmodium gangeticum](Desmodium_gangeticum.md) | Rt. | 12 g |
-| Pṛśniparṇī API | [Uraria picta](../herbs/Uraria_picta.md) | Rt. | 12 g |
-| Phalinī (Priyaṅgu API ) | [Callicarpa macrophylla](../herbs/Callicarpa_macrophylla.md) | Infl. | 12 g |
+| Pṛśniparṇī API | [Uraria picta](../herbs/Uraria_picta_-_Andhriparni,_Dabra,_Sittirappaladai,_Kolkuponna,_Muvila,_Pitvan.md) | Rt. | 12 g |
+| Phalinī (Priyaṅgu API ) | [Callicarpa macrophylla](../herbs/Callicarpa_macrophylla_-_Largeleaf_Beauty_Berry,_ಱುಷಿಪತ್ರಿ,_Bastara,_Kattukumil,_Chimpompil,_Kanphuli.md) | Infl. | 12 g |
 | Nata (Tagara API) | [Valeriana wallichi](Valeriana_wallichi.md) | Rt | 12 g |
 | Bṛhatī API | [Solanum indicum](Solanum_indicum.md) | Pl. | 12 g |
 | Kuṣṭha API | [Saussurea lappa](Saussurea_lappa.md) | Rt | 12 g |

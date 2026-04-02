@@ -17,7 +17,7 @@ date: 2018-09-28
 ## Formulation composition
 | Citraka API | [Plumbago zeylanica](Plumbago_zeylanica.md) | Rt. | 16 g |
 | --- | --- | --- | --- |
-| Arkamūla (Arka API) | [Calotropis procera](../herbs/Calotropis_procera.md) | Rt. | 16 g |
+| Arkamūla (Arka API) | [Calotropis procera](../herbs/Calotropis_procera_-_Rubber_Bush,_Bili_ekkada_gida,_Aak,_Vellai_erukkan,_Erra_jilledu,_Erikku,_Mandara.md) | Rt. | 16 g |
 | Trivṛt API | [Ipomoea turpethum](Ipomoea_turpethum.md) | Rt. | 16 g |
 | Pāṭhā API | [Cissampelos pareira](Cissampelos_pareira.md) | Rt. | 16 g |
 | Malapū (Phalgu API ) | [Ficus hispida](Ficus_hispida.md) | Rt. Bk. | 16 g |

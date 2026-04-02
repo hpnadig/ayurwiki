@@ -12,7 +12,7 @@ date: 2023-06-28
 **Ichchabedhi rasa**An irritant drug, has strong sedative properties. Should not be given to sensitive people, children and pregnant women.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

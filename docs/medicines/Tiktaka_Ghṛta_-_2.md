@@ -67,10 +67,10 @@ date: 2018-09-13
 | --- | --- | --- | --- |
 | Nimba API | [Azadirachta indica](Azadirachta_indica.md) | St. Bk. | 48 g |
 | Kaṭukā API | [Picrorhiza kurroa](../herbs/Picrorhiza_kurroa.md) |  | 48 g |
-| Dārvī (Dāruharidrā API) | [Berberis aristata](../herbs/Berberis_aristata.md) | St. | 48 g |
+| Dārvī (Dāruharidrā API) | [Berberis aristata](../herbs/Berberis_aristata_-_Indian_Barberry,_Baagi_soothra,_Chitra,_Kasturimanjal,_Daruharidra,_Maradarisina,_Daruhalad.md) | St. | 48 g |
 | Paṭhā API | [Cissampelos pareira](Cissampelos_pareira.md) | Rt. | 48 g |
 | Durālabhā (Dhanvayāsa API) | [Fagonia cretica](Fagonia_cretica.md) | Pl. | 48 g |
-| Parpaṭa API | [Fumaria parviflora](../herbs/Fumaria_parviflora.md) | Pl | . 48 g |
+| Parpaṭa API | [Fumaria parviflora](../herbs/Fumaria_parviflora_-_Indian_Fumitory,_Papara,_Chatarashi,_Parpatakam.md) | Pl | . 48 g |
 | Trāyamāṇā API | [Gentiana kurroo](../herbs/Gentiana_kurroo.md) | Pl. | 48 g |
 | Jala for decoction | Water |  | 6.144 l |
 | reduced to |  |  | 768 ml |

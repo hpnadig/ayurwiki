@@ -12,7 +12,7 @@ date: 2023-06-29
 **Nirgundi Taila** is used to treat Vayu Pain, Earache and For applying wounds.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Ocimum tenuiflorum](Ocimum_tenuiflorum.md), [Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Ocimum tenuiflorum](Ocimum_tenuiflorum.md), [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

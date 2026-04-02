@@ -12,7 +12,7 @@ date: 2023-09-03
 **Amritapaasha Gritha** is Useful for Nervous disorders, Weight loss, Epilepsy and Nervous disorders.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md), [Saccharum Officinarum](Saccharum_Officinarum.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md), [Saccharum Officinarum](Saccharum_Officinarum.md)
 
 ## References
 

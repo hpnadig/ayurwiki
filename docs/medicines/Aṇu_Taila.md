@@ -34,12 +34,12 @@ date: 2018-09-23
 | Sevya (Uśīra API) | [Vetiveria zizanioides](Vetiveria_zizanioides.md) | Rt. | 28 g |
 | Gop (Śveta Sārivā API) | [Hemidesmus indicus](Hemidesmus_indicus.md) | Rt. | 28 g |
 | Hima (Śveta Candana API) | [Santalum album](Santalum_album.md) | Ht. Wd. | 28 g |
-| Dārvā (Dāruharidrā API) | [Berberis aristata](../herbs/Berberis_aristata.md) | St. | 28 g |
+| Dārvā (Dāruharidrā API) | [Berberis aristata](../herbs/Berberis_aristata_-_Indian_Barberry,_Baagi_soothra,_Chitra,_Kasturimanjal,_Daruharidra,_Maradarisina,_Daruhalad.md) | St. | 28 g |
 | Madhuka (Yaṣṭī API) | [Glycyrrhiza glabra](Glycyrrhiza_glabra.md) | Rt. | 28 g |
 | Plava (Kaivarta Mustā (API)) | [Cyperus scariosus](../herbs/Cyperus_scariosus.md) | Rz. | 28 g |
 | Agaru API | [Aquilaria agallocha](Aquilaria_agallocha.md) | Ht. Wd | . 28 g |
 | Varī (Śatāvarī API) | [Asparagus racemosus](Asparagus_racemosus.md) | Rt. | 28 g |
-| Puṇḍrāhva (Prapauṇḍarīka API) | [Nelumbo nucifera](../herbs/Nelumbo_nucifera.md) | Fl. | 28 g |
+| Puṇḍrāhva (Prapauṇḍarīka API) | [Nelumbo nucifera](../herbs/Nelumbo_nucifera_-_Lotus,_ಕಮಲ,_Kamal,_Tamarai,_Tamara-puvvu,_Tamara.md) | Fl. | 28 g |
 | Bilva API | [Aegle marmelos](Aegle_marmelos.md) | Rt. St. Bk. | 28 g |
 | Utpala API | [Nymphaea stellata](../herbs/Nymphaea_stellata.md) | Fl. | 28 g |
 | Dhāvanīdvaya |  |  |  |

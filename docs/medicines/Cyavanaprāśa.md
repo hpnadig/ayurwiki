@@ -55,9 +55,9 @@ date: 2018-09-14
 | Pātalā API | [Stereospermum suaveolens](Stereospermum_suaveolens.md) | Rt./St.Bk. | 48g |
 | Balā API | [Sida cordifolia](Sida_cordifolia.md) | Rt. 48 | g |
 | Śālaparṇī API | [Desmodium gangeticum](Desmodium_gangeticum.md) | Pl. | 48g |
-| Pṛśniparṇī API | [Uraria picta](../herbs/Uraria_picta.md) | Pl. 4 | 8g |
+| Pṛśniparṇī API | [Uraria picta](../herbs/Uraria_picta_-_Andhriparni,_Dabra,_Sittirappaladai,_Kolkuponna,_Muvila,_Pitvan.md) | Pl. 4 | 8g |
 | Mudgaparṇī API | [Phaseolus trilobus](../herbs/Phaseolus_trilobus.md) | Rt. /Pl | 48g |
-| Māsaparṇī API | [Teramnus labialis](../herbs/Teramnus_labialis.md) | Rt. /Pl | 48g |
+| Māsaparṇī API | [Teramnus labialis](../herbs/Teramnus_labialis_-_Blue_wiss,_Kadu_uddu.md) | Rt. /Pl | 48g |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 48g |
 | Śvadaṁṣṭrā(Gokṣura API) | [Tribulus terrestris](Tribulus_terrestris.md) | Pl. 4 | 8g |
 | Bṛhatī API | [Solanum indicum](Solanum_indicum.md) | Pl. | 48g |

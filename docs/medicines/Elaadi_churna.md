@@ -12,7 +12,7 @@ date: 2023-06-28
 **Elaadi churna** Useful for Indigestion, Cough, Hoarseness, Blood dysentery, Flatulence and Sore throat. Acts as a tonic for the heart.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

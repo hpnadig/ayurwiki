@@ -12,7 +12,7 @@ date: 2023-06-27
 **Amritapaasha** is Used for Constipation, Cave disease, Leg pain, Hands pain, Purification of Blood and To Improve Radiant face
 
 ## List of Ayurvedic herb in which used in this preparation
-[Phyllanthus amarus](Phyllanthus_amarus.md), [Zingiber officinale](../herbs/Zingiber_officinale.md)
+[Phyllanthus amarus](Phyllanthus_amarus.md), [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md)
 
 ## References
 

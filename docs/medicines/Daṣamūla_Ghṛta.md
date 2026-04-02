@@ -30,9 +30,9 @@ date: 2018-09-14
 | Pāṭalā API | [Stereospermum suaveolens](Stereospermum_suaveolens.md) | St.Bk. | 307.6 g |
 | Agnimantha API | [Premna integrifolia](Premna_integrifolia.md)(Official substitute) | St.Bk. | 307.6 g |
 | Śālaparṇī API | [Desmodium gangeticum](Desmodium_gangeticum.md) | Pl. | 307.6 g |
-| Pṛśniparṇī API | [Uraria picta](../herbs/Uraria_picta.md) | Pl. | 307.6 g |
+| Pṛśniparṇī API | [Uraria picta](../herbs/Uraria_picta_-_Andhriparni,_Dabra,_Sittirappaladai,_Kolkuponna,_Muvila,_Pitvan.md) | Pl. | 307.6 g |
 | Bṛhatī API | [Solanum indicum](Solanum_indicum.md) | Pl. | 307.6 g |
-| Kaṇṭakārī API | [Solanum xanthocarpum](../herbs/Solanum_xanthocarpum.md) | Pl. | 307.6 g |
+| Kaṇṭakārī API | [Solanum xanthocarpum](../herbs/Solanum_xanthocarpum_-_Thorny_nightshade,_Kantkari.md) | Pl. | 307.6 g |
 | Gokṣura API | [Tribulus terrestris](Tribulus_terrestris.md) | Fr. | 307.6 g |
 | Jala API for decoction | Water |  | 12.29 |
 | Reduced to |  |  | 3.07 l |
@@ -41,7 +41,7 @@ date: 2018-09-14
 | Śaṭī (Śaṭi API) | [Hedychium spicatum](Hedychium_spicatum.md) | Rz. | 12 g |
 | Bilva API | [Aegle marmelos](Aegle_marmelos.md) | St.Bk. | 12 g |
 | Surasā (Tulasī API) | [Ocimum sanctum](Ocimum_sanctum.md) | Pl. | 12 g |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 12 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 12 g |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 12 g |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 12 g |
 | Hiṇgu API | [Śuddha Ferula foetida](Śuddha_Ferula_foetida.md) | Exd. | 12 g |

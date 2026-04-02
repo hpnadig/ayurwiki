@@ -27,7 +27,7 @@ date: 2018-09-23
 **Śatāhva  Arka** is a liquid preparation obtained by hydro-distillation of fruits of Anethum sowa.
 
 ## Formulation composition
-| Śatāhva  API | [Anethum sowa](../herbs/Anethum_sowa.md) | Fr. | 1.0 kg |
+| Śatāhva  API | [Anethum sowa](../herbs/Anethum_sowa_-_Dil,_Sabbasige,_Sova,_Shatakuppi_Sompa,_Sapasige.md) | Fr. | 1.0 kg |
 | --- | --- | --- | --- |
 | Jala API for soaking and for preparation of Arka | Potable Water | – | 12.0 l |
 

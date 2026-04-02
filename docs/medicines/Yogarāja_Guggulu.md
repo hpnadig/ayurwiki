@@ -48,7 +48,7 @@ date: 2018-09-22
 | Ajamodā API | [Apium leptophyllum](Apium_leptophyllum.md) | Fr. | 1 part |
 | Jīraka (Śveta Jīraka API) | [Cuminum cyminum](Cuminum_cyminum.md) | Fr. | 1 part |
 | Suradāru (Devadāru API) | [Cedrus deodara](Cedrus_deodara.md) | Ht. Wd. | 1 part |
-| Cavya API | [Piper chaba](../herbs/Piper_chaba.md) | St. | 1 part |
+| Cavya API | [Piper chaba](../herbs/Piper_chaba_-_Long_Pepper,_Kandan_Lippili,_Pipli,_Tippili,_Pippallu,_Tippali.md) | St. | 1 part |
 | Elā (Sūkṣmailā API) | [Elettaria cardamomum](Elettaria_cardamomum.md) | Sd. | 1 part |
 | Saindhava Lavaṇa API | Rock Salt |  | 1 part |
 | Kuṣṭha API | [Saussurea lappa](Saussurea_lappa.md) | Rt. | 1 part |
@@ -59,7 +59,7 @@ date: 2018-09-22
 | Bibhītaka API | [Terminalia belerica](Terminalia_belerica.md) | P. | 1 part |
 | Āmalakī API | [Emblica officinalis](Emblica_officinalis.md) | P. | 1 part |
 | Mustaka (Mustā API) | [Cyperus rotundus](Cyperus_rotundus.md) | Rz. | 1 part |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 1 part |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 1 part |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 1 part |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 1 part |
 | Tvak API | [Cinnamomum zeylancium](Cinnamomum_zeylancium.md) | St. Bk. | 1 part |

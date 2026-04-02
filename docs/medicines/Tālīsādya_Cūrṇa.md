@@ -40,9 +40,9 @@ date: 2023-06-29
 | Tālīsā API | [Abies webbiana](Abies_webbiana.md) | Lf. | 12 g |
 | --- | --- | --- | --- |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 24 g |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 36 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 36 g |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 48 g |
-| Vaṁśa-rocana (Vaṁśa ) | [Bambusa bambos](../herbs/Bambusa_bambos.md) | S.C. | 60 g |
+| Vaṁśa-rocana (Vaṁśa ) | [Bambusa bambos](../herbs/Bambusa_bambos_-_Indian_Thorny_Bamboo,_ಬಿದಿರು,_Baans,_Kulaymunkil,_Bonguveduru,_Mula,_Baamboo.md) | S.C. | 60 g |
 | Elā (Sūkṣmailā API) | [Elettaria cardamomum](Elettaria_cardamomum.md) | Sd. | 6 g |
 | Tvak API | [Cinnamomum zeylanicum](Cinnamomum_zeylanicum.md) | St. Bk. | 6 g |
 | Śarkarā API | Cane sugar |  | 384 g |

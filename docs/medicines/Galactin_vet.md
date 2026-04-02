@@ -12,7 +12,7 @@ date: 2024-06-17
 **Arundo** is useful in increasing milk production.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Arundo donax](../herbs/Arundo_donax.md)
+[Arundo donax](../herbs/Arundo_donax_-_Great_reed,_Hulugilu_Hullu,_Narcut_nal,_Mudam_Pullu,_Adavi_Kikkasagaddi.md)
 
 ## References
 

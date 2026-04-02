@@ -12,7 +12,7 @@ date: 2022-08-24
 **Amrita Ballataki** is used for All types of skin diseases, Leprosy, diabetes and To purify the Blood
 
 ## List of Ayurvedic herb in which used in this preparation
-[Curcuma zedoaria](../herbs/Curcuma_zedoaria.md)
+[Curcuma zedoaria](../herbs/Curcuma_zedoaria_-_Zeedore,_Kadu_Arisina,_Kachuru,_Kichchili_Kilangu,_Kachoram,_Kachoori_kilannu.md)
 
 ## References
 

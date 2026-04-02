@@ -12,7 +12,7 @@ date: 2023-06-24
 **Kumariyasava** is used to treat Kidney problems, Stomach ache, Stomach upset, Gonorrhea, and White discharge.
 
 ## List of Ayurvedic herb in which used in this preparation
-[Costus speciosus](../herbs/Costus_speciosus.md), [Aloe vera](Aloe_vera.md)
+[Costus speciosus](../herbs/Costus_speciosus_-_Wild_ginger,_Kundige_gida,_Kusht,_Kottam,_Bomma,_Naagali.md), [Aloe vera](Aloe_vera.md)
 
 ## References
 

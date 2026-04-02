@@ -36,10 +36,10 @@ date: 2023-06-27
 | Indravāruṇī API | [Citrullus colocynthis](Citrullus_colocynthis.md) | Rt. | 96 g |
 | Cavya API | [Piper retrofractum](Piper_retrofractum.md) | St. | 96 g |
 | Madhūrikā (Miśreyā API) | [Foeniculum vulgare](Foeniculum_vulgare.md) | Fr. | 96 g |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 96 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 96 g |
 | Dantī API | [Baliospermum montanum](Baliospermum_montanum.md) | Rt. | 96 g |
-| Mocarasa (Śālmalī API) | [Salmalia malabarica](../herbs/Salmalia_malabarica.md) | Exd. | 96 g |
-| [Zingiber officinale](../herbs/Zingiber_officinale.md) |  |  |  |
+| Mocarasa (Śālmalī API) | [Salmalia malabarica](../herbs/Salmalia_malabarica_-_Silk_Cotton_Tree,_Buruga,_Shalmali,_Sittan,_Unnamurika,_Safetasarava.md) | Exd. | 96 g |
+| [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) |  |  |  |
 
 ## Method of preparation
 * Take the raw material of pharmacopoeial quality.

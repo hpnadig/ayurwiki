@@ -22,7 +22,7 @@ date: 2018-09-14
 | Vacā API | [Acorus calamus](Acorus_calamus.md) | Rz. | 1 part |
 | Kuṣṭha API | [Saussurea lappa](Saussurea_lappa.md) | Rt. | 1 part |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 1 part |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 1 part |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 1 part |
 | Ajājī (Śveta Jīraka API) | [Cuminum cyminum](Cuminum_cyminum.md) | Fr. | 1 part |
 | Ajamodā API | [Apium leptophyllum](Apium_leptophyllum.md) | Fr. 1 p | art |
 | Yaṣṭīmadhu (Yaṣṭī API) | [Glycyrrhiza glabra](Glycyrrhiza_glabra.md) | Rt. | 1 part |

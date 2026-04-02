@@ -19,7 +19,7 @@ date: 2018-09-22
 **Vyoṣādi Guggulu** Vati is a preparation made with the ingredients in the Formulation composition given below with Guggulu as the basic ingredient
 
 ## Formulation composition
-| 1. Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 1 Part |
+| 1. Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 1 Part |
 | --- | --- | --- | --- |
 | 2. Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 1 Part |
 | 3. Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 1 Part |

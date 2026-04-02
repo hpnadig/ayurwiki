@@ -67,7 +67,7 @@ date: 2018-09-14
 | Hema (Nāgakeśara API) | [Mesua ferrea](Mesua_ferrea.md) | Stmn. | 24 g |
 | Ambhodhara (Mustā API) | [Cyperus rotundus](Cyperus_rotundus.md) | Rt. Tr. | 24 g |
 | Candana (Śveta candana API) | [Santalum album](Santalum_album.md) | Ht. Wd. | 24 g |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 24 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 24 g |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 24 g |
 | Pippalī API | [Piper longum](Piper_longum.md) |Fr. | 24 g |  |
 | Dhātrī asthimajjā (Āmalakī API) | [Phyllanthus emblica](Phyllanthus_emblica.md) (Emblica officinalis) | Enm. | 24 g |
@@ -78,7 +78,7 @@ date: 2018-09-14
 | Śveta jīraka API | [Cuminum cyminum](Cuminum_cyminum.md) | Fr. | 24 g |
 | Kṛṣṇajīraka API | [Carum carvi](Carum_carvi.md) | Fr. | 24 g |
 | Śṛṅgātaka API | Trapa natans var. bispinosa | Enm. | 24 g |
-| Vaṁśajā (Vaṁśa API) | [Bambusa bambos](../herbs/Bambusa_bambos.md) | S.C. | 24 g |
+| Vaṁśajā (Vaṁśa API) | [Bambusa bambos](../herbs/Bambusa_bambos_-_Indian_Thorny_Bamboo,_ಬಿದಿರು,_Baans,_Kulaymunkil,_Bonguveduru,_Mula,_Baamboo.md) | S.C. | 24 g |
 | Jātīphala API | [Myristica fragrans](Myristica_fragrans.md) | Sd. | 24 g |
 | Jātīkoṣā (Jātīphala API) | [Myristica fragrans](Myristica_fragrans.md) | Ar. | 24 g |
 | Lavaṅga API | [Syzygium aromaticum](Syzygium_aromaticum.md) | Fl. Bd. | 24 g |

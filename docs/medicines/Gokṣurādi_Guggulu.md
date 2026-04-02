@@ -34,7 +34,7 @@ date: 2018-09-21
 | Jala for decoction | Water |  | 8.064 l |
 | reduced to API |  |  | 4.032 l |
 | Guggulu API | [Commiphora wighti](Commiphora_wighti.md) | O.R. | 336 g |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 48 g |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 48 g |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr | 48 g |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 48 g |
 | Harītakī API | [Terminalia chebula](Terminalia_chebula.md) | P | 48 g |

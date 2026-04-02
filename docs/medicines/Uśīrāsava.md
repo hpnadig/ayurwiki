@@ -30,11 +30,11 @@ date: 2023-08-13
 | Uśīrā API | [Vetiveria zizanioides](Vetiveria_zizanioides.md) | Rt. | 48 g |
 | --- | --- | --- | --- |
 | Bālaka (Hrīvera API) | [Coleus vettiveroides](../herbs/Coleus_vettiveroides.md) | Rt. | 48 g |
-| Padma API | [Nelumbo nucifera](../herbs/Nelumbo_nucifera.md) | Fl. | 48 g |
+| Padma API | [Nelumbo nucifera](../herbs/Nelumbo_nucifera_-_Lotus,_ಕಮಲ,_Kamal,_Tamarai,_Tamara-puvvu,_Tamara.md) | Fl. | 48 g |
 | Kāśmarya (Gambhārī API) | [Gmelina arborea](Gmelina_arborea.md) | St. Bk. | 48 g |
 | Nīlotpala (Utpala API) | [Nymphaea stellata](../herbs/Nymphaea_stellata.md) | Fl. | 48 g |
-| Priyaṅgu API | [Callicarpa macrophylla](../herbs/Callicarpa_macrophylla.md) | Fl. | 48 g |
-| Padmaka API | [Prunus cerasoides](../herbs/Prunus_cerasoides.md) | St | . 48 g |
+| Priyaṅgu API | [Callicarpa macrophylla](../herbs/Callicarpa_macrophylla_-_Largeleaf_Beauty_Berry,_ಱುಷಿಪತ್ರಿ,_Bastara,_Kattukumil,_Chimpompil,_Kanphuli.md) | Fl. | 48 g |
+| Padmaka API | [Prunus cerasoides](../herbs/Prunus_cerasoides_-_Wild_himalayan_cherry,_Padmaka,_Padam,_Patumugam,_Padmakla.md) | St | . 48 g |
 | Lodhra API | [Symplocos racemosa](Symplocos_racemosa.md) | St. Bk. | 48 g |
 | Mañjiṣṭhā API | [Rubia cordifolia](Rubia_cordifolia.md) | Rt. | 48 g |
 | Dhanvayāsaka API | [Fagonia cretica](Fagonia_cretica.md) | Pl | . 48 g |
@@ -43,9 +43,9 @@ date: 2023-08-13
 | Nyagrodha API | [Ficus benghalensis](Ficus_benghalensis.md) | St. Bk. | 48 g |
 | Udumbara API | [Ficus racemosa](Ficus_racemosa.md) | St. Bk. | 48 g |
 | Śaṭi API | [Hedychium spicatum](Hedychium_spicatum.md) | Rz. | 48 g |
-| Parpaṭa API | [Fumaria parviflora](../herbs/Fumaria_parviflora.md) | Pl. | 48 g |
-| Puṇdarīka (Kamala) API | [Nelumbo nucifera](../herbs/Nelumbo_nucifera.md) | Fl | . 48 g |
-| Paṭola API | [Trichosanthes dioica](../herbs/Trichosanthes_dioica.md) | Lf./Pl. | 48 g |
+| Parpaṭa API | [Fumaria parviflora](../herbs/Fumaria_parviflora_-_Indian_Fumitory,_Papara,_Chatarashi,_Parpatakam.md) | Pl. | 48 g |
+| Puṇdarīka (Kamala) API | [Nelumbo nucifera](../herbs/Nelumbo_nucifera_-_Lotus,_ಕಮಲ,_Kamal,_Tamarai,_Tamara-puvvu,_Tamara.md) | Fl | . 48 g |
+| Paṭola API | [Trichosanthes dioica](../herbs/Trichosanthes_dioica_-_Parval,_Kaadu_Padaval,_Kambupudalai,_Kommu_Potla.md) | Lf./Pl. | 48 g |
 | Kāñcanāraka (K¡µcan¡ra) API | [Bauhinia variegata](Bauhinia_variegata.md) | St. Bk. | 48 g |
 | Jambu API | [Syzygium cumini](Syzygium_cumini.md) | St. Bk. | 48 g |
 | Śālmalā niryāsa (Śālmalā) | API Salmalia malabarica | Exd. | 48 g |

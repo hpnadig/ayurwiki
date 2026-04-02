@@ -28,11 +28,11 @@ date: 2018-09-14
 | Jambū-bīja majjā API | Syzygium cumini | Enm. | 1 part |
 | Āmra-bīja majjā API | Mangifera indica | Enm. | 1 part |
 | Śilābheda (Pāṣāṇabheda API) | [Bergenia ligulata](Bergenia_ligulata.md) | Rz. | 1 part |
-| Rasāñjana API | [Berberis aristata](../herbs/Berberis_aristata.md) | Rt./St. Ext. | 1 part |
+| Rasāñjana API | [Berberis aristata](../herbs/Berberis_aristata_-_Indian_Barberry,_Baagi_soothra,_Chitra,_Kasturimanjal,_Daruharidra,_Maradarisina,_Daruhalad.md) | Rt./St. Ext. | 1 part |
 | Ambaṣṭhakī API | [Hibiscus sabdariffa](Hibiscus_sabdariffa.md) | Rt. | 1 part |
-| Mocarasa (Śālmalī) | [Salmalia malabarica](../herbs/Salmalia_malabarica.md) | Exd. | 1 part |
+| Mocarasa (Śālmalī) | [Salmalia malabarica](../herbs/Salmalia_malabarica_-_Silk_Cotton_Tree,_Buruga,_Shalmali,_Sittan,_Unnamurika,_Safetasarava.md) | Exd. | 1 part |
 | Samaṅgā (Lajjālu) API | [Mimosa pudica](Mimosa_pudica.md) | Rt./Pl. | 1 part |
-| Padma keśara (Kamala) | [Nelumbo nucifera](../herbs/Nelumbo_nucifera.md) | Adr. | 1 part |
+| Padma keśara (Kamala) | [Nelumbo nucifera](../herbs/Nelumbo_nucifera_-_Lotus,_ಕಮಲ,_Kamal,_Tamarai,_Tamara-puvvu,_Tamara.md) | Adr. | 1 part |
 | Vāhlīka (Kuṅkuma API) | [Crocus sativus](Crocus_sativus.md) | Stl./Stg. | 1 part |
 | Ativiṣā API | [Aconitum heterophyllum](Aconitum_heterophyllum.md) | Rt. Tr. | 1 part |
 | Mustā API | [Cyperus rotundus](Cyperus_rotundus.md) | Rf.Tr. | 1 part |
@@ -41,7 +41,7 @@ date: 2018-09-14
 | Gairika (Śuddha) API | Red ochre |  | 1 part |
 | Kaṭphala API | [Myrica nagi](Myrica_nagi.md)( M. esculenta) | St. Bk. | 1 part |
 | Marica API | [Piper nigrum](Piper_nigrum.md) | Fr. | 1 part |
-| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale.md) | Rz. | 1 part |
+| Śuṇṭhī API | [Zingiber officinale](../herbs/Zingiber_officinale_-_Ginger,_Alla,_Adrak,_Ingee,_Allam,_Inchi,_Alha.md) | Rz. | 1 part |
 | Mṛdvīkā (Drākṣā API) | [Vitis vinifera](Vitis_vinifera.md) | Dr. Fr. | 1 part |
 | Rakta candana API | [Pterocarpus santalinus](Pterocarpus_santalinus.md) | Ht. Wd. | 1 part |
 | Kaṭvaṇga (Araluka API) | [Ailanthus excelsa](Ailanthus_excelsa.md) | St. Bk. | 1 part |

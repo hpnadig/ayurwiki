@@ -23,7 +23,7 @@ date: 2018-09-14
 | Gajakeśara (Nāgakeśara API) | [Mesua ferrea](Mesua_ferrea.md) | Stmn. | 1 part |
 | Kola majjā (Kola API) | [Zizyphus jujuba](Zizyphus_jujuba.md) | Rp.Fr. Pp. | 1 part |
 | Lāja (Śāli API) | [Oryza sativa](Oryza_sativa.md) | Sd. | 1 part |
-| Priyaṇgu API | [Callicarpa macrophylla](../herbs/Callicarpa_macrophylla.md) | Infl. | 1 part |
+| Priyaṇgu API | [Callicarpa macrophylla](../herbs/Callicarpa_macrophylla_-_Largeleaf_Beauty_Berry,_ಱುಷಿಪತ್ರಿ,_Bastara,_Kattukumil,_Chimpompil,_Kanphuli.md) | Infl. | 1 part |
 | Ghana (Mustā API) | [Cyperus rotundus](Cyperus_rotundus.md) | Rt. Tr. | 1 part |
 | Candana (Śveta candana API) | [Santalum album](Santalum_album.md) | Ht. Wd. | 1 part |
 | Pippalī API | [Piper longum](Piper_longum.md) | Fr. | 1 part |
