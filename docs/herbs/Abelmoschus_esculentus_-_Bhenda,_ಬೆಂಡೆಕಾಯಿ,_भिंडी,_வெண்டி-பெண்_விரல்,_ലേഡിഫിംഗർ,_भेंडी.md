@@ -120,7 +120,8 @@ Tropical area, Sub tropical area
 
 ## References
 
-1. [composition](Chemical)(http://gbpihedenvis.nic.in/PDFs/Glossary_Medicinal_Plants_Springer.pdf)
+1. [Chemical composition]Glossary of Indian medicinal plants. (1956). Council of Scientific & Industrial Research, 
+New Delhi. In GBPIHED-ENVIS Centre on Himalayan Ecology
 2. [Uses](https://www.ayurtimes.com/abelmoschus-hibiscus-esculentus-okra-bhindi-ladies-fingers-benefits/)
 3. [Morphology](https://indiabiodiversity.org/species/show/228568)
 4. [names](Common)(http://envis.frlht.org/index.php/bot_search)
