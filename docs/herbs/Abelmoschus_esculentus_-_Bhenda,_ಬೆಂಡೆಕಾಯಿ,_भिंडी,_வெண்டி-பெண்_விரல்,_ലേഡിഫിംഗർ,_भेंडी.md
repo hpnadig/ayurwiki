@@ -122,10 +122,10 @@ Tropical area, Sub tropical area
 
 1. [Chemical composition]Glossary of Indian medicinal plants. (1956). Council of Scientific & Industrial Research, 
 New Delhi. In GBPIHED-ENVIS Centre on Himalayan Ecology
-2. [Uses](https://www.ayurtimes.com/abelmoschus-hibiscus-esculentus-okra-bhindi-ladies-fingers-benefits/)
-3. [Morphology](https://indiabiodiversity.org/species/show/228568)
+2. Singh, J. "Abelmoschus (Hibiscus) Esculentus Okra (Bhindi - Ladies' Fingers) Benefits", Ayur Times, Available at: https://www.ayurtimes.com/abelmoschus-hibiscus-esculentus-okra-bhindi-ladies-fingers-benefits/
+3. India Biodiversity Portal, Available at: https://indiabiodiversity.org/species/show/228568
 4. [names](Common)(http://envis.frlht.org/index.php/bot_search)
-5. [Cultivation](https://pfaf.org/user/plant.aspx?latinname=Abelmoschus+esculentus)
+5. Plants For A Future Database, Available at: https://pfaf.org/user/plant.aspx?latinname=Abelmoschus+esculentus
 6. [Ecosystem/Climate](Required)(http://www.geacindia.gov.in/resource-documents/biosafety-regulations/resource-documents/Biology_of_Okra.pdf)
 7. [to grow](Season)(http://agropedia.iitk.ac.in/content/cultivation-okra-abelmoschus-esculentus)
 8. Wikimedia commons
