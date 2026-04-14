@@ -45,10 +45,15 @@ Kidney gravel, Ulcers, Coughs, Toothaches, Abscesses.
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
 ### Dravya
 ### Rasa
+Madhura
 ### Guna
+Snigdha, Phchila, Guru
 ### Veerya
+Shita
 ### Vipaka
+Madhura
 ### Karma
+Pitta, Vata, Kapha
 ### Prabhava
 ## Habit
 Shrub
