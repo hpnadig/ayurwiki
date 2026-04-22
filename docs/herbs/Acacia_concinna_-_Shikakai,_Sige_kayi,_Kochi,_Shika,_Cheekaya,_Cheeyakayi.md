@@ -53,6 +53,21 @@ In commercial extracts, when the plant is hydrolyzed it yields lupeol, spinaster
 | Hindi | Kochi, Reetha |
 | English | Shikakai, Soap-pod |
 
+## Properties
+Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
+### Dravya
+### Rasa
+Tikta
+### Guna
+Laghu, Ruksha
+### Veerya
+Shita
+### Vipaka
+Katu
+### Karma
+Kapha, Vaata
+### Prabhava
+
 ## Habit
 A large prickly climbing shrub
 
@@ -103,5 +118,7 @@ Tropical dry forests.
 2. [JCB](Herbarium)(http://florakarnataka.ces.iisc.ac.in/hjcb2/herbsheet.php?id=1850&cat=1)
 3. [details](Cultivation)(http://agritech.tnau.ac.in/forestry/forestry_nursery_acacia_concinna.ht)
 4. [JCB](Herbarium)(http://florakarnataka.ces.iisc.ac.in/hjcb2/herbsheet.php?id=1850&cat=1)
-5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 703.**
+5. [Properties] Ask Ayurveda - Bhavaprakāśa Nighantu, Guduchyādi Varga
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 703.**
    Shikakai pods are traditionally used for hair care and as a natural shampoo. The saponin-rich pods have spasmolytic, spermicidal, and molluscicidal activity. The pod paste is used externally for treating dandruff and promoting hair growth. An Ayurvedic hair care formulation combining Acacia sinuata . Pods soaked in water and used as hair wash; pod powder 500 grams mixed with other herbs (Albizea amara 100g, tulsi 100g, neem 50g, etc.) for polyherbal hair care formulation.
+   

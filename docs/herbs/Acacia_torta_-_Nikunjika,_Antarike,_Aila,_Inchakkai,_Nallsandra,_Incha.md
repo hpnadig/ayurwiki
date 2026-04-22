@@ -48,10 +48,14 @@ It contains the following contituents Tannins, triterpene alcohol, saponins of a
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
 ### Dravya
 ### Rasa
+Kashaya
 ### Guna
+Laghu, Ruksha
 ### Veerya
+Sheeta
 ### Vipaka
 ### Karma
+Emmenagogue, Anti-inflammatory, Antiseptic
 ### Prabhava
 ## Habit
 Climber

@@ -59,6 +59,22 @@ The major objective of the present study was to determine the gene expression of
 | English | White Bark Acacia |
 | Tamil | Velvelam |
 
+## Properties
+Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
+### Dravya
+### Rasa
+Kashaya, Slightly Tikta
+### Guna
+Laghu, Ruksha
+### Veerya
+Sheeta
+### Vipaka
+Katu
+### Karma
+Kaphapittahara, Vaata-Vardhaka
+### Prabhava
+NA
+
 ## Habit
 Tree
 

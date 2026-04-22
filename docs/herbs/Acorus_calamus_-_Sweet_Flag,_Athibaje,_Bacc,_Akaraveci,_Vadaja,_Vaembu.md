@@ -55,6 +55,21 @@ Both triploid and tetraploid A. calamus contain alpha-asarone. Other phytochemic
 | Hindi | Bacc, Bach, Ghoda, Gor Bach |
 | English | Sweet Flag |
 
+## Properties
+Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
+### Dravya
+### Rasa
+Tikta, Katu
+### Guna
+Laghu, Tikshna
+### Veerya
+Ushna
+### Vipaka
+Kaṭu
+### Karma
+Kapha-vatahara, Lekhaniya, Medhya
+### Prabhava
+
 ## Habit
 Herb
 
@@ -105,16 +120,17 @@ North temperate hemisphere, Tropical asia, Himalayas.
 ## References
 
 1. [Chemistry](https://en.wikipedia.org/wiki/Acorus_calamus)
-2. [description](Leaves)(http://www.friendsofthewildflowergarden.org/pages/plants/sweetflag.html)
-3. [preparations](Ayurvedic)(https://easyayurveda.com/2015/01/06/vacha-acorus-calamus-uses-research-side-effects-remedy/)
-4. [details](Cultivation)(http://nopr.niscair.res.in/bitstream/123456789/9381/1/NPR%203%281%29%2019-21.pdf)
-5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 233.**
+2. Properties - Bhavaprakasha Nighantu. Vacha. Medieval Ayurvedic materia medica text. Cited in: Kharat RS, Sawant P, Pathan R. An overview on Vacha (Acorus calamus L.) with special reference to Ayurvedic and modern aspect. Int J Pharm Res Appl. 2023;8(2):594-601.
+3. [description](Leaves)(http://www.friendsofthewildflowergarden.org/pages/plants/sweetflag.html)
+4. [preparations](Ayurvedic)(https://easyayurveda.com/2015/01/06/vacha-acorus-calamus-uses-research-side-effects-remedy/)
+5. [details](Cultivation)(http://nopr.niscair.res.in/bitstream/123456789/9381/1/NPR%203%281%29%2019-21.pdf)
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 233.**
    1. Rubbing the rhizome with a small amount of food and applying it on the chest area of children, repeating this treatment 2-3 times, helps reduce cold and cough. 2. Burning the rhizome and applying the smoke over sore areas helps relieve inflammatory swelling. 3. Consuming Baje rhizome along with g. Baje rhizome 10 grams decoction for 40 days for epilepsy; 300 mg powder with 5-10 grams supporting ingredients for cough; rubbed on children's chest for cold relief.
-6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 82, 90.**
+7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 82, 90.**
    Used in insect treatments for plants and in the elaborate kapittha (wood apple) seed-purification process. Roots of vaca along with dhatri, abhaya, and other plant roots are boiled in milk as part of the kapittha seed treatment that transforms the tree into a climber form.
    > *As cited in: Vrksayurveda of Surapala, Verses 242-244; Sections 17, 19*
-7. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 71.**
+8. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 71.**
    Valued in Northeast Indian tribal medicine for its sedative, analgesic, and antispasmodic properties. Employed to treat digestive disorders, fever, and respiratory conditions.
 
-8. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 59-61.
+9. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 59-61.
    Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.

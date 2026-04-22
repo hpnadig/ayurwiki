@@ -20,10 +20,10 @@ categories:
 date: 2020-11-09
 ---
 ## Uses
-, , , , , , , , , , .
+Bone Fractures (Asthi Bhagna), Rheumatism & Joint Disorders (Vata Vyadhi), Earache (Karna Shoola), Gum & Oral Disorders, Digestive Disorders, Female Reproductive Health, Skin & Wound Healing
 
 ## Parts Used
-, stem, leaves, Root.
+Stem, Leaves, Root.
 
 ## Chemical Composition
 
@@ -40,8 +40,11 @@ date: 2020-11-09
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
 ### Dravya
 ### Rasa
+Tikta (bitter), Kashaya (astringent)
 ### Guna
+Snigdha (unctuous), Sheeta (cooling)
 ### Veerya
+Sheeta (cold)
 ### Vipaka
 ### Karma
 ### Prabhava
@@ -74,6 +77,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 1. [Chemistry]
 2. [Morphology]
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-names/nepali)
+4. Uses - Acampe praemorsa is primarily documented in regional folk medicine and ethnobotanical literature
+5. Indian Medicinal Plants by C.P.Khare
 
-<ref name="How to plant/cultivate">[Cultivation]
-4. Indian Medicinal Plants by C.P.Khare
+

@@ -56,10 +56,15 @@ Stem, Leaves, Root.
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
 ### Dravya
 ### Rasa
+Tikta, Bitter
 ### Guna
+Laghu, Ruksha
 ### Veerya
+Sheeta
 ### Vipaka
+Katu
 ### Karma
+Kaphahara, Pittahara
 ### Prabhava
 ## Habit
 Annual

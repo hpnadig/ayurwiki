@@ -45,10 +45,15 @@ Kidney gravel, Ulcers, Coughs, Toothaches, Abscesses.
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
 ### Dravya
 ### Rasa
+Madhura
 ### Guna
+Snigdha, Phchila, Guru
 ### Veerya
+Shita
 ### Vipaka
+Madhura
 ### Karma
+Pitta, Vata, Kapha
 ### Prabhava
 ## Habit
 Shrub
@@ -96,3 +101,4 @@ Tropical area
 1. [description](Botanic)(http://keralaplants.in/)
 2. [names](Vernacular)(http://www.flowersofindia.net/risearch/search.php?query=abutilon+persicum&stpos=0&stype=AND)
 3. Kappathagudda - A Repertoire of Medicinal Plants of Gadag, Page no: 31
+4. [Properties] Ask Ayurveda - Ethnobotanical and regional traditional medicine documentation

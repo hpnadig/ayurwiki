@@ -30,14 +30,29 @@ Stem, Leaves, Root.
 ## Chemical Composition
 
 ## Common names
+| Language | Names |
+| --- | --- |
+| Kannada | Kaggali |
+| Malayalam | NA |
+| Sanskrit | Kumatī, Kūṭaja |
+| Tamil | Karuvelam |
+| Telugu | Tumma, Karuvela |
+| Hindi | Kumatiya, Kumta, Kheriya |
+| English | Gum Arabic Tree, Sudan Gum Arabic |
+
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
 ### Dravya
 ### Rasa
+Madhura, Tikta
 ### Guna
+Grahi, Sheeta, Snigdha
 ### Veerya
+Sheeta
 ### Vipaka
+Madhura
 ### Karma
+Pitta, Vaata, Kapha
 ### Prabhava
 ## Habit
 Tree
@@ -78,3 +93,4 @@ Pods, 7.5 x 2 cm, green and pubescent when young, maturing to shiny bronze, ofte
 1. ["chemistry"]
 2. [Morphology](http://www.worldagroforestry.org/treedb2/AFTPDFS/Acacia_senegal.PDF)
 3. [ "Cultivation"]
+4. The properties are documented in modern Ayurvedic digital materia medica by Ask-Ayurveda
