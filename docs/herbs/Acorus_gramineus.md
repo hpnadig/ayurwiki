@@ -16,10 +16,10 @@ categories:
 date: 2020-11-09
 ---
 ## Uses
-, , , , , , , , , , .
+Neurological & Mental Health, Digestive System, Respiratory & Other Conditions, Cardiac Protection
 
 ## Parts Used
-, stem, leaves, Root.
+Stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -28,11 +28,17 @@ date: 2020-11-09
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
 ### Dravya
 ### Rasa
+Bitter (Tikta), Slightly Pungent (Katu)
 ### Guna
+Light (Laghu), Sharp/Piercing (Tikshna/Teekshna)
 ### Veerya
+Warm (Ushna/Usna)
 ### Vipaka
+Pungent (Katu)
 ### Karma
+Pacifies Vata and Kapha; may increase Pitta in excess 
 ### Prabhava
+Medhya – improves intelligence and cognitive function 
 ## Habit
 ## Identification
 ### Leaf
@@ -62,3 +68,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 1. [Chemistry]
 2. [Morphology]
 3. [Cultivation]
+4. Properties - Indian Medicinal Plants - Appears to be from an Ayurvedic pharmacopoeia database (Dravyaguna Vijnana), which is a classical Ayurvedic pharmacology reference text
