@@ -55,10 +55,14 @@ It contains 37 compounds, out of 38, were identified with the combination of fat
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
 ### Dravya
 ### Rasa
+Madhura (Sweet), Tikta (Bitter), Kashaya (Astringent) 
 ### Guna
+Ruksha (Dry), Laghu (Light)
 ### Veerya
+Sheeta (Cold)
 ### Vipaka
 ### Karma
+Kapha-Pitta shamaka (reduces vitiated Kapha and Pitta) 
 ### Prabhava
 ## Habit
 Fern
@@ -101,6 +105,8 @@ Sunny or lightly shaded conditions in rock crevices, In shallow soil pockets ove
 1. Journal of Essential oil and Bearing plants
 2. Kappathagudda - A Repertoire of Medicinal Plants of Gadag, Page no: 41
 3. [Morphology]
-4. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Actiniopteris+radiata)
-5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 547.**
+4. Properties - Naik et al., International Journal of Pharmaceutical Sciences and Research, 2015
+5. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Actiniopteris+radiata)
+6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 547.**
    The fern is used traditionally for treating burns, wounds, cough, and respiratory conditions. Research has confirmed antibacterial, antifungal, and nematicidal activities. The plant is also used in Ayurvedic formulations for blood disorders and as a general tonic. Leaf decoction used for cough and respiratory ailments. Root powder applied externally for wound healing. Plant used in compound Ayurvedic formulations for blood purification.
+   
