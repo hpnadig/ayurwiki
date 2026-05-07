@@ -132,6 +132,18 @@
   }
 }
 
+/* Homepage logo (below the H1) */
+.aw-home-logo {
+  text-align: center;
+  margin: 0.5em 0 1.2em;
+}
+.aw-home-logo img {
+  max-width: 280px;
+  width: 100%;
+  height: auto;
+  border-radius: 0;
+}
+
 /* Award banner */
 .award-banner {
   background: #f8f9fa;

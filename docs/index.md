@@ -4,6 +4,8 @@ title: Home
 
 # Ayurwiki
 
+<p class="aw-home-logo"><img src="assets/logo.png" alt="Ayurwiki logo"></p>
+
 **Ayurwiki** is an open, community-driven encyclopedia of Ayurveda — documenting herbs, medicines, practices, yoga, and the traditional wisdom of one of the world's oldest systems of holistic health.
 
 <div class="award-banner" markdown>
