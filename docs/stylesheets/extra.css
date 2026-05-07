@@ -9,6 +9,22 @@
 .md-header__button, .md-header-nav__button {
   color: #333;
 }
+
+/* Larger logo in header and nav drawer */
+.md-header__button.md-logo {
+  margin: 0.2rem 0.4rem 0.2rem 0;
+  padding: 0;
+}
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 2.4rem;
+  width: 2.4rem;
+}
+.md-nav__title .md-logo img,
+.md-nav__title .md-logo svg {
+  height: 3.2rem;
+  width: 3.2rem;
+}
 .md-header__topic {
   color: #333;
   font-weight: 600;
