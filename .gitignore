@@ -7,3 +7,4 @@ venv/
 .DS_Store
 ayurwiki.sql.gz
 logs/
+CLAUDE.md
