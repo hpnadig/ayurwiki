@@ -128,3 +128,6 @@ Dry soil region, Deciduous forests.
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2013/10/17/kutaja-benefits-usage-dose-side-effects-ayurveda-details/)
 4. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Wrightia+tinctoria)
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.152, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 455.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a calmer for throat ulcers (gaṇṭalu huṇṇu śamanakke). Latex, bark, leaf used. Toothache / gum infection: latex applied to the affected tooth; 12 hours, externally.
+   > *As cited in: Kṛṣṇa-kuṭaja — classical Ayurvedic standing as kuṭaja-bheda (no specific text/verse cited)*

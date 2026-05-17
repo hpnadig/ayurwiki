@@ -100,3 +100,5 @@ Cultivated in all tropical regions.
 1. [composition](Chemical)(https://www.bimbima.com/herbs/arrowroot/2923/)
 2. [Morphology](https://www.bimbima.com/herbs/arrowroot/2923/)
 3. [Details](Cultivation)(https://www.bimbima.com/herbs/arrowroot/2923/)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 323.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for improving child health (makkaḷa ārōgya sudhārisuva). The rhizome starch is used as a digestive base for infants, weaning food, and as a gentle laxative. Infant diet (digestive complaints): 1 spoon arrowroot starch + 4–5 spoons of milk + honey, twice daily; 2 weeks.

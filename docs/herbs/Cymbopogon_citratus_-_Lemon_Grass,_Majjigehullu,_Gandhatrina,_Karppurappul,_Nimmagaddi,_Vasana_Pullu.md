@@ -114,3 +114,5 @@ Dry regions of India, Sea coast, Dry zone in Srilanka.
 1. [Phytochemicals](https://www.mdidea.com/products/proper/proper08404.html)
 2. [Morphology](http://eol.org/pages/703261/details)
 3. [to Grow](How)(http://www.theprairiehomestead.com/2014/11/lemongrass-grow-use.html)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 364.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as an immediate pain-reliever (oṁdu nōvu nivārakavāgi). Leaves used for tea-infusions and external aromatic. Also indicated for digestive comfort, mild headache and as a daily cooling drink.

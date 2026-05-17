@@ -110,3 +110,5 @@ Found in many habitats, Preferring disturbed, Rather open vegetation, River bank
 1. Arrticle - National library of Medicine
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Senna+alata)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 94-95.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for skin diseases (carma rōgagaḷige maddu) — particularly ringworm and related fungal eruptions, in line with the plant's classical Sanskrit name Dadrughna ('ringworm-destroyer').

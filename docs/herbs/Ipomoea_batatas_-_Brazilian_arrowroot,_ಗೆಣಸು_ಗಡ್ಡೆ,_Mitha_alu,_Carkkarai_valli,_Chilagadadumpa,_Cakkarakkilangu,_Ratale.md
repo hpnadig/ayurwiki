@@ -97,3 +97,5 @@ Derived in cultivation.
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/i/ipomoea-batatas)
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Ipomoea+batatas)
 5. Indian Medicinal Plants by C.P.Khare
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 415.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a skin-treatment plant (carma cikitsege). The tuber is the main edible part; leaves and root used externally. Skin disease: tuber paste mixed with warm water applied externally; daily for 1–2 weeks.

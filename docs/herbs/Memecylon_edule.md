@@ -63,3 +63,5 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 2. ["Morphology"]
 3. [ "Cultivation"]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 148-149.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for vision-related disorders (dṛṣṭi tondaregaḷalli kaṇṇi). Root, bark, leaf and tender shoot are used. The author also notes the tree's striking elastic wood used regionally for tool-handles.

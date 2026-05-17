@@ -111,3 +111,5 @@ Tropical area.
 2. [description](Botonic)(http://keralaplants.in/flowering-plants-kerala-dvd.aspx)
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [details](Cultivation)(http://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/tylophora-indica)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 154-155.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for internal abdominal swellings (hoṭṭeya oḷa bāvugaḷige). The author also records its use for chronic cough and asthmatic shortness of breath. Leaf, flower and root are used.

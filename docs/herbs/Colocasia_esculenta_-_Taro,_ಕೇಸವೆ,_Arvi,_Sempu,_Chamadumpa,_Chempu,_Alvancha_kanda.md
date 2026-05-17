@@ -123,3 +123,5 @@ Trophical areas, Humid region.
 4. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=colocasia+esculenta)
 5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 213.**
    The tuber and leaf petiole are used to treat alopecia (hair loss) by applying warmed leaf preparations on affected areas for 1-2 months. The corm is used as a remedy for piles (hemorrhoids) and the leaf juice is applied to stop bleeding. The plant has cholesterol-lowering properties when consumed as. Leaf paste heated and applied for alopecia for 1-2 months; corm decoction taken internally for digestive disorders; leaves consumed as vegetable for nutritional benefits.
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 176-177.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for stones (kallu nivāraṇege — kidney/biliary stone). The rhizome, leaf and flower are used individually; an everyday vegetable in coastal cuisine. <needs-edit>

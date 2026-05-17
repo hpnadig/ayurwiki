@@ -113,3 +113,5 @@ Semi-temperate to tropical conditions, High rainfall.
 1. [Pharmacology](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.679.2571&rep=rep1&type=pdf)
 2. [Morphology](http://www.flowersofindia.net/catalog/slides/Chamber%20Bitter.html)
 3. [Agritechnology](http://www.techno-preneur.net/technology/project-profiles/food/bhumy.html)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 174-175.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for joint-wear pains (sandhimāra mattu savetada nōvugaḷige). The whole plant is used. Also indicated for eye-injury complaints. Joint-wear pain: whole-plant paste with a little salt applied as a 1-hour external lepa, 3 hours total contact, 3–6 days, extending to 12 days if needed.

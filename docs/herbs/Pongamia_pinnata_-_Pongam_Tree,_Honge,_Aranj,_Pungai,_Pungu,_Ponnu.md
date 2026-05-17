@@ -115,3 +115,6 @@ Lowland forest, Rocky coral outcrops on the coast, Along the edges.
 1. [Constituents](http://www.spicesmedicinalherbs.com/pongamia-pinnata.html)
 2. [characterristics](Plants)(https://web.archhttp://www.worldagroforestry.org/treedb2/AFTPDFS/Pongamia_pinnata.PDF)
 3. [details](Cultivation)(https://www.pfaf.org/user/Plant.aspx?LatinName=Pongamia+pinnata)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 459-460.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a renowned antitoxin (prasiddha nañju nivāraka). The author identifies the plant with the classical Sanskrit Karañja. Bark, leaf, fruit, seed and Karañja oil used. Skin diseases (eczema, dermatitis): Karañja oil applied externally; daily 2–3 weeks.
+   > *As cited in: Karañja / Nakta-māla — classical Ayurvedic standing (no specific text/verse cited)*

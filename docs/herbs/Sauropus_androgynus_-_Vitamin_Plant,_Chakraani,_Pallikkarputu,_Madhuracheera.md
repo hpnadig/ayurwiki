@@ -106,3 +106,5 @@ Gardens, Cultivated areas.
 1. [constituents](Chemical)(https://onlinelibrary.wiley.com/doi/abs/10.1002/jccs.199700024)
 2. [morphology](Plant)(https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2427)
 3. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Sauropus+androgynus)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 216-217.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for inflammation of the urinary tract (mūtra-nāḷada oḷa-bāvige). The leaves are an everyday nutritive leafy vegetable extremely rich in vitamins and minerals. Urinary-tract inflammation: 25 g of fresh root with <needs-edit> additional preparation details.

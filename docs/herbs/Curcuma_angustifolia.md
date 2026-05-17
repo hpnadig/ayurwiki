@@ -66,3 +66,5 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 2. ["Morphology"]
 3. [ "Cultivation"]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 439.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a tonic to improve blood (rakta vṛddhiyāgisalu). Rhizome powder principally used. Blood-tonic: 8 g rhizome powder + 10 g jaggery + 2 cups water, decoction 1–2 days; continued 7–14 days.

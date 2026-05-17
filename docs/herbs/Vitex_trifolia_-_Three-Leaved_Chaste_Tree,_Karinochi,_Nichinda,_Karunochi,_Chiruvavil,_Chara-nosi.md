@@ -112,3 +112,5 @@ Coastal sand dunes, Sandy meadows, Found in teak forest.
 1. [constituents](Chemical)(http://www.mpbd.info/plants/vitex-trifolia.php)
 2. [morphology](Plant)(http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:866039-1)
 3. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Vitex+trifolia)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 114.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for lower-back pain (sonta-nōvu). The author identifies the plant with the classical Sanskrit Nirguṇḍī used in Ayurveda for vāta disorders. Root, leaf, bark, seed, tender shoot and fruit are all used individually.

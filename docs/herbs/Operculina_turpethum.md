@@ -80,3 +80,6 @@ Sandy loam to clay loam soil in moist tropical regions is suitable for the culti
 2. [Morphology]
 3. [Cultivation](https://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/operculina-turpethum)
 4. Indian Medicinal Plants by C.P.Khare
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 326-327.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as excellent medicine for piles (ānarśa rōgagaḷige). The author identifies the plant with the classical Sanskrit Trivṛt — a major Ayurvedic anti-piles laxative. Root mainly used; leaf also.
+   > *As cited in: Trivṛt / Triputā — classical Ayurvedic standing as anti-piles laxative (no specific text/verse cited)*

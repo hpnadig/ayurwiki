@@ -143,3 +143,6 @@ Tropical area, Dry deciduous forests.
    1. Root paste mixed with a small amount of turmeric and sugar, taken orally for several days, helps treat various urinary disorders and Polyuria. 2. Bark decoction with a little honey taken for several days helps treat Psoriasis and other skin diseases (Charma roga). 3. Raw fruit of Kakke mara made .
 6. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 110
 7. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No. Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 179-180.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as an effective remedy for gaṇḍa-māla (cervical / scrofulous goitre and glandular-swelling). The Sanskrit name Āragvadha places the plant centrally in Ayurveda as a laxative and skin-cleanser. Leaf, flower, fruit-pod and bark are used.
+   > *As cited in: Āragvadha — classical Ayurvedic standing as gentle laxative and skin-cleanser (no specific text/verse cited on the page)*

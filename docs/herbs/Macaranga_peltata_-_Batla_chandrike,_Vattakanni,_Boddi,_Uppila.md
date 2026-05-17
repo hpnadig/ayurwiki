@@ -102,3 +102,5 @@ Tropical area, Evergreen forest, Moist deciduous forest.
 3. [description](Botanic)(https://uses.plantnet-project.org/en/Macaranga_(PROSEA_Medicinal_plants)#:~:text=Roots%2C%20bark%20and%20leaves%20of,%2C%20ulcers%2C%20sores%20and%20boils.)
 4. [names](Vernacular)(http://envis.frlht.org/index.php/bot_search)
 5. [details](Cultivation)(https://www.researchgate.net/publication/278070419_Enhancement_of_seed_germination_in_Macaranga_peltata_for_use_in_tropical_forest_restoration)
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 101-102.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a beneficial remedy for severe wounds and ulcers (uttama vraṇa). A canopy-tree of the lower Western Ghats (below 1000 ft elevation); the leaves and bark are the principal medicinal parts.

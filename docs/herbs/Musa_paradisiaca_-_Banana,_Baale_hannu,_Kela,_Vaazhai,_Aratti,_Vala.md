@@ -129,3 +129,6 @@ In tribal and folk traditions, the banana and mango trees feature in wedding cer
 7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 28, 32, 49, 60, 67, 90, 93-94.**
    Planting kadali along with other specified trees ensures freedom from sorrow for seven births. Classified as Anupa-adapted (marshy region). Propagated by pasting roots with cow dung and planting in pits with adequate irrigation. Propagation: root pasted with gomaya, planted in pits with ample irrigation (Verse on page 49).
    > *As cited in: Vrksayurveda of Surapala, Verses 1-2, 120, 141, 238, 253; Sections 2, 5, 8, 11, 14, 19, 20, 21*
+8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 316-317.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as nature's boon (prakṛtiya vara). The author records the cultural and culinary centrality of the banana in coastal Karnataka — fruit, flower, stem, pseudostem, leaf are all used. Particularly noted for kidney stones, pitta-vāta, diabetic complaints, and post-meal indulgence.
+   > *As cited in: Rambhā / Vanalakṣmī — classical Ayurvedic standing (no specific text/verse cited)*

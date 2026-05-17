@@ -117,3 +117,6 @@ Tropical area
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2016/12/21/lasoda-cordia-dichotoma-shleshmataka/)
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.63, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 366-367.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as an excellent body tonic (uttama śarīra trāṇaka). The author identifies the plant with classical Śleṣmāntaka — used in Ayurveda for kapha disorders. Bark, fruit, leaf, root used.
+   > *As cited in: Śleṣmāntaka — classical Ayurvedic standing (no specific text/verse cited)*

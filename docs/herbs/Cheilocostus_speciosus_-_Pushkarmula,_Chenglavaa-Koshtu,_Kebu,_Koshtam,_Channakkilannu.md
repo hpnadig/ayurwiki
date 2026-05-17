@@ -121,3 +121,5 @@ Roadside ditches, Low-lying areas in the forest.
 3. [details](Cultivation)(https://www.researchgate.net/publication/233910986_Costus_speciosus_An_antidiabetic_plant-review)
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2017/07/19/costus-speciosus-crepe-ginger-kebuka/)
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.49, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 252-253.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for eye-haze / clouded vision (kaṇṇina mōre). Rhizome, stem and leaf used. <needs-edit>

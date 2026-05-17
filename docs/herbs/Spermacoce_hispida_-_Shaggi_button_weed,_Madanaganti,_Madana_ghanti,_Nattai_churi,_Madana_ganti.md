@@ -98,3 +98,5 @@ Open sandy lands, Behind beaches, In dry gardens, Teak forests, Along steep road
 2. [Morphology]
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 345.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for visarpa-gandha (vague pain syndromes). Whole plant used. <needs-edit>

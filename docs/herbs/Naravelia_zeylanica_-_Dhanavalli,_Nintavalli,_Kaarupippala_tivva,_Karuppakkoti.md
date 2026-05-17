@@ -100,3 +100,5 @@ Tropical area.
 1. [Uses](http://dhaarrii.blogspot.com/2009/09/naravelia-zeylanica.html)
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 136
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 74-75.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: a vesicant climber whose strong, fiery smell gives it the regional names 'fire-vine' (Beṅki baḷḷi) and the Sanskrit Agnijvālā ('flame'). Bark and leaf paste is applied as a forehead-poultice for stubborn migrainous headaches — the smell itself is said to abort the headache.

@@ -124,3 +124,6 @@ Temperate region, Waste fields.
 4. Karnataka Aushadhiya Sasyagalu By Dr.Maagadi R Gurudeva, Page no:309
 5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 619.**
    Aloe vera gel is widely used for wound healing, anti-inflammatory effects, and treating burns. The gel has demonstrated immunomodulatory, anti-inflammatory, and wound healing properties in research studies. It is also used for skin protection, treating radiation injuries, and has shown hepatoprotect. Fresh gel applied topically for burns and wounds; juice taken internally for digestive ailments; also used in Aloe vera-based commercial gels for skin protection.
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 397-398.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a quick treatment for burns (beṅkiyaguḷige kṣipra cikitse). The author identifies the plant with the classical Sanskrit Kumārī / Ghṛta-kumārī — a major Ayurvedic plant for skin, women's complaints, liver and convalescence. Leaf gel principally used; root and flower also used.
+   > *As cited in: Kumārī / Ghṛta-kumārī — classical Ayurvedic standing (no specific text/verse cited)*

@@ -115,3 +115,5 @@ Tropical area.
 3. [details](Cultivation)(https://pfaf.org/User/Plant.aspx?LatinName=Adenanthera+pavonina)
 4. [composition](Chemical)(http://gbpihedenvis.nic.in/PDFs/Glossary_Medicinal_Plants_Springer.pdf)
 5. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.112, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 222-223.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a reliever of chronic rheumatism (dīrghakāla-sandhi-vāta). Leaf, seed, bark and root are used. <needs-edit>

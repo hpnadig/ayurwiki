@@ -128,3 +128,5 @@ Tropical area, Moist deciduous forests.
 2. [DESCRIPTION](BOTANIC)(http://www.worldagroforestry.org/treedb/AFTPDFS/Abelmoschus_moschatus.PDF)
 3. [details](Cultivation)(https://www.pfaf.org/user/Plant.aspx?LatinName=Abelmoschus+moschatus)
 4. [files are licensed under the Creative Commons](These)(https://creativecommons.org/licenses/by-sa/2.0/deed.en)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 131.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for mouth diseases (bāyiya rōgagaḷige) — mouth ulcers, gum infection, halitosis. Leaf, seed, fibre and root are used; the seed has the characteristic musk-like fragrance from which the plant takes its name.

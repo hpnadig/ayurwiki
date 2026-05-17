@@ -109,3 +109,5 @@ River banks, Edges of lakes, Extending into woodland, Grassland, Waste places.
 3. [Morphology]
 4. Useful tropical plants by tropical.theferns.info website
 5. Indian Medicinal Plants by C.P.Khare
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 205-206.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for problems of the testes / scrotum (aṇḍakoṣa). Root, leaf, fruit and seed are used. NOTE (added editorially): Crotalaria spp. Testicular swelling: 1 ciḍi Gaḍḍe saṇabu root bruised, in 3 cups water + 1 cup decoction; combined with bark and leaf paste applied externally on the scrotum.

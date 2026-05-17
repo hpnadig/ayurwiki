@@ -107,3 +107,6 @@ Coastal mesophyll vine forest, Palm-dominated forests, Notophyll vine forests.
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Alternanthera+sessilis)
 4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 349.**
    1. Honagonne root decoction (2 tola) with 1/4 seeru of milk consumed on an empty stomach daily helps increase urine output smoothly. 2. Honagonne plant's fresh leaves consumed as a vegetable after child delivery helps improve lactation and appetite within 8 days. 3. Honagonne plant fresh juice (2 to.
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 462.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a hair-loss remedy (tale-kūdalu udaruvikege cikitse). Leaf and whole plant used. Hair-loss: whole-plant paste with cool oil applied to scalp, weekly for 3–4 weeks.
+   > *As cited in: Maccāksi — classical Ayurvedic standing (no specific text/verse cited)*

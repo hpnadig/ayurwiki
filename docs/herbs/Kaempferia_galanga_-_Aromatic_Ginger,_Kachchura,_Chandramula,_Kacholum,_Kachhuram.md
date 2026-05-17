@@ -112,3 +112,6 @@ Open forest, Forest edges, Bamboo forest, At elevations up to 1,000 metres
 1. [constitu­ents"]("Main)(http://gernot-katzers-spice-pages.com/engl/Kaem_gal.html)
 2. [Morphology "]("Plant)(https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=2164)
 3. [Details"]("Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Kaempferia+galanga)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 275.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a reliever of excess vomiting (ativānti nivāraka). The author identifies the plant with the classical Sanskrit Śaṭi used in Tālīsadi cūrṇa class. Rhizome and leaf used. Excess vomiting: Kaccūra rhizome, finely ground in water with 1 spoon honey; given by sip.
+   > *As cited in: Śaṭi — classical Ayurvedic standing as part of Tālīsadi cūrṇa (no specific text/verse cited)*

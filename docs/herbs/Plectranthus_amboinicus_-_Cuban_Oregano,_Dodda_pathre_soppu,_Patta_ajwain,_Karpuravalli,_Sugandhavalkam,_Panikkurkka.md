@@ -116,3 +116,5 @@ Tall grasslands, At meadows, Borders of forests and fields.
 1. [constituents](Chemical)(https://www.ncbi.nlm.nih.gov/pubmed/24491635)
 2. [Features](Ornamental)(http://www.learn2grow.com/plants/plectranthus-amboinicus-variegatus/)
 3. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Plectranthus%20amboinicus)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 414.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for cold, nasal discharge and cough (śīta, negaḍi, kammu nivāraṇege). Leaves are the principal medicinal part. Pungent aromatic leaves are also used as flavouring. Cold / cough: 6–8 fresh Sāmbrāṇi leaves crushed, taken with honey twice daily for 3 days.

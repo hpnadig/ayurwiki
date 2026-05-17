@@ -126,3 +126,6 @@ Tropical area
 3. Flowering plants of Kerals vesrion-2, N. Sasidharan
 4. [details](Cultivation)(http://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/curculigo-orchioides)
 5. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.723, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 279-280.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for chronic diarrhoea (dīrghakālada atisāra). The author identifies the plant with the classical Musali used as a vigour-giving tonic in Ayurveda. Tuber used. Chronic diarrhoea: 6–12 g of Nelatāḷe tuber powder in milk + buttermilk, taken twice a day; continued 2 weeks.
+   > *As cited in: Musalī / Tālamūlikā — classical Ayurvedic standing (no specific text/verse cited)*

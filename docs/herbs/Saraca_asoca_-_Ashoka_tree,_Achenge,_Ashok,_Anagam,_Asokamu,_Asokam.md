@@ -150,3 +150,5 @@ The Varah Purana describes the importance of planting and maintaining trees, inc
 
 7. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 85-88.
    Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.
+8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 91-92.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as the matchless protector of uterine health (garbhāṅgaḷa ārakṣe anupama). The author describes the tree as one of the classical druma-aśoka group, beautiful in flowering 12 months of the year, and centrally used for menstrual disorders and skin lesions in children.

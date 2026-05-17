@@ -77,3 +77,6 @@ Acmella paniculata is available through September to January
 2. [Morphology]
 3. Indian Medicinal Plants by C.P.Khare
 4. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.16, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 463-464.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as an anaesthetic-class pain reliever (nōvu nivārisuva anasthēsiyā). The author identifies the plant with the classical Sanskrit Ākarakāra-kara group — used in Ayurveda for dental pain. Flowering head used.
+   > *As cited in: Ākarakāra-kara — classical Ayurvedic standing as dental analgesic (no specific text/verse cited)*

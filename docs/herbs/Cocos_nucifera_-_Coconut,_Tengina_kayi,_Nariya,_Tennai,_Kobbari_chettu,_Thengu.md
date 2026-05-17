@@ -126,3 +126,6 @@ The coconut is an essential offering (*naivedya*) in Hindu temples and ceremonie
 5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 32, 62-63.**
    Classified as Anupa-adapted (marshy/coastal region). Recipe 1: cow/pig/sisumara flesh cooked in water for irrigation (Verse 127).
    > *As cited in: Vrksayurveda of Surapala, Verses 80, 127-131; Sections 5, 11*
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 237-238.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a 'complete medicinal tree' (samagra auṣadha vṛkṣa). Root to crown of every part medicinally used. Particularly recorded for skin disorders, diabetic ulcers, post-pregnancy nourishment, hair-oil base, and lactating-mother diet.
+   > *As cited in: Nārikela / Śrīphala — classical Ayurvedic standing (no specific text/verse cited)*

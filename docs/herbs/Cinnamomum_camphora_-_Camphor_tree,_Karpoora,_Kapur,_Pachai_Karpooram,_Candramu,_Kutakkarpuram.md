@@ -112,3 +112,5 @@ Tropical area, Sub tropical area
 3. [composition](Chemical)(http://gbpihedenvis.nic.in/PDFs/Glossary_Medicinal_Plants_Springer.pdf)
 4. [names](Vernacular)(http://envis.frlht.org/bot_search)
 5. [details](Cultivation)(https://pfaf.org/user/Plant.aspx?LatinName=Cinnamomum+camphora)
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 115-116.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a reliever of all kinds of swellings (ellā bāvugaḷa nivāraka). A 50–60-ft tree that yields camphor resin after 60 years. Used for swellings, sprains, joint-pain, bruises, boils, and eye-pain.

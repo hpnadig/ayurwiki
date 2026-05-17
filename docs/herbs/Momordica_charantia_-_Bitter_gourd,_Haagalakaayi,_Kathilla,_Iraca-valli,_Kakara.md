@@ -127,3 +127,5 @@ Coastal thickets, Along streams, Along creeks, Lowland forest margins.
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 54, 75.**
    Best planted during the month of Caitra (spring). Listed among vegetable-fruit plants receiving pig-bone fumigation during summer season for enhanced production. Vegetable fumigation: pig-bone fumigation during summer (Verse 159).
    > *As cited in: Vrksayurveda of Surapala, Verses 80, 159; Sections 8, 14*
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 100-101.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for liver diseases (yakṛt rōgagaḷige) and for all kinds of prameha (diabetes-spectrum / urinary disorders). The leaf, fruit, root and seed are all used. All-type prameha (diabetic spectrum): coarsely ground bitter-gourd leaf + tender-fruit mixture, 1 spoon in 1 cup of cold water, with 1 pinch of (auxiliary) powder added, taken in the morning.

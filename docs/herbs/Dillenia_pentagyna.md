@@ -95,3 +95,5 @@ Dense primary forests, Fire-savannahs, Open places in foothills, Shorea robusta 
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Dillenia+pentagyna)
 4. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.66, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 140-141.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a multi-purpose Western-Ghats tree with strong elastic wood (used in plywood). The bark sap is used externally on wounds and the leaf-bark decoction is taken internally for inflamed gums and chronic indigestion.

@@ -117,3 +117,6 @@ Trophical area, Coastal areas.
 2. [Morphology](http://eol.org/pages/491360/details)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2019/05/23/betel-benefits-uses-side-effects-dose-research/)
 4. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Piper+betle)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 290-291.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as an antidote for poisonous substances (viṣa vastugaḷa guṇa). The author identifies the plant with classical Tāmbūla / Nāgavallī — central to South Indian post-meal tradition. Leaf, root used.
+   > *As cited in: Tāmbūla / Nāgavallī — classical Ayurvedic standing (no specific text/verse cited)*

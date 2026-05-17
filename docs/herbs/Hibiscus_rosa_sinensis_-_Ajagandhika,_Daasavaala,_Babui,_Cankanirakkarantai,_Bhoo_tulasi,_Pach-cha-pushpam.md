@@ -112,3 +112,5 @@ Tropical area, Subtropical area, Temperate area.
 2. [Microscopic](http://jprsolutions.info/files/final-file-56b1fc6eacd830.48137881.pdf)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2018/01/12/hibiscus-flower-leaves-uses/)
 4. [details](Cultivation)(https://homeguides.sfgate.com/different-ways-propagate-tropical-hibiscus-67745.html)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 173-174.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a calmer of mental agitation (manō-dvēga kamanake). Flowers, leaves, root, bark are used. Particularly indicated for haematuria-with-burning, hair-loss / dandruff, and women's menstrual complaints.

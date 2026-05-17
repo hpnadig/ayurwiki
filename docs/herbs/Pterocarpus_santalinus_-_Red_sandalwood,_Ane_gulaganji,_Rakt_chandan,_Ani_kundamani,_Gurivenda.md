@@ -122,3 +122,6 @@ Tall grasslands, At meadows, Borders of forests and fields.
 2. [Morphology](http://www.floraandfona.org.in/Uploaded%20Pdf/211/55-59.pdf)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2015/12/16/raktachandan-red-sandalwood-uses-research-side-effects/)
 4. [details](Cultivation)(http://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/pterocarpus-santalinus)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 386-387.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for diabetic thirst and complications (pramēhada bāyārike). The author identifies the plant with classical Sanskrit Rakta-candana — a major Ayurvedic cooling agent and skin-tonic. Heartwood is the primary medicinal part.
+   > *As cited in: Rakta-candana / Patrāṅga — classical Ayurvedic standing as cooling agent (no specific text/verse cited)*

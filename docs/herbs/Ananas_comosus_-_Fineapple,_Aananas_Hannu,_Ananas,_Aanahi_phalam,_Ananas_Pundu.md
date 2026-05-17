@@ -113,3 +113,5 @@ Savannahs.
 3. [Cultivation]
 4. ”Karnataka Medicinal Plants Volume - 3” by Dr.M. R. Gurudeva, Page No.77 to 90, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
 5. Easy Ayurveda]
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 82-83.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a throat-trouble remedy (gaṅṭalina bādhā nivāraka). The author records the fruit's 18th-century introduction into Goa by the Portuguese. Throat infection with phlegm: ripe pineapple pieces 4–6 muḷa (finger-lengths) chewed and slowly swallowed with honey, 2–3 times daily for 1–3 days.

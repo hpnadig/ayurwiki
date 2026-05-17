@@ -128,3 +128,6 @@ Lowland tropics, Subtropical area.
 4. [Uses](Cissus)(https://www.ayurtimes.com/cissus-quadrangularis-hadjod/)
 5. [Details](Cultivation)(http://www.columbuscactusclub.com/cissus-quadrangularis.html)
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.52, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 408-409.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a bone-knitter (elubu murita beseyabella). The author identifies the plant with the classical Sanskrit Asthi-saṁhārī / Vajravallī — a major Ayurvedic plant for bone-mending, fractures and joint complaints. Whole stem-jointed vine used.
+   > *As cited in: Asthi-saṁhārī / Vajravallī — classical Ayurvedic standing as bone-mender (no specific text/verse cited)*

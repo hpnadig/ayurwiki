@@ -117,3 +117,6 @@ Tropical area, Sub tropical area
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 68.**
    Comprehensive fruit-enhancement recipe involving milk, flesh, fish, cow dung, rice, sesame-seed cake, and water applied to trees. Produces large, tasty, pulpy fruits resembling pots in size, so heavy that the tree bends under their weight. Recipe: milk, flesh, fish, gomaya, sali rice, tila khali, and water mixed and applied (Verse 143).
    > *As cited in: Vrksayurveda of Surapala, Verse 143; Section 13*
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 452-453.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a lung-strengthener (śvāsa-koṣakke bala). The author identifies the plant with the classical Sanskrit Mātulunga / Bījapūra. Fruit, peel, juice and seed all used. Cough / lung weakness: 4+4 spoons of citron juice + honey + ginger, taken twice daily for 1 week.
+   > *As cited in: Mātulunga / Bījapūra — classical Ayurvedic standing (no specific text/verse cited)*

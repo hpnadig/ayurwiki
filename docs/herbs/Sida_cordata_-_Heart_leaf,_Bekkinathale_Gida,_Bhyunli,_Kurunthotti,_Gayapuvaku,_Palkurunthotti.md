@@ -119,3 +119,5 @@ Grassy roadsides in china, Uncultivated land, Undergrowth in forest.
 3. [and Cultivation](Care)(http://herbalistics.com.au/product/sida-cordifolia-bala-seed/)
 4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 475.**
    The plant has immunological properties and is used traditionally for treating fevers, urinary disorders, and general debility. The root decoction is given for leucorrhoea and as a tonic. The leaves are used as a poultice for swellings and boils.
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 278.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a useful medicine for diarrhoea (atisāra). Whole plant used. <needs-edit>

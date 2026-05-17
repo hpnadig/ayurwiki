@@ -121,3 +121,6 @@ Forest lands, Riversides, Wastelands.
 2. FLOWERING PLANTS OF KERALA VER.2, N. Sasidharan-Botanical description
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2015/05/18/kokum-garcinia-indica-uses-dose-research-side-effects/)
 4. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.80, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 301-302.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a cholesterol reliever (kolesterol nivāraka). The author records the fruit-rind 'Vṛkṣāmla' use in Ayurveda for digestion and the dried-fruit-pulp 'Kokum' as a cooling food agent. Bark, leaf, fruit, kokum butter all used.
+   > *As cited in: Vṛkṣāmla — classical Ayurvedic standing (no specific text/verse cited)*

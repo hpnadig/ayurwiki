@@ -101,3 +101,5 @@ Dry deciduous forests, In the plains.
 3. [Cultivation]
 4. Flowers of india Portal
 5. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.356, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 103.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for ligament/muscle binding (māṁsa-bandha) and especially for joint-strain injuries (uḷuku) in humans and cattle. <needs-edit>: the page describes a strain-poultice preparation but the specific quantities and contact-time were not legible at 150 dpi.

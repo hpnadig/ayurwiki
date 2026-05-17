@@ -102,3 +102,5 @@ Tall grasslands, Meadows, Borders of forests and fields.
 2. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/c/cheilocostus-speciosus)
 3. [machine](Wayback)(https://web.archive.org/web/20131226161459/http://www.wildflowers-guide.com/39-agrimony.html)
 4. [palnts](Practical)(http://practicalplants.org/wiki/Agrimonia_eupatoria)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 252-253.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for eye-haze / clouded vision (kaṇṇina mōre). Rhizome, stem and leaf used. <needs-edit>

@@ -105,3 +105,5 @@ Lowland forest, Coastal forests.
 1. [composition](Chemical)(https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0028-1097264)
 2. [Morphology](https://www.ctahr.hawaii.edu/noni/downloads/morinda_species_profile.pdf?q=morinda)
 3. [Details](Cultivation)(https://www.ctahr.hawaii.edu/noni/downloads/morinda_species_profile.pdf?q=morinda)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 383-384.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as an effective medicine for extreme pain (ātivēdane pariṇāmakāri auṣadha). Bark, leaf, fruit, root used. Acute pain (rheumatism, joint pain): 3 spoons of root extract (35 g) + 6 g of jaggery, with 1 spoon kashaya (decoction), morning and night; 14 days.

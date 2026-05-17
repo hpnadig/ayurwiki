@@ -108,3 +108,6 @@ Tropical area, Sub tropical area
 2. [OF KERALA VER.2, N. Sasidharan BOTANIC DESCRIPTION](PLANTS)(http://FLOWERING)
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.950, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 355-356.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as an excellent body-nourisher (uttama śarīra poṣaka). The author identifies the plant with the classical Sanskrit Śāli / Vrīhi. Rice is staple food and is used in Ayurveda in multiple preparations.
+   > *As cited in: Śāli / Vrīhi — classical Ayurvedic standing (no specific text/verse cited)*

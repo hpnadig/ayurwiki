@@ -122,3 +122,6 @@ Roadsides, Sandy fields, Cultivated ground, Damp places.
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 73.**
    Used as an ingredient in decoction (along with jambu leaves and sura liquor) for irrigating all flowering plants to promote maximum bloom and flower yield. Flowering decoction: mustaka with kosira, jambu leaves in sura (liquor) for irrigation of flowering plants (Verse 149).
    > *As cited in: Vrksayurveda of Surapala, Verse 149; Section 14*
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 357.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for breast development / lactation enhancement (stana vṛddhi). The author identifies the plant with the classical Sanskrit Mustā — a major Ayurvedic digestive, anti-pyretic and women's tonic. Rhizome tuber is the principal medicinal part.
+   > *As cited in: Mustā / Bhadra-mustā — classical Ayurvedic standing in Muṣṭādi cūrṇa (no specific text/verse cited)*

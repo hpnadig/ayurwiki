@@ -96,3 +96,5 @@ Garden area.
 1. [composition](Chemical)(http://www.ethnoleaflets.com/leaflets/mussaend.htm#:~:text=Iridoids%2C%20flavonoids%20and%20triterpenes%20are,the%20iridoids%20and%20triterpene%20saponins.&text=Mussaendosides%20M%202%20and%20N%203%20are%20the%20saponins%20from%20M.)
 2. [Morphology](https://www.flowersofindia.net/catalog/slides/Dhobi%20Tree.html)
 3. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Mussaenda+frondosa)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 352-353.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a medicine for migraine-class headache (āre mundige auṣadha). All parts used. <needs-edit>

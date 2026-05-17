@@ -61,3 +61,6 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 2. ["Morphology"]
 3. [ "Cultivation"]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 435.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a calmer for elephantiasis (āne-kālu bāvu śamana). The author identifies the plant with the yellow-flowered Bhṛṅgarāja variant. Whole plant used. Elephantiasis (śloka rōga): whole-plant decoction 3 cups boiled to 1 cup, 3 days fast; combined with bark-juice external paste.
+   > *As cited in: Pīta-bhṛṅgarāja — classical Ayurvedic standing as variant of Bhṛṅgarāja (no specific text/verse cited)*

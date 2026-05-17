@@ -115,3 +115,5 @@ Wild forest area, Dry arid area.
 2. [features](Botanical)(https://en.wikipedia.org/wiki/Jatropha_curcas)
 3. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Jatropha+curcas)
 4. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.539, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 213-214.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for gum diseases (vasaḍu rōgagaḷige). Latex, leaves, root, bark are used externally. NOTE (added editorially): Jatropha seeds and latex are highly toxic if ingested. Bleeding gums: Gōve haraḷu (Jatropha) leaves shredded into a sap (latex), applied to gums as an external rub; renewed daily.

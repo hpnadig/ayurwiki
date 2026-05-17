@@ -113,3 +113,6 @@ Tropical area, Caribbean Islands, Subtropical area, Pinelands, Hammocks.
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 162
 3. [detail](Cultivation)(http://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/desmodium-gangeticum)
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2012/12/15/shalparni-desmodium-gangeticum-benefits-usage-ayurveda-details/)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 107-108.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a nutritive tonic (puṣṭokāraka). The author explicitly identifies Ondele honne with Śālaparṇī, one of the ten roots of the classical Daśamūla formulation of Ayurveda. Used for cardiac strengthening, swelling, debility and fever-induced weakness.
+   > *As cited in: Daśamūla — Śālaparṇī is one of the ten roots (no specific text/verse cited on the page)*

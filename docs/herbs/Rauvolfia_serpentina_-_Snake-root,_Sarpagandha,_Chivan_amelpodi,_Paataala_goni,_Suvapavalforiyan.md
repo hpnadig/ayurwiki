@@ -132,3 +132,6 @@ Trophical region, Borders of forests and fields.
 
 5. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 81-84.
    Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 334-335.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a reliever of toxin / venom effects (viṣa pariṇāma nivāraka). The author identifies the plant with the classical Sanskrit Sarpagandhā — used in Ayurveda for hypertension, anxiety, insomnia and snake-bite. Root principally used.
+   > *As cited in: Sarpagandhā — classical Ayurvedic standing (no specific text/verse cited)*

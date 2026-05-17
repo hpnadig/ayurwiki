@@ -63,3 +63,6 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 2. ["Morphology"]
 3. [ "Cultivation"]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 456-457.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a lethargy reliever (ārociṣita nivāraka). The author identifies the plant with the classical Sanskrit Pāribhadra / Mandāra. Bark, leaf, root used. Lethargy / loss of appetite (lakṣaṇa: sīna, mūgu sīrn, mukha guḷi etc.): 1 spoon bark + neem-leaf juice + black-pepper, taken on empty stomach 1–3 days.
+   > *As cited in: Pāribhadra / Mandāra — classical Ayurvedic standing (no specific text/verse cited)*

@@ -105,3 +105,5 @@ Common along the coast on sandy soils, Sandy coconut plantations.
 4. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/t/tylophora-indica)
 5. [Cultivation]
 6. Indian Medicinal Plants by C.P.Khare
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 154-155.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for internal abdominal swellings (hoṭṭeya oḷa bāvugaḷige). The author also records its use for chronic cough and asthmatic shortness of breath. Leaf, flower and root are used.

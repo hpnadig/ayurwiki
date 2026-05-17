@@ -113,3 +113,6 @@ Tropical area, Sub tropical area.
 3. [DESCRIPTION](BOTANIC)(http://florakarnataka.ces.iisc.ac.in/hjcb2/herbsheet.php?id=4564&cat=1)
 4. [details](Cultivation)(http://e-charak.in/echarak/templates/Paederia%20scandens%20(Lour.)%20Merr..pdf)
 5. [preparations](Ayurvedic)(https://easyayurveda.com/2013/08/21/paederia-foetida-gandha-prasarini-benefits-usage-dose-side-effects/)
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 196-197.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as excellent for body-toxin elimination (dehagata viṣa nivāraṇeyalli utkṛṣṭa). The author records its central place in Ayurveda as Gandha-prasāriṇī, used for vāta-rōga, rheumatism, and post-toxic clearing. Root, leaf, fruit and whole vine are used.
+   > *As cited in: Gandha-prasāriṇī — classical Ayurvedic standing (no specific text/verse cited on the page)*

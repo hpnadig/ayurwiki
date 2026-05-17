@@ -129,3 +129,6 @@ Mixed forests, Drier forests, Dry open sparse forests or scrub.
 
 4. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 65-69.
    Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 346-347.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for eye protection (kaṇṇina rakṣaṇege). The author identifies the plant with the classical Sanskrit Āmalakī — a major Ayurvedic plant of Triphala and a key rasāyana. Fruit, leaf, bark, seed used.
+   > *As cited in: Āmalakī — classical Ayurvedic standing in Triphala / Cyavanaprāśa group (no specific text/verse cited)*

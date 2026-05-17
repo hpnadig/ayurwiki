@@ -131,3 +131,6 @@ Scattered in teak forest, Mixed deciduous forest.
    > *As cited in: Vrksayurveda of Surapala, Verses 121, 134, 137, 231; Sections 11, 13, 17, 19*
 5. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 72.**
    Valued among Northeast Indian tribes for strong antioxidant and anti-inflammatory properties. Employed to improve digestion, promote weight loss, and manage diabetes.
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 79-80.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a body-mass reducer (śarīra-bhāra nivāraka) and one of the three constituents of the famous Triphala cūrṇa of Ayurveda. The author notes its role as a memory-enhancer (mappu-buddhi śōdhaka) and general detoxifier.
+   > *As cited in: Triphala cūrṇa — classical Ayurvedic formulation (no specific text/verse cited on the page)*

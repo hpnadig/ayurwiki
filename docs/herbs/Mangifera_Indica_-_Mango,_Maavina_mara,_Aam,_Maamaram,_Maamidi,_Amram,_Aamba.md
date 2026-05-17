@@ -140,3 +140,6 @@ In the Mahabharata, trees including the mango are praised for their selfless ser
 8. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 27, 32, 34, 43-44, 62, 65, 74, 90, 98.**
    Planting five or six Amra trees ensures perpetual happiness and passage to Gandraloka. Classified as both Anupa-adapted and Sadharana-adapted (general region). For fruit production, roots are treated with a mixture of ankola fruit juice, ghee, honey, and pig fat dissolved in water, producing exceptionally sweet, large, and satisfying mangoes.
    > *As cited in: Vrksayurveda of Surapala, Verses 1-2, 53-56, 126, 136, 152, 225; Sections 2, 5, 7, 11, 12, 14, 19, 21*
+9. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 453-454.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for voice-loss / hoarseness (svara bhaṅga). The author identifies the plant with the classical Sanskrit Āmra. All parts (bark, leaf, flower, kernel, fruit, root) used.
+   > *As cited in: Āmra / Rasāla — classical Ayurvedic standing (no specific text/verse cited)*

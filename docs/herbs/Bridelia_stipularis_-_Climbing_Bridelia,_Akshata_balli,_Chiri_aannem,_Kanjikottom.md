@@ -109,3 +109,5 @@ Tropical area, Evergreen forest
 1. [Uses](http://www.ayurvedavignan.com/2011/08/bridelia-scandens.html)
 2. [DESCRIPTION](BOTANIC)(http://keralaplants.in/)
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 309-310.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a substitute for 'Edekala' (Garcinia indica or similar coastal medicinal). Leaf, stem, fruit, seed used. Lymph-node bilo: <needs-edit>.

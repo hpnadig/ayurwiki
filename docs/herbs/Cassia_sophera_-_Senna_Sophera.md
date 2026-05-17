@@ -87,3 +87,6 @@ Roadsides, Waste places, Mountain slopes, Roadsides in southern China.
 1. [Chemistry]
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 114
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Senna+sophera)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 409-410.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as an easy treatment for ringworm, itch and scabies (daḍike, turike, kajjigaḷige). Leaf and root used. Ringworm: leaf paste applied externally daily for 7 days.
+   > *As cited in: Kāsamarda — classical Ayurvedic standing (no specific text/verse cited)*

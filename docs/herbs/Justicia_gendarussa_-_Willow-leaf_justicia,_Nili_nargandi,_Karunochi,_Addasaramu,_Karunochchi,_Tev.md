@@ -100,3 +100,6 @@ Secondary forests, Primary forests.
 2. [Morphology]
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 398-399.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as effective for old aches (haḷeya nōvugaḷige pariṇāmakāri). The author identifies the plant with the classical Sanskrit Nīla-nirguṇḍī — a vāta-pacifier used in Ayurveda for rheumatism, paralysis and chronic pain. Leaf, root and bark used.
+   > *As cited in: Nīla-nirguṇḍī — classical Ayurvedic standing (no specific text/verse cited)*

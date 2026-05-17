@@ -125,3 +125,6 @@ River banks, Coastal areas.
 4. [Details](Cultivation)(https://www.hort.purdue.edu/newcrop/duke_energy/Pongamia_pinnata.html)
 5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 357.**
    1. Honge seed oil applied on skin eruptions, rashes, and chronic skin diseases helps cure them. Mixing it with lemon juice and applying helps treat ringworm and fungal infections. 2. Honge bark ground into fine powder, mixed with water, applied on affected areas helps treat various skin ailments. 3. Honge seed oil mixed with lemon juice for ringworm. Combined bark decoction (100g each of multiple barks) with 50g turmeric, cumin, cloves and salt for chronic skin diseases.
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 459-460.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a renowned antitoxin (prasiddha nañju nivāraka). The author identifies the plant with the classical Sanskrit Karañja. Bark, leaf, fruit, seed and Karañja oil used. Skin diseases (eczema, dermatitis): Karañja oil applied externally; daily 2–3 weeks.
+   > *As cited in: Karañja / Nakta-māla — classical Ayurvedic standing (no specific text/verse cited)*

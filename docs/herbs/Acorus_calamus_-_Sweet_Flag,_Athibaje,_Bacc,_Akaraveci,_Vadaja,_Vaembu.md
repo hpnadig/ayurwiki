@@ -118,3 +118,6 @@ North temperate hemisphere, Tropical asia, Himalayas.
 
 8. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 59-61.
    Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.
+9. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 310-311.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for stammering in children (makkaḷa uggu mātige). The author identifies the plant with classical Sanskrit Vacā — central in Ayurveda as a brain-tonic for speech, intellect, and convulsion. Rhizome used.
+   > *As cited in: Vacā — classical Ayurvedic standing as Medhya-rasāyana (no specific text/verse cited)*

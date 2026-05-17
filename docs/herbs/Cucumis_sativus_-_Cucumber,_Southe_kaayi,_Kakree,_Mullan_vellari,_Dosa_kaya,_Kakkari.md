@@ -119,3 +119,6 @@ Tropical area, Sub tropical area
 7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 45, 75, 93.**
    Sown as intercropping on fertile cultivated land alongside other vegetable plants. In horticultural wonders, grafted with kusmanda by pasting stems with honey and ghee, tying together, and covering with cow dung — the united plant produces cucumber-sized fruits in ash-gourd proportions. Listed among vegetable plants receiving pig-bone fumigation during summer for enhanced production.
    > *As cited in: Vrksayurveda of Surapala, Verses 80, 159, 265-266; Sections 8, 14, 19*
+8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 380-381.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a diuretic (mūtrasisārakke). The author identifies the plant with classical Sanskrit Trapasā. Fruit, seed and leaf used. Diuretic / kidney cleansing: tender Muḷḷusote fruit eaten raw with rock-salt; 1 cup daily.
+   > *As cited in: Trapasā / Karkati — classical Ayurvedic standing (no specific text/verse cited)*

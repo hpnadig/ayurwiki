@@ -87,3 +87,5 @@ Well drained soil
 2. [Morphology](https://indiabiodiversity.org/species/show/250255)
 3. [detail](Cultivation)
 4. [of soil needed](Kind)(http://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=275273&isprofile=0&=)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 254.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a toxin reliever (nañju-nivāraka). All parts used individually. Toxin / inflammatory wounds: 1 ciḍi shoot ground, applied as external paste with cooled hen's coop-water; 1 hour daily, 4–5 days.

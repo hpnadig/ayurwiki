@@ -122,3 +122,5 @@ Lower himalayas, Tropical areas, Moisture areas, Dry soils
 3. [Cultivation](http://onfarming.com/articles/7188-cultivation-of-malabar-nut-herb-and-its-uses)
 4. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 72.**
    Known in Northeast Indian tribal medicine for bronchodilator and expectorant properties. Used to treat respiratory ailments including asthma, bronchitis, cough, and other respiratory disorders.
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 93-94.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for haemoptysis (rakta uguḷuvike — blood-spitting). The author describes Adusoge as a 'prāṇa-sasya' (vital plant) in Ayurveda. The fresh shoots, leaves and panchanga (whole plant) are used as a haemostatic and bronchial decongestant.

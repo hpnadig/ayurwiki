@@ -127,3 +127,6 @@ Moist deciduous forests, Scrub jungles, Forest margins, Shrublands, Grasslands, 
 5. [preparations](Ayurvedic)(https://easyayurveda.com/2017/12/28/balloon-vine-cardiospermum-halicacabum-karnasphota/)
 6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 259.**
    1. The root decoction of the plant is given to those with chronic cough for relief. 2. Root and leaf decoction when consumed helps cure blood disorders (Raktamoolavyadhi), bleeding piles (Pradara), gonorrhea-like conditions (Gonasthambhya). The decoction is also applied on wounds to prevent infectio. Root decoction for cough and snake bites; leaf poultice for joint pain; leaf juice as rectal instillation for piles.
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 344.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a quick remedy for ear pain (kivi-nōvige kṣipra pariṇāma-kāri). Leaf, flower, seed and whole plant used. Ear pain: leaf juice 2–3 drops instilled in the ear; daily for 1–2 days.
+   > *As cited in: Karṇa-sphoṭa — classical Ayurvedic standing (no specific text/verse cited)*

@@ -135,3 +135,6 @@ Tall grasslands, Meadows, Borders of forests and fields.
 7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 46, 90, 93.**
    Seeds sown for propagation; seedlings may also be planted. In horticultural wonders, stems of trapusa (cucumber) and kusmanda are pasted with honey and ghee, tied together with grass rope, covered with cow dung, and allowed to unite. When cut and grown, the resulting plant produces cucumber fruit in the size of kusmanda (ash gourd).
    > *As cited in: Vrksayurveda of Surapala, Verses 227, 265-267; Sections 8, 19*
+8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 340-341.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for sperm depletion / reproductive vigour (rētassina koratege). The author identifies the plant with the classical Sanskrit Kūṣmāṇḍa — central to Kūṣmāṇḍa-rasāyana and Brāhmī-related tonics. Fruit, seed, leaf, root all used.
+   > *As cited in: Kūṣmāṇḍa — classical Ayurvedic standing in Kūṣmāṇḍa-rasāyana (no specific text/verse cited)*

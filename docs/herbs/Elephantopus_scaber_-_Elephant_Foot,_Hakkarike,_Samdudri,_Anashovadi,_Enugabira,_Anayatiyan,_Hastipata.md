@@ -112,3 +112,5 @@ Occurs in grasslands, Wasteland, Roadsides, Along fields, Forest borders.
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Elephantopus+scaber)
 4. "Karnataka Medicinal Plants Volume-3" by Dr.M. R. Gurudeva, Page No.153, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 284-285.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for swellings of the body (dehadaṅgada bāvugaḷige). Root and leaf used. Inflammatory swelling: root + leaf paste applied as external lepa; 3 hours, refreshed daily 3–6 days.

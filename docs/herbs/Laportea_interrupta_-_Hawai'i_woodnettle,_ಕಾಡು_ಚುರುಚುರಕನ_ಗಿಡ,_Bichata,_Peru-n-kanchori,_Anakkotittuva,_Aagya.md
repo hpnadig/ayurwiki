@@ -79,3 +79,5 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/l/laportea-interrupta)
 4. [Cultivation]
 5. Indian Medicinal Plants by C.P.Khare
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 194-195.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for rakta-doṣa / blood ailments. Root, leaf and joint of the plant are used. Mouth ulcer / mouth bleeding: 1 ciḍi Gaṇḍu kuruci root, jaggery, in 1 cup water, boiled to ½ cup decoction; taken once daily for 2–3 days.

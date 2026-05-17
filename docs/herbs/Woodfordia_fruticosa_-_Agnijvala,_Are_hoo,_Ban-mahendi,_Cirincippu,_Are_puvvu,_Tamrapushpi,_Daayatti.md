@@ -117,3 +117,6 @@ Sunny places, Agricultural land, Open waste land, Degraded places.
 3. [Morphology](https://indiabiodiversity.org/species/show/228521)
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2013/01/17/dhataki-woodfordia-fruticosa-uses-dose-side-effects-ayurveda/)
 5. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Woodfordia+fruticosa)
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 96-97.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a haemostatic for any kind of bleeding (rakta-srāva taḍeyalu). The author notes its Ayurvedic standing as the fermentation-flower of the classical Āsava-Ariṣṭa preparations. The flower is the principal medicinal part.
+   > *As cited in: Āsava-Ariṣṭa fermentation flower — classical Ayurvedic preparations (no specific text/verse cited on the page)*

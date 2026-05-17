@@ -100,3 +100,5 @@ Thickets, Village groves.
 1. [Chemistry]
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Clerodendrum+infortunatum)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 232-233.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for ear-discharge in children (makkaḷa kivi suriyige). Root, leaf and flower used. Ear discharge: <needs-edit>

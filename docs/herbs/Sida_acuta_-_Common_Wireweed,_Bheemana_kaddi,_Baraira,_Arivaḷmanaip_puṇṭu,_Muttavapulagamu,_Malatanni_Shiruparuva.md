@@ -95,3 +95,6 @@ On Roadsides, On Wastelands.
 5. [names](Local)(http://www.flowersofindia.net/catalog/slides/Common%20Wireweed.html)
 6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 277.**
    1. Consuming the root or leaf decoction helps repel insects and parasites from the body. 2. Applying root paste on wounds and sore areas helps promote healing. 3. Consuming the root decoction helps relieve body fatigue and enhances physical strength and vitality. It has nerve-tonic properties (Naapu.
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 360.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a renowned remedy for recurrent fevers (āvarta jvara). The author identifies the plant with the classical Sanskrit Balā — the four-Bala group (Bala, Atibala, Mahābala, Nāgabala) used in Ayurveda as a major nervine tonic, anti-inflammatory and vāta-pacifier. Whole plant and root used.
+   > *As cited in: Balā — classical Ayurvedic standing in the four-Bala group (no specific text/verse cited)*

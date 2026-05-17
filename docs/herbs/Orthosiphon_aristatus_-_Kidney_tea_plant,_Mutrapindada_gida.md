@@ -80,3 +80,5 @@ White or Purple
 1. [Chemistry]
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 288
 3. [Cultivation]
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 125.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as the 'Sañjīvinī' (life-giver) for kidney diseases. Used for renal lithiasis, urinary infection, and post-urinary-tract-infection convalescence. Root, leaf and leaves are used. <needs-edit>

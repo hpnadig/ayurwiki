@@ -131,3 +131,5 @@ Forest and thickets.
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2017/03/29/ishwari-aristolochia-indica-indian-birthwort/)
 5. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Aristolochia+tagala)
 6. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.142, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 99-100.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a 'rāmabāṇa' (panacea) for poisons — particularly snake-bite, scorpion-sting and small-animal bites. The book groups it with sarpagandha-class anti-venom plants. Leaf juice is also used internally for intestinal worms.

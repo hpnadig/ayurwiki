@@ -114,3 +114,6 @@ Found throughout the drier parts of India, Often gregarious in forests, Open gra
 5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 28, 30, 39.**
    Planting seven Palasa trees grants passage to Brahmaloka where one enjoys divine pleasure. Propagated by both seed and stem methods. Listed among restricted campus trees that should not be planted in residential compounds as they are not considered conducive to domestic comfort.
    > *As cited in: Vrksayurveda of Surapala, Verses 1-2; Sections 2, 3, 6*
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 297-298.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for intestinal worms / abdominal-worm disease (hoṭṭe huḷa rōga). The author identifies the plant with classical Sanskrit Palāśa / Kiṁśuka — central in Ayurveda for worm-control. Bark, leaf, flower, seed, gum (kamarkas) all used.
+   > *As cited in: Palāśa / Kiṁśuka — classical Ayurvedic standing as worm-killer and skin remedy (no specific text/verse cited)*

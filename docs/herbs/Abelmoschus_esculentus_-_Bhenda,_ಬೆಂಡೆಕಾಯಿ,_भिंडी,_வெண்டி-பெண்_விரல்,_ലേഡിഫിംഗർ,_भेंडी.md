@@ -129,3 +129,5 @@ Tropical area, Sub tropical area
 7. [to grow](Season)(http://agropedia.iitk.ac.in/content/cultivation-okra-abelmoschus-esculentus)
 8. Wikimedia commons
 9. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.920, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+10. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 341-342.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a vigour-tonic (vīrya-vardhakavāgi). Mature pods are an everyday vegetable; immature pods and seeds are used medicinally. Especially indicated for piles, throat trouble, and as a male reproductive tonic.

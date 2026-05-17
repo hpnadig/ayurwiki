@@ -73,3 +73,5 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/h/humboldtia-brunonis)
 4. [ "Cultivation"]
 5. Indian Medicinal Plants by C.P.Khare
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 217-218.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for chronic leucorrhoea / discharges (dīrgha-kālīna pradara). The author calls it the 'Asoka of the Sahyadri'. Bark, leaf, flower are used. Chronic leucorrhoea: 25 g of Ciṭṭuga bark in 3 cups water reduced to ¼ cup decoction — taken once daily; combined with 4–6 day external lepa from leaves and shoots.

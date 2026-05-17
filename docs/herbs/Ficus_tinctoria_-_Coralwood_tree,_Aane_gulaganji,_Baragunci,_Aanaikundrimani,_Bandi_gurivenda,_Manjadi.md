@@ -103,3 +103,5 @@ Tropical area, Moist valleys, On rocks, Thickets.
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Ficus+tinctoria)
 4. Indian Medicinal Plants by C.P.Khare
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 193-194.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a reliever of chronic abdominal pain (dīrghakālīna hoṭṭe-nōvu). Root, bark, leaf, fruit are used. Chronic abdominal pain: 4 leaves of Gañjigōḷi crushed, soaked in 1 ciḍi water in a vessel overnight; the next day boiled to 1 cup decoction; given 3 days.

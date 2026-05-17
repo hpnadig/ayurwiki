@@ -107,3 +107,5 @@ Tropical area.
 3. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Barleria+prionitis)
 4. [composition](Chemical)
 5. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/b/barleria-prionitis)
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 88-89.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for limb swellings (aṅgāṅga bāvugaḷu), useful for general body-detox and lymphatic swellings. Total-body detox: equal parts root and leaf 20 g + 20 g boiled in 6 cups to 1 cup of decoction, strained, ½ pinch of (auxiliary) powder added; taken twice daily for 3–6 days; leaf paste in water also applied externally.

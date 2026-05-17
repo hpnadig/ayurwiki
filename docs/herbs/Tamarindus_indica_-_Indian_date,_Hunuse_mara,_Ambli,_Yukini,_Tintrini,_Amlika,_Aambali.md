@@ -131,3 +131,6 @@ Stream and riverbanks
 4. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 93.**
    In horticultural wonders, the tamarind tree can be converted from its normal tree form into a climber by treating it with a recipe of Triphala powder, sesame, barley, and masa mixed in water, followed by fumigation with turmeric powder. The transformed plant continues flowering regularly.
    > *As cited in: Vrksayurveda of Surapala, Verse 241; Section 19*
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 446-447.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a fatigue-reliever (āyāsa parihāraka). The author identifies the plant with the classical Sanskrit Āmlikā / Tintiḍī. Fruit pulp, leaf, bark, seed used. Heat-stroke / fatigue: tamarind juice with rock-sugar and water, taken cool 1–2–3 times daily.
+   > *As cited in: Āmlikā / Tintiḍī — classical Ayurvedic standing (no specific text/verse cited)*

@@ -74,3 +74,5 @@ Fruiting season is October to February
 1. [Chemistry]
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 340
 3. [Cultivation]
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 65.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: the plant is presented as a remedy for joint wear (sandhi-saveta). Leaves and root are used in a thin soup (sāru) for stiff, painful joints, particularly in older patients. The Hindi/Sanskrit synonym Balābheda is recorded.

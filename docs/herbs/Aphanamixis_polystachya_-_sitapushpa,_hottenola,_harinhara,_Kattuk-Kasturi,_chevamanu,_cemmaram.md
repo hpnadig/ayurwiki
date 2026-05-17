@@ -112,3 +112,6 @@ Tropical area, Sub tropical area.
 2. [DESCRIPTION](BOTANIC)(http://keralaplants.in/)
 3. [composition](Chemical)(http://gbpihedenvis.nic.in/PDFs/Glossary_Medicinal_Plants_Springer.pdf)
 4. [Uses](https://pdfs.semanticscholar.org/a00e/0181cf6ba84d5218f1d70421a3e5f024ac0a.pdf)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 392-393.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a blood-purifier and body-mass reducer (rakta-prasādaka, śarīra bhāra nivāraka). The author identifies the plant with the classical Sanskrit Rohitaka — used in Ayurveda for spleen and liver disorders, blood-purification. Bark and root used.
+   > *As cited in: Rohitaka — classical Ayurvedic standing (no specific text/verse cited)*

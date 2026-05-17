@@ -107,3 +107,5 @@ Plants are adapted to growing in areas of seasonal drought in monsoonal forests
 
 1. The Ayuredic Pharmacopoeia of India Part-1, Volume-5, Page no-14
 2. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Curcuma+amada)
+3. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 68.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: a 'mango-scented turmeric' (Āmragandhiharidrā) presented as a skin-health improver. The fresh rhizome is grated into chutney and pickle as a regular summer food, and is ground and applied locally on chronic skin inflammations and bruises. The author notes a generic kapha-pacifying and cooling action.

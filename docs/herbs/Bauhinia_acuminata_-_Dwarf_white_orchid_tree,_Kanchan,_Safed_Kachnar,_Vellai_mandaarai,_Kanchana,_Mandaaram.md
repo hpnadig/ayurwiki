@@ -111,3 +111,6 @@ Dry dipterocarp forest in monsoon regions, Well-drained and sunny places, Dry di
 4. [of soil needed](Kind)(https://www.indiaplants.com/plant-details.php?x=URDhiAYeJlM=)
 5. [Ecosystem/Climate](Required)(https://pfaf.org/user/Plant.aspx?LatinName=Bauhinia+purpurea)
 6. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.803, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 251-252.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a counter to chronic skin-breakouts (kanna-siḍita, payadake-prati-vidhi). The author identifies the plant with the white-flowered Kāñcanāra of classical Ayurveda. Leaf, flower, fruit, root and bark used.
+   > *As cited in: Kāñcanāra (white form) — classical Ayurvedic standing for kapha-related swellings and skin disorders (no specific text/verse cited)*

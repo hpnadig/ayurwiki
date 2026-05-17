@@ -108,3 +108,6 @@ Tropical area, Subtropical area, Drained sandy-loam soil.
 3. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Phyllanthus+amarus)
 4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 523.**
    The whole plant is extensively used as a hepatoprotective agent, particularly for jaundice and hepatitis B. It has proven antiviral activity against Hepatitis B virus and shows contraceptive, antifertility, hypoglycemic, and hypotensive effects. It is also used for treating kidney stones, urinary di. Whole plant decoction taken twice daily for jaundice. Fresh plant juice 10-20 ml for liver disorders. Plant powder used in formulations for kidney stones and urinary problems.
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 329-330.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a 'boon for children's growth' (makkaḷa beḷavaṇige). The author identifies the plant with the classical Sanskrit Bhūmyāmalakī — a major Ayurvedic hepato-protective and viral hepatitis remedy. Whole plant used.
+   > *As cited in: Bhūmyāmalakī — classical Ayurvedic standing as hepato-protective (no specific text/verse cited)*

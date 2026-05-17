@@ -118,3 +118,5 @@ Tropical area
 5. Joural paper of Chemical and Pharmaceutical bulletin.
 6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 101.**
    Used for treating diarrhea, dysentery, and diabetes. Has anti-diarrhoeal, antispasmodic, and hypoglycemic properties. The fruit has antispasmodic activity and is used in Diarex formulation. Bark is used for treating stomach disorders and intestinal worms.
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 128-129.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for nail-bed disorders (uguru rōgagaḷa nivāraka) — ingrowing nails, fungal nail infections, and nail-bed pain. Leaf, flower, fruit, bark, root and stem are all used individually.

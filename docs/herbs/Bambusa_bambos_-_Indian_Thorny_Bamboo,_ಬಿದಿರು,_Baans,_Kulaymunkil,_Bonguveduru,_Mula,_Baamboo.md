@@ -118,3 +118,6 @@ Moist deciduous forest, Mixed dry deciduous forest, Semi-evergreen forest, Along
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 32, 54.**
    Classified as Anupa-adapted (marshy/riverine region). Also recommended for directional planting in the eastern direction near residences.
    > *As cited in: Vrksayurveda of Surapala, Sections 5, 8*
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 458-459.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for scalp disease (tale carmada vyādhi). Tender shoot, leaf, root used. Bamboo manna (vaṁślocana) is the classical Ayurvedic key product. Mūtra-rōga (urinary complaints): tender shoot or root decoction 3 cups, hot.
+   > *As cited in: Vaṁślocana — classical Ayurvedic standing (no specific text/verse cited)*

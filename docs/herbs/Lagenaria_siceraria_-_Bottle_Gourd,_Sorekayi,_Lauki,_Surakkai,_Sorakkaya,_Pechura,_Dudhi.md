@@ -105,3 +105,6 @@ A plant of the moist, lowland tropics and subtropics. It can be grown at elevati
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Lagenaria+siceraria)
 4. Indian Medicinal Plants by C.P.Khare
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 442-443.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a food for the mind (āhāra manassige). The author identifies the plant with classical Sanskrit Ālābu. Fruit used as food and as cooling drink. Cooling drink: fresh bottle-gourd juice 1 cup with rock-sugar, daily morning.
+   > *As cited in: Ālābu / Kaṭu-tumbī — classical Ayurvedic standing (no specific text/verse cited)*

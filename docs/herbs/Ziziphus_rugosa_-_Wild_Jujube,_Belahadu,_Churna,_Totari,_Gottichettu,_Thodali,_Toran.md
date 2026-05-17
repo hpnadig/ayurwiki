@@ -109,3 +109,5 @@ Riverbanks, Shorea forest, Sparse forests, Thickets on hills, Sunny places on mo
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Ziziphus+rugosa)
 5. Indian Medicinal Plants by C.P.Khare
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.155, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 180-181.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for snake-bite wounds (nāgina huṇṇige). The author groups it with the classical Badara (Ziziphus) tree-class. Leaf, fruit, root and bark are used individually. Snake-bite wound: <needs-edit> (paste / wash from leaf-and-bark).

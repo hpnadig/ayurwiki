@@ -114,3 +114,5 @@ Meadows, Waste places, Along roadsides, Forest edges, Lowland area.
 2. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Eryngium+foetidum)
 3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 191.**
    The plant paste is used externally to treat joint inflammation and arthritis. A decoction of the root and leaves combined with other herbs is used to reduce fever and treat digestive disorders. The plant has demonstrated anti-inflammatory and analgesic properties in pharmacological studies. Half teaspoon of paste mixed with appropriate vehicle; root and leaf decoction taken 1 part with honey, 1 part daily for 6 days for recovery.
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 313.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for acid stomach (hoṭṭe huḷiya tondarege). Leaf and root used. Acid stomach: dried-leaf decoction in 1 cup of water, taken in the morning empty stomach; daily for 1 week.

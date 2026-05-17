@@ -70,3 +70,5 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 2. [Morphology]
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 167-168.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as an easy treatment for varṇa-meha (skin-discolouring diabetic complaint). Root, leaf, stem, flower and seed are used. Varṇa-meha: 15 g fresh root in 1 cup of fresh hen's coop-water, with ½ spoon Trigandha (triphala-like aromatic), reduced to 1 cup decoction, taken in the evening.

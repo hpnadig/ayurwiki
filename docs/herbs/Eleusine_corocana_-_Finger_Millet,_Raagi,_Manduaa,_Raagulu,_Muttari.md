@@ -112,3 +112,5 @@ Savannah land, Grassland.
 2. [Morphology]
 3. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Eleusine+coracana)
 4. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.1117, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 388.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a renowned grain in regional cuisine and medicinal uses (upayōgagaḷalli hesarāda). Particularly noted for its calcium content for bone-strengthening, post-pregnancy nutritional support and child nutrition.

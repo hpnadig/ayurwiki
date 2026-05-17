@@ -115,3 +115,5 @@ Open places, Swamp forests, Along rivers, Along streams.
 4. Indian Medicinal Plants by C.P.Khare
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.76, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
 6. "Karnataka Medicinal Plants Volume - 3" by Dr.M. R. Gurudeva, Page No.265, Published by Divyachandra Prakashana, #45, Paapannana Tota, 1st Main road, Basaveshwara Nagara, Bengaluru.
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 137-138.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for liver problems ('Liver' samasyegalige), including hepatic congestion and jaundice-class swelling. Leaf, bark, fruit, ripe fruit and latex are used. Hepatic swelling: 2 finger-length pieces of bark crushed, in cold rice-water, applied externally as a paste; refreshed every 3 days for 1–2 weeks.

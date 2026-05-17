@@ -91,3 +91,5 @@ Woodland margins, Mixed deciduous and evergreen forests.
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
 5. [names](Local)(https://www.flowersofindia.net/catalog/slides/Spicate%20Eugenia.html)
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 229-230.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for pitta-related vomiting (pitta-rōga). Bark, leaf and ripe fruit are used; the dry bark powder is a common remedy. Pitta-vomiting: 25 g of dry-bark powder, ½ spoon ground, in 3 cups water reduced to ¼ cup decoction; taken 2–3 times for 1–2–3 days.

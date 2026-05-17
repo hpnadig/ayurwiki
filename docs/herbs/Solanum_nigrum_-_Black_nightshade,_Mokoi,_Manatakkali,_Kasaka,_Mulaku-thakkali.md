@@ -111,3 +111,6 @@ Cultivated land, Heaps of earth, Wasteland areas.
 1. [Constituents "]("chemical)(http://www.stuartxchange.org/Lubi-lubi.html)
 2. [description"]("plant)(http://www.luontoportti.com/suomi/en/kukkakasvit/black-nightshade)
 3. [details"]("cultivation)(https://en.wikipedia.org/wiki/Solanum_nigrum)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 199-200.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a near-complete kitchen-garden remedy. The author identifies the plant with Sanskrit Kākamācī used in Ayurveda for jvara, nōvu, ākruti, kāsa, śvāsa, prameha, hṛdaya-rōga, puṣṭi (nutrition), as well as women's complaints.
+   > *As cited in: Kākamācī — classical Ayurvedic standing (no specific text/verse cited on the page)*

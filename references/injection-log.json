@@ -1,938 +1,2712 @@
 [
   {
-    "file": "docs/herbs/Ocimum_tenuiflorum_-_Tulsi_plant.md",
-    "plant": "Tulasi",
-    "latin_name": "Ocimum sanctum",
+    "file": "docs/herbs/Sida_mysorensis_-_Mysore_Fanpetals,_Antututti.md",
+    "plant": "Antutuṭṭi (ಅಂಟುತುತ್ತಿ)",
+    "latin_name": "Sida mysorensis",
     "references_added": 1,
     "sources_used": [
-      "Vrksayurveda of Surapala"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
-    "file": "docs/herbs/Aegle_marmelos_-_Bilva.md",
-    "plant": "Bilva",
-    "latin_name": "Aegle marmelos",
+    "file": "docs/herbs/Spondias_pinnata_-_Wild_mango.md",
+    "plant": "Ambaṭemara (ಅಂಬಟೆಮರ)",
+    "latin_name": "Spondias pinnata",
     "references_added": 1,
     "sources_used": [
-      "Vrksayurveda of Surapala"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Curcuma_amada_-_Mango-ginger,_Ambarasini,_Aamaa-haldi,_Mankayyinji,_Mamidi_Allamu,_Mangayinji.md",
+    "plant": "Āmbe haḷadi gida (ಆಂಬೆಹಳದಿ ಗಿಡ / ಮಾವುಮಂಜಲ್)",
+    "latin_name": "Curcuma amada",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
     "file": null,
-    "plant": "Asvattha",
-    "latin_name": "Ficus religiosa",
+    "plant": "Akka taṅgiyara gida (ಅಕ್ಕ ತಂಗಿಯರ ಗಿಡ)",
+    "latin_name": "Exacum tetragonum",
     "references_added": 0,
     "sources_used": [],
     "status": "no_match"
   },
   {
-    "file": "docs/herbs/Phyllanthus_emblica_-_Emblic,_Amalaki.md",
-    "plant": "Dhatri",
-    "latin_name": "Emblica officinalis",
+    "file": "docs/herbs/Pothos_scandens_-_Climbing_aroid,_ಆಡ್ಕೆ_ಬೀಳುಬಳ್ಳಿ,_Anapparuva,_Bendarli.md",
+    "plant": "Akke baḷḷi (ಅಕ್ಕೆ ಬಳ್ಳಿ)",
+    "latin_name": "Pothos scandens",
     "references_added": 1,
     "sources_used": [
-      "Vrksayurveda of Surapala"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Zingiber_zerumbet.md",
+    "plant": "Agada gunti (ಅಗದ ಗುಂತಿ)",
+    "latin_name": "Zerumbet zerumbet (now Zingiber zerumbet)",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cyclea_peltata_-_Indian_moon_seed,_Padaavala,_Pata,_Padathali,_Paka.md",
+    "plant": "Agalu śuṇṭhi baḷḷi (ಅಗಲು ಶುಂಠಿ ಬಳ್ಳಿ)",
+    "latin_name": "Cyclea peltata",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Naravelia_zeylanica_-_Dhanavalli,_Nintavalli,_Kaarupippala_tivva,_Karuppakkoti.md",
+    "plant": "Agni baḷḷi (ಅಗ್ನಿ ಬಳ್ಳಿ)",
+    "latin_name": "Naravelia zeylanica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
     "file": null,
-    "plant": "Vata",
-    "latin_name": "Ficus benghalensis",
-    "references_added": 0,
-    "sources_used": [],
-    "status": "no_match"
-  },
-  {
-    "file": "docs/herbs/Azadiracta_indica_-_Nimba,_Neem.md",
-    "plant": "Nimba",
-    "latin_name": "Azadirachta indica",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Ficus_lacor.md",
-    "plant": "Plaksa",
-    "latin_name": "Ficus lacor",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Mangifera_Indica_-_Mango.md",
-    "plant": "Amra",
-    "latin_name": "Mangifera indica",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Butea_monosperma_-_Palāśaḥ.md",
-    "plant": "Palasa",
-    "latin_name": "Butea monosperma",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": null,
-    "plant": "Udumbara",
-    "latin_name": "Ficus glomerata",
-    "references_added": 0,
-    "sources_used": [],
-    "status": "no_match"
-  },
-  {
-    "file": "docs/herbs/Punica_granatum_-_Dadima.md",
-    "plant": "Dadima",
-    "latin_name": "Punica granatum",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Musa_paradisiaca_-_Rambha.md",
-    "plant": "Kadali",
-    "latin_name": "Musa paradisiaca",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Artocarpus_heterophyllus_-_Panasa,_Jackfruit.md",
-    "plant": "Panasa",
-    "latin_name": "Artocarpus heterophyllus",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Artocarpus_lacucha.md",
-    "plant": "Lakuca",
-    "latin_name": "Artocarpus lakoocha",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Cocos_nucifera_-_Coconut_tree.md",
-    "plant": "Narikela",
-    "latin_name": "Cocos nucifera",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Moringa_oleifera_-_Drumstick.md",
-    "plant": "Sobhanjana",
-    "latin_name": "Moringa oleifera",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Alstonia_scholaris_-_Saptaparna,_Doddapala.md",
-    "plant": "Saptaparna",
-    "latin_name": "Alstonia scholaris",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Nyctanthes_arbor-tristis_-_Parijata.md",
-    "plant": "Saptala",
-    "latin_name": "Nyctanthes arbor-tristis",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Prosopis_cineraria_-_Indian_mesquite.md",
-    "plant": "Sami",
-    "latin_name": "Prosopis cineraria",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": null,
-    "plant": "Karira",
-    "latin_name": "Capparis decidua",
-    "references_added": 0,
-    "sources_used": [],
-    "status": "no_match"
-  },
-  {
-    "file": "docs/herbs/Ziziphus_nummularia_-_Balakapriya.md",
-    "plant": "Kurkandhu",
-    "latin_name": "Zizyphus nummularia",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Mimusops_elengi_-_Bakula,_Ranjal.md",
-    "plant": "Bakula",
-    "latin_name": "Mimusops elengi",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Saraca_asoca_-_Ashoka,_Ashoka_tree.md",
-    "plant": "Asoka",
-    "latin_name": "Saraca asoca",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Borassus_flabellifer_-_Talah.md",
-    "plant": "Tala",
-    "latin_name": "Borassus flabellifer",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Bambusa_bambos.md",
-    "plant": "Vamsa",
-    "latin_name": "Bambusa arundinacea",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Phoenix_sylvestris_-_Kharjura.md",
-    "plant": "Kharjura",
-    "latin_name": "Phoenix sylvestris",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": null,
-    "plant": "Puga",
+    "plant": "Aḍake (ಅಡಕೆ)",
     "latin_name": "Areca catechu",
     "references_added": 0,
     "sources_used": [],
     "status": "no_match"
   },
   {
-    "file": "docs/herbs/Vitis_vinifera_-_Draksha,_Grape.md",
-    "plant": "Draksa",
-    "latin_name": "Vitis vinifera",
+    "file": "docs/herbs/Randia_uliginosa.md",
+    "plant": "Aḍike Kāḍe Mara (ಅಡಿಕೆ ಕಾಡೆ ಮರ)",
+    "latin_name": "Tamilnadia uliginosa",
     "references_added": 1,
     "sources_used": [
-      "Vrksayurveda of Surapala"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Terminalia_chebula_-_Myrobalan,_Alalekai,_Harre,_Kadukkai,_Karaka,_Nerinjil,_Sarate.md",
+    "plant": "Aṇile kāyi mara (ಅಣಿಲೆ ಕಾಯಿ ಮರ)",
+    "latin_name": "Terminalia chebula",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
     "file": null,
-    "plant": "Campaka",
-    "latin_name": "Michelia champaca",
+    "plant": "Atti mara (ಅತ್ತಿಮರ)",
+    "latin_name": "Ficus racemosa",
     "references_added": 0,
     "sources_used": [],
     "status": "no_match"
   },
   {
-    "file": "docs/herbs/Hiptage_benghalensis_-_Madhavi_lata.md",
-    "plant": "Atimuktaka-Madhavi",
-    "latin_name": "Hiptage benghalensis",
+    "file": "docs/herbs/Ananas_comosus_-_Fineapple,_Aananas_Hannu,_Ananas,_Aanahi_phalam,_Ananas_Pundu.md",
+    "plant": "Anānasa gida (ಅನಾನಸ ಗಿಡ)",
+    "latin_name": "Ananas comosus",
     "references_added": 1,
     "sources_used": [
-      "Vrksayurveda of Surapala"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
-    "file": "docs/herbs/Callicarpa_macrophylla.md",
-    "plant": "Priyangu",
-    "latin_name": "Callicarpa macrophylla",
+    "file": "docs/herbs/Crossandra_infundibuliformis_-_Crossandra,_ಆಬ್ಬೊಲಿಗೆ,_Priyadarsha,_Cem-payirava-p-puntu,_Kanak-ambaramu,_Priyadarshini,_Aboli.md",
+    "plant": "Abbalige gida (ಅಬ್ಬಲಿಗೆ ಗಿಡ)",
+    "latin_name": "Crossandra infundibuliformis",
     "references_added": 1,
     "sources_used": [
-      "Vrksayurveda of Surapala"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
-    "file": "docs/herbs/Citrus_limon_-_Bijapuraka,_Jambira.md",
-    "plant": "Bijapuraka",
-    "latin_name": "Citrus limon",
+    "file": "docs/herbs/Tinospora_cordifolia_-_Heart-leaved_moonseed,_ಅಮರ,_Giloe,_Seendal,_Thippateega,_Nerinjil,_Gulvel.md",
+    "plant": "Amruta baḷḷi (ಅಮೃತ ಬಳ್ಳಿ)",
+    "latin_name": "Tinospora cordifolia",
     "references_added": 1,
     "sources_used": [
-      "Vrksayurveda of Surapala"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
-    "file": "docs/herbs/Citrus_medica_linn_-_Maatulunga.md",
-    "plant": "Matulunga",
-    "latin_name": "Citrus medica",
+    "file": "docs/herbs/Ixora_coccinea_-_Ixora,_Rugmini,_Vedchi,_Chethi.md",
+    "plant": "Arasina kēpaḷa (ಅರಸಿನ ಕೇಪಳ)",
+    "latin_name": "Ixora coccinea var. lutea",
     "references_added": 1,
     "sources_used": [
-      "Vrksayurveda of Surapala"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
-    "file": "docs/herbs/Citrus_reticulata_-_Naaranga.md",
-    "plant": "Narangi",
-    "latin_name": "Citrus reticulata",
+    "file": "docs/herbs/Barleria_prionitis_-_Common_yellow_nail_dye,_ಹಳದಿ_ಗೋರಟೆ,_Jhinti,_Cem-mulli,_Gorantachettu,_Chemmulli,_Kolita.md",
+    "plant": "Arasina gentage (ಅರಸಿನ ಗೆಂಟಗೆ)",
+    "latin_name": "Barleria prionitis",
     "references_added": 1,
     "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Benincasa_hispida_-_Kushmanda,_Winter_melon.md",
-    "plant": "Kusmanda",
-    "latin_name": "Benincasa hispida",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Rosa_centifolia.md",
-    "plant": "Satapatrika",
-    "latin_name": "Rosa centifolia",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Cucumis_sativus_-_Cucumber,_Kantakilata.md",
-    "plant": "Trapusa",
-    "latin_name": "Cucumis sativus",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Crocus_sativus_-_Kesara.md",
-    "plant": "Kunkuma-Kesara",
-    "latin_name": "Crocus sativus",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Origanum_majorana_-_Ajanmasurabhi,_Majorana.md",
-    "plant": "Maruvaka",
-    "latin_name": "Origanum majorana",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Curcuma_longa_-_Haridra.md",
-    "plant": "Haridra",
-    "latin_name": "Curcuma longa",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Embelia_ribes_-_Vidanga.md",
-    "plant": "Vidanga",
-    "latin_name": "Embelia ribes",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Momordica_charantia_-_Karavellaka,_Karabellam.md",
-    "plant": "Karavellaka",
-    "latin_name": "Momordica charantia",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Albizia_lebbeck_-_Shirisha.md",
-    "plant": "Sirisa",
-    "latin_name": "Albizia lebbeck",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Carissa_carandas.md",
-    "plant": "Karmaranga",
-    "latin_name": "Carissa carandas",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Grewia_asiatica.md",
-    "plant": "Parijata",
-    "latin_name": "Grewia asiatica",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Sesamum_indicum_-_Sesame,_Snehaphala.md",
-    "plant": "Tila",
-    "latin_name": "Sesamum indicum",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Trichosanthes_dioica_-_Patola.md",
-    "plant": "Patola",
-    "latin_name": "Trichosanthes dioica",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
     "file": null,
-    "plant": "Gollavartaka",
+    "plant": "Aralimara (ಅರಳಿ ಮರ)",
+    "latin_name": "Ficus religiosa",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Saraca_asoca_-_Ashoka_tree,_Achenge,_Ashok,_Anagam,_Asokamu,_Asokam.md",
+    "plant": "Aśōka (ಅಶೋಕ)",
+    "latin_name": "Saraca asoca",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Justicia_Adhatoda_-_Malabar_nut,_Adusoge,_Vasika,_Adadorai,_Adasaramu,_Atalotakam.md",
+    "plant": "Āḍu sōge (ಆಡು ಸೋಗೆ)",
+    "latin_name": "Justicia adhatoda",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Justicia_adhatoda_-_Malabar_nut,_Aadu_muttada_gida,_Adusa,_Aadaathodai,_Addasaramu,_Adel-odagam,_Adulasa.md",
+    "plant": "Āḍu sōge (ಆಡು ಸೋಗೆ)",
+    "latin_name": "Justicia adhatoda",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cassia_alata_-_Ringworm_shrub,_Dodda_chagache,_Dad_mardan,_Simaiyagatti,_Metta_taamara.md",
+    "plant": "Āne tagaṭe gida (ಆನೆ ತಗಟೆ ಗಿಡ)",
+    "latin_name": "Senna alata",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Oroxylum_indicum_-_Broken_Bones_Tree,_Tattuna,_Bhut-vriksha,_Cori-konnai,_Pampena,_Palaqapayyani.md",
+    "plant": "Āne muṅgu (ಆನೆಮುಂಗು)",
+    "latin_name": "Oroxylum indicum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Woodfordia_fruticosa_-_Agnijvala,_Are_hoo,_Ban-mahendi,_Cirincippu,_Are_puvvu,_Tamrapushpi,_Daayatti.md",
+    "plant": "Ārē hūvu (ಆರೇಹೂವು)",
+    "latin_name": "Woodfordia fruticosa",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Emilia_sonchifolia_-_Purple_Sow_Thistle,_Elikivi_gida,_Hirankuri,_Muel-schevy,_Muel-schevi.md",
+    "plant": "Ilikivi gida (ಇಲಿಕಿವಿ ಗಿಡ)",
+    "latin_name": "Emilia sonchifolia",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Aristolochia_indica_-_Indian_birthwort,_ಗೋಪಾಲಪುಟ್ಟಿ_ತೊಟ್ಟಲು,_Isharmul,_Thazhaisurulikodi,_Ishweraveru,_Garudakkodi,_Sapasan.md",
+    "plant": "Īśvara baḷḷi (ಈಶ್ವರಬಳ್ಳಿ)",
+    "latin_name": "Aristolochia indica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Momordica_charantia_-_Bitter_gourd,_Haagalakaayi,_Kathilla,_Iraca-valli,_Kakara.md",
+    "plant": "Uddu hāgala baḷḷi (ಉದ್ದು ಹಾಗಲ ಬಳ್ಳಿ)",
+    "latin_name": "Momordica charantia",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Macaranga_peltata_-_Batla_chandrike,_Vattakanni,_Boddi,_Uppila.md",
+    "plant": "Uppaḷike mara (ಉಪ್ಪಳಿಕ ಮರ)",
+    "latin_name": "Macaranga peltata",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Blepharis_maderaspatensis_-_Creeping_blepharis,_ಕೂಡಲಿ_ಸೊಪ್ಪು,_Dudhiya_choti,_Netirapundu,_Anthrinta-pullu,_Elumbotti,_Madrashi_kate_maka.md",
+    "plant": "Uḷukina baḷḷi (ಉಳುಕಿನ ಬಳ್ಳಿ)",
+    "latin_name": "Blepharis maderaspatensis",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Elubu sandhi mara (ಎಲುಬು ಸಂಧಿಮರ)",
+    "latin_name": "Litsea glutinosa",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Oḍḍu basale soppu (ಒಡ್ಡು ಬಸಳೆ ಸೊಪ್ಪು)",
+    "latin_name": "Drymaria cordata subsp. diandra",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Desmodium_gangeticum_-_Sal_leaved_desmodium,_Murelehonne,_Chirpat,_Pulladi,_Getanaramu,_Orila.md",
+    "plant": "Ondele honne (ಒಂದೆಲೆ ಹೊನ್ನೆ)",
+    "latin_name": "Desmodium gangeticum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Kanḍaḍi baḷḷi (ಕಂದಡಿ ಬಳ್ಳಿ)",
+    "latin_name": "Rhaphidophora pertusa",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Kattisōge (ಕತ್ತಿಸೋಗೆ)",
+    "latin_name": "Impatiens flaccida",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Kanaka campaka (ಕನಕ ಚಂಪಕ)",
+    "latin_name": "Cananga odorata",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Cynodon_dactylon_-_Bermuda_grass,_Ambate,_Dhub,_Rugam_pullu,_Garika_gaddi,_Belicaraga.md",
+    "plant": "Kappu garike (ಕಪ್ಪು ಗರಿಕೆ)",
+    "latin_name": "Cynodon dactylon",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Vitex_trifolia_-_Three-Leaved_Chaste_Tree,_Karinochi,_Nichinda,_Karunochi,_Chiruvavil,_Chara-nosi.md",
+    "plant": "Karpūradanesi (ಕರ್ಪೂರದನೆಸ್ಸಿ)",
+    "latin_name": "Vitex trifolia",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cinnamomum_camphora_-_Camphor_tree,_Karpoora,_Kapur,_Pachai_Karpooram,_Candramu,_Kutakkarpuram.md",
+    "plant": "Karpūra mara (ಕರ್ಪೂರ ಮರ)",
+    "latin_name": "Cinnamomum camphora",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Peperomia_pellucida_-_Shiny_Bush,_Mashitandu_chedi.md",
+    "plant": "Kappe meṇasu (ಕಪ್ಪೆ ಮೆಣಸು)",
+    "latin_name": "Peperomia pellucida",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cynarospermum_asperrimum_-_Hill_blepharis,_ಎಲು_ಕೂಟ್ಟಿ,_Akada.md",
+    "plant": "Karalu baḷḷi (ಕರಲು ಬಳ್ಳಿ)",
+    "latin_name": "Cynarospermum asperrimum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Sesamum_indicum_-_Gingelly,_Achhellu,_Jungli_Til,_Caralam,_Gubbulu,_Karuellu.md",
+    "plant": "Kari eḷḷu (ಕರಿಎಳ್ಳು)",
+    "latin_name": "Sesamum indicum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Ocimum_tenuiflorum_-_Holy_Basil,_Krishna_Tulasi,_Tulsi,_Tolasi,_Tulasi.md",
+    "plant": "Kari tuḷasi (ಕರಿತುಳಸಿ ಗಿಡ)",
+    "latin_name": "Ocimum tenuiflorum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Murraya_koenigii_-_Curry_Leaf,_Gandhabevu,_Kari_patta,_Karivepillai,_Karepaku,_Kareapela.md",
+    "plant": "Karibēvu (ಕರಿಬೇವು)",
+    "latin_name": "Murraya koenigii",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Piper_nigrum_-_Black_pepper,_Eddemunchi,_Chocamirch,_Aguttam,_Maarichamu,_Cattu-molagoi.md",
+    "plant": "Kari meṇasu (ಕರಿಮೆಣಸು)",
+    "latin_name": "Piper nigrum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Orthosiphon_aristatus_-_Kidney_tea_plant,_Mutrapindada_gida.md",
+    "plant": "Kal tuḷasi (ಕಲ್ ತುಳಸಿ)",
+    "latin_name": "Orthosiphon aristatus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Kalpa bāḷe (ಕಲ್ಪಬಾಳೆ)",
+    "latin_name": "Ensete superbum",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Helicteres_isora_-_Indian_screw_tree,_ಭೂತಕರುಳು,_Marodphali,_Edampuri,_Aadasamanthi,_Ishvaramuli.md",
+    "plant": "Kavari gida (ಕವರಿ ಗಿಡ)",
+    "latin_name": "Helicteres isora",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Kavalukoḍi (ಕವಲುಕೋಡಿ)",
+    "latin_name": "Allophylus rheedii",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Abelmoschus_moschatus_-_Ambrette,_Kaadukasthuri,_Muskdana,_Kattuk-Kasturi,_Karpura-Benda,_Kaattukasturi.md",
+    "plant": "Kastūri beṇḍe (ಕಸ್ತೂರಿ ಬೆಂಡೆ)",
+    "latin_name": "Abelmoschus moschatus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Azadiracta_indica_-_Neem_tree,_Kirubevu,_Neem,_Veppa,_Vepa,_Ayurveppu.md",
+    "plant": "Kahibevu (ಕಹಿಬೇವು)",
+    "latin_name": "Azadirachta indica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Kallaṅgaḍale gida (ಕಲ್ಲಂಗಡಲೆ ಗಿಡ)",
+    "latin_name": "Sida alnifolia",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Ageratum_conyzoides_-_Goat_weed,_Helukasa,_Bhakumbar,_Aappakkoti,_Pokabanthi,_Kattappa.md",
+    "plant": "Kāḍu tuḷasi (ಕಾಡುತುಳಸಿ)",
+    "latin_name": "Ageratum conyzoides",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Ficus_hispida_-_Crofig,_Adavi_hatti,_Katgular,_Peyatti,_Kakimedi.md",
+    "plant": "Kāḍu attimara (ಕಾಡು ಅತ್ತಿಮರ)",
+    "latin_name": "Ficus hispida",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Stachytarpheta_jamaicensis_-_Blue_porterweed,_Kaaduuttarani.md",
+    "plant": "Kāḍu uttarani gida (ಕಾಡು ಉತ್ತರಣಿ ಗಿಡ)",
+    "latin_name": "Stachytarpheta jamaicensis",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Dillenia_pentagyna.md",
+    "plant": "Kāḍu kaṇagilu mara (ಕಾಡು ಕಣಗಿಲು ಮರ)",
+    "latin_name": "Dillenia pentagyna",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Lantana_camara_-_Lantana,_Kaadujola,_Raimuniya,_Unnichedi,_Pulikampa,_Tantani.md",
+    "plant": "Kāḍu gulābi gida (ಕಾಡು ಗುಲಾಬಿ ಗಿಡ)",
+    "latin_name": "Lantana camara",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Kāḍu cauḷi baḷḷi (ಕಾಡು ಚೌಳಿ ಬಳ್ಳಿ)",
+    "latin_name": "Centrosema pubescens",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Kāḍu oppali (ಕಾಡು ಒಪ್ಪಲಿ)",
+    "latin_name": "Piper peepuloides",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Kāḍu hesaru baḷḷi (ಕಾಡು ಹೆಸರು ಬಳ್ಳಿ)",
+    "latin_name": "Vigna dalzelliana",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Kānakallaṭe baḷḷi (ಕಾನಕಲ್ಲಟೆ ಬಳ್ಳಿ)",
+    "latin_name": "Cayratia mollissima",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Memecylon_edule.md",
+    "plant": "Kāyamina mara (ಕಾಯಮಿನ ಮರ)",
+    "latin_name": "Memecylon edule",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Kirugulla (ಕಿರುಗುಳ್ಳ)",
+    "latin_name": "Solanum violaceum",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Kiru nekkare gida (ಕಿರು ನೆಕ್ಕರೆ ಗಿಡ)",
+    "latin_name": "Osbeckia virgata",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Kiru brāhmi (ಕಿರುಬ್ರಾಹ್ಮಿ)",
+    "latin_name": "Hydrocotyle sibthorpioides",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Tylophora_indica_-_Indian_Ipecac,_aadu_muttada_balli,_antamul,_Nach­churuppam,_Verripaala,_vallippala.md",
+    "plant": "Kirumañji baḷḷi (ಕಿರುಮಂಜಿ ಬಳ್ಳಿ)",
+    "latin_name": "Tylophora indica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Tylophora_indica_-_Indian_ipecac,_ಅಡುಮುಟ್ಟದಗಿಡ,_Antamul,_Kalutai-p-palai,_Kakkupala,_Vallippala,_Khadaki_rasna.md",
+    "plant": "Kirumañji baḷḷi (ಕಿರುಮಂಜಿ ಬಳ್ಳಿ)",
+    "latin_name": "Tylophora indica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Kīru hatti (ಕೀರು ಹತ್ತಿ)",
+    "latin_name": "Gossypium herbaceum",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Ixora_coccinea_-_Ixora,_Rugmini,_Vedchi,_Chethi.md",
+    "plant": "Kesukāre (ಕೆಸುಕಾರೆ)",
+    "latin_name": "Ixora coccinea",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "skipped",
+    "note": "source already cited"
+  },
+  {
+    "file": null,
+    "plant": "Kuṇṭa nērale (ಕುಂಟ ನೇರಲೆ)",
+    "latin_name": "Syzygium caryophyllatum",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Kuṇṭa sōṇe (ಕುಂಟಸೋಣೆ)",
+    "latin_name": "Hygrophila heinei",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Gmelina_arborea_-_Gamhar,_Shivani,_Kumalaamaram,_Peddagumudutekku,_Kumbil.md",
+    "plant": "Kumbaḷa mara (ಕುಂಬಳ ಮರ)",
+    "latin_name": "Gmelina arborea",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Solanum_torvum_-_Brihati,_Kaadu_sunde,_Sundai,_Kondauste,_Parachunda.md",
+    "plant": "Kudane gida (ಕುದನೆ ಗಿಡ)",
+    "latin_name": "Solanum torvum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Physalis_minima_-_Ground_Cherry,_Gudde_hannu,_Rasbhari,_Notinotta,_Kupanti.md",
+    "plant": "Kuppasa gaṇike (ಕುಪ್ಪಸ ಗಣಿಕೆ)",
+    "latin_name": "Physalis minima",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Acalypha_indica_-_Indian_Nettle,_ಜಲಮಲಿ,_Kuppa,_Kuppamani,_Harita-manjari,_Kuppa-mani,_Khajoti.md",
+    "plant": "Kuppi gida (ಕುಪ್ಪಿ ಗಿಡ)",
+    "latin_name": "Acalypha indica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Dracaena_terniflora_-_Dwarf_dracaena,_ಕೆಂಪು_ಬೇರು,_Manjakkantha.md",
+    "plant": "Kempina bēru (ಕೆಂಪಿನ ಬೇರು)",
+    "latin_name": "Dracaena terniflora",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cyathula_prostrata_-_Cyathula,_ನೆಲ_ಉತ್ತರಾಣಿ,_Lal_chirchita,_Civappu_nayuruvi,_Cerukadalaadi,_Bhuiaghaada.md",
+    "plant": "Kempu uttarani (ಕೆಂಪು ಉತ್ತರಣಿ)",
+    "latin_name": "Cyathula prostrata",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Calotropis_gigantea_-_Aakado,_Ekka,_Aak,_Erukku,_Jilledu,_Erikku,_Rui.md",
+    "plant": "Kempu ekke gida (ಕೆಂಪು ಎಕ್ಕೆ ಗಿಡ)",
+    "latin_name": "Calotropis gigantea",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Kempu kandige (ಕೆಂಪು ಕಂದಿಗೆ)",
+    "latin_name": "Caesalpinia mimosoides",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Hibiscus_rosa_sinensis_-_Ajagandhika,_Daasavaala,_Babui,_Cankanirakkarantai,_Bhoo_tulasi,_Pach-cha-pushpam.md",
+    "plant": "Kempu dāsavāḷa (ಕೆಂಪು ದಾಸವಾಳ)",
+    "latin_name": "Hibiscus rosa-sinensis",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Phyllanthus_urinaria_-_Chamber_bitter,_Kempu_kirunelli,_Thajarmani,_Civappu_kilanelli,_Erra_usirika,_Chirukizhukanelli.md",
+    "plant": "Kempu nelanelli (ಕೆಂಪು ನೆಲನೆಲ್ಲಿ)",
+    "latin_name": "Phyllanthus urinaria",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Colocasia_esculenta_-_Taro,_ಕೇಸವೆ,_Arvi,_Sempu,_Chamadumpa,_Chempu,_Alvancha_kanda.md",
+    "plant": "Kesu (ಕೆಸು)",
+    "latin_name": "Colocasia esculenta",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Keśarāja gida (ಕೇಶರಾಜ ಗಿಡ)",
+    "latin_name": "Adiantum latifolium",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Cassia_fistula_-_Indian_Laburnum,_ಕಕ್ಕೆಮರ,_Amaltas,_Sarakonrai,_Rela,_Konna,_Bahava.md",
+    "plant": "Konde mara (ಕೊಂದೆ ಮರ)",
+    "latin_name": "Cassia fistula",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Ziziphus_rugosa_-_Wild_Jujube,_Belahadu,_Churna,_Totari,_Gottichettu,_Thodali,_Toran.md",
+    "plant": "Koṭṭe muḷḷu baḷḷi (ಕೊಟ್ಟೆ ಮುಳ್ಳು ಬಳ್ಳಿ)",
+    "latin_name": "Ziziphus rugosa",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Holarrhena_pubescens_-_Indrajao,_Koodsaloo,_Karva_indrajau,_Kirimllikai,_Girimallika,_Kutakappaala.md",
+    "plant": "Koḍuge (ಕೊಡುಗೆ)",
+    "latin_name": "Holarrhena pubescens",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Jasminum_coarctatum_-_White-bracted_jasmine,_ವನಮಲ್ಲಿಗೆ,_Erumai-mullai,_Kattumulla,_Vikhamogari.md",
+    "plant": "Koḍimallige baḷḷi (ಕೊಡಮಲ್ಲಿಗೆ ಬಳ್ಳಿ)",
+    "latin_name": "Jasminum coarctatum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Coriandrum_sativum_-_Coriander,_Havija,_Dhaniya,_Kotthu_malli,_Danyalu,_Kotta-malli.md",
+    "plant": "Kottambari gida (ಕೊತ್ತಂಬರಿ ಗಿಡ)",
+    "latin_name": "Coriandrum sativum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Koyamaruva (ಕೊಯಮರುವ)",
+    "latin_name": "Antidesma ghaesembilla",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Ipomoea_nil_-_Blue_Morning_Glory,_Gowri_beeja,_Jharmaric,_Kollivittulu,_Taliyari,_Kaladana.md",
+    "plant": "Kolli bīja baḷḷi (ಕೊಲ್ಲಿ ಬೀಜದ ಬಳ್ಳಿ)",
+    "latin_name": "Ipomoea nil",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Tephrosia_purpurea_-_Wild_indigo,_Adavi_neeli,_Ban-nil,_Kattukkolincai,_Bonta_vempali,_Kattamari.md",
+    "plant": "Koḷañji gida (ಕೊಳಂಜ ಗಿಡ)",
+    "latin_name": "Tephrosia purpurea",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Koḷḷi baḷḷi (ಕೊಳ್ಳಿ ಬಳ್ಳಿ)",
+    "latin_name": "Abrus pulchellus",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Ficus_tinctoria_-_Coralwood_tree,_Aane_gulaganji,_Baragunci,_Aanaikundrimani,_Bandi_gurivenda,_Manjadi.md",
+    "plant": "Gañji gōḷi (ಗಂಜಿಗೋಳಿ)",
+    "latin_name": "Ficus tinctoria subsp. gibbosa",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Laportea_interrupta_-_Hawai'i_woodnettle,_ಕಾಡು_ಚುರುಚುರಕನ_ಗಿಡ,_Bichata,_Peru-n-kanchori,_Anakkotittuva,_Aagya.md",
+    "plant": "Gaṇḍu kuruci (ಗಂಡು ಕುರುಚಿ)",
+    "latin_name": "Laportea interrupta",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Paederia_foetida_-_Skunkvine,_Gabbu_balli,_Prasaran,_Cankai-p-pinari,_Saviraela_chettu,_Lepcha.md",
+    "plant": "Gandha prasāriṇi baḷḷi (ಗಂಧ ಪ್ರಸಾರಿಣಿ ಬಳ್ಳಿ)",
+    "latin_name": "Paederia foetida",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Adiantum_lunulatum.md",
+    "plant": "Gaḍimaddi gida (ಗಡಿಮದ್ದಿನ ಗಿಡ)",
+    "latin_name": "Adiantum lunulatum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Solanum_nigrum_-_Black_nightshade,_Mokoi,_Manatakkali,_Kasaka,_Mulaku-thakkali.md",
+    "plant": "Gaṇike gida (ಗಣಿಕೆ ಗಿಡ)",
+    "latin_name": "Solanum americanum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Sphaeranthus_indicus.md",
+    "plant": "Gadḍe karaṇḍe (ಗಡ್ಡೆ ಕರಂಡೆ ಗಿಡ)",
+    "latin_name": "Sphaeranthus indicus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Gaḍḍe tumbe gida (ಗಡ್ಡೆ ತುಂಬೆ ಗಿಡ)",
+    "latin_name": "Leucas lavandulifolia",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Gaḍḍe nekkare (ಗಡ್ಡೆ ನೆಕ್ಕರೆ)",
+    "latin_name": "Oldenlandia auricularia",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Crotalaria_pallida_-_Nilgiri_privet,_ಕೂಲಿ_ಮರ,_Cirralincil,_Pinkan,_Kungin.md",
+    "plant": "Gaḍḍe saṇabu (ಗಡ್ಡೆ ಸಣಬು)",
+    "latin_name": "Crotalaria pallida",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Guḍapātāḷa (ಗುಡಪಾತಾಳ)",
+    "latin_name": "Rauvolfia micrantha",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Capsicum_frutescens_-_Chilli,_Mirch,_Mulaga,_Pachamulagu.md",
+    "plant": "Gāndhāri meṇasu (ಗಾಂಧಾರಿ ಮೆಣಸು)",
+    "latin_name": "Capsicum frutescens",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Guṇje iṇilu gida (ಗುಂಜಿ ಇಣಿಲು ಗಿಡ)",
+    "latin_name": "Strobilanthes ixiocephala",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Anacardium_occidentale_-_Cashew_nut,_Gaeru,_Kaju,_Andima,_Jaedima-midi,_Kapa-mava.md",
+    "plant": "Gōḍambi mara (ಗೋಡಂಬಿ ಮರ)",
+    "latin_name": "Anacardium occidentale",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Jatropha_curcas_-_Physic_Nut,_Beli_oudala,_Jamal_ghota,_Karuvelai,_Nepalam,_Kattamank.md",
+    "plant": "Gōve haraḷu (ಗೋವೆ ಹರಳು)",
+    "latin_name": "Jatropha curcas",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Gōḷi mara (ಗೋಳಿ ಮರ)",
+    "latin_name": "Ficus benghalensis",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Sauropus_androgynus_-_Vitamin_Plant,_Chakraani,_Pallikkarputu,_Madhuracheera.md",
+    "plant": "Cakramuni (ಚಕ್ರಮನಿ)",
+    "latin_name": "Sauropus androgynus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Humboldtia_brunonis_-_Brown's_humboldtia,_ಹಾಸಿಗೆ_ಮರ,_Kattasokam.md",
+    "plant": "Ciṭṭuge mara (ಚಿಟ್ಟುಗೆ ಮರ)",
+    "latin_name": "Humboldtia brunonis",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Ciṇṇi mara (ಚಿಣ್ಣಿಮರ)",
+    "latin_name": "Acalypha fruticosa",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Coṛimuḷḷu (ಚೊರಿಮುಳ್ಳು)",
+    "latin_name": "Ziziphus oenoplia",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Adenanthera_pavonina_-_Coralwood_tree,_Aane_gulaganji,_Baragunci,_Aanaikundrimani,_Bandi_gurivenda,_Manjadi.md",
+    "plant": "Cinnamara (ಚಿನ್ನಮರ)",
+    "latin_name": "Adenanthera pavonina",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Heliotropium_indicum_-_Indian_heliotrope,_Bhoorundi,_Hatta-juri,_Aanaikundrimani,_Kodikki,_Tekkata.md",
+    "plant": "Cēḷu koṇḍi gida (ಚೇಳುಕೊಂಡಿ ಗಿಡ)",
+    "latin_name": "Heliotropium indicum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Bacopa_monnieri_-_Indian_pennywort,_ಬ್ರಾಹ್ಮಿ,_Baam,_Neer_brahmi,_Sambrani_aku,_Brahmi.md",
+    "plant": "Jala brāhmi (ಜಲ ಬ್ರಾಹ್ಮಿ)",
+    "latin_name": "Bacopa monnieri",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Myristica_fragrans_-_Oak_Galls,_ಜಾಕಾಯಿ,_Maajoophal,_Machakaai,_Machikaaya,_Majakaanee.md",
+    "plant": "Jāyikāyi mara (ಜಾಯಿಕಾಯಿ ಮರ)",
+    "latin_name": "Myristica fragrans",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Abroma_augusta_-_Devil's_cotton,_ದೆವ್ವಹತ್ತಿ,_Ulat_kambal,_Sivappututti.md",
+    "plant": "Jumaki mara (ಜುಮಕಿ ಮರ)",
+    "latin_name": "Abroma augusta",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Syzygium_zeylanicum_-_Spicate_Eugenia,_ಗುಡ್ಡ_ನೇರಳೆ,_Kaattuvazhana,_Bhedas.md",
+    "plant": "Jōgi haṇṇu (ಜೋಗಿ ಹಣ್ಣು)",
+    "latin_name": "Syzygium zeylanicum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Jōḷu gaga (ಜೋಳು ಗಗಗ)",
+    "latin_name": "Adenostemma lavenia",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Clerodendrum_infortunatum_-_Hill_Glory_Bower,_Ibbane,_Titabhamt,_Perukilai,_Gurrapu_katilyaku,_Peruku,_Bhandira.md",
+    "plant": "Taggi gida (ತಗ್ಗಿ ಗಿಡ)",
+    "latin_name": "Clerodendrum infortunatum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Holoptelea_integrifolia_-_Indian_Elm,_Beegada_mara,_Banchilla,_Aaya,_Naali,_Aval.md",
+    "plant": "Tapasi mara (ತಪಸಿ ಮರ)",
+    "latin_name": "Holoptelea integrifolia",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Turimaṇi gida (ತುರಿಮಣಿ ಗಿಡ)",
+    "latin_name": "Selaginella delicatula",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Biophytum_sensitivum_-_Little_Tree_Plant,_Dodda_horamuchhaka,_Lakhshana,_Tintanali,_Attapatti,_Mukkutti.md",
+    "plant": "Teṅgina inḍi gida (ತೆಂಗಿನ ಇಂಡಿಗಿಡ)",
+    "latin_name": "Biophytum sensitivum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cocos_nucifera_-_Coconut,_Tengina_kayi,_Nariya,_Tennai,_Kobbari_chettu,_Thengu.md",
+    "plant": "Teṅgu (ತೆಂಗು)",
+    "latin_name": "Cocos nucifera",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Boerhavia_diffusa_-_Red_spiderling,_Gonajali,_Varshbhu,_Caranai,_Ambati_madu,_Talutama.md",
+    "plant": "Teggame (ತೆಗ್ಗಮೆ)",
+    "latin_name": "Boerhavia diffusa",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Coccinia_grandis_-_Ivy_gourd,_Caralluma.md",
+    "plant": "Tonḍe baḷḷi (ತೊಂಡೆ ಬಳ್ಳಿ)",
+    "latin_name": "Coccinia grandis",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Careya_arborea_-_Cyloneoek,_Daddala,_Kumbhi,_Ayma,_Gadava,_Pezuntol.md",
+    "plant": "Daḍḍāla (ದಡ್ಡಾಲ)",
+    "latin_name": "Careya arborea",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Luffa_acutangula_-_Sinkwa_towelsponge,_Eere_kay,_Turai,_Pirkanga,_Beera_kaaya,_Peechinga.md",
+    "plant": "Dārehōle baḷḷi (ದಾರೆಹೋಲೆ ಬಳ್ಳಿ)",
+    "latin_name": "Luffa acutangula",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Doḍḍa garuḍapātāḷa gida (ದೊಡ್ಡ ಗರುಡಪಾತಾಳ ಗಿಡ)",
+    "latin_name": "Ixora polyantha",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Merremia_tridentata_-_Arrow-leaf_Morning_Glory,_ಇಲಿಕಿವಿ_ಸೊಪ್ಪು,_Prasarani,_Mutiyar-kuntal,_Lanja_savaram,_Kali_vel.md",
+    "plant": "Doḍḍa hasarāsi baḷḷi (ದೊಡ್ಡ ಹಸರಾಸಿ ಬಳ್ಳಿ)",
+    "latin_name": "Merremia tridentata",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Doḍḍa hippali gida (ದೊಡ್ಡ ಹಿಪ್ಪಲಿ ಗಿಡ)",
+    "latin_name": "Piper retrofractum",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Tabernaemontana_divaricata_-_Crape_jasmine,_Nandi_battalu,_Chandni,_Nandiar_vattai.md",
+    "plant": "Nañjabaṭṭi gida (ನಂಜಬಟ್ಟಿ ಗಿಡ)",
+    "latin_name": "Tabernaemontana divaricata",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Tarenna_asiatica_-_Asiatic_Tarenna,_ತರಣಿ,_Bingi_Papadi,_Tharani,_Konda_Papidi,_Tharana,_Patale.md",
+    "plant": "Nañjina kuḍi (ನಂಜಿನ ಕುಡಿ)",
+    "latin_name": "Tarenna asiatica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Bauhinia_acuminata_-_Dwarf_white_orchid_tree,_Kanchan,_Safed_Kachnar,_Vellai_mandaarai,_Kanchana,_Mandaaram.md",
+    "plant": "Nandi meṭṭu gida (ನಂದಿಮೆಟ್ಟು ಗಿಡ)",
+    "latin_name": "Bauhinia acuminata",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cheilocostus_speciosus_-_Crepe_Ginger,_ಚಂಗಲಕೋಷ್ಟ,_Kushtha,_Kostam,_Kasmiramu,_Anakkuva.md",
+    "plant": "Narekiṭṭu (ನರೆಕಿಟ್ಟು)",
+    "latin_name": "Cheilocostus speciosus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cheilocostus_speciosus_-_Pushkarmula,_Chenglavaa-Koshtu,_Kebu,_Koshtam,_Channakkilannu.md",
+    "plant": "Narekiṭṭu (ನರೆಕಿಟ್ಟು)",
+    "latin_name": "Cheilocostus speciosus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Barleria_strigosa_-_Nīlajhiṇṭī.md",
+    "plant": "Nāgagōraṭe (ನಾಗಗೋರಟೆ)",
+    "latin_name": "Barleria strigosa",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Rhinacanthus_nasutus_-_Snake_Jasmine,_Nagamallige,_Palakjuhi,_Uragamalli,_Nagamalle,_Nagamulla,_Gajkarni.md",
+    "plant": "Nāga mallige (ನಾಗಮಲ್ಲಿಗೆ)",
+    "latin_name": "Rhinacanthus nasutus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Mesua_ferrea_linn_-_Ironwood,_Kesara,_Gajapushpam,_Naagalingam,_Chikatimanu,_Behettachampagam.md",
+    "plant": "Nāga sampige (ನಾಗಸಂಪಿಗೆ ಮರ)",
+    "latin_name": "Mesua ferrea",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Mimosa_pudica_-_Sensitive_plant,_Naachike_gida,_Chui_mui,_Alavananki,_Atthapatthi,_Thendarmani.md",
+    "plant": "Nācike muḷḷu (ನಾಚಿಕೆ ಮುಳ್ಳು)",
+    "latin_name": "Mimosa pudica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Gardenia_resinifera_-_Brilliant_Gardenia,_Bikki_gida,_Dekamali,_Kumpai,_Kabimaram,_Dikamali.md",
+    "plant": "Nāḍiṁ ḍiṅgu (ನಾಡಿಂ ಡಿಂಗು)",
+    "latin_name": "Gardenia resinifera",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Mucuna_pruriens_-_Velvet_bean,_Nayisonanguballi,_Kewanch,_Punaippidukkan,_Pilliadugu,_Naicorna.md",
+    "plant": "Nāyi sōgu baḷḷi (ನಾಯಿಸೋಗು ಬಳ್ಳಿ)",
+    "latin_name": "Mucuna pruriens",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Nirviṣi gida (ನಿರ್ವಿಷಿ ಗಿಡ)",
+    "latin_name": "Clerodendrum aculeatum",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Nīrāṭada gida (ನೀರಾಟದ ಗಿಡ)",
+    "latin_name": "Lemna minor",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Melastoma_malabathricum_-_Malabar_Melastome,_ಅಂಕೇರ್ಕಿ,_Katalai,_Nekkare,_Kalathi,_Lakeri.md",
+    "plant": "Nīr nekkare gida (ನೀರ್ ನೆಕ್ಕರೆ ಗಿಡ)",
+    "latin_name": "Melastoma malabathricum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Allium_cepa_-_Onion,_Irulli,_Pyaj,_Vengayam,_Nirulli,_Bavanga.md",
+    "plant": "Nīruḷḷi (ನೀರುಳ್ಳಿ)",
+    "latin_name": "Allium cepa",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Nīlagiri munti (ನೀಲಗಿರಿ ಮುಂತಿ)",
+    "latin_name": "Alpinia chinensis",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Buchanania_cochinchinensis_-_Cudappah_almond,_Murkalu,_Char,_Cara_paruppu,_Chaara,_Cheru.md",
+    "plant": "Nurcalu mara (ನುರ್ಚಲು ಮರ)",
+    "latin_name": "Buchanania cochinchinensis",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Rosa_centifolia.md",
+    "plant": "Nūresala panneeru (ನೂರೆಸಲ ಪನ್ನೀರು)",
+    "latin_name": "Rosa centifolia",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Leea_indica_-_Bandicoot_berry,_Gadhapatri,_Kukur_jihwa,_Nalava,_Amkador,_Nakku,_Karkani.md",
+    "plant": "Nedala gida (ನೆದಲ ಗಿಡ)",
+    "latin_name": "Leea indica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Naregamia_alata.md",
+    "plant": "Nelakanji gida (ನೆಲಕಂಜಿ ಗಿಡ)",
+    "latin_name": "Naregamia alata",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Kaempferia_galanga_-_Aromatic_Ginger,_Kachchura,_Chandramula,_Kacholum,_Kachhuram.md",
+    "plant": "Nelakacūra (ನೆಲಕಚೂರ)",
+    "latin_name": "Kaempferia galanga",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Ipomoea_mauritiana_-_Giant_potato,_Vidaaree_Kanda,_Nilappuchani,_Paalagummudu,_Paalmutakku.md",
+    "plant": "Nelakumbaḷa (ನೆಲಕುಂಬಳ)",
+    "latin_name": "Ipomoea mauritiana",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Sida_cordata_-_Heart_leaf,_Bekkinathale_Gida,_Bhyunli,_Kurunthotti,_Gayapuvaku,_Palkurunthotti.md",
+    "plant": "Nelabri (ನೆಲಬುರಿ)",
+    "latin_name": "Sida cordata",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Curculigo_orchioides_-_Black_Musli,_Nela_tengu,_Kali-moosli,_Nilappanang-kizhangu,_Nela-tati-gaddalu,_Nela-pana-kelangu,_Bhuyimaddi.md",
+    "plant": "Nelatāḷe (ನೆಲತಾಳೆ)",
+    "latin_name": "Curculigo orchioides",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Nelapuṅji gida (ನೆಲಪುಂಜಿ ಗಿಡ)",
+    "latin_name": "Leucas biflora",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Desmodium_triflorum_-_Creeping_Tick_Trefoil,_Kaadu_pullampurasi,_Kudaliya,_Sirupullati,_Moohoodoo,_Munta-mandu,_Chipti.md",
+    "plant": "Nelaparanḍe gida (ನೆಲಪರಂಡೆ ಗಿಡ)",
+    "latin_name": "Desmodium triflorum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Andrographis_paniculata_-_kariyat,_Nelaberu,_Kirayat,_Nilavembu,_Nelavepu.md",
+    "plant": "Nelabēvu (ನೆಲಬೇವು)",
+    "latin_name": "Andrographis paniculata",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Elephantopus_scaber_-_Elephant_Foot,_Hakkarike,_Samdudri,_Anashovadi,_Enugabira,_Anayatiyan,_Hastipata.md",
+    "plant": "Nelamaccale (ನೆಲಮಚ್ಚಲೆ)",
+    "latin_name": "Elephantopus scaber",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Nelasuruḷi gida (ನೆಲಸುರುಳಿ ಗಿಡ)",
+    "latin_name": "Curcuma oligantha",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Nelaharive (ನೆಲಹರಿವೆ)",
+    "latin_name": "Alternanthera bettzickiana",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Nōrekāyi mara (ನೋರೆ ಕಾಯಿ ಮರ)",
+    "latin_name": "Sapindus emarginatus",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Piper_betle_-_Betel_pepper,_Veelyade_Ele,_Vettilai,_Tamalapaku.md",
+    "plant": "Pañcabaḷḷi (ಪಂಚಬಳ್ಳಿ)",
+    "latin_name": "Piper betle",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Pogostemon_cablin_-_Patchouli.md",
+    "plant": "Pacciele gida (ಪಚ್ಚೆಲೆ ಗಿಡ)",
+    "latin_name": "Pogostemon heyneanus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Caesalpinia_sappan_-_Sappan_Wood,_Sappange,_Patamg,_Sappamgu,_Bakaruchakka,_Chappannam.md",
+    "plant": "Pataṅga mara (ಪತಂಗ ಮರ)",
+    "latin_name": "Caesalpinia sappan",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Patrajīva (ಪತ್ರಜೀವ)",
+    "latin_name": "Bryophyllum pinnatum",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Carica_papaya_-_Pawpaw,_Pappaya_hannu,_Papita,_Pappali.md",
+    "plant": "Pappāya (ಪಪ್ಪಾಯ)",
+    "latin_name": "Carica papaya",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Butea_monosperma_-_Bastard_teak,_ಮುತ್ತುಗ,_Dhak,_Kincukam,_Kimsukamu,_Chamata.md",
+    "plant": "Palāśa mara (ಪಲಾಶ ಮರ)",
+    "latin_name": "Butea monosperma",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Pavetta_indica_-_Indian_Pavetta,_Pavati,_Kankara,_Kattukkaranai,_Papidi,_Mallikamutti.md",
+    "plant": "Pāpaṭe mara (ಪಾಪಟೆ ಮರ)",
+    "latin_name": "Pavetta indica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Putranjiva_roxburghi_-_Aksaphala,_Amaami,_Jiaputa,_Karuppilai,_Kadrajuvi,_Pongolan.md",
+    "plant": "Putrajīvi mara (ಪುತ್ರಜೀವಿ ಮರ)",
+    "latin_name": "Putranjiva roxburghii",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Garcinia_indica_-_Kokam,_Murgina,_Kokum,_Murgal,_Kaattampi.md",
+    "plant": "Punarpuḷi (ಪುನರ್ಪುಳಿ)",
+    "latin_name": "Garcinia indica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Oxalis_corniculata_-_Indian_sorrel,_Hulichikka,_Amrulsak,_Puliyancirukirai,_Pulichinta,_Puliyaral.md",
+    "plant": "Puḷcaṁpuruci gida (ಪುಳ್ಚಂಪುರುಚಿ ಗಿಡ)",
+    "latin_name": "Oxalis corniculata",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Psidium_guajava_-_Guava,_Jamaphala,_Amrud,_Goyya-pazham,_Gova,_Atakkappalam.md",
+    "plant": "Pērale (ಪೇರಳೆ)",
+    "latin_name": "Psidium guajava",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Lygodium_flexuosum.md",
+    "plant": "Pyeli baḷḷi (ಪ್ಯೆಲಿ ಬಳ್ಳಿ)",
+    "latin_name": "Lygodium flexuosum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Mōle kāyi gida (ಮೋಲೆ ಕಾಯಿ ಗಿಡ)",
+    "latin_name": "Bulbophyllum sterile",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Passiflora_edulis_-_Passion_Fruit,_Gadiyaarada_hoo.md",
+    "plant": "Pyāshan haṇṇina baḷḷi (ಪ್ಯಾಷನ್ ಹಣ್ಣಿನ ಬಳ್ಳಿ)",
+    "latin_name": "Passiflora edulis",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Bridelia_stipularis_-_Climbing_Bridelia,_Akshata_balli,_Chiri_aannem,_Kanjikottom.md",
+    "plant": "Bandanāru baḷḷi (ಬಂದನಾರು ಬಳ್ಳಿ)",
+    "latin_name": "Bridelia stipularis",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Acorus_calamus_-_Sweet_Flag,_Athibaje,_Bacc,_Akaraveci,_Vadaja,_Vaembu.md",
+    "plant": "Baje gaḍa (ಬಜೆಗಡ)",
+    "latin_name": "Acorus calamus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Badane (ಬದನೆ)",
     "latin_name": "Solanum melongena",
     "references_added": 0,
     "sources_used": [],
     "status": "no_match"
   },
   {
-    "file": "docs/herbs/Terminalia_chebula_-_Haritaki.md",
-    "plant": "Haritaki",
-    "latin_name": "Terminalia chebula",
+    "file": "docs/herbs/Eryngium_foetidum_-_Wild_coriander,_Kadu_kottambari,_Ban_dhania.md",
+    "plant": "Barmā kotambri gida (ಬರ್ಮಾ ಕೊತಂಬ್ರಿ ಗಿಡ)",
+    "latin_name": "Eryngium foetidum",
     "references_added": 1,
     "sources_used": [
-      "Vrksayurveda of Surapala"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
-    "file": "docs/herbs/Terminalia_bellerica_roxb_-_Bibhitaki.md",
-    "plant": "Bibhitaka",
-    "latin_name": "Terminalia bellirica",
+    "file": "docs/herbs/Caryota_urens_-_Fishtail_palm,_Bagani_mara,_Ban-khajur,_Ataku,_Bakini,_Anapana.md",
+    "plant": "Bayne mara (ಬಯ್ನೆ ಮರ)",
+    "latin_name": "Caryota urens",
     "references_added": 1,
     "sources_used": [
-      "Vrksayurveda of Surapala"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
-    "file": "docs/herbs/Glycyrrhiza_glabra_-_Yashtimadhu.md",
-    "plant": "Yastimadhu",
-    "latin_name": "Glycyrrhiza glabra",
+    "file": "docs/herbs/Musa_paradisiaca_-_Banana,_Baale_hannu,_Kela,_Vaazhai,_Aratti,_Vala.md",
+    "plant": "Bāḷe (ಬಾಳೆ)",
+    "latin_name": "Musa × paradisiaca",
     "references_added": 1,
     "sources_used": [
-      "Vrksayurveda of Surapala"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Sesbania_grandiflora_-_Agati,_Agasi,_Gaach-munga,_Sevvagatti,_Avisha,_Shevari.md",
+    "plant": "Bila āgase (ಬಿಲ ಆಗಸೆ)",
+    "latin_name": "Sesbania grandiflora",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Sesbania_grandiflora_-_agasthya,_agasemara,_agast,_agathi,_agasi,_agatti.md",
+    "plant": "Bila āgase (ಬಿಲ ಆಗಸೆ)",
+    "latin_name": "Sesbania grandiflora",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
     "file": null,
-    "plant": "Karavira",
-    "latin_name": "Nerium indicum",
+    "plant": "Bili larki gida (ಬಿಲ ಲರ್ಕಿ ಗಿಡ)",
+    "latin_name": "Urena sinuata",
     "references_added": 0,
     "sources_used": [],
     "status": "no_match"
   },
   {
-    "file": "docs/herbs/Diospyros_tomentosa.md",
-    "plant": "Tinduka",
-    "latin_name": "Diospyros tomentosa",
+    "file": "docs/herbs/Achyranthes_aspera_-_Prickly_Chaff_Flower,_ಉತ್ತರಾಣಿ,_Chirchita,_Nayurivi,_Antisha,_Kadaladi,_Aghada.md",
+    "plant": "Bila uttarani (ಬಿಲ ಉತ್ತರಣಿ)",
+    "latin_name": "Achyranthes aspera",
     "references_added": 1,
     "sources_used": [
-      "Vrksayurveda of Surapala"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
-    "file": "docs/herbs/Aconitum_heterophyllum_-_Ativisa,_Indian_Atees.md",
-    "plant": "Ativisa",
-    "latin_name": "Aconitum heterophyllum",
+    "file": "docs/herbs/Centella_asiatica_-_Pennywort,_ಬ್ರಾಹ್ಮಿ_ಸೊಪ್ಪು,_Bheki,_Kacappi,_Mandukaparni,_Kutakam.md",
+    "plant": "Bila ondelaga (ಬಿಲ ಒಂದೆಲಗ)",
+    "latin_name": "Centella asiatica",
     "references_added": 1,
     "sources_used": [
-      "Vrksayurveda of Surapala"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
-    "file": "docs/herbs/Acorus_calamus_-_Jatila.md",
-    "plant": "Vaca",
-    "latin_name": "Acorus calamus",
+    "file": "docs/herbs/Maranta_arundinacea_-_Arrowroot_Plant,_Araaruta,_Aruruttukkilangu,_Palagunda.md",
+    "plant": "Bili kūve gida (ಬಿಲ ಕೂವೆ ಗಿಡ)",
+    "latin_name": "Maranta arundinacea",
     "references_added": 1,
     "sources_used": [
-      "Vrksayurveda of Surapala"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
-    "file": "docs/herbs/Saussurea_lappa_-_Kusta.md",
-    "plant": "Kustha",
-    "latin_name": "Saussurea lappa",
+    "file": "docs/herbs/Eclipta_prostrata_-_False_Daisy,_Ajagara,_Bhrngaraj,_Karisilanganni,_Galagara,_Kannunni.md",
+    "plant": "Bila garaga (ಬಿಲ ಗರಗ)",
+    "latin_name": "Eclipta prostrata",
     "references_added": 1,
     "sources_used": [
-      "Vrksayurveda of Surapala"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
-    "file": "docs/herbs/Rubia_cordifolia_-_Manjishtha.md",
-    "plant": "Manjistha",
-    "latin_name": "Rubia cordifolia",
+    "file": "docs/herbs/Operculina_turpethum.md",
+    "plant": "Bila tigaḍe baḷḷi (ಬಿಲ ತಿಗಡೆ ಬಳ್ಳಿ)",
+    "latin_name": "Operculina turpethum",
     "references_added": 1,
     "sources_used": [
-      "Vrksayurveda of Surapala"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Operculina_turpethum_-_Turpeth_root,_Alutigade,_Nisotar,_Adimbu,_Erra_tegada,_Sivata.md",
+    "plant": "Bila tigaḍe baḷḷi (ಬಿಲ ತಿಗಡೆ ಬಳ್ಳಿ)",
+    "latin_name": "Operculina turpethum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Moringa_oleifera_-_Drumstick,_Nuggekayee,_Sahjan,_Murungai_Maram,_Munagachettu,_Muringa.md",
+    "plant": "Bili nugge (ಬಿಲ ನುಗ್ಗೆ)",
+    "latin_name": "Moringa oleifera",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Phyllanthus_amarus_-_Carry_me_seed,_Kempu_Nela_nelli,_Bhuy_aamla,_Keezha_nelli,_Neala_usiri,_Keezhar_nelli.md",
+    "plant": "Bili nelanelli (ಬಿಲಿ ನೆಲನೆಲ್ಲಿ)",
+    "latin_name": "Phyllanthus amarus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
     "file": null,
-    "plant": "Lodhra",
+    "plant": "Bila pāṣāṇabheda (ಬಿಲ ಪಾಷಾಣಭೇದ)",
+    "latin_name": "Aerva lanata",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Bila lōdhra mara (ಬಿಲ ಲೋಧ್ರ ಮರ)",
     "latin_name": "Symplocos racemosa",
     "references_added": 0,
     "sources_used": [],
     "status": "no_match"
   },
   {
-    "file": "docs/herbs/Terminalia_arjuna_-_Arjuna,_White_Marudah.md",
-    "plant": "Arjuna",
-    "latin_name": "Terminalia arjuna",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Hordeum_vulgare_-_Aksata.md",
-    "plant": "Yava",
-    "latin_name": "Hordeum vulgare",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Pueraria_tuberosa_-_Vidarikanda.md",
-    "plant": "Vidari",
-    "latin_name": "Pueraria tuberosa",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Ricinus_communis_-_Gandharvataila.md",
-    "plant": "Eranda",
-    "latin_name": "Ricinus communis",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Tamarindus_indica_-_Amalika.md",
-    "plant": "Tindidika",
-    "latin_name": "Tamarindus indica",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Bauhinia_variegata_-_Kaancanara.md",
-    "plant": "Kancana",
-    "latin_name": "Bauhinia variegata",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Alangium_lamarcki.md",
-    "plant": "Ankola",
-    "latin_name": "Alangium lamarckii",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Jasminum_sambac_-_Mallika.md",
-    "plant": "Mallika",
-    "latin_name": "Jasminum sambac",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Ziziphus_mauritiana_-_Common_jujube.md",
-    "plant": "Badara",
-    "latin_name": "Zizyphus mauritiana",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Pandanus_tectorius_-_Ketaka.md",
-    "plant": "Ketaki",
-    "latin_name": "Pandanus tectorius",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Nelumbo_nucifera.md",
-    "plant": "Kamala",
-    "latin_name": "Nelumbo nucifera",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Cyperus_rotundus_-_Mustaka.md",
-    "plant": "Mustaka",
-    "latin_name": "Cyperus rotundus",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Stereospermum_chelonoides_-_Patala.md",
-    "plant": "Patala",
-    "latin_name": "Stereospermum suaveolens",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Zingiber_officinale.md",
-    "plant": "Ardraka",
-    "latin_name": "Zingiber officinale",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Elettaria_cardamomum_-_Ela,_Cardamom.md",
-    "plant": "Ela",
-    "latin_name": "Elettaria cardamomum",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Manilkara_hexandra_-_Kshirini.md",
-    "plant": "Manilkara",
-    "latin_name": "Manilkara hexandra",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Indigofera_tinctoria_-_Asita,_Nili.md",
-    "plant": "Nila-Haridra",
-    "latin_name": "Indigofera tinctoria",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Desmostachya_bipinnata_-_Darbha.md",
-    "plant": "Darbha",
-    "latin_name": "Desmostachya bipinnata",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Saccharum_munja_-_Munja.md",
-    "plant": "Munja",
-    "latin_name": "Saccharum munja",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Cucurbita_maxima_-_Alambu,_Kola.md",
-    "plant": "Alambu",
-    "latin_name": "Cucurbita maxima",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Luffa_acutangula_-_Jaalini.md",
-    "plant": "Jaalini",
-    "latin_name": "Luffa acutangula",
-    "references_added": 1,
-    "sources_used": [
-      "Vrksayurveda of Surapala"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": null,
-    "plant": "Oryza",
-    "latin_name": "Oryza sativa",
-    "references_added": 0,
-    "sources_used": [],
-    "status": "no_match"
-  },
-  {
-    "file": "docs/herbs/Acorus_calamus_-_Jatila.md",
-    "plant": "Sweet Flag",
-    "latin_name": "Acorus calamus",
-    "references_added": 1,
-    "sources_used": [
-      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Centella_asiatica_-_Mandooka_Parni.md",
-    "plant": "Gotu Kola",
-    "latin_name": "Centella asiatica",
-    "references_added": 1,
-    "sources_used": [
-      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Zingiber_officinale.md",
-    "plant": "Ginger",
-    "latin_name": "Zingiber officinale",
-    "references_added": 1,
-    "sources_used": [
-      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Ocimum_tenuiflorum_-_Tulsi_plant.md",
-    "plant": "Holy Basil",
-    "latin_name": "Ocimum tenuiflorum",
-    "references_added": 1,
-    "sources_used": [
-      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Phyllanthus_emblica_-_Emblic,_Amalaki.md",
-    "plant": "Indian Gooseberry",
-    "latin_name": "Phyllanthus emblica",
-    "references_added": 1,
-    "sources_used": [
-      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Curcuma_longa_-_Haridra.md",
-    "plant": "Turmeric",
-    "latin_name": "Curcuma longa",
-    "references_added": 1,
-    "sources_used": [
-      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Andrographis_paniculata_-_Kalmegh.md",
-    "plant": "King of Bitters",
-    "latin_name": "Andrographis paniculata",
-    "references_added": 1,
-    "sources_used": [
-      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Justicia_adhatoda_-_Simhaparni.md",
-    "plant": "Vasaka",
-    "latin_name": "Justicia adhatoda",
-    "references_added": 1,
-    "sources_used": [
-      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Justicia_Adhatoda_-_Sinhapuri.md",
-    "plant": "Vasaka",
-    "latin_name": "Justicia adhatoda",
-    "references_added": 1,
-    "sources_used": [
-      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Tinospora_cordifolia_-_Amrutha_balli.md",
-    "plant": "Guduchi",
-    "latin_name": "Tinospora cordifolia",
-    "references_added": 1,
-    "sources_used": [
-      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Terminalia_chebula_-_Haritaki.md",
-    "plant": "Haritaki",
-    "latin_name": "Terminalia chebula",
-    "references_added": 1,
-    "sources_used": [
-      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
-    ],
-    "status": "ok"
-  },
-  {
-    "file": "docs/herbs/Rauvolfia_serpentina_-_Sarpa_Gandha.md",
-    "plant": "Indian Snakeroot",
+    "file": "docs/herbs/Rauvolfia_serpentina_-_Snake-root,_Sarpagandha,_Chivan_amelpodi,_Paataala_goni,_Suvapavalforiyan.md",
+    "plant": "Bili sarpagandha (ಬಿಲ ಸರ್ಪಗಂಧ)",
     "latin_name": "Rauvolfia serpentina",
     "references_added": 1,
     "sources_used": [
-      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Aporosa_cardiosperma_-_Lindley's_aporosa,_ಸಳ್ಳೆ_ಮರ,_Vittil,_Vetti,_Sali.md",
+    "plant": "Bili saḷḷe (ಬಿಲಿ ಸಳ್ಳೆ)",
+    "latin_name": "Aporosa cardiosperma",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Hemidesmus_indicus_-_Indian_sarsaparilla,_Sogadeberu,_Anantamul,_Nannari,_Nannari_Narunanti.md",
+    "plant": "Bili sugandhi baḷḷi (ಬಿಲಿ ಸುಗಂಧಿ ಬಳ್ಳಿ)",
+    "latin_name": "Hemidesmus indicus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Ricinus_communis_-_Castor_bean,_Oudla,_Arandi,_Amanakku,_Amuda,_Chittamankku.md",
+    "plant": "Bīheru (ಬೀಹೇರು)",
+    "latin_name": "Ricinus communis",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Benincasa_hispida_-_Ash_gourd,_Boodagumbala,_Pethaa,_Neer_poosanikai,_boarda_goomoodoo,_Kumbalanga.md",
+    "plant": "Būdu kumbaḷa baḷḷi (ಬೂದುಗುಂಬಳ ಬಳ್ಳಿ)",
+    "latin_name": "Benincasa hispida",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Abelmoschus_esculentus_-_Bhenda,_ಬೆಂಡೆಕಾಯಿ,_भिंडी,_வெண்டி-பெண்_விரல்,_ലേഡിഫിംഗർ,_भेंडी.md",
+    "plant": "Beṇḍegida (ಬೆಂಡೆಗಿಡ)",
+    "latin_name": "Abelmoschus esculentus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
     "file": null,
-    "plant": "Chameleon Plant",
-    "latin_name": "Houttuynia cordata",
+    "plant": "Beṭṣa kaṇṇu gida (ಬೆತ್ಸ ಕಣ್ಣು ಗಿಡ)",
+    "latin_name": "Aglaia elaeagnoidea",
     "references_added": 0,
     "sources_used": [],
     "status": "no_match"
   },
   {
-    "file": "docs/herbs/Swertia_chirayita_-_chirayata.md",
-    "plant": "Chirayata",
-    "latin_name": "Swertia chirayita",
+    "file": "docs/herbs/Cardiospermum_halicacabum_-_Ballon_Vine,_ಕನಕಾಯ,_Kaanphuti,_Modikkottan,_Vekkudutiga,_Ulinna,_Kanphuti.md",
+    "plant": "Becchin baḷḷi (ಬೆಚ್ಚಿನ ಬಳ್ಳಿ)",
+    "latin_name": "Cardiospermum halicacabum",
     "references_added": 1,
     "sources_used": [
-      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
-    "file": "docs/herbs/Murraya_koenigii_-_Girinimba.md",
-    "plant": "Curry Leaf Tree",
-    "latin_name": "Murraya koenigii",
+    "file": "docs/herbs/Spermacoce_hispida_-_Shaggi_button_weed,_Madanaganti,_Madana_ghanti,_Nattai_churi,_Madana_ganti.md",
+    "plant": "Beṭṭa garaga gida (ಬೆಟ್ಟಗರಗದ ಗಿಡ)",
+    "latin_name": "Spermacoce hispida",
     "references_added": 1,
     "sources_used": [
-      "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes"
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Phyllanthus_emblica_-_Emblic_Myrobalan,_Nellikayi,_Amla,_Nellikkai,_Usirika,_Embali,_Anvala.md",
+    "plant": "Beṭṭa nelli (ಬೆಟ್ಟ ನೆಲ್ಲಿ)",
+    "latin_name": "Phyllanthus emblica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Phyllanthus_emblica_-_Indian_Gooseberry,_Betta_Nelli,_Aonla,_Konkam,_Amalakamu,_Nellikka.md",
+    "plant": "Beṭṭa nelli (ಬೆಟ್ಟ ನೆಲ್ಲಿ)",
+    "latin_name": "Phyllanthus emblica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
   },
   {
     "file": null,
-    "plant": "Sohbyrthit",
-    "latin_name": "Adenostemma lavenia",
+    "plant": "Beṭṭa bāge (ಬೆಟ್ಟ ಬಾಗೆ)",
+    "latin_name": "Albizia chinensis",
     "references_added": 0,
     "sources_used": [],
     "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Beṭṭa honne (ಬೆಟ್ಟ ಹೊನ್ನೆ)",
+    "latin_name": "Pterocarpus marsupium",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Allium_sativum_-_Garlic,_Bellulli,_Lasun,_Vallaipundu,_Vellulli.md",
+    "plant": "Beḷḷuḷḷi gaḍḍe (ಬೆಳ್ಳುಳ್ಳಿ ಗಡ್ಡೆ)",
+    "latin_name": "Allium sativum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Mussaenda_frondosa_-_Dhobi_Tree,_ಬೆಲ್ಲೊಟ್ಟಿ,_Bedina,_Velli-matantai,_Vellila.md",
+    "plant": "Beḷsasi gida (ಬೆಳ್ಸಸ್ಯ ಗಿಡ)",
+    "latin_name": "Mussaenda laxa",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Boṭṭu hūvina baḷḷi (ಬೊಟ್ಟು ಹೂವಿನ ಬಳ್ಳಿ)",
+    "latin_name": "Hibiscus hispidissimus",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Oryza_sativa_-_Rice,_Akki,_Chaval,_Arisi,_Biyyam,_Ari.md",
+    "plant": "Bhatta (ಭತ್ತ)",
+    "latin_name": "Oryza sativa",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cyperus_rotundus_-_Common_nut_sedge,_Abdahullu,_Baranagarmotha,_Korai,_Bhadratungamuste,_Karimuttan.md",
+    "plant": "Bhadramuṣṭi (ಭದ್ರಮುಷ್ಟಿ)",
+    "latin_name": "Cyperus rotundus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Rotheca_serrata_-_Blue_Fountain_Bush,_Gantubhaarangi,_Bharangi,_Sirutekku,_Gantubarangi,_Cherutekku.md",
+    "plant": "Bhāraṅgi (ಭಾರಂಗಿ)",
+    "latin_name": "Rotheca serrata",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Sida_acuta_-_Common_Wireweed,_Bheemana_kaddi,_Baraira,_Arivaḷmanaip_puṇṭu,_Muttavapulagamu,_Malatanni_Shiruparuva.md",
+    "plant": "Bhīmana paḍi gida (ಭೀಮನ ಪಡಿ ಗಿಡ)",
+    "latin_name": "Sida acuta",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Sansevieria_roxburghiana.md",
+    "plant": "Mañjanāru (ಮಂಜನಾರು)",
+    "latin_name": "Sansevieria roxburghiana",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Majjige patre gida (ಮಜ್ಜಿಗೆ ಪತ್ರೆ ಗಿಡ)",
+    "latin_name": "Artemisia indica",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Cymbopogon_citratus_-_Lemon_Grass,_Majjigehullu,_Gandhatrina,_Karppurappul,_Nimmagaddi,_Vasana_Pullu.md",
+    "plant": "Majjige hullu (ಮಜ್ಜಿಗೆ ಹುಲ್ಲು)",
+    "latin_name": "Cymbopogon citratus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cordia_dichotoma_-_Bahuvarah,_Challe,_Lasora,_Cavarittakikam,_Bankanakkera,_Naruvari.md",
+    "plant": "Maṇṇaḍike (ಮಣ್ಣಡಿಕೆ)",
+    "latin_name": "Cordia dichotoma",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Scoparia_dulcis_-_Sweet_Broom_Weed,_Manitumbe_gida,_Mithi_patti,_Sarakkotthini,_POttiboli.md",
+    "plant": "Maṇitumbe (ಮಣಿತುಂಬೆ)",
+    "latin_name": "Scoparia dulcis",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Coscinium_fenestratum_-_False_Calumba,_Mardaa_arashinaa,_Jhaar-ki-hald,_Atturam,_Manu_pasupu,_Maramanjal.md",
+    "plant": "Maradarasina baḷḷi (ಮರದರಸಿನ ಬಳ್ಳಿ)",
+    "latin_name": "Coscinium fenestratum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Thespesia_populnea_-_Portia_tree,_ಅಡವಿ_ಬೆಂಡೇ_ಮರ,_Paaraspipal,_Chilanti,_Ganyaraavi,_Punavasu,_Aashta.md",
+    "plant": "Marabenḍe (ಮರಬೆಂಡೆ)",
+    "latin_name": "Thespesia populnea",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Maramastu baḷḷi (ಮರಮಸ್ತು ಬಳ್ಳಿ)",
+    "latin_name": "Getonia floribunda",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Mala īśvara baḷḷi (ಮಲ ಈಶ್ವರ ಬಳ್ಳಿ)",
+    "latin_name": "Aristolochia tagala",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Malekūve (ಮಲೆಕೂವೆ)",
+    "latin_name": "Curcuma aeruginosa",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Mala mōvela (ಮಲ ಮೂವೆಲ)",
+    "latin_name": "Codariocalyx motorius",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Anthocephalus_cadamba_-_Kadamba,_ಕಮರಾಣಿ_ಹಣ್ಣು,_Kadam,_Kadambu,_Begada,_Atuthekku,_Kalamb.md",
+    "plant": "Mahā-kadamba (ಮಹಾಕದಂಬ)",
+    "latin_name": "Neolamarckia cadamba",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Maledēvadāru (ಮಲೆದೇವದಾರು)",
+    "latin_name": "Albizia saman",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Cucumis_sativus_-_Cucumber,_Southe_kaayi,_Kakree,_Mullan_vellari,_Dosa_kaya,_Kakkari.md",
+    "plant": "Muḷḷu sōte baḷḷi (ಮುಳ್ಳುಸೌತೆ ಬಳ್ಳಿ)",
+    "latin_name": "Cucumis sativus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Pseudarthria_viscida_-_Viscid_pseudarthria,_ಅಂಟುಬೆಳೆ_ಗಿಡ,_Chapakno,_Muvilai-paccilai,_Muyak,_Moovila,_Chikta.md",
+    "plant": "Mūrele gida (ಮೂರೆಲೆ ಗಿಡ)",
+    "latin_name": "Pseudarthria viscida",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Morinda_citrifolia_-_Indian_Mulberry,_Tagase_maddi,_बारतुन्डी,_Nuna,_Mogali,_Mannapavatta.md",
+    "plant": "Raṅgina mara (ರಂಗಿನ ಮರ)",
+    "latin_name": "Morinda citrifolia",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Quisqualis_indica_-_Rangoon_creeper,_Rangun_Raani,_Rangun_ki_bel,_Irangun_malli,_Ranguni_malle.md",
+    "plant": "Raṅgūn baḷḷi (ರಂಗೂನ್ ಬಳ್ಳಿ)",
+    "latin_name": "Quisqualis indica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Pterocarpus_santalinus_-_Red_sandalwood,_Ane_gulaganji,_Rakt_chandan,_Ani_kundamani,_Gurivenda.md",
+    "plant": "Raktacandana (ರಕ್ತಚಂದನ)",
+    "latin_name": "Pterocarpus santalinus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Eleusine_corocana_-_Finger_Millet,_Raagi,_Manduaa,_Raagulu,_Muttari.md",
+    "plant": "Rāgi (ರಾಗಿ)",
+    "latin_name": "Eleusine coracana",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Ocimum_gratissimum_-_Africal_basil,_Rama_Tulasi,_Banjari,_Elumichan_Tulasi,_Nimma_Tulasi.md",
+    "plant": "Rāma tuḷasi (ರಾಮ ತುಳಸಿ)",
+    "latin_name": "Ocimum gratissimum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Mimusops_elengi_-_Spanish_cherry,_Ranjal,_Maulsari,_Magizhamboo,_Vakulamu,_Ilanni.md",
+    "plant": "Ranjemara (ರಂಜೆಮರ)",
+    "latin_name": "Mimusops elengi",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Aphanamixis_polystachya_-_sitapushpa,_hottenola,_harinhara,_Kattuk-Kasturi,_chevamanu,_cemmaram.md",
+    "plant": "Rohitaka mara (ರೋಹಿತಕ ಮರ)",
+    "latin_name": "Aphanamixis polystachya",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Lambana hū (ಲಂಬನ ಹೂ)",
+    "latin_name": "Allamanda cathartica",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Chrysopogon_zizanioides_-_Vetiver,_Lavancha,_Balah,_Lamichamver,_Ayurugaddiveru,_Ramaccham.md",
+    "plant": "Lāvañcada gida (ಲಾವಂಚದ ಗಿಡ)",
+    "latin_name": "Chrysopogon zizanioides",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Aloe_vera_-_Aloe_vera,_Lolesara,_Gheekumari,_Kathalai,_Kalabanda,_Kattar_vazha.md",
+    "plant": "Lōḷesara (ಲೋಳೆಸರ)",
+    "latin_name": "Aloe vera",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Justicia_gendarussa_-_Willow-leaf_justicia,_Nili_nargandi,_Karunochi,_Addasaramu,_Karunochchi,_Tev.md",
+    "plant": "Vātankolli (ವಾತಂಕೊಲ್ಲಿ)",
+    "latin_name": "Justicia gendarussa",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cipadessa_baccifera_-_Globular-flowered_neem,_ಬೆಟ್ಟದ_ಬೇವು,_Cevvattai,_Chedu_bira,_Kaippanaranci,_Gudmi.md",
+    "plant": "Viṣa bēvu (ವಿಷಬೇವು)",
+    "latin_name": "Cipadessa baccifera",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Evolvulus_alsinoides_-_Dwarf_morning_glory,_Vishnukranti,_Sankhpushpi,_Paracitam,_Vishnukraantha,_Krsnakranti.md",
+    "plant": "Viṣṇu krānti (ವಿಷ್ಣು ಕ್ರಾಂತಿ)",
+    "latin_name": "Evolvulus alsinoides",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Asparagus_racemosus_-_Buttermilk_root,_ಆಷಾಢಿ_ಬೇರು,_Shatamuli,_Tannir-vittan,_Abiruvu,_Sathavari.md",
+    "plant": "Śatāvari (ಶತಾವರಿ)",
+    "latin_name": "Asparagus racemosus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Terminalia_bellerica_roxb_-_Bedda_nut_tree,_Thare,_Bahuvirya,_Semmaram,_Karshaphalamu,_Thani.md",
+    "plant": "Śāntimara (ಶಾಂತಿಮರ)",
+    "latin_name": "Terminalia bellirica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Vallaris_Solanacea_-_Vallaris,_Bugudi_balli,_Dudhibel,_Vatti-pondar-ijarala,_Nagamalle,_Attukottappala.md",
+    "plant": "Śivamallige baḷḷi (ಶಿವಮಲ್ಲಿಗೆ ಬಳ್ಳಿ)",
+    "latin_name": "Vallaris solanacea",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Śuṇṭhi hullu (ಶುಂಠಿ ಹುಲ್ಲು)",
+    "latin_name": "Cymbopogon martini",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Cissus_quadrangularis_-_Veld_Grape,_ಮಂಗರವಲ್ಲಿ,_Harshankar,_Pindai,_Nalleru,_Changalam_paranda.md",
+    "plant": "Saṇḍu baḷḷi (ಸಂಡುಬಳ್ಳಿ)",
+    "latin_name": "Cissus quadrangularis",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cassia_sophera_-_Senna_Sophera.md",
+    "plant": "Saṇṇa el avarike (ಸಣ್ಣ ಎಲ್ ಆವರಿಕೆ)",
+    "latin_name": "Senna sophera",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Samudra hāgala (ಸಮುದ್ರ ಹಾಗಲ)",
+    "latin_name": "Barringtonia racemosa",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Cyanthillium_cinereum_-_Ash-colour_fleabane,_Dandothpala,_Daudotpala,_Cakatevi,_Garita_kammi,_Puvamkuruntal.md",
+    "plant": "Sahadēvi gida (ಸಹದೇವಿ ಗಿಡ)",
+    "latin_name": "Cyanthillium cinereum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Plectranthus_amboinicus_-_Cuban_Oregano,_Dodda_pathre_soppu,_Patta_ajwain,_Karpuravalli,_Sugandhavalkam,_Panikkurkka.md",
+    "plant": "Sāmbrāṇi gida (ಸಾಂಬ್ರಾಣಿ ಗಿಡ)",
+    "latin_name": "Plectranthus amboinicus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Ipomoea_batatas_-_Brazilian_arrowroot,_ಗೆಣಸು_ಗಡ್ಡೆ,_Mitha_alu,_Carkkarai_valli,_Chilagadadumpa,_Cakkarakkilangu,_Ratale.md",
+    "plant": "Sisi geṇasina baḷḷi (ಸಿಸಿ ಗೆಣಸಿನ ಬಳ್ಳಿ)",
+    "latin_name": "Ipomoea batatas",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Acacia_concinna_-_Shikakai,_Sige_kayi,_Kochi,_Shika,_Cheekaya,_Cheeyakayi.md",
+    "plant": "Sīge baḷḷi (ಸೀಗೆಬಳ್ಳಿ)",
+    "latin_name": "Acacia concinna",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Sītonḍe baḷḷi (ಸೀತೊಂಡೆ ಬಳ್ಳಿ)",
+    "latin_name": "Solena heterophylla",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Momordica_dioica_-_Karkotaki,_ಮಡ_ಹಾಗಲಕಾಯಿ,_Kikoda,_Mezhuku-pakal,_Boda_kakara.md",
+    "plant": "Sīhāgala baḷḷi (ಸೀಹಾಗಲ ಬಳ್ಳಿ)",
+    "latin_name": "Momordica dioica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Sudarśana baḷḷi (ಸುದರ್ಶನ ಬಳ್ಳಿ)",
+    "latin_name": "Tinospora sinensis",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Amorphophallus_campanulatus.md",
+    "plant": "Sūraṇa gaḍḍe (ಸೂರಣಗಡ್ಡೆ)",
+    "latin_name": "Amorphophallus paeoniifolius",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Sorale gida (ಸೊರಳೆ ಗಿಡ)",
+    "latin_name": "Persicaria chinensis",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Impatiens_minor_-_Lesser_balsam,_ಸೋನೆ_ಹೂ,_Mashithandu,_Lahan_terda.md",
+    "plant": "Sōṇe hū (ಸೋಣೆ ಹೂ)",
+    "latin_name": "Impatiens minor",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Solanum_trilobatum_-_Purple_fruited_pea_egg_plant,_Ambusondeballi.md",
+    "plant": "Humbusonḍa baḷḷi (ಹುಂಬುಸೊಂಡ ಬಳ್ಳಿ)",
+    "latin_name": "Solanum trilobatum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Asystasia_gangetica_-_Chinese_Violet,_ಮೈತಳ_ಕಡ್ಡಿ,_Aanaikundrimani,_Mukka_mungera,_Valliupudali,_Lavana_valli.md",
+    "plant": "Hakkekālu baḷḷi (ಹಕ್ಕೆಕಾಲು ಬಳ್ಳಿ)",
+    "latin_name": "Asystasia gangetica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Hamēliyā hodaru (ಹಮೇಲಿಯಾ ಹೊದರು)",
+    "latin_name": "Hamelia patens",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Artocarpus_heterophyllus_-_Jackfruit,_Halasina_hannu,_Kathal,_Palamaram,_Panasa,_Plavu.md",
+    "plant": "Halasina mara (ಹಲಸಿನಮರ)",
+    "latin_name": "Artocarpus heterophyllus",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Halli sōppu gida (ಹಲ್ಲಿ ಸೊಪ್ಪು ಗಿಡ)",
+    "latin_name": "Phyllanthus reticulatus",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Haḷadi ūrki gida (ಹಳದಿ ಊರ್ಕಿ ಗಿಡ)",
+    "latin_name": "Decaschistia trilobata",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Wedelia_calendulaceae.md",
+    "plant": "Haḷadi garaga (ಹಳದಿ ಗರಗ)",
+    "latin_name": "Wedelia chinensis",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cyclea_peltata_-_Indian_moon_seed,_Padaavala,_Pata,_Padathali,_Paka.md",
+    "plant": "Hādemaṇi baḷḷi (ಹಾದೇಮಣಿ ಬಳ್ಳಿ)",
+    "latin_name": "Cyclea burmanni",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "skipped",
+    "note": "source already cited"
+  },
+  {
+    "file": "docs/herbs/Hyptis_suaveolens_-_American_Mint,_Vilaiti_tulsi,_Sirna_tulasi,_Bhustrena.md",
+    "plant": "Hādikasada gida (ಹಾದಿಕಸದ ಗಿಡ)",
+    "latin_name": "Hyptis suaveolens",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Curcuma_angustifolia.md",
+    "plant": "Hālukūve gida (ಹಾಲುಕೂವೆ ಗಿಡ)",
+    "latin_name": "Curcuma angustifolia",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Hālu kōḍi (ಹಾಲು ಕೋಡಿ)",
+    "latin_name": "Euphorbia hirta",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Lagenaria_siceraria_-_Bottle_Gourd,_Sorekayi,_Lauki,_Surakkai,_Sorakkaya,_Pechura,_Dudhi.md",
+    "plant": "Hālu sōre baḷḷi (ಹಾಲುಸೋರೆ ಬಳ್ಳಿ)",
+    "latin_name": "Lagenaria siceraria",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Morus_alba_-_White_Mulberry,_Reshmae_hannu,_Shahtoot,_Kambli_chedi.md",
+    "plant": "Hippu nērale (ಹಿಪ್ಪು ನೇರಳೆ)",
+    "latin_name": "Morus alba",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Huccu meṇasina mara (ಹುಚ್ಚು ಮೆಣಸಿನ ಮರ)",
+    "latin_name": "Schinus terebinthifolia",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Tamarindus_indica_-_Indian_date,_Hunuse_mara,_Ambli,_Yukini,_Tintrini,_Amlika,_Aambali.md",
+    "plant": "Huṇase mara (ಹುಣಸೆ ಮರ)",
+    "latin_name": "Tamarindus indica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Dolichos_biflorus.md",
+    "plant": "Huruḷi gida (ಹುರುಳಿ ಗಿಡ)",
+    "latin_name": "Macrotyloma uniflorum",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Hulikālu baḷḷi (ಹುಲಿಕಾಲು ಬಳ್ಳಿ)",
+    "latin_name": "Thunbergia mysorensis",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": null,
+    "plant": "Hulekabbi gida (ಹುಲೆಕಬ್ಬಿನ ಗಿಡ)",
+    "latin_name": "Costus pictus",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Citrus_medica_linn_-_Citron,_ಮಾದಳ,_Limbu,_Elumichai,_Beeja_pooramu,_Ganapathi-naragam,_Mahalunga.md",
+    "plant": "Huḷi mādala (ಹುಳಿಮಾದಲ)",
+    "latin_name": "Citrus medica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Mangifera_Indica_-_Mango,_Maavina_mara,_Aam,_Maamaram,_Maamidi,_Amram,_Aamba.md",
+    "plant": "Huḷi māvina mara (ಹುಳಿ ಮಾವಿನ ಮರ)",
+    "latin_name": "Mangifera indica",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Wrightia_tinctoria_-_Pala_Indigo,_Kodamurki,_Dudhi,_Veppalai,_Amkuda,_Aiyappala.md",
+    "plant": "Heggoḍuge mara (ಹೆಗ್ಗೋಡುಗೆ ಮರ)",
+    "latin_name": "Wrightia tinctoria",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Erythrina_indica.md",
+    "plant": "Heṇṇu hoṅgāre mara (ಹೆಣ್ಣು ಹೊಂಗಾರೆ ಮರ)",
+    "latin_name": "Erythrina variegata",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Bambusa_bambos_-_Indian_Thorny_Bamboo,_ಬಿದಿರು,_Baans,_Kulaymunkil,_Bonguveduru,_Mula,_Baamboo.md",
+    "plant": "Hebbidiru (ಹೆಬ್ಬಿದಿರು)",
+    "latin_name": "Phyllostachys bambusoides",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Pongamia_pinnata_-_Pongam_Tree,_Honge,_Aranj,_Pungai,_Pungu,_Ponnu.md",
+    "plant": "Hoṅge mara (ಹೊಂಗೆಮರ)",
+    "latin_name": "Pongamia pinnata",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Pongamia_pinnata_-_Smooth_leaved_pongamia,_ಹೊಂಗೆ_ಮರ,_Dithouri,_Pungan,_Lamiga,_Avittal,_Karanja.md",
+    "plant": "Hoṅge mara (ಹೊಂಗೆಮರ)",
+    "latin_name": "Pongamia pinnata",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Hoṭṭu harive (ಹೊಟ್ಟು ಹರಿವೆ)",
+    "latin_name": "Gomphrena celosioides",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match"
+  },
+  {
+    "file": "docs/herbs/Alternanthera_sessilis_-_Sessile_Joyweed,_Honagone,_Garundi,_Ponnanganni,_Ponnagantikura,_Ponnankannikkira.md",
+    "plant": "Hosanasse gida (ಹೊಸನಸ್ಸಿ ಗಿಡ)",
+    "latin_name": "Alternanthera sessilis",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Acmella_paniculata_-_Panicled_spot_flower,_ಆಚಾರ_ಜೊಂಡಿ,_Akkalkara.md",
+    "plant": "Hommugulu (ಹೊಮ್ಮುಗುಲು)",
+    "latin_name": "Acmella paniculata",
+    "references_added": 1,
+    "sources_used": [
+      "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+    ],
+    "status": "ok"
   }
 ]

@@ -93,3 +93,5 @@ Forests.
 1. [Chemistry](https://www.sciencedirect.com/science/article/pii/S0308814606008387#:~:text=alba%20L.)%2C%20respectively.,%2F100%20g%20Zn%2C%20respectively.)
 2. [Morphology](http://www.flowersofindia.net/catalog/slides/White%20Mulberry.html)
 3. [Cultivation](https://en.wikipedia.org/wiki/Morus_alba)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 444.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a calmer for diaper rash and hālina huṇṇu (milk-eruption in infants). Leaf, ripe fruit and bark used. Diaper rash: leaf paste in cold rice-water applied externally to the affected area.

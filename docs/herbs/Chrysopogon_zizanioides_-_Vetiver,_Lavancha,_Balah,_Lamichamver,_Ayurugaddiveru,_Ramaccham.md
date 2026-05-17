@@ -117,3 +117,6 @@ Tall grasslands, Meadows, Borders of forests and fields.
 2. [description](Plant)(https://www.britannica.com/plant/vetiver)
 3. [preparations](Ayurvedic)(https://www.britannica.com/plant/vetiver)
 4. [Planting](http://agriinfo.in/default.aspx?page=topic&superid=2&topicid=1403)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 395-396.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a calmer of body heat (mai ūri kamana goḷisuva). The author identifies the plant with classical Sanskrit Uśīra — a major Ayurvedic cooling agent. Root principally used; the root is used in jaḍḍī (drink), and the aromatic oil is used externally.
+   > *As cited in: Uśīra / Vālaka — classical Ayurvedic standing (no specific text/verse cited)*

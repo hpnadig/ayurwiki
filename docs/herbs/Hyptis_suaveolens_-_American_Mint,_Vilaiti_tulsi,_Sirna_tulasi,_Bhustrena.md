@@ -106,3 +106,5 @@ Dry thickets, Waste ground, Open forest areas, Fields.
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Hyptis+suaveolens)
 4. Indian Medicinal Plants by C.P.Khare
 5. [names](Common)(http://www.flowersofindia.net/catalog/slides/American%20Mint.html)
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 438.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for asthma (ūsiru sikku rōga). Leaf juice and seed used. Asthma: 1 spoon seed soaked in water for 1 hour, taken with honey daily morning empty stomach, 3–6 weeks.

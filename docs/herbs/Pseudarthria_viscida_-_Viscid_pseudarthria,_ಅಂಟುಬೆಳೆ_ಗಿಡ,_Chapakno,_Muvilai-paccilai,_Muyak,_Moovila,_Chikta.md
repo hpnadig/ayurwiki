@@ -108,3 +108,6 @@ Grassy fields, Roadsides, Thickets.
 3. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Pseudarthria+viscida)
 4. Indian Medicinal Plants by C.P.Khare
 5. [names](Common)(http://www.flowersofindia.net/catalog/slides/Sticky%20Desmodium.html#:~:text=The%20leaves%20are%207.5%2D15,30%20cm%20long%20axillary%20racemes.&text=The%20plant%20flowers%20in%20May,medicinal%20purpose%20in%20Ayurvedic%20medicine.)
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 382-383.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for children's bone growth (makkaḷa elubu beḷasalu). The author identifies the plant with the classical Sanskrit Pṛśniparṇī — one of the ten roots in Daśamūla. Root, leaf used.
+   > *As cited in: Pṛśniparṇī — Daśamūla group (no specific text/verse cited)*

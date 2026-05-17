@@ -117,3 +117,6 @@ Tropical areaSub tropical area
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [constituents](Chemical)(https://www.researchgate.net/publication/328234106_Chemical_composition_of_Cyanthillium_cinereum_L_H_Rob_essential_oil_and_its_molecular_docking_study_against_bacterial_proteins)
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.149, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 412-413.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for fever, mouth ulcers and intestinal ulcers (jvara, bāyihuṇṇu, karula huṇṇu). The author identifies the plant with the classical Sanskrit Sahadevī — used in Ayurveda for fevers, gynaecological complaints and as a Medhya-rasāyana. Whole plant used.
+   > *As cited in: Sahadevī — classical Ayurvedic standing (no specific text/verse cited)*

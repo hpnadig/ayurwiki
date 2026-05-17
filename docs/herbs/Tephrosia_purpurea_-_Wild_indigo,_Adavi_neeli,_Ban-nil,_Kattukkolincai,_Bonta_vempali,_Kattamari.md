@@ -109,3 +109,6 @@ Tropical area.
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 364
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [Composition](Chemical)(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3140110/#:~:text=purpurea%20have%20demonstrated%20the%20presence,of%20aerial%20parts%20of%20T.)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 190-191.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for glandular attacks (rasa-granthi ākramadalli) — particularly enlarged spleen, hepatomegaly and lymph-node complaints. The author identifies the plant with the classical Sanskrit Śarapuṅkhā used in Ayurvedic hepatoprotective formulations. Whole plant and root used.
+   > *As cited in: Śarapuṅkhā — classical Ayurvedic hepatoprotective standing (no specific text/verse cited on the page)*

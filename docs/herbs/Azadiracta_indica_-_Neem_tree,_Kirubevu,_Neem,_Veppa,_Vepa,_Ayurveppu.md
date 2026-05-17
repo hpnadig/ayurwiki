@@ -141,3 +141,5 @@ The resilience of the neem tree was demonstrated when it survived the devastatin
 5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 27, 33, 54, 93, 98.**
    Planting three Nimba trees grants access to Suryaloka for three divine years. Part of the auspicious pentad (pancavrksa) of trees. Classified as Jangala-adapted (arid region). Grafting method: nimba seed inserted into soft kusmanda fruit hole, sealed with ghee-honey paste, extracted after fruit ripens, sown in suitable land (Verse 267).
    > *As cited in: Vrksayurveda of Surapala, Verses 1-2, 267; Sections 2, 5, 8, 19, 21*
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 132-133.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for various wounds and ulcers (vividha vraṇagalige), and for ingrowing toenails. The author records the plant's central place in Ayurveda as 'Sarva-carma-rōga-nāśakam' (destroyer of all skin diseases).

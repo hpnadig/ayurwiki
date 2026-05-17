@@ -131,3 +131,6 @@ Tropical area, Subtropical area, Equatorial climate areas.
 
 7. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 48-52.
    Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.
+8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 328-329.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a blood-improver for anaemia (rakta-vṛddhi). The author identifies the plant with the classical Sanskrit Śigru / Śobhāñjana — a major Ayurvedic plant for anaemia, eye disorders, oedema, joint pain, and nutrition. Bark, root, leaf, flower, drumstick-pod and seed all used.
+   > *As cited in: Śigru / Śobhāñjana — classical Ayurvedic standing (no specific text/verse cited)*

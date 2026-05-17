@@ -93,3 +93,6 @@ Garlic was originally a plant of warm temperate areas with a distinct cold seaso
 3. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Allium+sativum)
 4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 483.**
    Garlic is one of the most extensively studied medicinal plants. It has proven hypoglycemic, hypotensive, hypocholesterolemic, antiatherosclerotic, and antithrombotic activities. It is used for treating cardiovascular diseases, hypertension, diabetes, infections, and has strong antibacterial, antivir. Raw garlic cloves 2-3 taken daily for cardiovascular health. Garlic oil drops for ear infections. Garlic paste applied externally for wounds and skin infections.
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 351-352.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as an excellent pain reliever (uttama nōvu nivāraka). The author identifies the plant with the classical Sanskrit Laśuna — a major Ayurvedic rasāyana, anti-inflammatory, anti-vata, and broad-spectrum medicinal.
+   > *As cited in: Laśuna — classical Ayurvedic standing as rasāyana (no specific text/verse cited)*

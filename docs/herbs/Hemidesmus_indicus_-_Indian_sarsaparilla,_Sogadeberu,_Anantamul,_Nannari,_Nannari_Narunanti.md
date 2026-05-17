@@ -132,3 +132,6 @@ Tropical area, Subtropical area
 4. [details](Cultivation)(http://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/hemidesmus-indicus)
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.89, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
 6. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.653, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 337.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for women's leucorrhoea (strīyara bali srāva). The author identifies the plant with the classical Sanskrit Sārivā / Anantamūla — used in Ayurveda for skin diseases, leucorrhoea, urinary complaints and as a blood-purifier. Root principally used.
+   > *As cited in: Sārivā / Anantamūla — classical Ayurvedic standing (no specific text/verse cited)*

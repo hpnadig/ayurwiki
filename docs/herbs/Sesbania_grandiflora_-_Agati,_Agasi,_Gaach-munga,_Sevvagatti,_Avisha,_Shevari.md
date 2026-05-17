@@ -111,3 +111,6 @@ On dry wasteland, On roadsides.
    1. Bark decoction (1/4 to 3/4 tola) taken three times a day mixed in half a cup of warm water reduces cough and phlegm. 2. Bark powder is applied on wounds after grinding with turmeric to promote healing. 3. Agase leaf stalk extract is used as nasal drops to relieve headache; similarly the extract a.
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Sesbania+grandiflora)
 5. Indian Medicinal Plants by C.P.Khare
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 318-319.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for eye-related complaints (idu kaṇṇina nivāraṇege). The author identifies the plant with the classical Sanskrit Agastya / Vakapuṣpa used in Ayurveda for eye-improvement, respiratory complaints and as a haematinic. Leaf, flower, pod, root and bark all used.
+   > *As cited in: Agastya / Vakapuṣpa — classical Ayurvedic standing (no specific text/verse cited)*

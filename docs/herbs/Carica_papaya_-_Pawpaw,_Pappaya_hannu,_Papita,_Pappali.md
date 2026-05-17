@@ -120,3 +120,5 @@ Lower rainfall, Island, Cooler temperature.
 1. [Chemistry](http://gbpihedenvis.nic.in/PDFs/Glossary_Medicinal_Plants_Springer.pdf)
 2. [description](Botonical)(http://www.fruit-crops.com/papaya-carica-papaya/)
 3. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Carica+papaya)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 295-296.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a 'papaya that dissolves muscle-mass / abnormal growths'. The author records its proteolytic action (papain). All parts used individually. Abnormal mass / soft swellings: papaya leaf paste with rice-water applied externally; daily for 2–3 days.

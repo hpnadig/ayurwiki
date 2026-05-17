@@ -152,3 +152,6 @@ In the Agni Purana (chapters 140-141), the Amalaki is listed among key medicinal
    > *As cited in: Vrksayurveda of Surapala, Verses 1-2, 24-29, 134, 137-139; Section 17*
 7. **Ningombam, Sanjeev Kumar and Hazarika, Rituparna. "Ancient Remedies: Exploring the Traditional Medicine Systems of Northeast Indian Tribes." *The International Journal of Bharatiya Knowledge System, Vol. 1, pp. 67-78*, 2024, p. 71.**
    Rich in vitamin C with strong antioxidant properties as recognized by Northeast Indian tribes. Employed to boost the immune system, improve digestion, and promote heart health.
+8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 346-347.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for eye protection (kaṇṇina rakṣaṇege). The author identifies the plant with the classical Sanskrit Āmalakī — a major Ayurvedic plant of Triphala and a key rasāyana. Fruit, leaf, bark, seed used.
+   > *As cited in: Āmalakī — classical Ayurvedic standing in Triphala / Cyavanaprāśa group (no specific text/verse cited)*

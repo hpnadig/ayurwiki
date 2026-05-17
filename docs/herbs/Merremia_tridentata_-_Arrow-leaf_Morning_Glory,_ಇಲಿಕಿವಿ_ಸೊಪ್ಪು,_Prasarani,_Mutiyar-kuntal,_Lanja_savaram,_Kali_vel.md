@@ -103,3 +103,5 @@ Grasslands.
 4. [names](Verneculer)(http://www.flowersofindia.net/catalog/slides/Arrow-leaf%20Morning%20Glory.html)
 5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 79.**
    Used for treating constipation, piles (hemorrhoids), and skin diseases. The root decoction is useful for relieving joint pain and rheumatic conditions. Also applied externally as a poultice for swellings and inflammatory conditions.
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 245-246.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for vascular / blood-vessel diseases (rakta-nāḷa rōga). Whole plant and root used. <needs-edit>: page details on internal-dose for circulatory complaints not legible at 150 dpi.

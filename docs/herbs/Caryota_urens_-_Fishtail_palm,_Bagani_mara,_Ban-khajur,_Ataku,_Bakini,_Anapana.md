@@ -109,3 +109,5 @@ Tropical area, Sub Tropical area
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [details](Cultivation)(https://pfaf.org/user/Plant.aspx?LatinName=Caryota+urens)
 5. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.750, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 314.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for post-partum complaints (bāṇantiya kuttagaḷige). The tree provides sap (toddy), jaggery, sago, edible pith, fibre. All parts used. Post-partum tonic: bayne jaggery + ginger + sesame chutney as daily food.

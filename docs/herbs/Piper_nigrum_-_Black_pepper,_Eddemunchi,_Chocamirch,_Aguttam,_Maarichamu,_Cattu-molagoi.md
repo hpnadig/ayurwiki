@@ -120,3 +120,5 @@ Tropical region, Moist region, At hot regions.
 2. [Morphology](https://www.britannica.com/plant/black-pepper-plant)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2014/11/21/black-pepper-benefits-usage-dose-side-effects/)
 4. [detail](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Piper+nigrum)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 124.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as an excellent food-preservative and seasoning. The author traces black pepper's global trade history as 'Black Gold', and notes its central place in Ayurveda. Indicated for paediatric anaemia (rakta-alpate) and other digestive complaints.

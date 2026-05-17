@@ -70,3 +70,6 @@ Tropical area, Moist deciduous forests.
 ## References
 
 1. Flowers of India
+2. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 358-359.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for chronic gastric irritation and (in classical Ayurveda) for chronic respiratory complaints. The author identifies the plant with the classical Sanskrit Bhāraṅgī used in Daśamūla-pakṣa formulations for asthma and cough. Root and leaf used.
+   > *As cited in: Bhāraṅgī — classical Ayurvedic standing for kāsa / śvāsa (no specific text/verse cited)*

@@ -8,6 +8,9 @@ Recent content updates to Ayurwiki.
 
 | Article | Section | Change | Date |
 | --- | --- | --- | --- |
+| 210 herb pages | Herbs | Added references from Daitota, P. S. Venkatarama — *Auṣadhīya Sasyagaḷu* (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants), Vivekananda Samshodhana Kendra, Puttur, 2016. The Kannada-language source contributes 279 plant entries with a strong Dakshina Kannada / coastal-Karnataka folk-medicine slant; 210 of them matched existing herb pages in `docs/herbs/` and received an academic-style citation summarising the book's gloss on each plant. Several entries carry editorial safety caveats (e.g., aristolochic acid, latex irritants, cardiac glycosides, reserpine, L-DOPA) that the original book does not include. | 17 May 2026 |
+| [Abies webbiana - Himalayan silver, Talisapatri, Himorinda, Talispatri, Taleesaptram](herbs/Abies_webbiana_-_Himalayan_silver,_Talisapatri,_Himorinda,_Talispatri,_Taleesaptram.md) | Herbs | Update Abies webbiana NCBI reference with descriptive title | 26 Mar 2026 |
+| [Privacy Policy](privacy.md) | General | Update privacy policy to disclose health content access | 26 Mar 2026 |
 | [Contributors](credits.md) | General | Improve change descriptions in recent changes page | 25 Mar 2026 |
 | [Acacia concinna   Bahuphenarasa](herbs/Acacia_concinna_-_Bahuphenarasa.md) | Herbs | Added information and citations | 25 Mar 2026 |
 | [Acacia ferruginea   Arimedah](herbs/Acacia_ferruginea_-_Arimedah.md) | Herbs | Added information and citations | 25 Mar 2026 |
@@ -220,5 +223,4 @@ Recent content updates to Ayurwiki.
 | [Trichosanthes dioica   Patola](herbs/Trichosanthes_dioica_-_Patola.md) | Herbs | Additions and citations | 24 Mar 2026 |
 | [Vitis vinifera   Draksha, Grape](herbs/Vitis_vinifera_-_Draksha,_Grape.md) | Herbs | Additions and citations | 24 Mar 2026 |
 | [Ziziphus nummularia   Balakapriya](herbs/Ziziphus_nummularia_-_Balakapriya.md) | Herbs | Additions and citations | 24 Mar 2026 |
-| [Privacy Policy](privacy.md) | General | Add privacy policy page | 23 Mar 2026 |
 | [Contributing](contributing.md) | General | Fix GitHub repository links to point to correct repo | 14 Mar 2026 |

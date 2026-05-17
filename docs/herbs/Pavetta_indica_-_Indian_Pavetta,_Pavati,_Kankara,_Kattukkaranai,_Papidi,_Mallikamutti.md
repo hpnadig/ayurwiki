@@ -100,3 +100,5 @@ Tropical area.
 1. [composition](Chemical)(https://scialert.net/fulltext/?doi=rjphyto.2011.66.69#:~:text=The%20chemical%20composition%20of%20the,leaves%20of%20Pavetta%20indica%20Linn.&text=It%20indicated%20presence%20of%2024,%25)%20and%20tricyclene%20(5.74%25).)
 2. [Morphology](http://www.flowersofindia.net/catalog/slides/Indian%20Pavetta.html)
 3. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Pavetta+indica)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 298-299.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a key general-action plant (pramukha prāvaḍhasana). All parts used individually. <needs-edit>

@@ -124,3 +124,5 @@ Mediterranian region, meadows.
 2. [Characteristics](https://gobotany.newenglandwild.org/species/coriandrum/sativum/)
 3. [to grow](How)(https://www.rhs.org.uk/Plants/4371/i-Coriandrum-sativum-i/Details)
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2013/03/04/coriander-seed-and-leaves-health-benefits-complete-ayurveda-details/)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 185-186.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as special for infant care (śiśu-pālane). The seed (dhanyāka) and leaf are used for childhood digestive complaints, mild fevers, and as a refreshing tonic. Infant digestion: 1 spoon coriander seed crushed, in 1½ cups water reduced to 1 cup decoction, strained, with rock-sugar, given by spoon (1 spoon dose) to ease infant gas / colic / fussy feeding.

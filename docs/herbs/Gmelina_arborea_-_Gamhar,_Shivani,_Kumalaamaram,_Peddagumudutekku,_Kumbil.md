@@ -130,3 +130,6 @@ Tropical area, Subtropical area, Moist teak forests.
 4. [Details](Cultivation)(http://vikaspedia.in/agriculture/forestry/tree-crops/gmelina-arborea)
 5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 329.**
    1. For headaches caused by fever, grinding the leaves and applying them as a poultice on the forehead provides relief. 2. Root scent, raw fruit, or bark decoction consumed helps treat piles and hemorrhoids. 3. Excessive consumption of the tree's fruit can cause increased thirst, heart palpitations, . Leaf juice with milk and sugar for urinary disorders. Root bark decoction for postpartum care.
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 161-162.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a multi-purpose tree. The author explicitly identifies Kuṁbaḷa-mara with Gambhārī / Śrīparṇī of the classical Daśamūla ten-root formulation of Ayurveda. Root, bark, leaf and fruit are used for fevers, blood-disorders, oedema and digestive complaints.
+   > *As cited in: Daśamūla — Gmelina arborea is the tenth root (no specific text/verse cited on the page)*

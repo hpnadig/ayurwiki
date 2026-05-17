@@ -109,3 +109,5 @@ Tropical area, Sub tropical area
 2. [Composition](Chemical)(https://www.ncbi.nlm.nih.gov/pubmed/14984086)
 3. [description](Botonic)(http://keralaplants.in/flowering-plants-kerala-dvd.aspx)
 4. [names](Vernacular)(http://envis.frlht.org/bot_search)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 304.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for oral and dental health (bāyi hallugaḷa susthitige). Tender shoots are a classical mouth-rinse. Fruit, leaf, bark, root used. Oral health / gum bleeding: 4–6 tender leaves chewed slowly in the morning; juice swallowed.

@@ -119,3 +119,6 @@ Moist regions, Hotter area.
 1. The Ayuredic Pharmacopoeia of India Part-1, Volume-5, Page no-14
 2. [Morphology]
 3. [details](Cultivation)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 276-277.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as an excellent nutritive medicine (uttama pauṣṭikauṣadha). The author identifies the plant with classical Sanskrit Vidārī / Vidārikanda — a major Ayurvedic rasāyana (rejuvenative). Tubers are the primary medicinal part.
+   > *As cited in: Vidārī / Vidārikanda — classical Ayurvedic rasāyana (no specific text/verse cited)*

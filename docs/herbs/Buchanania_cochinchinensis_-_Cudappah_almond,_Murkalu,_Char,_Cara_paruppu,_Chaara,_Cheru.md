@@ -121,3 +121,6 @@ Tropical area.
 3. [DESCRIPTION](BOTANIC)(http://keralaplants.in/)
 4. [names](Vernacular)(http://envis.frlht.org/bot_search)
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.33, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 269-270.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for chest / side pain (pakṣa nōvige). The author identifies the plant with classical Priyāla — used in Ayurveda as a nutritive demulcent. Seed, bark, leaf, root used.
+   > *As cited in: Priyāla — classical Ayurvedic standing (no specific text/verse cited)*

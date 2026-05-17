@@ -76,3 +76,5 @@ Light blue, Blue or mauve flowers are arranged on long, curved,  Relatively thic
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 356
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 138-139.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a useful poultice for 'silent' / chronic non-healing ulcers (mauna vraṇa). Root, leaf and fibre (cogoda) are used individually. <needs-edit>

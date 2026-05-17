@@ -99,3 +99,5 @@ Tall grasslands, Meadows.
 2. [description](Plant)(https://indiabiodiversity.org/species/show/246672)
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/m/melastoma-malabathricum-ssp-malabathricum)
 4. [Cultivation"](https://indiabiodiversity.org/species/show/246672)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 265-266.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for white-discharge / chronic external wounds (śveta-pravāna). Leaf, root, bark, fruit used. Skin wounds (boil-class): 1 ciḍi nekkare leaves crushed, applied externally as paste with cool-rice water; daily for 3 days.

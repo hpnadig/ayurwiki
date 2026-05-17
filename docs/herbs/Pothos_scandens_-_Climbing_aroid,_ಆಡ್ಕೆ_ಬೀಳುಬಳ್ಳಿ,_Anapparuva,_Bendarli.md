@@ -83,3 +83,5 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 3. [Morphology]
 4. [Cultivation]
 5. Indian Medicinal Plants by C.P.Khare
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 70.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: the slender climbing vine serves as fresh cattle fodder; the root, whole plant, leaves, flowers, fruit and seeds enter household preparations as a mild diuretic and laxative; the dried vine, twisted into rope, is used regionally to make hip-support belts (sonta-paṭṭi) for postpartum care.

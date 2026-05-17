@@ -105,3 +105,5 @@ Tropical area, Sub tropical area
 2. [description](Botonic)(http://keralaplants.in/flowering-plants-kerala-dvd.aspx)
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [Composition](Chemical)(https://www.tsijournals.com/articles/chemical-compositions-of-the-essential-oils-from-aerial-seed-and-root-parts-of-nigerian-asystasia-gangetica-l.pdf)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 428.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a simple treatment (mundige sarala cikitse) — used in regional first-aid for sprains, fevers and as a leafy vegetable. <needs-edit>

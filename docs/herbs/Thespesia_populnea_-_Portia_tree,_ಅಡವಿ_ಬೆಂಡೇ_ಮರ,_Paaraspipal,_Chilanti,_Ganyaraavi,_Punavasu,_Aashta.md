@@ -125,3 +125,5 @@ Sea coasts, Rocky coasts, Inland edge of mangrove swamp.
 3. [details](Cultivation)(https://pfaf.org/user/Plant.aspx?LatinName=Thespesia+populnea)
 4. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/t/thespesia-populnea)
 5. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.1267, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 370.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for children's reproductive disorders (makkaḷa jananendriya vyādhaka). Bark, leaf, flower, fruit and oil used. Children's complaints: bark of Marabenḍe 150 mL extract + 20 g cumin + 1 spoon bishop's-weed seed, in water boiled to 1/4; 1–3 days.

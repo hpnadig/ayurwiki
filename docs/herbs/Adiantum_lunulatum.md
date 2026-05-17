@@ -62,3 +62,5 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 1. ["chemistry"]
 2. ["morphology"]
 3. [ "Cultivation"]
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 197-198.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a quick wound-healer (gāyagaḷalli śīghra guṇakāri). Plant fronds and rhizome are used; the fern's spore powder is also used externally on chronic skin lesions. Wound dressing: fern fronds bruised with cold water, applied as external paste once daily, refreshed for 3–6 days.

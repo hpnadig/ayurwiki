@@ -104,3 +104,6 @@ Lowland forest, Soils include granitic, Sandstone area.
 1. [composition](Chemical)(http://gbpihedenvis.nic.in/PDFs/Glossary_Medicinal_Plants_Springer.pdf)
 2. [Morphology](http://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/coscinium-fenestratum)
 3. [detail](Cultivation)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 368-369.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a skin disease tonic (carma-rōga vardhaka). The author identifies the plant with classical Sanskrit Dāru-haridrā — used in Ayurveda for skin diseases, jaundice and as a wound antiseptic. Bark, root and stem used.
+   > *As cited in: Dāru-haridrā — classical Ayurvedic standing (no specific text/verse cited)*

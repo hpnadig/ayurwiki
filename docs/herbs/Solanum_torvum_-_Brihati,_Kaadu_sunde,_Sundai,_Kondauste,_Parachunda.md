@@ -108,3 +108,6 @@ Woodland clearings, Thickets, Waste places, Naturalised on open and Moist ground
 3. [Cultivation]
 4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 717.**
    The plant's fruits are used in traditional medicine for cough, liver disorders, and as a digestive. The root decoction is used as an anthelmintic and for treating toothache. Solanum torvum belongs to the same family as S. indicum and contains steroidal saponins with antifertility properties. The unr. Fruit and root decoctions used in traditional preparations; unripe fruits consumed as vegetable for nutritional and medicinal benefits.
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 163.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for spleen disorders (plīha ākrama). The author identifies the plant with Sanskrit Bṛhatī of the classical Bṛhatī-Kaṇṭakārī pair (part of Daśamūla). Root, leaf, fruit and ripe fruit are used.
+   > *As cited in: Daśamūla (Bṛhatī component) — no specific text/verse cited on the page*

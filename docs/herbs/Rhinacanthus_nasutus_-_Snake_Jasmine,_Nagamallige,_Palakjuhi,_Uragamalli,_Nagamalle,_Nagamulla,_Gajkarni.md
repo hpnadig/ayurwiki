@@ -103,3 +103,6 @@ Thickets, Hedges, Waste places, Well-drained soils.
 3. [names](Local)(http://www.flowersofindia.net/catalog/slides/Snake%20Jasmine.html)
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Rhinacanthus+nasutus)
 5. Indian Medicinal Plants by C.P.Khare
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 255-256.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a special remedy for contagious skin diseases (sāṁsargika carma-rōga) — particularly ringworm and 'Dhobi itch' (a colloquial term for tinea cruris). The plant's Sanskrit name Dadrughna places it classically in Ayurvedic ringworm treatment. Leaf, root, bark used.
+   > *As cited in: Dadrughna — classical Ayurvedic standing as a ringworm-killer (no specific text/verse cited)*

@@ -116,3 +116,6 @@ Tropical area.
 1. [constituents](Chemical)(http://bioinfo.bisr.res.in/project/domap/plant_details.php?plantid=0042&bname=Achyranthes%20aspera)
 2. [Morphology](http://eol.org/pages/585501/details)
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/a/achyranthes-aspera)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 320-321.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a reliever of silent muscle decay / chronic atrophy (mauna dummāṁsa nivāraka). The author identifies the plant with classical Sanskrit Apāmārga used in Ayurveda for piles, vāta-rōga, snake-bite and dental complaints. Root, leaf, whole plant used.
+   > *As cited in: Apāmārga — classical Ayurvedic standing (no specific text/verse cited)*

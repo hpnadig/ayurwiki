@@ -88,3 +88,5 @@ Capsicum frutescens grows well in lowland tropical regions and at an elevation u
 1. ["chemistry"]
 2. ["morphology"]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Capsicum+frutescens)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 208-209.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as beneficial for headaches and digestive sluggishness. Root, leaf, flower, fruit used individually. The author traces the regional name 'Gāndhāri' to legacy trade routes through Gandhara region.

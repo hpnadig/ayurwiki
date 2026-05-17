@@ -81,3 +81,6 @@ Succeeds in most soils, preferring a circumneutral soil and a sunny position. Gr
 5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 48.**
    Propagated by semi-matured stem cuttings taken from the lower portion of branches. Best propagated during the month of Kartika (post-monsoon). After planting, should be irrigated constantly for two months, keeping the propagated material nearly submerged in water.
    > *As cited in: Vrksayurveda of Surapala, Section 8*
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 271.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for protecting the eyes (kaṇṇina rakṣaṇeyalli). The author identifies the plant with classical Śatapatrī. Petals, leaves, root, fruit used; rose-water (gulkand-like) preparations are a major use.
+   > *As cited in: Śatapatrī — classical Ayurvedic standing (no specific text/verse cited)*

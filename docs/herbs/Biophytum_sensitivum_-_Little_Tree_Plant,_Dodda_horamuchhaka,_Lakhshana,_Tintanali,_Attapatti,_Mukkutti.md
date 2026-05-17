@@ -118,3 +118,5 @@ Tropical area
 4. [names](Vernacular)(http://envis.frlht.org/bot_search)
 5. [to plant/cultivate](How)(http://tropical.theferns.info/viewtropical.php?id=Biophytum+sensitivum)
 6. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.1299, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 236.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for side-pain / pleurisy (pārśva-śūla). Leaf and flower used; the whole-plant is also used as a single preparation. Side-pain: <needs-edit>

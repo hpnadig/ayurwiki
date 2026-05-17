@@ -127,3 +127,6 @@ Roadsides, Vacant plots, Wastelands.
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 30, 44, 92.**
    Listed among restricted campus trees not suitable for planting in residential compounds. In horticultural wonders, castor seeds treated with pig fat (kokara vasa) and sown in suitable land reportedly produce fruits resembling karkati (a type of melon/cucumber) rather than typical castor fruits.
    > *As cited in: Vrksayurveda of Surapala, Verses 239; Sections 3, 7, 19*
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 338-339.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a panacea for pain (nōvugaḷige rāmabāṇa). The author identifies the plant with the classical Sanskrit Eraṇḍa — a major Ayurvedic anti-arthritic and anti-inflammatory. Bark, root, leaf, seed used; castor oil is a key external and internal preparation.
+   > *As cited in: Eraṇḍa / Gandharva-hasta — classical Ayurvedic standing (no specific text/verse cited)*

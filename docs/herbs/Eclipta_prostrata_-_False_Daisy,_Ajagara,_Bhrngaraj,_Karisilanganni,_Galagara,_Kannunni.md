@@ -122,3 +122,6 @@ Poorly drained area, Wet areas.
 4. [Details"]("Cultivation)(http://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/eclipta-alba-1)
 5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 117.**
    1. Applying fresh plant juice on the nose (a few drops) helps cure snakebite poison. 2. Taking equal parts of leaf and peppercorn, grinding well, rolling into small pills, and consuming with buttermilk helps treat indigestion and related conditions. 3. Drinking fresh plant juice helps treat diarrhea.
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 325.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for pittic headache (paittika tale-nōvige). The author identifies the plant with the classical Sanskrit Bhṛṅgarāja — a major Ayurvedic plant for hair-growth, liver-protection and head-region disorders. Whole plant used.
+   > *As cited in: Bhṛṅgarāja / Keśarāja — classical Ayurvedic standing for liver and hair (no specific text/verse cited)*

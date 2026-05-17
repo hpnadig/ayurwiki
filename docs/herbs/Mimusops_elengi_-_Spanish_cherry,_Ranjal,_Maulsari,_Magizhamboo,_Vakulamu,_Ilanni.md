@@ -132,3 +132,6 @@ Tall grasslands, Meadows, Borders of forests and fields.
 7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 33, 44, 71, 91, 93.**
    Classified as Jangala-adapted (arid region). In Dohada tradition, the tree blooms profusely when a beautiful young woman sprays wine from her mouth onto it — this process defines the concept of Dohada (the distinctive desire of a plant). Flowering further enhanced with a recipe of kalaya, jaggery, and snake powder mixed in water with mud.
    > *As cited in: Vrksayurveda of Surapala, Verses 151, 237; Sections 5, 7, 14, 19, 20*
+8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 391-392.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a renowned medicine for dental strength (hallugaḷa mustige aprame). The author identifies the plant with the classical Sanskrit Bakula — a major Ayurvedic plant for teeth, gums and women's gynaecological complaints. Bark, flower, leaf, fruit used.
+   > *As cited in: Bakula — classical Ayurvedic standing (no specific text/verse cited)*

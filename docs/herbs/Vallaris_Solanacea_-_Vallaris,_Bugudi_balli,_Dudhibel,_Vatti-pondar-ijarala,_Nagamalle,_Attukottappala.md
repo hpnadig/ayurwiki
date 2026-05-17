@@ -113,3 +113,5 @@ Terrestrial, Tropical area, Sub-Tropical area, Monsoonal area.
    1. The plant's root decoction is given to those bitten by venomous creatures as an antidote. 2. Extracting the milky sap from the plant's creeper bark, squeezing the juice, and applying it on swollen glands helps reduce the swelling. 3. The white latex from the plant, when exposed to heat, helps rem. Root decoction for venomous bites; milky sap applied externally for glandular swellings and skin conditions.
 5. [Cultivation]
 6. [names](Common)(http://www.flowersofindia.net/catalog/slides/Bread%20Flower.html)
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 405-406.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for skin disease (carma-rōga). Leaf, bark and root used. NOTE (added editorially): Vallaris solanacea is mildly toxic — external use only. Skin lesions / chronic eczema: leaf paste applied externally with cool oil; 2–3 hours daily, 1–2 weeks.

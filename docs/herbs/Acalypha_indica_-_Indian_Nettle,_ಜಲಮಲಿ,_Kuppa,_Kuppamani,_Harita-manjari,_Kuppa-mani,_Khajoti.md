@@ -108,3 +108,5 @@ Waste places, Road sides
 5. [ Cultivation]
 6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 95.**
    1. Grinding the leaves, mixing with buttermilk and consuming helps relieve cough; mixing with sesame oil and consuming relieves breathing difficulties. 2. Applying a paste of the plant juice with a little turmeric helps heal bedsores; if insects are present in the wound, the paste also helps elimina. Leaf juice mixed with sesame oil or buttermilk for internal use; paste applied externally for bedsores and scabies.
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 166.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for rheumatism (āmavāta). The leaf and root are mainly used; the whole-plant decoction is taken for joint swelling and constipation. Joint pain / āmavāta: 1 ciḍi whole plant boiled in 2 cups water reduced to ½ cup decoction with a pinch of ginger powder; taken twice daily for 3–6 days.

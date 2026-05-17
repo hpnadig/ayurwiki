@@ -131,3 +131,6 @@ Wild in mountains, Meadows, Borders of forests and fields.
 4. [Details](Cultivation)(https://uses.plantnet-project.org/en/Holarrhena_pubescens_(PROTA))
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.92, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
 6. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.343, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 182-183.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for prameha-vraṇa (diabetic-spectrum ulcers and complaints). The author identifies the plant explicitly with classical Kuṭaja (the bark) and Indrayava (the seed) of Ayurveda — used in classical formulations for chronic dysentery and amoebic diarrhoea. Root-bark, seed, leaf and flower are used.
+   > *As cited in: Kuṭaja and Indrayava — classical Ayurvedic standing for chronic dysentery and prameha (no specific text/verse cited on the page)*

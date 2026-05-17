@@ -111,3 +111,5 @@ Tropical area, Sub tropical area
 4. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.438, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
 5. Journal Paper from National Library of Medicine - Heliotropium indicum L.: From Farm to a Source of Bioactive Compounds with Therapeutic Activity
 6. Tropical the Ferns Information about Cultivation
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 223-224.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for body-lice / scabies (meṇḍave). Also used for acne, blackheads and pimples. Leaf and root are used. Acne-vulgaris / blackheads: Cēḷu konḍi leaves crushed in cool oil, applied as external paste 1 hour; daily for 5–6 weeks.

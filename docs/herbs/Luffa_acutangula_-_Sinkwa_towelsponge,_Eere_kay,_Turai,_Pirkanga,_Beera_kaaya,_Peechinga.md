@@ -111,3 +111,6 @@ A plant of the lowland tropics, where it can be grown at elevations up to 500 me
 5. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 69.**
    Leaves and roots used for providing manure (nutrition) to Madhuka trees, contributing to the production of camphor-fragrant flowers. Manure: leaves and roots of Jaalini given as samskrta (nutrition) to madhuka tree (Verse 146).
    > *As cited in: Vrksayurveda of Surapala, Verse 146; Section 13*
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 243-244.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for pustular ulcers (caṭamāri vraṇa). Leaf, fruit and seed used individually. <needs-edit>
+   > *As cited in: Jālinī / Kośātakī — classical Ayurvedic standing (no specific text/verse cited)*

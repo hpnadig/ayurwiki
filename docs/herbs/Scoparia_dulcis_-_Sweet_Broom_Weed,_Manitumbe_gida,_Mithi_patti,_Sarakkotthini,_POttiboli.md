@@ -113,3 +113,5 @@ Subtropical area, Tropical area.
 3. [details](Cultivation)(https://www.pfaf.org/user/Plant.aspx?LatinName=Scoparia+dulcis)
 4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 583.**
    The plant has cytotoxic and antitumor activity due to scopadulcic acid. It shows analgesic, anti-inflammatory, sympathomimetic, and antiviral properties. Traditionally used for treating tumors, diabetes, and as a pain-relieving agent.
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 367-368.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for sneezing, cough, cold and breathlessness (sīnu, kammu, negaḍi, ubbusagaḷige). Whole plant used. Cold / cough: 25 ml fresh whole-plant juice taken with honey, twice daily for 3 days.

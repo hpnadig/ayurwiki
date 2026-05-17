@@ -95,3 +95,5 @@ Seeds
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Gardenia+resinifera)
 4. Indian Medicinal Plants by C.P.Khare
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 259-260.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a reliever of weapon-cut and surgical-wound pain (śastrāṅa nōvinivāraka). The aromatic resin (cambi gum), leaf and root used. Surgical / cut-wound pain: cambi-gum resin applied externally on the wound site; <needs-edit> for refinement.

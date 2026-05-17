@@ -111,3 +111,5 @@ Thickets, Waysides, Fields, Hedges.
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Ipomoea+nil)
 4. Indian Medicinal Plants by C.P.Khare
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.96, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 188-189.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for migraine (āre-tale-nōvu / ārdha-śīrṣa-rōga). The seed is the principal medicinal part. Also used for abdominal pain (jaṅgam-class) — caution: the seed is a potent purgative.

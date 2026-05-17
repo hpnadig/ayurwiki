@@ -105,3 +105,5 @@ Trophical region, Subtrophical region, Borders of forests and fields.
 1. [Constituents](Phytochemical)(https://www.ncbi.nlm.nih.gov/pubmed/25985355)
 2. [description](Plant)(http://www.chineseherbshealing.com/patchouli/)
 3. [Details](Cultivation)(http://www.tropical.theferns.info/viewtropical.php?id=Pogostemon+cablin)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 291-292.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a wound-healing accelerator (gāyagaḷalli kṣipra-saṁvardhanege). Leaf, stem, root used. Wounds: fresh leaves applied externally as paste 1½–3 hours; daily for 1–2 days.

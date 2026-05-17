@@ -143,3 +143,6 @@ Subtropical and tropical climate area, Sandy loam soil.
 
 8. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 09-12.
    Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.
+9. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 85-86.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: the cover-plant of the book; presented as a 'green medicine' for all kinds of ulcers and wounds. The author recounts the classical mythology by which Indra sprinkled amṛta on the slain monkey army during the Rama-Ravana war, and the herb sprang from their bodies — explaining the names Amruta-balli, Dhanvantarī and Amṛta.
+   > *As cited in: Reference to the Rāmāyaṇa episode of Indra sprinkling amṛta on the slain monkey army*

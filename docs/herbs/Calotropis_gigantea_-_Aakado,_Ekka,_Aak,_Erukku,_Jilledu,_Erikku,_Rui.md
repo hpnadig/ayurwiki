@@ -132,3 +132,5 @@ Tropical area, Indian subcontinent.
 4. [Composition](Chemical)(https://www.researchgate.net/publication/241039494_Chemical_composition_of_Calotropis_gigantea)
 5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 245.**
    1. The milky latex from the plant applied to scorpion stings and venomous bites neutralizes the venom. People in the area apply the leaf on the bitten area. 2. The root bark powder (about 2 grains) mixed with black pepper is given for snake bites; it induces vomiting and helps expel the venom. 3. Ap.
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 170-171.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a reliever of knee pain (mōṇakālu nōvu śāmaka). The Sanskrit name Arka places the plant in classical Ayurveda for vāta disorders. SAFETY NOTE (added editorially): Calotropis latex is highly irritant and cardiac glycosides are toxic — external use only, never internally without supervision.

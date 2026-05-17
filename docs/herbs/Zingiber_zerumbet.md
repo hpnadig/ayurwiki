@@ -79,3 +79,5 @@ Moist places in forests.
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Zingiber+zerumbet)
 4. Indian Medicinal Plants by C.P.Khare
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 71.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for trembling of the limbs (aṅgāṅga naḍuka). The rhizome paste is applied externally for persistent tremor and muscular twitching in the elderly; fresh rhizome juice is taken with honey for chronic indigestion. The rhizome is also used as a household carminative and as a base in regional rasam-type preparations.

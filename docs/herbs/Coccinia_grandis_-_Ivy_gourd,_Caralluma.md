@@ -92,3 +92,6 @@ Deciduous forests, , , , .
 1. [Chemistry]
 2. [Morphology]
 3. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.57, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 240-241.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for diabetic ulcers (prameha vraṇa) and for general prameha (diabetes). The author identifies the plant with classical Sanskrit Bimbī used in Ayurveda. All parts used individually; the fresh leaf juice is the principal antidiabetic preparation.
+   > *As cited in: Bimbī — classical Ayurvedic standing (no specific text/verse cited)*

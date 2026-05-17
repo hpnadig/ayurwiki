@@ -122,3 +122,6 @@ Tropical area, Sub tropical area
 5. [details](Cultivation)(https://www.tntreepedia.com/tree-details/?id=15ee1774244777f9e60132f9ad2d055f)
 6. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.511, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
 7. Journal paper from Nationa Library of Medicine - Holoptelea integrifolia (Roxb.) Planch: a review of its ethnobotany, pharmacology, and phytochemistry
+8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 233-234.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for excess urination / polyuria (atimūtra). The author records its classical Ayurvedic standing as Cirabilva / Pūtikā. Leaf, bark, seed and root all used. Polyuria / sugar-prameha: 30–35 g fresh bark of tapasi-mara in 3 cups water reduced to ½ cup decoction; taken twice daily.
+   > *As cited in: Cirabilva / Pūtikā — classical Ayurvedic standing (no specific text/verse cited)*

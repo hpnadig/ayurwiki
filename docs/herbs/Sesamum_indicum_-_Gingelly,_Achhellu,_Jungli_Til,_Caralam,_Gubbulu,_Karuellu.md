@@ -136,3 +136,5 @@ Tropical area, Plain area, Along roadsides, Along waste lands.
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 43-44, 60, 62, 65, 67, 91.**
    One of the most frequently referenced plants in the text, used ubiquitously in preparations for plant care. Seed paste: tila with brhati, bhasma, sarsapa for seed coating (Verse 54).
    > *As cited in: Vrksayurveda of Surapala, Verses 54, 101, 128, 134, 139, 234, 236; used throughout Sections 7-19*
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 119-120.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as foremost in food, health and ritual — a sacrificial grain (homadhānya), sacred grain (pavitra-dhānya) and oil-seed of paramount Ayurvedic standing. Used for chronic constipation, anaemia, alopecia (indralupta), and as a general nourisher.

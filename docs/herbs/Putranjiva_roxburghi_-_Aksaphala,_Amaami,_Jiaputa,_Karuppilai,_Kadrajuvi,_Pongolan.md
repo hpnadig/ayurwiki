@@ -104,3 +104,6 @@ Tropical area, Sub Tropical area
 1. [Uses](https://easyayurveda.com/2017/04/20/putrajivaka-putranjiva-roxburghii/)
 2. [DESCRIPTION](BOTANIC)(http://keralaplants.in/flowering-plants-kerala-dvd.aspx)
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 299-300.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for cervical swellings (kṛttige-ya bāvugaḷige). The classical Sanskrit name Putrajīva ('giver of children') reflects its use in Ayurvedic formulations for infertility. Bark, leaf, fruit, seed used.
+   > *As cited in: Putrajīva — classical Ayurvedic standing in Putradā-rasāyana class for infertility (no specific text/verse cited)*

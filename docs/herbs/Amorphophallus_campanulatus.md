@@ -75,3 +75,6 @@ Secondary forests, Shrub forests, Grasslands.
 1. [Chemistry](https://www.researchgate.net/publication/263445567_Phytochemical_and_Nutritional_Evaluation_of_Amorphophallus_campanulatus_Roxb_Blume_Corm)
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Amorphophallus+paeoniifolius)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 423.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a special diet for piles / haemorrhoids (mūla-vyādhi). The author identifies the plant with the classical Sanskrit Sūraṇa — central in Ayurveda for haemorrhoid management. Corm used.
+   > *As cited in: Sūraṇa — classical Ayurvedic standing as anti-haemorrhoidal (no specific text/verse cited)*

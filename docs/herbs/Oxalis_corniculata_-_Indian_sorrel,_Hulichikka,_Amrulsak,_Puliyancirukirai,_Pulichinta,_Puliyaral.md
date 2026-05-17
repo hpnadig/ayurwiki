@@ -114,3 +114,6 @@ Tropical area, Sub tropical area
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2012/11/07/changeri-oxalis-corniculata-indian-sorrel-full-ayurveda-details/)
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.122, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 302-303.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a famous remedy for rectal prolapse (guda-bhraṁśa). The author identifies the plant with classical Sanskrit Cāṅgerī used for diarrhoea, piles and rectal prolapse. Whole plant used.
+   > *As cited in: Cāṅgerī — classical Ayurvedic standing (no specific text/verse cited)*

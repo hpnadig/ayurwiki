@@ -104,3 +104,5 @@ Found on a wide range of soils, Heavily grazed, Closely cut areas in pastures, P
 1. [Chemistry]
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Desmodium+triflorum)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 281-282.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for paediatric convulsions / mūrcche-rōga. Whole plant (samūla) used. Toddler diarrhoea / mūrcche: whole plant ½ ciḍi (~10–20 g) in 2 cups water, decoction prepared; ½ cup in the morning on empty stomach, 2 weeks.

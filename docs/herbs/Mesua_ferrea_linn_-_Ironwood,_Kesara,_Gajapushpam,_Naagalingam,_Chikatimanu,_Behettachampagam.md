@@ -123,3 +123,6 @@ Mountains of eastern himalayas, East bengal, Wetland of Assam.
 3. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 391.**
    Mesua ferrea (Nagakesara/Iron Wood) flowers are astringent and used for bleeding piles, dysentery, and menorrhagia. The stamens yield an essential oil with antimicrobial and anthelmintic properties. The bark is used as an astringent. The seed oil is applied for skin diseases and rheumatism. It has a. Flower powder 2-3 grams with honey for bleeding disorders. Seed oil applied externally for skin diseases. Bark decoction used as an astringent.
 4. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Mesua+ferrea)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 256-257.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for fever, headache and cough (jvara, tale-siḍita, kapha-rōga). The author identifies the plant with classical Sanskrit Nāgakeśara — one of the four sweet-smelling powders (cātur-jātaka) in Ayurveda. Flower, leaf, bark used.
+   > *As cited in: Nāgakeśara — classical Ayurvedic standing as one of cātur-jātaka (no specific text/verse cited)*

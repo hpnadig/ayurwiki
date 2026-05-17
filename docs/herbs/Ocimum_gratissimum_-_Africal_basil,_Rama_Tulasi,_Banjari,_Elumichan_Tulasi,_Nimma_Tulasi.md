@@ -109,3 +109,6 @@ Along lake shores, In savannah vegetation, In submontane forest, Disturbed land.
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Ocimum+gratissimum)
 4. Indian Medicinal Plants by C.P.Khare
 5. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.703, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 389-390.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for skin disease in pregnant women (garbhiṇiyara carma-vādige). The author identifies the plant with classical Sanskrit Ārjaka. Leaf, shoot, root used. Skin disease during pregnancy: leaf paste applied externally as poultice; daily 1 hour for 1 week.
+   > *As cited in: Ārjaka — classical Ayurvedic standing (no specific text/verse cited)*

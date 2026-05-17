@@ -115,3 +115,5 @@ Mountain areas, Sparse forest areas.
 2. [description](Plant)(http://www.iplantz.com/plant/1495/tabernaemontana-divaricata/)
 3. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Tabernaemontana+divaricata)
 4. [names](Local)(http://www.flowersofindia.net/catalog/slides/Crape%20Jasmine.html)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 248.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as an external medicine for eye protection (kaṇṇina rakṣaṇege aṅgya maddu). All parts used individually. Eye-protection: 4–4 spoons of fresh-leaf juice; <needs-edit>.

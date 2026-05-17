@@ -61,3 +61,5 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 2. [Morphology]
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 78.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for enhancing facial beauty (mukha saundarya vṛddhi). A paste of the leaf and fruit is used as a face-pack for pimples and dull complexion; tender fruit cooked as a curry is believed to improve skin colour; bark decoction is taken as a postpartum tonic in some Dakshina Kannada households.

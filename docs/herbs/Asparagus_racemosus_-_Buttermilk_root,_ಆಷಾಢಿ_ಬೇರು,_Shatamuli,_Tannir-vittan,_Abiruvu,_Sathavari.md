@@ -147,3 +147,6 @@ Forests, Thickets, Moisty soil area, Himalayas, Eastwards from Kashmir.
 
 8. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 78-80.
    Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.
+9. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 402-403.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for eye-health (kaṇṇina ārōgyadalli). The author identifies the plant with the classical Sanskrit Śatāvarī — one of the most important Ayurvedic plants, a major women's tonic, galactagogue and rasāyana. Root tuber principally used.
+   > *As cited in: Śatāvarī — classical Ayurvedic standing as women's rasāyana (no specific text/verse cited)*

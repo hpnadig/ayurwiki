@@ -85,3 +85,5 @@ Pale pink to Voilate, Laterally subtended by imperfect flowers, upper flowers so
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/c/cyathula-prostrata)
 4. [ "Cultivation"]
 5. Indian Medicinal Plants by C.P.Khare
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 168-169.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a simple remedy for sudden/acute complaints in women — particularly excessive menstrual bleeding and related female complaints. Excessive menstruation: <needs-edit>

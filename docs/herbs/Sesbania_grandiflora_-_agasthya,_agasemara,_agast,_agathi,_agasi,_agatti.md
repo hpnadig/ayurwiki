@@ -110,3 +110,6 @@ Tropical area.
 2. [description](Botonic)(http://keralaplants.in/flowering-plants-kerala-dvd.aspx)
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Sesbania+grandiflora)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 318-319.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for eye-related complaints (idu kaṇṇina nivāraṇege). The author identifies the plant with the classical Sanskrit Agastya / Vakapuṣpa used in Ayurveda for eye-improvement, respiratory complaints and as a haematinic. Leaf, flower, pod, root and bark all used.
+   > *As cited in: Agastya / Vakapuṣpa — classical Ayurvedic standing (no specific text/verse cited)*

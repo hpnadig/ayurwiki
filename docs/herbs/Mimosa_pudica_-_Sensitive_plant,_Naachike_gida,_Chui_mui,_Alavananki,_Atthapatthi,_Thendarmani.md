@@ -124,3 +124,6 @@ Tropical area, Sub tropical area
 5. [details](Cultivation)(https://pfaf.org/user/Plant.aspx?LatinName=Mimosa+pudica)
 6. [composition](Chemical)(https://en.wikipedia.org/wiki/Mimosa_pudica#:~:text=Chemical%20analysis%20has%20shown%20that,found%20within%20the%20plant's%20leaves.)
 7. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.1076, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 258-259.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for testicular pain (aṇḍa nōvige). The author identifies the plant with the classical Sanskrit Lajjālu, used in Ayurveda for piles, leucorrhoea, wounds and as a haemostatic. Whole plant used.
+   > *As cited in: Lajjālu — classical Ayurvedic standing (no specific text/verse cited)*

@@ -112,3 +112,5 @@ Damp places, Wet thickets, Mixed forest.
 1. [constituents](Chemical)(https://www.ncbi.nlm.nih.gov/pubmed/22071643)
 2. [description](Plant)(http://www.flowersofindia.net/catalog/slides/Shiny%20Bush.html)
 3. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Peperomia+pellucida)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 117.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for nasal disorders (nāsa-rōgagaḷige). A succulent water-storing herb that grows for 4–5 months in monsoon. The whole plant including roots is used. Headache, cold, sinus congestion, sneezing: whole plant (minus root) pressed to juice, strained, 4–6 drops instilled in each nostril once in the evening; up to 3 days if needed.

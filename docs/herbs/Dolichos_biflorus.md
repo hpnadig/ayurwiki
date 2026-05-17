@@ -63,3 +63,6 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 2. ["Morphology"]
 3. [ "Cultivation"]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 448.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a counter for gaṇḍamāla (cervical lymph swelling). The author identifies the plant with classical Sanskrit Kulattha — a major Ayurvedic plant for stones, obesity and prameha. Seed used.
+   > *As cited in: Kulattha — classical Ayurvedic standing (no specific text/verse cited)*

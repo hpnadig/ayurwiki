@@ -128,3 +128,5 @@ Evergreen forest, Western ghats
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2014/11/26/jaiphal-nutmeg-myristica-fragrans-uses-dose-side-effects/)
 4. [PRACTICES](CULTIVATION)(http://tropical.theferns.info/viewtropical.php?id=Myristica+fragrans)
 5. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.470, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 226-227.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for limb-numbness (aṅgāṅga maragaṭṭuvike) and facial paralysis. Bark, kernel-nut (jāyikāyi), aril (jāpatre / mace) and essential oil are used; the kernel has a strong sedative action.

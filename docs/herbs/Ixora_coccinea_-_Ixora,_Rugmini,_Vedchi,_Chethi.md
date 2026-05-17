@@ -106,3 +106,5 @@ Trophical area, Sub trophical area.
 
 1. [Morphology](http://www.efloraofgandhinagar.in/shrub/ixora-coccinea)
 2. [Details](Cultivation)(https://www.plantsrescue.com/ixora-coccinea/)
+3. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 87-88.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for the effects of poison on the body and for inflammatory bleeding (throat lesions, mouth ulcers, fever with confusion). The root and whole plant are used. For inflammatory bleeding (throat / mouth lesions, fever): root-extract decoction 15–18 g in water, taken 1–3 times daily.

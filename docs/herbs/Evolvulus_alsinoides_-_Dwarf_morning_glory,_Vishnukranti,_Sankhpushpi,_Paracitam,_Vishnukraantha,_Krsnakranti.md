@@ -114,3 +114,6 @@ Tropical area
 5. Intech Open book series - OPEN ACCESS PEER-REVIEWED CHAPTER - Writtene by Harshavardhini Kuppusamy R, Jananipriya Srinivasan, Pavithra Sundaramoorthy and Kannan Kilavan Packiam
 6. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.1177, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
 7. Article from "Bimbima" - Daily life experience of Health, Ayurveda, Medicines, complementary therapies
+8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 401-402.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as an excellent debility tonic (nirsaśasi attutama poṣaka). The author records the plant as one of the recognised Śaṅkhapuṣpī species used in Ayurveda as a Medhya-rasāyana (intellect-promoting tonic). Whole plant used.
+   > *As cited in: Śaṅkhapuṣpī — classical Medhya-rasāyana (no specific text/verse cited)*

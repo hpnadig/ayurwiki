@@ -116,3 +116,5 @@ Tropical area, Sub tropical area
 4. [names](Vernacular)(https://easyayurveda.com/2015/06/03/abroma-augusta-devils-cotton/)
 5. [details](Cultivation)(http://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/abroma-augusta)
 6. [Ecosystem/Climate](Required)(https://vikaspedia.in/agriculture/crop-production/package-of-practices/medicinal-and-aromatic-plants/abroma-augusta)
+7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 228.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for long-standing complaints (dīrghakāla ākramaṇagaḷige) — particularly menstrual irregularities. Root, bark, leaf and fibre used. Menstrual irregularity: bark of root 2–3 g in milk decoction, taken in the morning; cycle for 3 months.

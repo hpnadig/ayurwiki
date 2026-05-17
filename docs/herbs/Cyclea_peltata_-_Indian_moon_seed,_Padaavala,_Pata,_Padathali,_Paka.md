@@ -82,3 +82,5 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 1. [Chemistry]
 2. [Morphology]
 3. [Cultivation]
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 73.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for rectal prolapse (guda-bhraṁśa nivāraka). Root paste is applied around the prolapsed anus to encourage retraction; root decoction is taken internally for chronic dysentery and as a postnatal tonic.

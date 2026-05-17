@@ -109,3 +109,5 @@ Tropical area, Sub tropical area
 2. [description](Botonic)(http://keralaplants.in/flowering-plants-kerala-dvd.aspx)
 3. [composition](Chemical)(http://gbpihedenvis.nic.in/PDFs/Glossary_Medicinal_Plants_Springer.pdf)
 4. [names](Vernacular)(http://envis.frlht.org/bot_search)
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 135-136.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for swellings, bruises, boils and ringworm (bāvu, siḍita, kuru, dadra). The author also records its historical regional use during smallpox and measles outbreaks. Root and leaf are the main parts used.

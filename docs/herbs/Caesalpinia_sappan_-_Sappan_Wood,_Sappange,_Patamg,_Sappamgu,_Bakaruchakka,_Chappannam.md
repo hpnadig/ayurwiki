@@ -119,3 +119,6 @@ Secondary forest, Near roadsides, Forest-edges, Limestone hills.
 1. [Chemistry"](https://www.cabdirect.org/cabdirect/abstract/20103344002)
 2. [description](Flowers)(https://www.flowersofindia.net/catalog/slides/Sappan%20Wood.html)
 3. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Biancaea+sappan&redir=Caesalpinia+sappan)
+4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 292-293.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for diabetic thirst (pramēhada bāyārike). The author records the heartwood as classical Pattanga of Ayurveda. Heartwood and root used. Diabetic thirst: 25 g of heartwood with 3–1 cup water; reduced to decoction; taken twice daily, 14 days.
+   > *As cited in: Pattanga / Sappanga — classical Ayurvedic standing (no specific text/verse cited)*

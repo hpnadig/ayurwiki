@@ -98,3 +98,5 @@ Garden area.
 2. [Morphology](https://books.google.co.in/books?id=-mTUBjSyo_UC&pg=PA136&redir_esc=y#v=onepage&q&f=false)
 3. [Details](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Momordica+dioica)
 4. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.116, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 420.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for chronic headache (dīrghakālada talenōvige). Tender vine and tuber used. Chronic headache: leaf paste applied externally to the forehead; 1 hour daily for 3 days.

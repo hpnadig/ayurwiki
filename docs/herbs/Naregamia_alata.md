@@ -80,3 +80,5 @@ Rocky slopes, Grassy slopes.
 2. [Morphology]
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 273.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as effective in pitta (bilious) disorders. Whole plant and root used. <needs-edit>

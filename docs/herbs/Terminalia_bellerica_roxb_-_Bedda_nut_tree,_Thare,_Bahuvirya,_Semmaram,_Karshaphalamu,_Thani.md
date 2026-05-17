@@ -127,3 +127,6 @@ Scattered forests, Sunny mountain slopes.
 7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 65-66, 75, 82, 99.**
    Part of Triphala (with Haritaki and Amalaki), used extensively in plant fumigation and irrigation for fruit enhancement. Listed among vegetable-fruit plants receiving pig-bone fumigation during summer. As a hydrology indicator tree, the presence of an ant-hill adjacent to Vibhitaka signals underground water at a depth of four-and-a-half men's length.
    > *As cited in: Vrksayurveda of Surapala, Verses 134, 137, 159; Sections 13, 14, 17, 21*
+8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 404-405.**
+   Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for Arjuna-class diseases (ārju rōgagaḷalli — possibly liver / cardiac). The author identifies the plant with the classical Sanskrit Vibhītaka / Bibhītakī — one of the three Triphala constituents, central to Ayurvedic detoxification, eye-care and respiratory health. Fruit, seed, bark used.
+   > *As cited in: Vibhītaka — classical Triphala constituent (no specific text/verse cited)*
