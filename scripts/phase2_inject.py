@@ -31,10 +31,10 @@ import sys
 from datetime import datetime
 
 # === BOOK CONFIG — edit these per book ============================
-SOURCE_TITLE = "Vrksayurveda of Surapala"
-SOURCE_DEDUPE_KEYS = ["Vrksayurveda", "Vrkshayurveda"]
-FILE_MAP_PATH = "references/file-maps/vrkshayurveda.json"
-SLUG = "vrkshayurveda"  # used only for the per-run log filename
+SOURCE_TITLE = "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
+SOURCE_DEDUPE_KEYS = ["Auṣadhīya Sasyagaḷu", "Auṣadhiya Sasyagalu", "Daitota"]
+FILE_MAP_PATH = "references/file-maps/daitota.json"
+SLUG = "daitota"  # used only for the per-run log filename
 # ==================================================================
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
