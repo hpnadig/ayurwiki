@@ -12,10 +12,11 @@ import json, os, re, glob, sys
 from datetime import datetime
 
 # ─── Configuration ───
-HERB_DIR = "/Volumes/T9/Saaranga/Ayurwiki/docs/herbs"
+BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+HERB_DIR = os.path.join(BASE, "docs", "herbs")
 MERGED_JSON = "/tmp/karnataka_merged.json"
-INDEX_JSON = "/Volumes/T9/Saaranga/Ayurwiki/references/index.json"
-LOG_DIR = "/Volumes/T9/Saaranga/Ayurwiki/logs"
+INDEX_JSON = os.path.join(BASE, "references", "index.json")
+LOG_DIR = os.path.join(BASE, "logs")
 
 SOURCE = {
     "title": "Karnatakada Aushadhiya Sasyagalu",
