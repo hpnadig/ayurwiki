@@ -62,10 +62,15 @@ Phytochemical investigations of the aerial parts of Acacia pennata (Mimosaceae) 
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
 ### Dravya
 ### Rasa
+Tikta, Kashaya
 ### Guna
+Light, Ruksha
 ### Veerya
+Sheeta
 ### Vipaka
+Katu
 ### Karma
+Kapha - Pitta Shamaka, Vaata-Vardhaka
 ### Prabhava
 ## Habit
 Climber
@@ -108,3 +113,4 @@ Forests, Avoiding drier regions, Chiefly along rivers, Ravines, At elevations.
 2. [Morphology](https://indiabiodiversity.org/species/show/32012)
 3. [Cultivation]
 4. Kappathagudda - A Repertoire of Medicinal Plants of Gadag, Page no: 35
+5. Pharmacognosy Journal 2013; Lalchhandama K. — Efficacy and structural effects of Acacia pennata root bark upon the avian parasitic helminth
