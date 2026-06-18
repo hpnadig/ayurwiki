@@ -130,7 +130,6 @@ Tropical area, Subtropical area.
 2. [Morphology](https://indiabiodiversity.org/species/show/32002)
 3. [preparations](Ayurvedic)(https://easyayurveda.com/2015/09/12/rosary-pea-abrus-precatorius/)
 4. [details](Cultivation)(https://www.researchgate.net/post/How_to_cultivate_Abrus_precatorius)
-5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 121.**
-   1. Grinding the roots and leaves into a paste, adding milk, and applying on the scalp and hair helps promote hair growth and prevent greying; it can also be used to darken grey hair. 2. Consuming the root decoction with milk and fruit helps treat conditions related to spermatorrhea. 3. Placing the r.
+5. "Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.920, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
 6. Kappathagudda - A Repertoire of Medicinal Plants of Gadag book, Page no: 30
 7. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.15, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune

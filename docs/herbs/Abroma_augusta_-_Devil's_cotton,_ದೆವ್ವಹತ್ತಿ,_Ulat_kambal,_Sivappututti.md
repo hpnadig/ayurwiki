@@ -46,7 +46,6 @@ The root contains abromine (betaine), friedelin, abromasterol, abromasterol A, c
 | Tamil | Sivappututti |
 | Hindi | Ulat kambal |
 | English | Devil's cotton |
-.
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
