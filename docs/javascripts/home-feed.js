@@ -60,6 +60,16 @@
     }
     function fail(id, s) { s.remove(); if (toc) toc.remove(id); }
 
+    // Herb of the day — a date-seeded daily spotlight (a reason to return).
+    var hotd = addSection('row-hotd', 'Herb of the day');
+    fetch(base + 'assets/cards/herbs.json').then(ok)
+      .then(function (cards) {
+        var pool = cards.filter(function (c) { return c.i && c.d; });
+        if (!pool.length) { fail('row-hotd', hotd); return; }
+        renderHerbOfDay(hotd, pool[dateIndex(pool.length)], base);
+      })
+      .catch(function () { fail('row-hotd', hotd); });
+
     // Recently updated (wisdomlib-style "latest text").
     var recent = addSection('row-recent', 'Recently updated');
     fetch(base + 'assets/cards/_recent.json').then(ok)
@@ -249,6 +259,41 @@
       strip.appendChild(a);
     });
     section.appendChild(strip);
+  }
+
+  // Deterministic index for "today" — same pick all day, changes daily.
+  function dateIndex(n) {
+    var d = new Date();
+    var key = d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate();
+    return ((key * 2654435761) % 4294967296 % n + n) % n;
+  }
+
+  // "Herb of the day" spotlight banner.
+  function renderHerbOfDay(section, card, base) {
+    var head = el('div', 'aw-home-rowhead');
+    var left = el('div', 'aw-home-rowhead-l');
+    left.appendChild(el('span', 'aw-home-rowtitle-plain', 'Herb of the day'));
+    left.appendChild(el('span', 'aw-home-rowdesc', 'A plant to explore today.'));
+    head.appendChild(left);
+    section.appendChild(head);
+
+    var href = base + 'herbs/' + encodeURI(card.s) + '/';
+    var banner = el('a', 'aw-hotd');
+    banner.href = href;
+    var thumb = el('div', 'aw-hotd-thumb');
+    var img = el('img');
+    img.loading = 'lazy';
+    img.alt = '';
+    img.src = 'https://img.ayurwiki.org/' + encodeURI(card.i);
+    img.onerror = function () { thumb.classList.add('aw-hc-thumb--empty'); img.remove(); };
+    thumb.appendChild(img);
+    banner.appendChild(thumb);
+    var body = el('div', 'aw-hotd-body');
+    body.appendChild(el('div', 'aw-hotd-title', esc(card.t)));
+    if (card.d) body.appendChild(el('div', 'aw-hotd-desc', esc(card.d)));
+    body.appendChild(el('span', 'aw-hotd-cta', 'Read more →'));
+    banner.appendChild(body);
+    section.appendChild(banner);
   }
 
   if (document.readyState === 'loading') {
