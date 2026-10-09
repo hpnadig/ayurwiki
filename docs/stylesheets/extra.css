@@ -514,6 +514,108 @@
   }
 }
 
+/* ============================================================
+   Herb study panel — Dravyaguna at a glance + conditions
+   ============================================================ */
+.md-typeset .aw-study {
+  margin: 0.8rem 0 1.4rem;
+  border: 1px solid var(--aw-border);
+  border-radius: 12px;
+  background: linear-gradient(135deg, #f5faf6 0%, #eef4ef 100%);
+  overflow: hidden;
+}
+.aw-study-sec {
+  padding: 0.75rem 0.95rem;
+}
+.aw-study-sec + .aw-study-sec {
+  border-top: 1px solid var(--aw-border);
+}
+.aw-study-h {
+  font-size: 0.62rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--aw-muted);
+  margin-bottom: 0.55rem;
+}
+.aw-dg-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(10.5rem, 1fr));
+  gap: 0.5rem 0.9rem;
+}
+.aw-dg-item {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  min-width: 0;
+}
+.aw-dg-k {
+  font-size: 0.62rem;
+  font-weight: 700;
+  color: #2e8b57;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.aw-dg-k em {
+  font-style: normal;
+  font-weight: 500;
+  color: var(--aw-muted);
+  text-transform: none;
+  letter-spacing: 0;
+  margin-left: 0.3rem;
+}
+.aw-dg-v {
+  font-size: 0.84rem;
+  font-weight: 600;
+  color: #1b1f24;
+  line-height: 1.3;
+}
+.aw-study-cta {
+  margin-top: 0.6rem;
+  font-size: 0.78rem;
+  color: var(--aw-muted);
+}
+.md-typeset button.aw-study-cta-btn {
+  margin-left: 0.3rem;
+  border: 1px solid #c9a227;
+  background: #fff;
+  color: #8a6d1a;
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.12rem 0.55rem;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+.md-typeset button.aw-study-cta-btn:hover {
+  background: #fdf7e3;
+}
+.aw-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+.md-typeset a.aw-chip,
+.aw-chip {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--aw-accent);
+  background: #fff;
+  border: 1px solid var(--aw-border);
+  padding: 0.12rem 0.55rem;
+  border-radius: 999px;
+  text-decoration: none !important;
+  transition: border-color 0.15s, background 0.15s;
+}
+.md-typeset a.aw-chip:hover {
+  border-color: var(--aw-accent);
+  background: var(--aw-accent-soft);
+}
+.aw-chip-more {
+  color: var(--aw-muted);
+}
+
 /* ---- Back-to-home link ---- */
 .md-typeset a.aw-back {
   display: inline-flex;

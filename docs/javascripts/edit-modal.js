@@ -358,6 +358,10 @@
     chip.className = 'aw-auth-chip';
     bar.appendChild(chip);
     renderAuthChip(chip);
+
+    // Any in-content "Help complete it" triggers open the same modal.
+    var triggers = document.querySelectorAll('.aw-edit-trigger');
+    for (var t = 0; t < triggers.length; t++) triggers[t].onclick = openModal;
   }
 
   // --- Init ---

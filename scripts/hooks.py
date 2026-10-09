@@ -927,6 +927,111 @@ def on_pre_build(config, **kwargs):
         _generate_credits_page()
 
 
+# ---- Herb study panel: Dravyaguna at a glance + conditions + edit CTA ----
+_DG_ORDER = [
+    ("Rasa", "taste"),
+    ("Guna", "qualities"),
+    ("Veerya", "potency"),
+    ("Vipaka", "post-digestive"),
+    ("Karma", "action"),
+    ("Prabhava", "special effect"),
+]
+_DG_CORE = {"Rasa", "Guna", "Veerya", "Vipaka"}
+_TREAT_RE = re.compile(r"Ayurvedic_Herbs_known_to_be_helpful_to_treat_([^\"']+)")
+
+
+def _parse_dravyaguna(raw):
+    """Pull the filled ### fields out of the '## Properties' block."""
+    props, in_props, cur = {}, False, None
+    for line in raw.split("\n"):
+        st = line.strip()
+        if st.startswith("## "):
+            in_props = st == "## Properties"
+            cur = None
+            continue
+        if in_props and st.startswith("### "):
+            cur = st[4:].strip()
+            props.setdefault(cur, [])
+            continue
+        if in_props and cur and st and not st.startswith("Reference:"):
+            props[cur].append(st)
+    return {k: " ".join(v).strip() for k, v in props.items() if " ".join(v).strip()}
+
+
+def _herb_conditions(raw):
+    """Therapeutic conditions from the frontmatter 'treat_<X>' categories."""
+    conds, seen = [], set()
+    for m in _TREAT_RE.finditer(raw):
+        cat = "Ayurvedic_Herbs_known_to_be_helpful_to_treat_" + m.group(1).strip()
+        label = m.group(1).replace("_", " ").strip()
+        key = label.lower()
+        if label and key not in seen:
+            seen.add(key)
+            conds.append((label, cat))
+    return conds
+
+
+def _herb_study_panel(raw):
+    """A student-facing panel: Dravyaguna chips, conditions, and an edit CTA."""
+    dg = _parse_dravyaguna(raw)
+    filled = [(k, sub) for (k, sub) in _DG_ORDER if dg.get(k)]
+    core_n = sum(1 for k in _DG_CORE if dg.get(k))
+    conds = _herb_conditions(raw)
+
+    p = ['<aside class="aw-study">', '<div class="aw-study-sec">',
+         '<div class="aw-study-h">Dravyaguṇa — at a glance</div>']
+    if filled:
+        p.append('<div class="aw-dg-grid">')
+        for k, sub in filled:
+            p.append(
+                f'<div class="aw-dg-item"><span class="aw-dg-k">{esc(k)}'
+                f'<em>{esc(sub)}</em></span>'
+                f'<span class="aw-dg-v">{esc(dg[k])}</span></div>'
+            )
+        p.append('</div>')
+    if core_n < 4:
+        msg = "No Dravyaguṇa data yet." if not filled \
+            else "Some Dravyaguṇa properties are missing."
+        p.append(
+            f'<div class="aw-study-cta">{msg} '
+            '<button type="button" class="aw-edit-trigger aw-study-cta-btn">'
+            '✎ Help complete it</button></div>'
+        )
+    p.append('</div>')
+
+    if conds:
+        shown = conds[:12]
+        p.append('<div class="aw-study-sec"><div class="aw-study-h">Used for</div>'
+                 '<div class="aw-chips">')
+        for label, cat in shown:
+            href = "/categories/" + urllib.parse.quote(cat) + "/"
+            p.append(f'<a class="aw-chip" href="{href}">{esc(label)}</a>')
+        if len(conds) > len(shown):
+            p.append(f'<span class="aw-chip aw-chip-more">+{len(conds) - len(shown)} more</span>')
+        p.append('</div></div>')
+
+    p.append('</aside>')
+    return "".join(p)
+
+
+def _inject_study_panel(html, page):
+    """Insert the herb study panel just after the page <h1>."""
+    try:
+        with open(page.file.abs_src_path, "r", encoding="utf-8",
+                  errors="replace") as f:
+            raw = f.read()
+    except (OSError, IOError):
+        return html
+    panel = _herb_study_panel(raw)
+    if not panel:
+        return html
+    idx = html.find("</h1>")
+    if idx != -1:
+        pos = idx + len("</h1>")
+        return html[:pos] + panel + html[pos:]
+    return panel + html
+
+
 def on_page_content(html, page, config, files, **kwargs):
     """Rewrite image URLs to the CDN, then wrap content + credits in tabs."""
     # Point every page image at the CDN (applies to all pages).
@@ -934,6 +1039,10 @@ def on_page_content(html, page, config, files, **kwargs):
 
     src = page.file.src_path
     basename = os.path.basename(src)
+
+    # Herb pages get a Dravyaguna / conditions study panel near the top.
+    if src.startswith("herbs/") and basename != "index.md":
+        html = _inject_study_panel(html, page)
 
     # Skip meta pages and section indexes
     if basename in _SKIP_CREDITS or basename == "index.md":
