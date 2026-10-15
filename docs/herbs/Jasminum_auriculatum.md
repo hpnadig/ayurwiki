@@ -24,7 +24,7 @@ date: 2020-05-22
 Mouth ulcers, Tuberculosis.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 

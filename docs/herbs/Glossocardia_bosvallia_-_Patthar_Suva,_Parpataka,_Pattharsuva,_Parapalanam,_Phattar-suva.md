@@ -76,7 +76,7 @@ Outer 3 bracts are 3m long, Yellow, Yellow borne in heads carried on slender sta
 Glossocardia bosvallia is available through August-December.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Glossocardia_bosvallia_W_IMG_1721.jpg)

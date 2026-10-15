@@ -22,10 +22,10 @@ date: 2020-06-05
 ![](../images/Lolium_temulentum_002.JPG)
 **Lolium temulentum** is an annual plant that can grow up to 1.00 metres tall. It is harvested from the wild for local use as a food and medicine.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

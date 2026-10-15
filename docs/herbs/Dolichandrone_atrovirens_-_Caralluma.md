@@ -15,12 +15,14 @@ date: 2021-05-06
 
 [TOC]
 
+![*Dolichandrone atrovirens*](../images/Dolichandrone_atrovirens_-_Flickr_-_dinesh_valke.jpg)
+
 **Dolichandrone atrovirens**  is a deciduous tree. It can grow upto 16m tall. Branchless are valvet hairy.
 ## Uses
-, , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -56,7 +58,7 @@ Capsule, It's size is 15cm long, Brown, Ribbed
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -72,3 +74,4 @@ Capsule, It's size is 15cm long, Brown, Ribbed
 1. [Chemistry]
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 172
 3. [Cultivation]
+4. **Dinesh Valke. Photograph of *Dolichandrone atrovirens*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/5780560713)

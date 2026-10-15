@@ -21,10 +21,10 @@ date: 2021-04-29
 ![*Typhonium trilobatum*](../images/Typhonium_trilobatum_kz1.jpg)
 **Bengal Arum** is an aroid distributed throughout India. This strange plant has very narrow 3 ft flower heads emerging before leaves in spring, then unfurl into only kind of narrow, with intricate maroon and cream patterning.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -56,7 +56,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Typhonium_trilobatum_kz1.jpg)

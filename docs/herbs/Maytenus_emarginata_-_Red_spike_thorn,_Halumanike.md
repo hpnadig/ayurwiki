@@ -63,7 +63,7 @@ Large capsules, Globe shaped with two cavities in its interior where seeds are a
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

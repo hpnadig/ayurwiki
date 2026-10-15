@@ -18,7 +18,7 @@ date: 2020-06-09
 ![](../images/Oenothera_odorata0.jpg)
 **Oenothera odorata** is a perennial plant that can grow up to 0.90 metres tall. It is harvested from the wild for local use as a food.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 {{Parts Used|Young leaves}.
@@ -54,7 +54,7 @@ Seeds, Basal cuttings in spring..
 Prefers a dryish well-drained sandy loam and full sun.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Oenothera_odorata0.jpg)

@@ -41,7 +41,7 @@ date: 2023-04-20
 ![*Vrikkaphala*, *Anacardium occidentale *](../images/Cashew_Brazil_fruit_1.jpg)
 **Vrikkaphala** or the Cashew nut tree is a moderate sized tree with sprawling branches that is cultivated in India for its nuts. The tree originates in South America.
 ## Uses
-Skin diseases, Dysentery, hemorrhoids, Anorexia, Hair fall, Worm infestation, General weakness
+Skin diseases, Dysentery, hemorrhoids, Anorexia, Hair fall, Worm infestation, General weakness, Burns, Leprous sores, Warts
 
 ## Parts Used
 Leaves, Roots, Fruits, Bark, Extracted Oil
@@ -127,3 +127,5 @@ Tropical area, Coastal area.
    The cashew nut shell liquid (CNSL) has antimicrobial, molluscicidal, and anti-inflammatory properties. Bark decoction is used for treating diarrhea and dysentery. Leaf extracts have shown anti-inflammatory and analgesic activity, and the plant is also used for treating anthelmintic conditions and sk. Bark decoction prepared and taken internally; leaf extract applied externally; cashew nut shell oil used topically for warts and corns.
 7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 211-212.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for dental strength (hallu-gaḷa bhadrate). The author records that cashew was introduced into India by the Portuguese; the kernel is a nutritive nut, the cashew-apple juice a tonic. Bark, kernel, fruit-apple all used; the kernel-oil shell is caustic and used only externally.
+8. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 11-13.**
+   Oil from the hard outer shell is applied to cracks in soles of feet, warts and leprous sores. Paste from old leaves is applied to burns and skin infections. Decoction from bark is used to treat acute diarrhoea. Shell oil applied externally; leaf paste for burns and skin infections; bark decoction for diarrhoea.

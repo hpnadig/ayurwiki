@@ -62,7 +62,7 @@ Slender, 6-18cm Long, Strongly curved downward pods, Cylindrical in cross sectio
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Acacia_obtusifolia_(5389497993).jpg)

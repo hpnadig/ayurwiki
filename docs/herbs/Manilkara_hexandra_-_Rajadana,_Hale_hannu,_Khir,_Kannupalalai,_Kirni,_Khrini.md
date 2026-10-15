@@ -51,7 +51,7 @@ Manilkara hexandra contains phytoconstituents such as sterols, tennin, saponin, 
 | Tamil | Kannupalalai, Kanupala, Karupala, Kirni, Palai, Ulakkaipalai |
 | Telugu | Kirni, Manchipala, Manjipaala, Pala chettu |
 | Hindi | Khir, Khirni, Kshiri, Ranjan |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

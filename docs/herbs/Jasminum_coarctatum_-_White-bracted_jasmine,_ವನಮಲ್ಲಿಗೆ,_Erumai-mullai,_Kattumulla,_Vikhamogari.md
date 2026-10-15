@@ -18,11 +18,15 @@ categories:
   - "Herbs"
 date: 2020-11-16
 ---
+
+![*Jasminum coarctatum*](../images/Jasminum_coarctatum_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+Skin eruptions.
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -57,7 +61,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -77,3 +81,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 5. Indian Medicinal Plants by C.P.Khare
 6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 183-184.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for skin eruptions (carma ākramaṇagaḷige). Root, leaf, shoot, fruit and flower are used. Common skin diseases: leaves ground with water and applied as external lepa for 3–6 days.
+7. **Dinesh Valke. Photograph of *Jasminum coarctatum*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/54550080647)

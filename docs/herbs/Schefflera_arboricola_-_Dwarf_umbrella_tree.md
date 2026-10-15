@@ -13,6 +13,8 @@ date: 2019-05-27
 
 [TOC]
 
+![*Schefflera arboricola*](../images/Schefflera_arboricola_tender_-_Flickr_-_dinesh_valke.jpg)
+
 Schefflera arboricola (syn. Heptapleurum arboricolum) is a flowering plant in the family Araliaceae, native to Taiwan as well as Hainan. Its common name is dwarf umbrella tree, as it appears to be a smaller version of the umbrella tree, Schefflera actinophylla.
 
 ## Description
@@ -34,3 +36,4 @@ It is commonly grown as a houseplant, popular for its tolerance of neglect and p
 ## References
 
 1. [arboricola"]("Schefflera)(http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015275). Flora of China. Missouri Botanical Garden, St. Louis, MO & Harvard University Herbaria, Cambridge, MA. Retrieved 14 March 2013.
+2. **Dinesh Valke. Photograph of *Schefflera arboricola*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/368807186)

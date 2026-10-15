@@ -68,7 +68,7 @@ Prickly, Sparsely pubscent, Berry pale yellow. Fruiting season is November-May
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

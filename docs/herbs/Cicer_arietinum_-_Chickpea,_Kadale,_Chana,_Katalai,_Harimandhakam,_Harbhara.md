@@ -74,7 +74,7 @@ Seeds
 Plants grow well in lowland tropical areas, up to an elevation of 1,200 metres.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Cicer_arietinum_HabitusFruits_BotGardBln0906a.jpg)

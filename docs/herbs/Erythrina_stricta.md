@@ -22,7 +22,7 @@ date: 2021-10-27
 ![](../images/Erythrina_stricta_flower_1.jpg)
 **Erythrina stricta** is an evergreen tree with a rather open crown. It can grow from 7 - 35 metres tall. The bole is straight with a soft, thick bark. Younger trees have sharp thorns on thick, woody bases.
 ## Uses
-, , , , , , , , , , .
+
 
 ### Food
 Erythrina stricta can be used in Food. Leaves are cooked as vegetable and seeds are eaten raw.

@@ -9,20 +9,21 @@ categories:
   - "Herbs_with_leaves_used_in_medicine"
   - "Index_of_Plants_which_can_be_propagated_by"
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat"
-  - "Pages without herbs images"
-  - "Pages_without_herbs_images"
   - "Habit_-"
   - "Herbs"
 date: 2021-11-11
 ---
+
+![*Jasminum malabaricum*](../images/Jasminum_malabaricum_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ### Food
 Jasminum malabaricum can be used in Food. Mature fruits are eaten raw or cooked as vegetable. The fruits are popularly known as Ghugarya. A special dish called usal is prepared by frying and cooking the fruits.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -53,7 +54,7 @@ Jasminum malabaricum Contains the Following nutritional components like - Tannin
 Jasminum malabaricum is available through March to June
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -71,3 +72,4 @@ Jasminum malabaricum is available through March to June
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.91, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+6. **Dinesh Valke. Photograph of *Jasminum malabaricum*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/4695543676)

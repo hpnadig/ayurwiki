@@ -29,7 +29,7 @@ date: 2020-08-31
 Liver problems, Gonorrhoea, Snakebite.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 In this paper, extracts of leaves, stem and roots of Uraria picta in various solvents have been screened for qualitative determination of phytochemical constituents.

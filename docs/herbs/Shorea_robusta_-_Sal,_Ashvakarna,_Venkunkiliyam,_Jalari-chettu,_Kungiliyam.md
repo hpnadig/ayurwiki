@@ -50,7 +50,7 @@ The oleoresin of the Shorea robusta Gaertn is called as Shala niryasa, Kala, Sar
 | Telugu | Jalari-chettu, Saala, Sarjakamu |
 | Hindi | Sal, Ral, Shal |
 | English | Sal |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -121,3 +121,5 @@ Sub Tropical area
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2012/10/03/sal-tree-shorea-robusta-ayurveda-details-and-health-benefits/)
 5. [composition](Chemical)(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3336301/)
+6. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), p. 68.**
+   Primarily valued as a timber tree. The tree yields a white resinous substance on tapping which is burnt as incense. No other medicinal uses described in the source.

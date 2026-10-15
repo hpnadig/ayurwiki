@@ -17,11 +17,15 @@ categories:
   - "Herbs"
 date: 2020-06-19
 ---
+
+![*Cynarospermum asperrimum*](../images/Cynarospermum_asperrimum_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+Bone stiffness, Osteoporosis, Joint pain.
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -55,7 +59,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -74,3 +78,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 4. Indian Medicinal Plants by C.P.Khare
 5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 118-119.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for bone-stiffness (elubu peḍasuvike) — used for easily-fracturing bones, bone-softening (osteoporosis-like complaints), and chronic local pain. The whole plant (samūla) is used after sun-drying.
+6. **Dinesh Valke. Photograph of *Cynarospermum asperrimum*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/54204899532)

@@ -28,6 +28,8 @@ date: 2020-08-12
 
 [TOC]
 
+![*Sida acuta*](../images/Sida_acuta_-_Flickr_-_dinesh_valke.jpg)
+
 **Broom weed** is a much-branched, perennial plant producing somewhat woody stems 1 - 2 metres tall from a woody rootstock. The plant is harvested from the wild as a local source of medicines and fibre. This plant is belongs to Malvaceae family.
 ## Uses
 Fevers, Dysentery, Wounds, Headache, Headache, Toothache, Parasites, Body fatigue, Reproductive disorders, Numbness, Paralysis, Rheumatic joint pain, Inflammation, Edema, Urinary disorders, Digestive complaints.
@@ -98,3 +100,4 @@ On Roadsides, On Wastelands.
 7. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 360.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a renowned remedy for recurrent fevers (āvarta jvara). The author identifies the plant with the classical Sanskrit Balā — the four-Bala group (Bala, Atibala, Mahābala, Nāgabala) used in Ayurveda as a major nervine tonic, anti-inflammatory and vāta-pacifier. Whole plant and root used.
    > *As cited in: Balā — classical Ayurvedic standing in the four-Bala group (no specific text/verse cited)*
+8. **Dinesh Valke. Photograph of *Sida acuta*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/48847146241)

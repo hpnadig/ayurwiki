@@ -33,7 +33,7 @@ date: 2020-06-08
 Kidney disorders, Rheumatic arthritis, Catarrhal cystitis, Gastritis, Skin diseases, Irritations, Bleeding noses, Injured tissues.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

@@ -21,10 +21,10 @@ date: 2020-05-08
 ![](../images/Bladder_wrack_in_Röhälla,_Govik.jpg)
 
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 Bladderwrack contains iodine, calcium, magnesium, potassium, sodium, minerals, trace metals, phenolics, phloroglucinol, fucophorethols, phlorotannins, mucopolysaccharides.
@@ -52,7 +52,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Bladder_wrack_in_Röhälla,_Govik.jpg)

@@ -28,7 +28,7 @@ date: 2020-05-12
 Cough, Skin fungi.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

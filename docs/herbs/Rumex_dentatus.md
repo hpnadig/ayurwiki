@@ -24,7 +24,7 @@ date: 2020-07-27
 Cutaneous disorders.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains the compounds were obtained and identified as helonioside A (1), gallic acid (2), isovanillic acid (3), p-hydroxycinnamic acid (4), succinic acid (5), n-butyl-beta-D-fructopyranoside (6), quercetin (7), hexadecanoic acid 2, 3-dihydroxy propyl ester (8), beta-sitosterol (9) and daucosterol.

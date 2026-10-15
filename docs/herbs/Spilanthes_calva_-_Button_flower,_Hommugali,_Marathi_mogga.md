@@ -28,7 +28,7 @@ This plant is belongs to Asteraceae family.
 Toothache, Dysentry, Soriasis, Swelling.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -61,7 +61,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

@@ -23,10 +23,10 @@ date: 2020-05-08
 ![](../images/Fraxinus_griffithii1.jpg)
 **Fraxinus griffithii** is a semi-deciduous tree growing up to 50 metres tall. It grows upto 20 metres tall. The bole is up to 90cm in diameter.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

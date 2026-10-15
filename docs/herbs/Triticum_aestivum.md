@@ -59,7 +59,7 @@ Seeds
 Bread wheat arose in southeast Europe and around the Caspian Sea, but is now widely cultivated from near the tropics to the colder regions of the temperate zone.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Blat_tres_fulles.JPG)

@@ -18,10 +18,10 @@ date: 2020-08-21
 
 ![](../images/Tetrastigma_sp_Mishmi_Hills_AJTJohnsingh_DSCN3736.JPG)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -48,7 +48,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Poster_Tetrastigma.png)

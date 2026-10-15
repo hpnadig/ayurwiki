@@ -29,7 +29,7 @@ date: 2020-03-30
 Diseases of the spleen, Jaundice, Ophthalmic, Troublesome coughs.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

@@ -26,10 +26,10 @@ date: 2023-06-03
 ![*Nerale*](../images/Jamboleiro.JPG)
 
 ## Uses
-Diabetes, Dysentery, Hyperglycaemia, Glycosuria, Wounds, Irregular menstruation, Mouth ulcers, Diarrhoea, Epilepsy.
+Diabetes, Dysentery, Hyperglycaemia, Glycosuria, Wounds, Irregular menstruation, Mouth ulcers, Diarrhoea, Epilepsy, Scorpion bites.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -83,3 +83,5 @@ Tropical forest, Subtropical forest.
 1. ["chemistry"]
 2. ["morphology"]
 3. [ "Cultivation"]
+4. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 24-25.**
+   Juice from unripe fruit is carminative and diuretic, with cooling and digestive properties. Seed is considered a cure for diabetes and an antidote against Nux Vomica poisoning. Bark is good for cough, asthma and dysentery. Fruit taken regularly improves health of diabetic patients. Leaves are used as poultice for scorpion bites and juice for spongy and painful gums. Seed powder for diabetes; bark decoction for respiratory ailments; leaf juice for gum health.

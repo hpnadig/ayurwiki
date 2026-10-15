@@ -19,10 +19,10 @@ date: 2020-08-24
 
 **Themeda arundinacea** is a tufted, reedlike, perennial grass with culms that can be up to 6 metres tall. The plant is harvested from the wild for local use as a source of fibre and thatching material.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

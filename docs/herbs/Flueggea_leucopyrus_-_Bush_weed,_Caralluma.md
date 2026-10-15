@@ -19,10 +19,10 @@ date: 2021-04-28
 ![](../images/Flueggea_leucopyrus_10.JPG)
 
 ## Uses
-, , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -61,7 +61,7 @@ Capsule globose, White, Fruiting time is April to May
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Flueggea_leucopyrus_10.JPG)

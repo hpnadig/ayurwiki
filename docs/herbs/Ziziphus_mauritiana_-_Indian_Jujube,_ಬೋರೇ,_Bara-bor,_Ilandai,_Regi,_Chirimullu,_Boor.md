@@ -37,7 +37,7 @@ date: 2022-04-04
 **Badarah** is a much branched thorny tree that grows in the drier parts of India. The fruits are enjoyed by animals and man alike.
 
 ## Uses
-Relieves constipation, Relieves excessive thirst, Improves digestion strength, Nasal bleeding, Gastric, Blood disorders, Diarrhea
+Relieves constipation, Relieves excessive thirst, Improves digestion strength, Nasal bleeding, Gastric, Blood disorders, Diarrhea, Eye diseases
 
 ## Parts Used
 Seeds, Roots, Fruits.
@@ -123,3 +123,5 @@ Tropical area, Dry deciduous forests.
 7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 29-30, 39, 54, 67, 98.**
    Listed among restricted campus trees that should not be planted in residential compounds. Recommended for directional planting in the southern direction. Propagated by seed. Bark-paste treatment: ghee, honey, ksara, lodhra, yava applied after bark scratching (Verse 139).
    > *As cited in: Vrksayurveda of Surapala, Verses 24-29, 139, 306; Sections 3, 6, 8, 13, 21*
+8. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 16-17.**
+   Liquid extract of the flower is supposed to cure eye diseases. Leaves are used for treating asthma and some liver troubles. Root and bark are believed to cure diarrhoea and possess tonic properties. Powder from dried fruit is good for digestion. Dried fruit powder for digestion; leaf extract for asthma; root and bark decoction for diarrhoea.

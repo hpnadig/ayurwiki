@@ -24,7 +24,7 @@ date: 2020-06-24
 ![White mulberry](../images/Morus-2012-06-03-1-1024.JPG)
 **White mulberry** is a moderately fast-growing, deciduous shrub. It grows upto 20 - 35 metres tall. It has a fairly cylindrical, straight bole up to 50cm in diameter and free of buttresses. The tree has a wide range of uses, being valued especially for its edible fruit and medicinal uses. It is cultivated in home gardens for its edible fruit, there are a number of varieties.It is also often grown as an ornamental.
 ## Uses
-Gonorrhoea, Kidney problems, Bladder trouble.
+Gonorrhoea, Kidney problems, Bladder trouble, Dyspepsia, Melancholia, Sore throat.
 
 ## Parts Used
 Fruit.
@@ -95,3 +95,5 @@ Forests.
 3. [Cultivation](https://en.wikipedia.org/wiki/Morus_alba)
 4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 444.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a calmer for diaper rash and hālina huṇṇu (milk-eruption in infants). Leaf, ripe fruit and bark used. Diaper rash: leaf paste in cold rice-water applied externally to the affected area.
+5. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 14-15.**
+   Juice of the mulberry fruit cures sore throat and fever. Used as a medicine for dyspepsia and melancholia. Fruits have laxative properties and purify the blood. Skin of the root is used as a tonic, especially in nervous diseases. Fruit juice taken internally; root skin used as tonic.

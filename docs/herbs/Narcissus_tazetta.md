@@ -32,7 +32,7 @@ date: 2020-06-25
 Boils, Mastitis, Headaches, Skin complaints, Boils, Abscesses, Cancer.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains Two new flavan derivatives tazettones C-D (1–2), one new β-coumaranone (tazettone E, 3), one new flavan (tazettone F, 4), and one new phenylpropanoid (tazettone G, 5), together with six known flavonoids (6–11), were isolated from the bulbs of Narcissus tazetta var. chinensis Roem.

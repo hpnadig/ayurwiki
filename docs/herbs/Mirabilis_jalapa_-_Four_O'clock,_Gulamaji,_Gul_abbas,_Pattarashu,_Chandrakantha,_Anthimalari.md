@@ -46,7 +46,7 @@ Bioassay-guided fractionation of the methanolic extract of M. jalapa also led to
 | Telugu | Chandrakantha, Chandramalli |
 | Hindi | Gul abbas, Gulbakshi |
 | English | Four O'clock, Beauty-of-the-night, Marvel of Peru, Four O'Clock Plant |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

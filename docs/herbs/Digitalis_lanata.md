@@ -21,10 +21,10 @@ date: 2020-04-27
 
 ![](../images/Digitalis_lanata_(7446876792).jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

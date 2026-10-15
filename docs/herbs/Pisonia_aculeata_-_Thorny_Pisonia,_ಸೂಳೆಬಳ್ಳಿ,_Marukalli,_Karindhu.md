@@ -36,7 +36,7 @@ The plant is sometimes harvested from the wild for local medicinal use.
 Scabies, Ulcers, Coughs, Rheumatism, Venereal diseases.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains sodium nitroprusside (SNP), 2-deoxyribose,trichloro-acetic acid (TCA), thiobarbituric acid (TBA), N-naphthyl ethylenediamine dihydrochloride, Folin-Ciocalteau reagent.

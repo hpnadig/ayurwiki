@@ -20,10 +20,10 @@ date: 2020-05-04
 
 ![](../images/Erycibe_paniculata_-_Panicled_Erycibe_from_Neeliyarkottam_2018_(10).jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -50,7 +50,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Erycibe_paniculata_-_Panicled_Erycibe_from_Neeliyarkottam_2018_(10).jpg)

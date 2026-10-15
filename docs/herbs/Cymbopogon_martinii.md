@@ -59,7 +59,7 @@ Seeds
 Palmarosa is a plant of the semi-arid to moist tropical and subtropical lowlands.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Cymbopogon_martinii_Image.jpg)

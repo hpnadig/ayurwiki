@@ -78,7 +78,7 @@ Aracemosa grows in dependably moist, fairly heavy soil. It bears tall tapering r
 
 ## Commonly seen growing in areas
 At dry locations, At hedges, Forest clearings.
-.
+
 
 ## Photo Gallery
 ![Whole herb](../images/Cimicifuga_racemosa_001.jpg)

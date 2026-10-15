@@ -27,10 +27,10 @@ date: 2020-06-02
 
 ![](../images/L_Polyphyllum_1.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -69,7 +69,7 @@ Seeds
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![*Lilium polyphyllum*, in situ](../images/L.polyphylium.2.jpg)

@@ -67,7 +67,7 @@ Ovoid, 3-3.5mm long, Ribbed, 2 celled, Separating into 2 nutlets each. Fruiting 
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

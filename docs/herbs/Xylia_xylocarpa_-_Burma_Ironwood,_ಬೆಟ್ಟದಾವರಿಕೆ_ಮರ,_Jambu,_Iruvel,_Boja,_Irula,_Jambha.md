@@ -56,7 +56,7 @@ It contains The mature seeds contained 29.5% crude protein, 14.78% crude fat, 8.
 | Tamil | Iruvel |
 | Telugu | Boja, Errachennangi |
 | English | Burma Ironwood, Pyinkado |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

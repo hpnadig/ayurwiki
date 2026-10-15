@@ -20,10 +20,10 @@ date: 2020-05-04
 
 ![](../images/Eruca_sativa_3_IP0704053.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -50,7 +50,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Eruca_sativa_3_IP0704053.jpg)

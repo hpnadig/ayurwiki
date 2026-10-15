@@ -30,7 +30,7 @@ date: 2020-05-29
 Diarrhoea, Intestinal spasms, Dysentery, Malaria.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

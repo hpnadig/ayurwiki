@@ -25,7 +25,7 @@ date: 2020-07-23
 Sore throats, Arthritis.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 THE fungus Amanita muscaria has been the object of intensive investigations for many years, and two of its constituents, muscarine and acetylcholine, are of fundamental importance in pharmacology. The elucidation of the structure of muscarine in the classical researches of Kögl et al.1
@@ -53,7 +53,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![Zollernalbkreis, Germany](../images/Amanita_muscaria_2019.jpg)

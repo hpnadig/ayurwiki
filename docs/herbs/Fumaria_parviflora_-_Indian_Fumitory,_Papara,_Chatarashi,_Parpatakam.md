@@ -36,7 +36,7 @@ date: 2020-05-08
 Indigestion, Biliousness, Fever, Blood diseases, Fatigue, Urinary discharges, Vomiting, Thirst, Skin diseases.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -74,7 +74,7 @@ Seeds
 Farm land and sunny situation are favourable for its cultivation.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Fumaria_parviflora_kz1.jpg)

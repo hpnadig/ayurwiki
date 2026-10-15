@@ -32,7 +32,7 @@ date: 2020-05-18
 Intestinal worms, Swellings, Snake bites.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

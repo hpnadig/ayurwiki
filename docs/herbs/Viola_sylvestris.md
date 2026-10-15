@@ -15,10 +15,10 @@ date: 2020-09-02
 
 ![](../images/VIOLA_SYLVESTRIS_-_LLANERA_-_IB-247_(Viola_silvestre).JPG)
 ## Uses
-, , .
+
 
 ## Parts Used
-, .
+
 
 ## Chemical Composition
 Viola odorata contains alkaloid, glycoside, saponins, methyl salicylate, mucilage and vitamin C. About 30 cyclotides are identified from the aerial parts and roots of Viola odorata, 13 of which are novel sequences. The aqueous preparations of Viola odorata L. Flowering tops revealed the presence of anthocyanins.
@@ -46,7 +46,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, .
+
 
 ## Photo Gallery
 ![](../images/VIOLA_SYLVESTRIS_-_LLANERA_-_IB-247_(Viola_silvestre).JPG)

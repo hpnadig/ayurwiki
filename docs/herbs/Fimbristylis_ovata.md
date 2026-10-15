@@ -25,7 +25,7 @@ date: 2020-05-21
 Rheumatism.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 

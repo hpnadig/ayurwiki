@@ -16,8 +16,11 @@ categories:
   - "Herbs"
 date: 2021-10-27
 ---
+
+![*Cissus repanda*](../images/Cissus_repanda_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ### Food
 Cissus repanda can be used in Food. Whole plant is used in preparation of health drink. Stem yields drinkable water.
@@ -82,3 +85,4 @@ Dry deciduous forests.
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/c/cissus-repanda)
 4. Indian Medicinal Plants by C.P.Khare
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.55, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+6. **Dinesh Valke. Photograph of *Cissus repanda*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/51641830441)

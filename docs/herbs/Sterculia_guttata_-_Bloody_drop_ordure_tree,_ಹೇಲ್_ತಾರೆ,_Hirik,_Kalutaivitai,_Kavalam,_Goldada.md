@@ -15,17 +15,18 @@ categories:
   - "Herbs_with_common_name_in_Kannada"
   - "Herbs_with_common_name_in_English"
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat"
-  - "Pages without herbs images"
-  - "Pages_without_herbs_images"
   - "Habit_-"
   - "Herbs"
 date: 2021-11-16
 ---
+
+![*Sterculia guttata*](../images/Sterculia_guttata_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ### Food
 Sterculia guttata can be used in Food. Tender roots and seeds are roasted and eaten . Gum is used in dairy products.
@@ -68,7 +69,7 @@ Sterculia guttata Contains the Following nutritional components like - Vitamin-A
 Sterculia guttata is available through December to May
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -87,3 +88,4 @@ Sterculia guttata is available through December to May
 4. [Cultivation]
 5. Indian Medicinal Plants by C.P.Khare
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.145, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+7. **Dinesh Valke. Photograph of *Sterculia guttata*. Flickr, CC BY-SA 4.0.** [Source](https://www.flickr.com/photos/dinesh_valke/55249337835)

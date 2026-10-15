@@ -48,7 +48,7 @@ The chemicals reported from the plant belong to different classes such as carboh
 | Kannada | Mullakare, Gobergally |
 | Tamil | Manakkarai |
 | Telugu | Visikilamu, Chegagadda |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

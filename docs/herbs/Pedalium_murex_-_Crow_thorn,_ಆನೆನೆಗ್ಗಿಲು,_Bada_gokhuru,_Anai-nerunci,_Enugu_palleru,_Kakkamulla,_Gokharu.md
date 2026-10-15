@@ -15,20 +15,21 @@ categories:
   - "Herbs_with_common_name_in_Marathi"
   - "Herbs_with_common_name_in_English"
   - "Herbs_with_common_name_in_Telugu"
-  - "Pages_without_herbs_images"
   - "Herbs"
   - "Herbs_with_Root_used_in_medicine"
   - "Herbs_with_common_name_in_Gujarathi"
-  - "Pages without herbs images"
   - "Herbs_with_common_name_in_Kannada"
   - "Habit_-"
 date: 2020-06-17
 ---
+
+![*Pedalium murex*](../images/Pedalium_murex_pedaliaceae_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -67,7 +68,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -85,3 +86,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 3. ["Morphology"]
 4. [ "Cultivation"]
 5. Indian Medicinal Plants by C.P.Khare
+6. **Dinesh Valke. Photograph of *Pedalium murex*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/48917849892)

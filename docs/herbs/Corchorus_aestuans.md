@@ -22,7 +22,7 @@ date: 2021-05-04
 ![](../images/Corchorus_aestuans_(1251101178).jpg)
 **Corchorus aestuans** is an annual plant with erect, sparingly branched stems, it grows about 40cm tall. The plant yields a fibre and edible leaves. It is harvested from the wild for local use and is sometimes also cultivated as a fibre plant in tropical W Africa, sometimes also in SE Asia.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Leaves.

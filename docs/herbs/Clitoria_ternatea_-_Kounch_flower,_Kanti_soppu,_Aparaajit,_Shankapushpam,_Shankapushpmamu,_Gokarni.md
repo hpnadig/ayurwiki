@@ -29,6 +29,8 @@ date: 2023-04-18
 
 [TOC]
 
+![*Clitoria ternatea*](../images/Clitoria_ternatea_-_Flickr_-_dinesh_valke.jpg)
+
 **Clitoria ternatea** is a vigorous, trailing, scrambling or climbing vine with a strong woody rootstock belonging to the family Fabaceae. The plant is native to equatorial Asia, including locations the Indian sub-continent and Southeast Asia but has also been introduced to Africa, Australia and America.
 ## Uses
 Scorpion bite, Cough, Fever, Skin problems, Eye problems
@@ -85,7 +87,7 @@ Fruiting Throughout the year
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -105,3 +107,4 @@ Fruiting Throughout the year
 5. Planet Ayurveda
 6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 247.**
    The plant is a renowned brain tonic (Medhya Rasayana) in Ayurveda, used to improve memory and cognitive function. Root paste is used for treating alopecia and hair problems. The plant has demonstrated anti-diabetic properties, lowering serum sugar levels, and has cholinergic activity that enhances m. 3 grams root powder with half cup milk twice daily for memory; root paste applied externally for skin conditions; leaf decoction taken for 8-10 days for various conditions.
+7. **Dinesh Valke. Photograph of *Clitoria ternatea*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/40124513630)

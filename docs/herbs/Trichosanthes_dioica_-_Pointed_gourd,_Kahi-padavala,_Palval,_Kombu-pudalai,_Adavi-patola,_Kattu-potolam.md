@@ -51,7 +51,7 @@ Leaves, Fruits, Root
 | Telugu | Adavi-patola, Kambupotala |
 | Hindi | Palval, Palwal |
 | English | Pointed gourd |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

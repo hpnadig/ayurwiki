@@ -19,7 +19,7 @@ date: 2020-06-26
 
 ![](../images/Parthenium_hysterophorus_witches'_broom_phytoplasma.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 stem, leaves, Root.
@@ -49,7 +49,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Parthenium_hysterophorus_Santa_Maria_feverfew_at_Siliguri_during_LGFC_-_Bhutan_2019_(4).jpg)

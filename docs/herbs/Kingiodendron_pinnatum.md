@@ -28,7 +28,7 @@ date: 2020-05-28
 Gonorrhoea, Catarrhal conditions, Respiratory tracts, Rheumatism.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

@@ -18,12 +18,14 @@ date: 2021-05-31
 
 [TOC]
 
+![*Phyllanthus virgatus*](../images/Phyllanthus_virgatus_-_Flickr_-_dinesh_valke.jpg)
+
 **Phyllanthus virgatus** is a perennial herb with 15-60cm height with tap root system.
 ## Uses
 Inflammed eyes, Gonorrhea, Intestinal parasites.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -59,7 +61,7 @@ Capsules, Globose, Greyish-brown, Obscurely 3 lobed
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -75,3 +77,4 @@ Capsules, Globose, Greyish-brown, Obscurely 3 lobed
 1. [Chemistry]
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 303
 3. [Cultivation]
+4. **Dinesh Valke. Photograph of *Phyllanthus virgatus*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/7985727756)

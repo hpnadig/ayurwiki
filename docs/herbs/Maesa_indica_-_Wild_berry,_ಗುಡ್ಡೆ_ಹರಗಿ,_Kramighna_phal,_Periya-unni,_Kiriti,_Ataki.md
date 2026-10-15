@@ -18,8 +18,11 @@ categories:
   - "Herbs"
 date: 2023-05-29
 ---
+
+![*Maesa indica*](../images/Maesa_indica_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ### Food
 Maesa indica can be used in Food. Leaves are cooked as vegetable. Shoots and fruits are eaten raw.
@@ -90,3 +93,4 @@ Wild forest, Scrub forest.
 4. [Cultivation]
 5. Indian Medicinal Plants by C.P.Khare
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.107, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+7. **Dinesh Valke. Photograph of *Maesa indica*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/53705318216)

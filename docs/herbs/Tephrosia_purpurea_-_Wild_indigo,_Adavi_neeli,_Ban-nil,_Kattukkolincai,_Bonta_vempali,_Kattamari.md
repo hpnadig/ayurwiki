@@ -48,7 +48,7 @@ Purpurea have demonstrated the presence of flavones, flavanones and prenylated f
 | Telugu | Bonta vempali, Pamparachettu, Tella vempali |
 | Hindi | Ban-nil, Sarphankha, Sarphoka, Biyani |
 | English | Wild indigo |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

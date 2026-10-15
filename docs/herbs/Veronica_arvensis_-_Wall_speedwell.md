@@ -13,6 +13,8 @@ date: 2019-05-27
 
 [TOC]
 
+![*Veronica arvensis*](../images/Veronica_arvensis_-_Flickr_-_dinesh_valke.jpg)
+
 **Veronica arvensis** (common names: wall speedwell,:592 corn speedwell, common speedwell, rock speedwell, ) is an annual flowering plant in the plantain family Plantaginaceae. The species is a native European plant and a common weed in gardens, pastures, waste places and cultivated land.
 
 ## Description
@@ -29,3 +31,4 @@ It is a medicinal plant. [clarification needed]
 
 1. [arvensis at USDA PLANTS Database](Veronica)(https://plants.usda.gov/core/profile?symbol=VEAR)
 2. [arvensis at Plants For A Future](Veronica)(http://www.pfaf.org/user/Plant.aspx?LatinName=Veronica+arvensis)
+3. **Dinesh Valke. Photograph of *Veronica arvensis*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/6367554795)

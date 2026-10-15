@@ -35,10 +35,15 @@ The active compounds include flavonoids, alkaloids, saponins, sterols, beta-sito
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Sankeshwara, Seemasankeshwara, Sunkesara, Kempukenjiga, Neerangi |
-| Tamil | Vatanarayana, Padanarayanam, Parugodde |
-| Telugu | Vatanarayanamu, Chinnakeribaseri |
+| Kannada | Sankeshwara, Seemasankeshwara, Sunkesara, Kempukenjiga, Neerangi, Doddaratnagandhi, Katikaya |
+| Tamil | Vatanarayana, Padanarayanam, Parugodde, Mayirkkondrai |
+| Telugu | Vatanarayanamu, Chinnakeribaseri, Ettaturayi |
 | English | White Gul Mohar, Tiger Bean |
+| Hindi | Gul Mohar |
+| Punjabi | Gul Mohar |
+| Malayalam | Alasippu |
+| Marathi | Gulmohr |
+| Bengali | Krishna chura |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -88,3 +93,5 @@ Forests in warm humid areas.
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Delonix+regia)
 4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 321.**
    1. Root bark powder or leaf decoction consumed helps relieve rheumatic conditions and abdominal disorders. 2. The tree's bark decoction consumed helps cure fever and reduces body inflammation. 3. Root bark or leaf consumed as decoction helps relieve urinary tract problems and kidney-related stone is. Root bark powder or leaf decoction for rheumatic conditions.
+5. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 39-40.**
+   Primarily an ornamental tree. No specific medicinal uses described in the source.

@@ -35,7 +35,7 @@ Jamaica dogwood is a large, deciduous shrub or tree growing up to 15 metres tall
 Insomnia, Overexcitability, Asthma, Whooping cough, Nerve pain, Period pain, Toothache, ,
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

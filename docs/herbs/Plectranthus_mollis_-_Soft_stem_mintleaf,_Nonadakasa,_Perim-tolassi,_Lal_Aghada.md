@@ -73,7 +73,7 @@ Seeds, Cuttings.
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Nonakasa_(Kannada-_ನೊಣಕಸ)_(4943523825).jpg)

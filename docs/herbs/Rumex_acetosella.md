@@ -18,10 +18,10 @@ date: 2020-07-27
 
 ![*Rumex acetosella*](../images/20170331Rumex_acetosella3.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains the leaves chiefly contain acid oxalate (binoxalate) of potassium, tannic acid, and nitrogenous matter. By drying, their acidity is lost. They are used alone, or in the form of an infusion of the fresh leaves.
@@ -49,7 +49,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/20170331Rumex_acetosella3.jpg)

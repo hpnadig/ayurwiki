@@ -39,7 +39,7 @@ date: 2020-04-21
 Whooping cough, The spitting up of blood, Spasmodic coughs, Colds, Flu, Sore throats, Peptic ulcers, Haemorrhoids, Menstruation.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

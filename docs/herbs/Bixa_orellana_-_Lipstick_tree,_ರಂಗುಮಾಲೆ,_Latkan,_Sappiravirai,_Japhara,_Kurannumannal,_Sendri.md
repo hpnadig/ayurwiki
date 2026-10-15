@@ -57,7 +57,7 @@ Bixa orellana L. has been traditionally used in Central and South America to tre
 | Marathi | Sendri |
 | Tamil | Sappiravirai |
 | Telugu | Japhara |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

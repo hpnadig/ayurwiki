@@ -54,7 +54,7 @@ The stem contains cyclopeptide alkaloids. The plant contains coclaurine, magnofl
 | Tamil | Anantavalli, Calakattu, Kattukkodi, Nirppantikkoti, Uppaittiricci, Hattukoddi |
 | Telugu | Cheepurutheega, Chipurutige, Doosaratheege, Dusatage |
 | Hindi | Bajar bel, Jamti-ki-bel, Patal garudi, Jamli-ki-jal, Pharid butti, Charot |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

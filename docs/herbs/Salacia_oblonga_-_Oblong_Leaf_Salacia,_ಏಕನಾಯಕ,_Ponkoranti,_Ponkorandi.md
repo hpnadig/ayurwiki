@@ -22,10 +22,10 @@ date: 2020-08-03
 
 ![](../images/Salacia_oblonga_(5661278104).jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
  Kotalanol, kotalagenin 16-acetate, and salacinol were found in the root of S. oblonga.
@@ -60,7 +60,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Salacia_oblonga_(5661278104).jpg)

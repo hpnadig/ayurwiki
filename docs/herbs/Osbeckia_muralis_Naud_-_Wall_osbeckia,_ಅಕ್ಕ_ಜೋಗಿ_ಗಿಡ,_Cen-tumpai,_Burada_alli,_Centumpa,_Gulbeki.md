@@ -20,11 +20,14 @@ categories:
   - "Herbs"
 date: 2020-06-22
 ---
+
+![*Osbeckia muralis Naud*](../images/Osbeckia_muralis_Naud_melastomataceae_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -61,7 +64,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -79,3 +82,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/o/osbeckia-muralis-naud)
 4. [ "Cultivation"]
 5. Indian Medicinal Plants by C.P.Khare
+6. **Dinesh Valke. Photograph of *Osbeckia muralis Naud*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/5025406058)

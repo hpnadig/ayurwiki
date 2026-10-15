@@ -31,7 +31,7 @@ date: 2020-07-02
 Fever, Constipation, Dyspepsia, Jaundice, Scorpion stings, Snake bites, Dronchial asthma, Psoriasis, Vitiligo.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains Bitter cucurbitacin glycoside was isolated together with three known iridoidal glycosides, amphicoside etc.

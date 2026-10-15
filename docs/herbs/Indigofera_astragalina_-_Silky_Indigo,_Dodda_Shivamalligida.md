@@ -66,7 +66,7 @@ Tetragonal, 10-20mm X 3mm, 6 Seeded, Fruiting season is August-October
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

@@ -20,10 +20,10 @@ date: 2020-10-30
 
 ![](../images/Ippenburg_Efeu.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -50,7 +50,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![A la Coma i la Pedra (Solsonès - Catalunya)](../images/HEDERA_HELIX_-_PRATFORMIU_-_IB-967_(Heura).JPG)

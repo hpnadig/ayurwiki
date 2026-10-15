@@ -28,7 +28,7 @@ date: 2020-02-06
 Fevers, Muscle spasms, Intestinal gas, Bacterial infections, Swelling.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -55,7 +55,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Alpinia_zerumbet_'Variegata'_(2463223337).jpg)

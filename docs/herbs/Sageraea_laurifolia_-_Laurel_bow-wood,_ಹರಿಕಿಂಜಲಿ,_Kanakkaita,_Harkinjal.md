@@ -27,7 +27,7 @@ Sageraea laurina is an evergreen tree growing about 12 metres tall. The tree is 
 Rheumatism.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

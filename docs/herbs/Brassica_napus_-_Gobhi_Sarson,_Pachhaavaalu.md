@@ -26,10 +26,10 @@ date: 2020-11-09
 
 **Brassica napus** is an amphidiploid with one genome originating from Brassica oleracea. It is not known in the wild and probably originated in the eastern Mediterranean and West Asian region.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -74,7 +74,7 @@ Responds favorably to nitrogen and phosphate fertilizers, but can be injured by 
 Well-drained soils.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![Makro einer Rapsblüte](../images/RapsBluete1.JPG)

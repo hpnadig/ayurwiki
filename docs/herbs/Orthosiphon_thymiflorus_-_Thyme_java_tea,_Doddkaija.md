@@ -19,10 +19,10 @@ date: 2021-05-12
 ![*Linaria vulgaris*](../images/Linaria_vulgaris_-_harilik_käokannus_Valingu.jpg)
 **Orthosiphon thymiflorus** is a straggling, shrubby perennial herb. It can grow upto 1.5m height.
 ## Uses
-, , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -54,7 +54,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

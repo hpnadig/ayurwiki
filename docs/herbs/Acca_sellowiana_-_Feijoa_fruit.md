@@ -23,7 +23,7 @@ date: 2020-01-20
 
 **Acca sellowiana** is a evergreen shrub or small tree. It can grow 3 - 7.5 metres tall. The edible fruit is much appreciated within the plants native range. The plant is sometimes cultivated in warm temperate to tropical regions.
 ## Uses
-, , .
+
 
 ## Parts Used
 Stem, Leaves, Root.

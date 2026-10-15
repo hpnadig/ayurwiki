@@ -23,10 +23,10 @@ date: 2020-10-22
 
 **Ficus altissima** is a massive, evergreen tree with a large, spreading crown. It can grow upto 30 metres or more tall. The bole can be 40 - 90cm in diameter, with low buttresses.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

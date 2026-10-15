@@ -42,7 +42,7 @@ Oedema, Oliguria, Ascariasis, Constipation, Mental disorders.
 Ipomoea nil can be used in Food. Tender leaves are cooked as vegetable.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

@@ -63,7 +63,7 @@ Racemes, 1-13cm long with few to numerous small flowers, Yellow to Red, 5, Flowe
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

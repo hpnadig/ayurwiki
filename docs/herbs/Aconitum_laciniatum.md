@@ -18,10 +18,10 @@ categories:
 date: 2021-05-06
 ---
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

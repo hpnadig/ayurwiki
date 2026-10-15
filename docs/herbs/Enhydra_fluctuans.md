@@ -23,7 +23,7 @@ date: 2020-05-04
 ![](../images/Enydra_anagallis.jpg)
 **Enydra fluctuans** is a perennial herb growing from 30 - 80cm tall. The plant is harvested from the wild for its edible leaves and is also sometimes cultivated in Java, Malaya and Cambodia.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Stems, Leaves.

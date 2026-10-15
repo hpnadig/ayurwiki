@@ -25,6 +25,7 @@ date: 2021-08-17
 ![*Bharangi*, *Rotheca serrata*](../images/Bhaargi_(Sanskrit-_भार्गी)_(3977225548).jpg)
 **Rotheca serrata** is a shrub growing up to 4 metres tall. It can be seen in peninsular India on dry rocky hill slopes.
 ## Uses
+Gastric irritation, Respiratory complaints.
 ## Parts Used
 ## Chemical Composition
 ## Common names

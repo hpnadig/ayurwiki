@@ -78,7 +78,7 @@ Seeds
 The crop prefers well-drained sandy-loam acidic soils with abundant organic matter (4.5 to 6.0).
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Cryptolepis_buchanani-1-yelagiri-vellore-India.jpg)

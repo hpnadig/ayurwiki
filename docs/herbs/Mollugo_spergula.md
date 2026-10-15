@@ -17,7 +17,7 @@ date: 2020-06-24
 ![*Mollugo spergula*](../images/Glinus_oppositifolius_(Bitter_cumin)_W2_IMG_0462.jpg)
 
 ## Uses
-, , .
+
 
 ## Parts Used
 Flower, Roots.

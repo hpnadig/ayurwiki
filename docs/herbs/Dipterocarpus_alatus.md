@@ -29,7 +29,7 @@ date: 2020-04-28
 Ulcerated wounds, Rheumatism, Diseases of the liver.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 Most of the chemical constituents isolated from genus Dipterocarpus is from the bark of the plant.

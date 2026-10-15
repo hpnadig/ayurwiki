@@ -28,7 +28,7 @@ date: 2020-06-01
 **Melia azedarach**, commonly known as the chinaberry tree, Pride of India, bead-tree, Cape lilac, syringa berrytree, Persian lilac, Indian lilac, or white cedar, is a species of deciduous tree in the mahogany family, Meliaceae, that is native to Indomalaya and Australasia.
 
 ## Uses
-Antioxidative, Analgesic, Anti-Inflammatory, Insecticidal,Rodenticidal, Antidiarrhoeal,Deobstruent, Diuretic,Antidiabetic, Cathartic.
+Antioxidative, Analgesic, Anti-Inflammatory, Insecticidal, Rodenticidal, Antidiarrhoeal, Deobstruent, Diuretic, Antidiabetic, Cathartic, Hysteria, Nervous headache.
 
 ## Parts Used
 Leaves.
@@ -97,3 +97,5 @@ Meadows.
 1. [constituents](Chemical)(https://www.hindawi.com/journals/ecam/2012/258434/)
 2. [description](Plant)(https://www.bimbima.com/ayurveda/medicinal-use-of-bakayan-tree-or-chinaberry/1209/)
 3. [Cultivation"](https://uses.plantnet-project.org/en/Melia_azedarach_(PROSEA))
+4. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), p. 86.**
+   Seeds used to cure rheumatism. Leaves for nervous headache and hysteria. Fruits and leaves are a remedy for skin diseases. Bark used in preparation of a tonic. Seeds for rheumatism; leaves for nervous headache; bark as tonic.

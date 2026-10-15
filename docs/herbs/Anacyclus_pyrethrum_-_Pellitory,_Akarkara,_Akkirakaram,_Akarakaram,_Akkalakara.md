@@ -81,7 +81,7 @@ Seeds
 Landscape Uses:Alpine garden, Rock garden. Requires a well-drained soil in full sun. Plants are intolerant of excessive wet, especially in the winter, and will do better if covered by a pane of glass in the winter.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Anacyclus_depressus_0zz.jpg)

@@ -40,7 +40,7 @@ date: 2020-08-13
 ![*Gmelina arborea*, *Madhumati*](../images/Gmelina_arborea_leaves_I_IMG_3458.jpg)
 **Madhumati** locally known as Gamhar. It is a fast-growing deciduous tree. Occurring naturally throughout greater part of India at altitudes up to 1,500 meters. It also occurs naturally in Myanmar, Thailand, Laos, Cambodia, Vietnam, and in southern provinces of China.
 ## Uses
-Fever, Gonorrhoea, Cough, Wounds, Ulcers, Leprosy, Blood diseases, Diarrhea, Piles, Urinary disorders, Diabetes, Dandruff.
+Fever, Gonorrhoea, Cough, Wounds, Ulcers, Leprosy, Blood diseases, Diarrhea, Piles, Urinary disorders, Diabetes, Dandruff, Stomach-ache.
 
 ## Parts Used
 Roots, Stem, Root bark, Stem bark, Fruits.
@@ -133,3 +133,5 @@ Tropical area, Subtropical area, Moist teak forests.
 6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 161-162.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a multi-purpose tree. The author explicitly identifies Kuṁbaḷa-mara with Gambhārī / Śrīparṇī of the classical Daśamūla ten-root formulation of Ayurveda. Root, bark, leaf and fruit are used for fevers, blood-disorders, oedema and digestive complaints.
    > *As cited in: Daśamūla — Gmelina arborea is the tenth root (no specific text/verse cited on the page)*
+7. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), p. 74.**
+   Root provides medicine for treatment of stomach-ache and fever. Flowers are a remedy for blood diseases and leprosy. Fruit is a tonic and promotes growth of hair; also a remedy for anaemia, ulcers and leprosy. Juice of leaves is used as a lotion for cuts and ulcers. Root for stomach-ache; flowers for blood diseases; fruit as tonic; leaf juice as lotion for wounds.

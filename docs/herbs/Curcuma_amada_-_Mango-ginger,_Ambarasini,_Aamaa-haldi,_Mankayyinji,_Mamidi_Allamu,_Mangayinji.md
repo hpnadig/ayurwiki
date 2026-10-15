@@ -92,7 +92,7 @@ Seeds, Rhizome cuttings.
 Plants are adapted to growing in areas of seasonal drought in monsoonal forests
 
 ## Commonly seen growing in areas
-, .
+
 
 ## Photo Gallery
 

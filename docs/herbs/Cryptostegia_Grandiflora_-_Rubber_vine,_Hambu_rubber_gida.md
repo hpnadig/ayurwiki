@@ -16,12 +16,14 @@ date: 2021-05-04
 
 [TOC]
 
+![*Cryptostegia Grandiflora*](../images/Cryptostegia_Grandiflora_-_Flickr_-_dinesh_valke.jpg)
+
 **Cryptostegia Grandiflora** is a self supporting, scrambling, Many-stemmed vine that grows upto 2 metres tall with long trailing whips.
 ## Uses
-, , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -58,7 +60,7 @@ Pods, Rigid, 10-12cm long, 3-4cm wide, Fruits will grow in pairs at the end of t
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -74,3 +76,4 @@ Pods, Rigid, 10-12cm long, 3-4cm wide, Fruits will grow in pairs at the end of t
 1. [Chemistry]
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 147
 3. [Cultivation]
+4. **Dinesh Valke. Photograph of *Cryptostegia Grandiflora*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/45597343942)

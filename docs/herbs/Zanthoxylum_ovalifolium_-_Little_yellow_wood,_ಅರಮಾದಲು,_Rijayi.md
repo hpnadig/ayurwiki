@@ -19,7 +19,7 @@ date: 2020-09-09
 
 **Zanthoxylum ovalifolium** is an erect shrub or small tree growing up to 8 metres tall. An essential oil is obtained from the fruit.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Fruits.

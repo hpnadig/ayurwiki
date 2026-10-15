@@ -18,10 +18,10 @@ date: 2020-07-24
 
 ![*Rumex hastatus*](../images/Rumex_hastatus_-_Kunming_Botanical_Garden_-_DSC03025.JPG)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -48,7 +48,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Rumex_hastatus_-_Kunming_Botanical_Garden_-_DSC03025.JPG)

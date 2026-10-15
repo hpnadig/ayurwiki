@@ -57,7 +57,7 @@ Seeds
 Sea Island cotton can be grown in the dry to moist tropics and subtropics, where it is found at elevations up to 1,500 metres.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Gardenology.org-IMG_2027_hunt09oct.jpg)

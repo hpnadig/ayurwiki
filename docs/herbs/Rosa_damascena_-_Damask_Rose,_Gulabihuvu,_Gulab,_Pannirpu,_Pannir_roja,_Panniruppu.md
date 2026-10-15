@@ -51,7 +51,7 @@ It contains  β-citronellol (48.2 %), geraniol (17.0 %), β-phenylethyl benzoate
 | Marathi | Gulab |
 | Tamil | Pannirpu |
 | Telugu | Pannir roja |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -80,7 +80,7 @@ Seeds, Cuttings of half-ripe wood, Cuttings of mature wood , Division of suckers
 Succeeds in most soils, preferring a circumneutral soil and a sunny position. Grows well in heavy clay soils. Dislikes water-logged soils. The plant resists frost.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Bulgarian_Rosa_damascena.JPG)

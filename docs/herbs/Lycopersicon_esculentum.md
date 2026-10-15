@@ -20,10 +20,10 @@ date: 2020-06-08
 
 ![](../images/Lycopersicon_esculentum_-_Tomato_from_Wayanad_(2).jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -50,7 +50,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Lycopersicon_esculentum_-_Tomato_from_Wayanad_(2).jpg)

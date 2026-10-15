@@ -20,7 +20,7 @@ date: 2020-09-07
 
 **Yucca gloriosa** is an evergreen shrubby plant growing 2.5 metres or more tall. The stems can be unbranched or, more commonly, branched, each plant eventually producing a clump of stems.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Fruits, Flowers, Flowering stem, Roots.

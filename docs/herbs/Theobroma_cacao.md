@@ -31,7 +31,7 @@ date: 2020-08-24
 Lower blood pressure, Damaged skin, Anaemia, Angina, High blood pressure, High blood pressure, Boils, Septicaemia.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains Alkaloid, Tannin, Saponin, Glycoside, Phenol, Flavonoid, Carboxylic acid.

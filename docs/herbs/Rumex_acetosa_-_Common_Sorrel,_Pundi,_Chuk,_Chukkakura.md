@@ -25,7 +25,7 @@ date: 2020-07-27
 ![*Rumex acetosa*](../images/20140420Rumex_acetosa1.jpg)
 **Rumex acetosa** is a perennial plant that can grow up to 0.60 metres tall. It is harvested from the wild for local use as a food, medicine and source of materials.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Leaves, Roots, Seeds.

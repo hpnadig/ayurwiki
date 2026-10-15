@@ -31,7 +31,7 @@ date: 2020-06-10
 Jaundice, Wounds, Rheumatic joints, Intestinal worms.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains alkanes, alkyl esters, primary alcohols, secondary alcohols, ketones, aldehydes , fatty acids and β-sitosterol.

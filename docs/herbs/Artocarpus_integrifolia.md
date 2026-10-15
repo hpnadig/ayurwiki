@@ -20,10 +20,10 @@ date: 2020-03-28
 
 ![](../images/Artocarpus_integrifolia,_e_cujus_umbra_S._Sebastiani_Sinum_et_Urbem_Conspicis,_da_Coleção_Brasiliana_Iconográfica.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -50,7 +50,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Artocarpus_integrifolia,_e_cujus_umbra_S._Sebastiani_Sinum_et_Urbem_Conspicis,_da_Coleção_Brasiliana_Iconográfica.jpg)

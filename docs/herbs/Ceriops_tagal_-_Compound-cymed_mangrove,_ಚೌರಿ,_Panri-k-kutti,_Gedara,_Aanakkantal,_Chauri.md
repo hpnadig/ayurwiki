@@ -20,11 +20,14 @@ categories:
   - "Herbs"
 date: 2020-10-06
 ---
+
+![*Ceriops tagal*](../images/Ceriops_tagal_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -61,7 +64,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -78,3 +81,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 2. [Morphology]
 3. [details](Cultivation)
 4. Indian Medicinal Plants by C.P.Khare
+5. **Dinesh Valke. Photograph of *Ceriops tagal*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/48149860742)

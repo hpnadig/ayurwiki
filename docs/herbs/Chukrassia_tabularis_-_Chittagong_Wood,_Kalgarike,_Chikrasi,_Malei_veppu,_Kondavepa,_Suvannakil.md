@@ -28,10 +28,10 @@ date: 2020-04-15
 ![](../images/Akilam_(Tamil-_அகிலம்)_(5657770693).jpg)
 **Chickrassy** is a medium-sized, sometimes fairly large tree.  Usually it grows up to 30 metres tall. It can be deciduous or evergreen depending upon the environment in which it grows. The straight bole can be branchless for up to 25 metres.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 The oil consists of oxygenated monoterpenes (42.8%, mainly carvacrol, thymol and borneol), phenyl propanoids.

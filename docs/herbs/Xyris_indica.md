@@ -18,10 +18,10 @@ date: 2020-09-07
 
 ![](../images/Xyris_indica.JPG)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains terygoblephara and X. tortula were assayed for in vitro antifungal activity and their flavonoid content was evaluated.
@@ -49,7 +49,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Xyris_indica.JPG)

@@ -76,7 +76,7 @@ Fruiting season is February to April
 Garlic was originally a plant of warm temperate areas with a distinct cold season and a change of daylength from short days in the winter to long days in the summer.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

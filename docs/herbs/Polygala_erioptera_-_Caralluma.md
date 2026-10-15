@@ -23,7 +23,7 @@ date: 2021-05-25
 Wounds, Gastrointestinal disorder, Infectious diseases, Wounds.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -59,7 +59,7 @@ Capsule, Oblong, Emerginated, Hairy, Ciliate on margins
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

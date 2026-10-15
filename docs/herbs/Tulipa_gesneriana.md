@@ -17,7 +17,7 @@ date: 2020-08-28
 ![*Tulipa gesneriana*](../images/Garden_tulip_–_top_view.jpg)
 **Tulipa gesneriana** is a Bulb up to 0.50 metres tall. It is harvested from the wild for local use as a food and source of materials.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Bulb.

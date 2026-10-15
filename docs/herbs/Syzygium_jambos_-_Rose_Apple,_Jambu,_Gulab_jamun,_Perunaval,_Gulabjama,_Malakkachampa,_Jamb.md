@@ -32,6 +32,8 @@ date: 2020-08-14
 
 [TOC]
 
+![*Syzygium jambos*](../images/Syzygium_jambos_-_Flickr_-_dinesh_valke.jpg)
+
 **Jambos** is an evergreen tree with a regular shaped, dense crown of wide-spreading branches, it can grow 6 - 10 metres tall. The bole can be 50cm in diameter, often branching from low down. A multipurpose tree that has been cultivated for around 2,500 years. It provides food, medicines and a range of commodities for the local population.
 ## Uses
 Reduce fever, Diarrhoea, Dysentery, Catarrh, Sore eyes, Rheumatism, Smallpox, Asthma, Bronchitis, Hoarseness.
@@ -96,3 +98,4 @@ Open places, Generally around villages.
 3. [names](Local)(https://www.flowersofindia.net/catalog/slides/Rose%20Apple.html)
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Syzygium+jambos)
 5. Indian Medicinal Plants by C.P.Khare
+6. **Dinesh Valke. Photograph of *Syzygium jambos*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/5592458879)

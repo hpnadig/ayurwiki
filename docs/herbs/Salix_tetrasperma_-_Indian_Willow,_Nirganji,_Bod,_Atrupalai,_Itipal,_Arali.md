@@ -40,6 +40,8 @@ date: 2022-01-21
 
 [TOC]
 
+![*Salix tetrasperma*](../images/Salix_tetrasperma_-_Flickr_-_dinesh_valke.jpg)
+
 **Salix tetraspeama** is a medium sized tree of wet and swampy places, shedding the leaves at the end of monsoon. It flowers after leafing. The bark is rough, with deep, vertical fissures. The young shoots and young leaves are silky.
 ## Uses
 Fever, Whooping cough, Hepatitis, Dysmenorrhea, Rectal sores, Poultice wounds, Epilepsy, Rheumatism, Bladder stones, Hemorrhoids, Diabetes.
@@ -108,3 +110,4 @@ Forest area, Swamp area, Near streams at low and medium altitudes.
 2. [Morphology](https://indiabiodiversity.org/species/show/32002)
 3. [Cultivation](https://indiabiodiversity.org/species/show/32002)
 4. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.665, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+5. **Dinesh Valke. Photograph of *Salix tetrasperma*. Flickr, CC BY-SA 4.0.** [Source](https://www.flickr.com/photos/dinesh_valke/55088902864)

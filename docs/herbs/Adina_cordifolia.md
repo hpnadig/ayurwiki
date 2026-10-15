@@ -15,11 +15,14 @@ categories:
   - "Herbs"
 date: 2021-05-05
 ---
+
+![*Adina cordifolia*](../images/Adina_cordifolia_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -46,7 +49,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -62,3 +65,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 1. [Chemistry]
 2. [Morphology]
 3. [Cultivation]
+4. **Dinesh Valke. Photograph of *Adina cordifolia*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/53701938976)

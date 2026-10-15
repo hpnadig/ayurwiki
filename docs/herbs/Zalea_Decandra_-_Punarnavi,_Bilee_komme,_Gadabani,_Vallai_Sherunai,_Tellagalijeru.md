@@ -72,7 +72,7 @@ Pods, 7.5 x 2 cm, Fruiting from December to April
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![Pod](../images/Senegalia_senegal_Saifoulaye_Kanon.jpg)

@@ -41,7 +41,7 @@ date: 2021-10-27
 ![*Cassia fistula*](../images/Konnamaram.JPG)
 **Cassia fistula** known as the golden rain tree. It is a flowering plant. The species is native to the Indian subcontinent and adjacent regions of Southeast Asia. It ranges from southern Pakistan eastward throughout India to Myanmar and Thailand and south to Sri Lanka. This tree is belongs to Caesalpiniaceae.
 ## Uses
-Fever, Skin diseases, Rheumatic diseases, Cervical lyrnphadenitis, Cardiac diseases, Worm Infestations, Abdominal pain, Urinary disorders, Polyuria, Psoriasis, Syphilis, Ringworm, Eczema, Piles, Cough, Constipation.
+Fever, Skin diseases, Rheumatic diseases, Cervical lyrnphadenitis, Cardiac diseases, Worm Infestations, Abdominal pain, Urinary disorders, Polyuria, Psoriasis, Syphilis, Ringworm, Eczema, Piles, Cough, Constipation, Chilblains.
 
 ### Food
 Cassia fistula can be used in food. Tender leaves and fl ower buds are cooked as vegetable.
@@ -58,15 +58,17 @@ Pulp of the pod contains anthraquinone glycosides, sennosides A and B, rhein and
 | Sanskrit | Krathamaala, Vyaadighata, Shampaaka, Aragvadha |
 | English | Indian Laburnum, Purging cassia |
 | Gujarati | Garamala, Garamalo |
-| Hindi | Amaltas, Umalbas |
-| Kannada | ಕಕ್ಕೆಮರ Kakkemara, ಕೊಂದೆ Konde, Aragvadha, Aragasa, Aravata, Kokke, Kosge, Kadumara, Rajataru |
+| Hindi | Amaltas, Umalbas, Bandarlathi |
+| Kannada | ಕಕ್ಕೆಮರ Kakkemara, ಕೊಂದೆ Konde, Aragvadha, Aragasa, Aravata, Kokke, Kosge, Kadumara, Rajataru, Aragina |
 | KS | Kriyangal Phali |
-| Malayalam | Konna, Kritamalam |
-| Marathi | Bahava, Garamala, Amaltas |
-| Punjabi | Amaltas |
-| Tamil | Sarakonrai, Sarak konnai, Sarak kondi, Sharakkonrai, Konnai, Kennai, Tirukontrai, Tirukonnai |
-| Telugu | Rela |
-.
+| Malayalam | Konna, Kritamalam, Saturangulam, Svarnaviram |
+| Marathi | Bahava, Garamala, Amaltas, Girimala |
+| Punjabi | Amaltas, Kaniar |
+| Tamil | Sarakonrai, Sarak konnai, Sarak kondi, Sharakkonrai, Konnai, Kennai, Tirukontrai, Tirukonnai, Kondrai |
+| Telugu | Rela, Aragvadham, Sampakamu |
+| Assamese | Sonaru |
+| Bengali | Sondali, Sonali |
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -146,3 +148,5 @@ Tropical area, Dry deciduous forests.
 8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 179-180.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as an effective remedy for gaṇḍa-māla (cervical / scrofulous goitre and glandular-swelling). The Sanskrit name Āragvadha places the plant centrally in Ayurveda as a laxative and skin-cleanser. Leaf, flower, fruit-pod and bark are used.
    > *As cited in: Āragvadha — classical Ayurvedic standing as gentle laxative and skin-cleanser (no specific text/verse cited on the page)*
+9. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 47-48.**
+   Practically every part is used for medicine. Flowers used for preparing gul-kand for treating fever. Pulp of fruit is a laxative. Fruit is believed to be a remedy for leprosy, heart disease and stomach pains. Bark and leaves treat skin diseases. Root is a strong purgative. Leaves cure chilblains. Flower preserve (gul-kand) for fever; fruit pulp as laxative; bark and leaf decoction for skin diseases.

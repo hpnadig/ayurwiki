@@ -33,7 +33,7 @@ date: 2020-05-13
 Rabies, Blisters, Swellings.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

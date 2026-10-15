@@ -20,10 +20,10 @@ date: 2020-04-24
 
 ![](../images/Delphinium_staphisagria_001.JPG)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 Two French scientists, Lassaigne and Feneulle, were the first to isolate an alkaloid, called delphinine from D. staphisagria seeds in 1819.
@@ -51,7 +51,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Delphinium_staphisagria_001.JPG)

@@ -25,10 +25,11 @@ date: 2020-08-19
 
 ![](../images/Tarenna_asiatica_-_Asiatic_Tarenna_12.jpg)
 ## Uses
-, , , , , , , , , , .
+Skin diseases.
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains Flavoniods, Steroids etc
@@ -66,7 +67,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Tarenna_asiatica_-_Asiatic_Tarenna_12.jpg)

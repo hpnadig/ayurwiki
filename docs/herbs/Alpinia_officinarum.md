@@ -27,7 +27,7 @@ date: 2020-07-17
 Relieves pain, Lowers fevers, Controls bacterial infections, Fungal infections.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

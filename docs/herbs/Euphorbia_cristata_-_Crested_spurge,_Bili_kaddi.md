@@ -16,12 +16,14 @@ date: 2021-05-06
 
 [TOC]
 
+![*Euphorbia cristata*](../images/Euphorbia_cristata_-_Flickr_-_dinesh_valke.jpg)
+
 Euphorbia cristata is a small, Prostate. It is annual hairy herb. It can grow upto 15cm tall.
 ## Uses
-, , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -58,7 +60,7 @@ Capsule, 2x4 mm, Quadrangular. Fruiting season is December to February
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -74,3 +76,4 @@ Capsule, 2x4 mm, Quadrangular. Fruiting season is December to February
 1. [Chemistry]
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 184
 3. [Cultivation]
+4. **Dinesh Valke. Photograph of *Euphorbia cristata*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/357040926)

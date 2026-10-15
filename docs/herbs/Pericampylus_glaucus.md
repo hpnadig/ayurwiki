@@ -32,7 +32,7 @@ The plant is harvested from the wild for local use as a medicine and binding mat
 Swollen spleen, Fever, High fever, Coughs, Asthma, Headache, Hair loss, Conjunctivitis, Snakebites.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 Study of aerial parts yielded four new hasubanane-type alkaloids, periglaucines A-D (1-4), three known alkaloids, norruffscine (5), (-)-8-oxotetrahydropalmatine (6), and (-)-8-oxocanadine.
@@ -65,7 +65,7 @@ Seeds
 Grows well in full sun, though young plants appreciate some shade.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

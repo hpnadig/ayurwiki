@@ -51,7 +51,7 @@ Evergreen tree
 ## List of Ayurvedic medicine in which the herb is used
 ## Where to get the saplings
 ## Mode of Propagation
-, , .
+
 
 ## How to plant/cultivate
 A plant of the subtropics and temperate zones with very mild winters, it can be cultivated in the tropics at elevations above 600 metres, growing best at 1,000 - 2,300 metres.

@@ -22,10 +22,10 @@ date: 2020-10-16
 ![](../images/Dolichos_lablab_'Hyacinth_bean'_(Leguminosae)_flowers.JPG)
 
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -52,7 +52,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Dolichos_lablab_'Hyacinth_bean'_(Leguminosae)_flowers.JPG)

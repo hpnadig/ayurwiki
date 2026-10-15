@@ -44,16 +44,19 @@ The plant contains flavonoids and glucosides—butin, butrin, isobutrin and pala
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | ಮುತ್ತುಗ Muttuga, ಪಲಾಶ Palasha |
-| Malayalam | Chamata |
+| Kannada | ಮುತ್ತುಗ Muttuga, ಪಲಾಶ Palasha, Brahmavikrahe, Muttala |
+| Malayalam | Chamata, Kimshukam, Muriku |
 | Sanskrit | Kimshuka |
-| Gujarati | Kesudo |
-| Tamil | Kincukam |
-| Marathi | Dhak |
+| Gujarati | Kesudo, Khakhro, Palash |
+| Tamil | Kincukam, Kuttumurukku |
+| Marathi | Dhak, Palas |
 | Punjabi | Dhak |
-| Telugu | Kimsukamu |
-| Hindi | Dhak, Palash |
+| Telugu | Kimsukamu, Modugu, Palashamu |
+| Hindi | Dhak, Palash, Chalcha, Kankrei, Tesu |
 | English | Bastard teak, Battle of Plassey tree |
+| Bengali | Kinana, Palas |
+| Oriya | Kinana, Palas |
+| Assamese | Kinana, Palas |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -117,3 +120,5 @@ Found throughout the drier parts of India, Often gregarious in forests, Open gra
 6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 297-298.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for intestinal worms / abdominal-worm disease (hoṭṭe huḷa rōga). The author identifies the plant with classical Sanskrit Palāśa / Kiṁśuka — central in Ayurveda for worm-control. Bark, leaf, flower, seed, gum (kamarkas) all used.
    > *As cited in: Palāśa / Kiṁśuka — classical Ayurvedic standing as worm-killer and skin remedy (no specific text/verse cited)*
+7. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), p. 44.**
+   Gum exuded from stem is an astringent known as 'Bengal Kino' or 'Butea Kino'. Used for tanning leather. Gum used as astringent.

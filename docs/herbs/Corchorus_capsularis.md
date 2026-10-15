@@ -21,7 +21,7 @@ date: 2020-04-18
 ![](../images/Corchorus_capsularis_1229.jpg)
 **Corchorus capsularis** is an erect, annual to perennial plant. The straight, slender stems can be 3 - 4 metres tall in cultivation. The plant is sometimes cultivated in warm temperate to tropical areas for the fibre in its stem and also for its edible leaves. It makes an excellent spinach substitute in areas with hot summers.
 ## Uses
-Dysentery, Fevers, , , , , , , , , .
+Dysentery, Fevers.
 
 ## Parts Used
 Leaves.

@@ -8,8 +8,6 @@ categories:
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Ringworm"
   - "Index_of_Plants_which_can_be_propagated_by"
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Conjuctivitis"
-  - "Pages without herbs images"
-  - "Pages_without_herbs_images"
   - "Habit_-"
   - "Herbs"
 date: 2021-06-29
@@ -18,12 +16,14 @@ date: 2021-06-29
 
 [TOC]
 
+![*Jasminum angustifolium*](../images/Jasminum_angustifolium_-_Flickr_-_dinesh_valke.jpg)
+
 **Jasminum angustifolium** is a wiry, climbing shrub, Young branches covered with minute, soft hairs.
 ## Uses
 Ringworm, Conjuctivitis, Mouth ulcers.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -55,7 +55,7 @@ Fruiting season is June-August
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -72,3 +72,4 @@ Fruiting season is June-August
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 241
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Dinesh Valke. Photograph of *Jasminum angustifolium*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/48922929842)

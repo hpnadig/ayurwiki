@@ -56,7 +56,7 @@ A plant for the drier areas of the tropics and subtropics.
 ## Required Ecosystem/Climate
 ## Kind of soil needed
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

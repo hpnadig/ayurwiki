@@ -19,10 +19,10 @@ date: 2020-08-04
 ![](../images/Sarcococca_saligna_(7788824032).jpg)
 
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -49,7 +49,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Sarcococca_saligna_(7788788432).jpg)

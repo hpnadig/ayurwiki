@@ -19,10 +19,10 @@ date: 2021-05-04
 ![*Linaria vulgaris*](../images/Linaria_vulgaris_-_harilik_käokannus_Valingu.jpg)
 Colebrookea oppositifolia is a shrub. It can grow upto 1.3m height.
 ## Uses
-, , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -57,7 +57,7 @@ Numerous, Tiny, White, 5-10cm long, Spikes look hairy and resembles squirrel's, 
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

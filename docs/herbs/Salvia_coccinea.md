@@ -21,10 +21,10 @@ date: 2020-08-03
 
 ![](../images/Starr_041229-2784_Salvia_coccinea.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

@@ -33,7 +33,7 @@ date: 2020-07-16
 Bronchitis, Upper respiratory tract infections, Kidney disorders, Stomach disorders, Kidney disorders, Colds, Sinusitis, Arthritis, Rheumatism, Muscular pain, Dry skin conditions.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

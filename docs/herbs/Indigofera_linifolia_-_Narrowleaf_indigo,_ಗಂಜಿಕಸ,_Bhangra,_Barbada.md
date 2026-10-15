@@ -25,12 +25,14 @@ date: 2021-06-30
 
 [TOC]
 
+![*Indigofera linifolia*](../images/Indigofera_linifolia_fabaceae_-_Flickr_-_dinesh_valke.jpg)
+
 **Indigofera linifolia** is a slender, Much branched, Prostrate or erect annual, growing up to 50cm in height.
 ## Uses
 Nervous disorders, Asthama, Bronchitis.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -71,7 +73,7 @@ Globular, Brown-Black, Smooth, Fruiting season is December to March
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -88,3 +90,4 @@ Globular, Brown-Black, Smooth, Fruiting season is December to March
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 233
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Dinesh Valke. Photograph of *Indigofera linifolia*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/51415709472)

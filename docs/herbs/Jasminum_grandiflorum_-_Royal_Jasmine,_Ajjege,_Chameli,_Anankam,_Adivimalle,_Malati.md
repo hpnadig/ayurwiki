@@ -62,7 +62,7 @@ Flowers contain a volatile oil, jasminol, and indol. Essence also contains benzy
 | Telugu | Adivimalle, Chambeli |
 | Hindi | Chameli |
 | English | Royal Jasmine, Spanish jasmine |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

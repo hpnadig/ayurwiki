@@ -39,7 +39,7 @@ It contains On evapouration of the dry ether extract after removal of sodium sul
 | Malayalam | Kooril, Narumpanal |
 | Marathi | Kala apakara |
 | Tamil | Puliccan |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

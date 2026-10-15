@@ -16,7 +16,7 @@ categories:
 date: 2019-08-13
 ---
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Stem, Leaves, Root.

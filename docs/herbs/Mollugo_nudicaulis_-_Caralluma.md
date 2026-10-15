@@ -18,10 +18,10 @@ date: 2021-06-02
 ![*Linaria vulgaris*](../images/Linaria_vulgaris_-_harilik_käokannus_Valingu.jpg)
 **Mollugo nudicaulis** is an annual herb.
 ## Uses
-, , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -59,7 +59,7 @@ Borne in dichasial cymes, 1-2mm long, Bracts involucral, Composed of 5 Greenish 
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

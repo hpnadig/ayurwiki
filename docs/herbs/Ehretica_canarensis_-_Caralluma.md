@@ -21,7 +21,7 @@ Ehretica canarensis is a small annual herb.
 Dephtheria, Eczema.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -57,7 +57,7 @@ Fleshy, Indehiscent, 4 seeded
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

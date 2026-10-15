@@ -40,7 +40,7 @@ High fever, Sores, Swellings, Snakebites, Spider bites, Malaria, Lung ailments, 
 
 ## Parts Used
 Seed, Root, Flower, Leaf
-.
+
 
 ## Chemical Composition
 Sunflower (Helianthus Annuus) contains active Ingredients, Such as Flavonoids, Alkaloids and Tannins.

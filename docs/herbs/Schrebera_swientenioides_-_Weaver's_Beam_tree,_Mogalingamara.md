@@ -76,7 +76,7 @@ Fruiting season is February-August
 Schrebera swientenioides is available through April to June.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

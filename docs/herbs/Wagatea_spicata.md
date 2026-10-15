@@ -16,10 +16,10 @@ date: 2020-09-03
 
 ![](../images/Wagatea_spicata_2zz.jpg)
 ## Uses
-, , , , .
+
 
 ## Parts Used
-, stem.
+stem.
 
 ## Chemical Composition
 
@@ -46,7 +46,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Wagatea_spicata_2zz.jpg)

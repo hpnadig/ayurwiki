@@ -21,10 +21,10 @@ date: 2020-10-21
 ![](../images/2018-08-29_(110)_Rax,_Austria.jpg)
 
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -51,7 +51,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/2018-08-29_(110)_Rax,_Austria.jpg)

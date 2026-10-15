@@ -39,7 +39,7 @@ date: 2022-01-24
 **Shirisha** is a beautiful large deciduous tree found throught India and up to 900m in the Himalayas. The greenish-yellow flowers appear in abundance during the summer filling the air with a rich aroma.
 
 ## Uses
-Inflammation, Herpes, Skin diseases, Cold,  Cough, Gastric, Blotches, Pimples, Diarrhea, Sore throats, Asthma, Toothache
+Inflammation, Herpes, Skin diseases, Cold, Cough, Gastric, Blotches, Pimples, Diarrhea, Sore throats, Asthma, Toothache, Bronchitis, Night-blindness
 
 ## Parts Used
 Leaf, Root, Seed.
@@ -125,3 +125,5 @@ Tropical area, Road sides.
 6. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 54, 98.**
    Part of the auspicious pentad (pancavrksa) of trees. As an indicator tree in hydrology, its presence signals suitability for cultivating mudga (green gram) crops.
    > *As cited in: Vrksayurveda of Surapala, Sections 8, 21*
+7. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), p. 53.**
+   Root is a remedy for headache and eye diseases. Bark is used as a cure for skin troubles, bronchitis and toothache, and also for cold and cough. Juice of the leaves cures night-blindness. Different parts used as remedy for bites of venomous creatures. Root for headache; bark decoction for skin and respiratory ailments; leaf juice for night-blindness.

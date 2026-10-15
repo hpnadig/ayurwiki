@@ -24,7 +24,7 @@ date: 2020-08-17
 ![](../images/Symplocos_cochinchinensis_01.JPG)
 **Symplocos cochinchinensis** is an evergreen tree that can grow up to 35 metres tall. The straight, cylindrical bole is up to 50cm in diameter. The tree is sometimes harvested from the wild for local use as a food, dye and source of beads, tannins and wood. The variety sessifolia is used as a pioneer species when reclaimimg crater fields in volcanic areas.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Bark.
@@ -68,7 +68,7 @@ Evergreen tree
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Symplocos_cochinchinensis_12.JPG)

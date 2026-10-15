@@ -81,7 +81,7 @@ Seed, Soft-wood cuttings, Cuttings of half-ripe wood.
 Grows best in a sunny position. Members of this genus generally succeed in full sun or partial shade, preferring a fertile, humus-rich, moist but well-drained soil.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Starr_030602-0067_Jasminum_multiflorum.jpg)

@@ -20,12 +20,14 @@ date: 2020-08-17
 
 [TOC]
 
+![*Swietenia mahagoni*](../images/Swietenia_mahagoni_swieteniamahagoni_-_Flickr_-_dinesh_valke.jpg)
+
 **Mahogany** is an evergreen or briefly deciduous tree that can grow up to 30 metres tall with a large, spherical crown and many heavy branches that cast a dense shade. The bole is often short and much-branched, up to 100cm in diameter, usually with a short, buttressing base up to 1 metre in diameter. The tree is deciduous in areas where it is subject to drought
 ## Uses
 Diarrhoea, Dysentery, Haemorrhage, Tuberculosis, Wounds.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 The 1,1-diphenyl-2-picrylhydrazyl (DPPH) free radical scavenging activity of the isolated compounds indicated that all of the three compounds have strong activity compared with trolox as a reference.
@@ -75,3 +77,4 @@ Along the sides of roads.
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Swietenia+mahagoni)
 4. Indian Medicinal Plants by C.P.Khare
+5. **Dinesh Valke. Photograph of *Swietenia mahagoni*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/1126794924)

@@ -36,7 +36,7 @@ date: 2020-07-17
 Dropsy, Cough, Asthma, Fever, Rheumatism, Cholera.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 Xanthine oxidase, Sodium nitroprusside, Folin-Ciocalteu reagent, L-ascorbic acid and kojic acid were purchased from Sigma-Aldrich.

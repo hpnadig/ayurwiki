@@ -119,3 +119,5 @@ Tropical area, Sub tropical area.
 8. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 32, 62-63.**
    Classified as Anupa-adapted (marshy region). Part of the coconut-allied palm group receiving nutritive treatments including white-mustard water, barley, paddy husk, and oil-cake water for enhanced fruit production. Nutritive recipe: white mustard water, yava (barley), tusa (paddy husk), pinyaka (oil-cake) mixed for irrigation (Verse 131).
    > *As cited in: Vrksayurveda of Surapala, Verses 80, 127, 131; Sections 5, 11*
+9. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 36-37.**
+   Fruits have some medicinal properties. Nut of the fruit is chewed with betel-leaf in place of arecanut. Fruit consumed; nut chewed with betel leaf.

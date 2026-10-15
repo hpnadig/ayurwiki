@@ -59,7 +59,7 @@ Fruiting season is March-August
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Portulaca_pilosa_2017-09-29_5800.jpg)

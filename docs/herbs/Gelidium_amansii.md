@@ -20,10 +20,10 @@ date: 2020-05-12
 
 ![](../images/Icones_of_Japanese_algae_(Pl._CVI)_(8006301038).jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -50,7 +50,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Gelidium_amansii_J.V.Lamour._(AM_AK340662).jpg)

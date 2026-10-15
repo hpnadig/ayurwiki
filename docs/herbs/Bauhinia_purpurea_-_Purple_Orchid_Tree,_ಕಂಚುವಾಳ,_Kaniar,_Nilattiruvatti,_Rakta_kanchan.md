@@ -29,7 +29,7 @@ date: 2021-10-14
 ![](../images/02218jfBauhinia_purpurea_flowers_Bulacanfvf_03.jpg)
 **Bauhinia purpurea** is an erect, evergreen shrub. It grows up to 7 - 10 metres tall. The tree has a wide range of local uses. It should also make an excellent pioneer species and is commonly cultivated as an ornamental.
 ## Uses
-, , , , , , , , , , .
+
 
 ### Food
 Bauhinia purpurea can be used in food. Flowers are cooked as vegetable.

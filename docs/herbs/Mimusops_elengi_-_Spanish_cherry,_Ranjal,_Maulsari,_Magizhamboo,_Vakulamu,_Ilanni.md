@@ -36,7 +36,7 @@ date: 2021-11-12
 ![* Ranjal*, *Mimusops elengi*](../images/Mimusops_elengi_flowers.jpg)
 **Mimusops elengi** is a medium-sized evergreen tree found in tropical forests in South Asia, Southeast Asia and northern Australia.
 ## Uses
-Diarrhoea, Dysentery, Gum inflammation, Toothache, Gonorrhoea, Snakebites, Fever, Wounds, Sore throats, Bleeding disorders, Headache, Migraine, Mumps, Heart disorders.
+Diarrhoea, Dysentery, Gum inflammation, Toothache, Gonorrhoea, Snakebites, Fever, Wounds, Sore throats, Bleeding disorders, Headache, Migraine, Mumps, Heart disorders, Loose teeth.
 
 ### Food
 Mimusops elengi can be used in Food. Ripe fruits are eaten raw.
@@ -135,3 +135,5 @@ Tall grasslands, Meadows, Borders of forests and fields.
 8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 391-392.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a renowned medicine for dental strength (hallugaḷa mustige aprame). The author identifies the plant with the classical Sanskrit Bakula — a major Ayurvedic plant for teeth, gums and women's gynaecological complaints. Bark, flower, leaf, fruit used.
    > *As cited in: Bakula — classical Ayurvedic standing (no specific text/verse cited)*
+9. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 54-55.**
+   Green fruits and seed are used for curing tender gums and loose teeth. Leaves boiled in water make a good mouthwash for toothache. Bark is used for biliousness and diseases of the gums. Leaf is used to cure loss of consciousness caused by snake-bite. Ayurveda has numerous medicinal uses for this tree. Green fruits and seed for gum health; leaf decoction as mouthwash; bark for biliousness.

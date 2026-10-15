@@ -25,10 +25,10 @@ date: 2020-08-14
 
 ![](../images/Pan_Jambul_(Marathi-_पान_जांभूळ)_(4468650567).jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains Photochemical studies have identified gallic acid, cyanidin glycoside, glycoside jamboline, triterpenoids, tannins, gallitanins, essential oils, myricetine, β-sitosterol, myricyl alcohol etc. Compounds isolated from the leaf, fruit, seed, flower, stem bark and edible pulp of the plant has been discussed below.
@@ -66,7 +66,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Syzygium_salicifolium_at_Peravoor_(2).jpg)

@@ -57,7 +57,7 @@ Seeds
 Lentils can be cultivated from the temperate zone to the tropics, so long as there is a growing season of 4 months or more with a fairly dry period as the seed is ripening.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Llenties_maig.JPG)

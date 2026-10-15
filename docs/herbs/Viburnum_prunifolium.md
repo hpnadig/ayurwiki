@@ -15,10 +15,10 @@ date: 2020-09-01
 
 ![](../images/Viburnum_prunifolium,_Black_Haw_bud,_Howard_County,_Md,_2018-05-17-23.03.50_ZS_(48332702722).jpg)
 ## Uses
-, , .
+
 
 ## Parts Used
-, .
+
 
 ## Chemical Composition
 
@@ -45,7 +45,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/1554-Viburnum_prunifolium-DZ-8.12.JPG)

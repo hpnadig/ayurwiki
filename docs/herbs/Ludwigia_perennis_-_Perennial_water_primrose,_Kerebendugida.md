@@ -20,6 +20,8 @@ date: 2021-06-02
 
 [TOC]
 
+![*Ludwigia perennis*](../images/Ludwigia_perennis_-_Flickr_-_dinesh_valke.jpg)
+
 **Ludwigia perennis** is an annual herb.
 ## Uses
 Fever, Cuts, Bruises.
@@ -62,7 +64,7 @@ Capsule, 1-2cm long, Linear, Subterete, 4 ribbed, ellipsoid
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -78,3 +80,4 @@ Capsule, 1-2cm long, Linear, Subterete, 4 ribbed, ellipsoid
 1. [Chemistry]
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 263
 3. [Cultivation]
+4. **Dinesh Valke. Photograph of *Ludwigia perennis*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/49110570306)

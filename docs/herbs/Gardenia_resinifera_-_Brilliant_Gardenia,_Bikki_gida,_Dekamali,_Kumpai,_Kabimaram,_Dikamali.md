@@ -73,7 +73,7 @@ Seeds
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Bikki_Gida_(Kannada-_ಬಿಕ್ಕಿ_ಗಿಡ)_(2610009247).jpg)

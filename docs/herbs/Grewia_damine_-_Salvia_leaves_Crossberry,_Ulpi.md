@@ -18,10 +18,10 @@ date: 2021-05-10
 
 **Grewia damine** is a small tree. It can grow upto 2.5m in height.
 ## Uses
-, , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -58,7 +58,7 @@ Glabrous, 6-8mm across, Two distinct round drupes
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

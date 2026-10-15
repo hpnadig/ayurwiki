@@ -29,7 +29,7 @@ The plant is harvested from the wild as a local source of food and medicine. A p
 Ear infections, Wounds, Children's coughs, Cardiac problems, Vomiting, Epilepsy[.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 

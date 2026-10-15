@@ -48,7 +48,7 @@ Lignans Phyllanthin, hypophyllanthin, Flavonoids Astragalin, rutin, quercetin, T
 | Telugu | Erra usirika |
 | Hindi | Thajarmani |
 | English | Chamber bitter |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

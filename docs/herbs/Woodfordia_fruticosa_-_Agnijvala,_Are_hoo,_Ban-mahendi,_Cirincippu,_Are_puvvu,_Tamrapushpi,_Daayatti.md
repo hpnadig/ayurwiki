@@ -52,7 +52,7 @@ It contains the chemical compounds like tannins (especially those of macrocyclic
 | Marathi | Daayatti, Datyatti |
 | Tamil | Cirincippu, Dhathari-jargi |
 | Telugu | Are puvvu, Dhaarhupushpika |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

@@ -21,12 +21,14 @@ date: 2021-05-04
 
 [TOC]
 
+![*Combretum latifolium*](../images/Combretum_latifolium_combretaceae_-_Flickr_-_dinesh_valke.jpg)
+
 Combretum latifolium is a small shrub.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -65,7 +67,7 @@ Ovoid, 4 Membranous Wings, Tinged with red
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -82,3 +84,4 @@ Ovoid, 4 Membranous Wings, Tinged with red
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 139
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Dinesh Valke. Photograph of *Combretum latifolium*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/32427218243)

@@ -28,7 +28,7 @@ date: 2020-05-18
 ![](../images/Langali_(Hindi-_लांगली)_(2992270362).jpg)
 **Hydrolea zeylanica** is an erect to prostrate, perennial herb, often branched and growing about from 10 - 60cm tall. The plant is sometimes cultivated for the leafy tips, which are eaten in salads.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Young leaves.

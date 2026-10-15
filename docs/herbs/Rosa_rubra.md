@@ -18,10 +18,10 @@ date: 2020-07-30
 
 ![](../images/Rose,_Druschki_Rubra,_バラ,_ドルシュキ_ルブラ,_(15771266827).jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -48,7 +48,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Rose,_Druschki_Rubra,_バラ,_ドルシュキ_ルブラ,_(15771266827).jpg)

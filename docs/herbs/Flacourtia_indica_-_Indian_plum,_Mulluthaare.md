@@ -17,9 +17,11 @@ date: 2021-05-10
 
 [TOC]
 
+![*Flacourtia indica*](../images/Flacourtia_indica_-_Flickr_-_dinesh_valke.jpg)
+
 **Flacourtia indica** is a smll tree or large shrub. Upto 3-5m tall.
 ## Uses
-, , .
+
 
 ## Parts Used
 Leaves, Infusion of the Bark.
@@ -54,7 +56,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -70,3 +72,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 1. [Chemistry]
 2. [Morphology]
 3. [Cultivation]
+4. **Dinesh Valke. Photograph of *Flacourtia indica*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/3089374492)

@@ -61,7 +61,7 @@ Cypsela, Blackish brown, Ribbed, Punctuate between ribs
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

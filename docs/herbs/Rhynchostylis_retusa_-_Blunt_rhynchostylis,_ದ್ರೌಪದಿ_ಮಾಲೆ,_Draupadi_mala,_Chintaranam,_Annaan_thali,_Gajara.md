@@ -24,10 +24,10 @@ date: 2020-07-31
 
 ![](../images/Rhynchostylis_retusa_infloresence_closeup.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -63,7 +63,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Rhynchostylis_retusa_(L.)_Blume,_Bijdr._Fl._Ned._Ind._286_(1825)_(42880386282).jpg)

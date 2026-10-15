@@ -26,10 +26,10 @@ date: 2020-09-15
 
 ![](../images/Starr-020628-0026-Carissa_macrocarpa-flower-Kahului-Maui_(24467851961).jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -65,7 +65,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Starr-020628-0026-Carissa_macrocarpa-flower-Kahului-Maui_(24467851961).jpg)

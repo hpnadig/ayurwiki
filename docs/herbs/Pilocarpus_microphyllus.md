@@ -33,7 +33,7 @@ date: 2020-07-02
 Epilepsy, Convulsions, Gonorrhoea, Fever, Influenza, Pneumonia, Gastrointestinal inflammations, Kidney disease, Psoriasis, Neurosis.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains alkaloids derived from L-tryptophan were also isolated from Pilocarpus species. Some examples are N,N-dimethyl-5-methoxy-triptamine (10) and N,N-dimethyl-triptamine (11) (known as DMT) obtained from P. organensis leaves; both have a CNS activity causing hallucinations.
@@ -65,7 +65,7 @@ Seeds
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Jaborandi.JPG)

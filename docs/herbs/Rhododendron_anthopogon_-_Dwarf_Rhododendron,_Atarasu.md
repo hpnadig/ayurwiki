@@ -40,7 +40,7 @@ date: 2020-06-15
 Lack of appetite, Coughing, Various skin disorders, Leucorrhoea, Gonorrhoea, Inflammations, Lung disorders, Colds, Coughs, Chronic bronchitis, Asthma.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 The major components of the aerial parts of the oil were the monoterpenes α-pinene, β-pinene, limonene and the sesquiterpene δ-cadinene. Biological studies revealed a weak topical anti-inflammatory activity.

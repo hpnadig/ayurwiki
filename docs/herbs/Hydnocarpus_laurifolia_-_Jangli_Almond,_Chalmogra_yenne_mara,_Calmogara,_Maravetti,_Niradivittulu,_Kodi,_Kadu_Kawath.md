@@ -68,7 +68,7 @@ Fruiting season from January to May
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

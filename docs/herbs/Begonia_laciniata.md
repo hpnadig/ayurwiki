@@ -21,10 +21,10 @@ date: 2020-11-04
 
 ![](../images/Begonia_lacinata_v_formos_mrym01.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -56,7 +56,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 
 ## Kind of soil needed
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Begonia_laciniata_Roxb._var._formosana_Hayata_2.JPG)

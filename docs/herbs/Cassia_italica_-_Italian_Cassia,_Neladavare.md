@@ -33,7 +33,7 @@ date: 2021-04-12
 Fever, Jaundice, Venereal diseases, Biliousness, Burns, Ulcers, Wound Dressing.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -70,7 +70,7 @@ Lunate, Seeds are olive green OR Black in colour
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/1401200712876_Senna_italica.jpg)

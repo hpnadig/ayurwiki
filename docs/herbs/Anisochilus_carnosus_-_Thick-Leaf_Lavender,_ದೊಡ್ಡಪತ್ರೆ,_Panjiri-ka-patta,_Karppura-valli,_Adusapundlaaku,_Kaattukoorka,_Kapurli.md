@@ -26,7 +26,7 @@ date: 2020-06-18
 ![*Induparni*, * Anisochilus carnosus*](../images/Anisochilus_carnosus_(L.f.)_Wall._(6256904274).jpg)
 **Anisochilus carnosus** is a fleshy leaved seasonal herb with succulent round leaves and lavender like flowers. It can be found in the drier parts of peninsular India after the onset of the rains.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Leaves.

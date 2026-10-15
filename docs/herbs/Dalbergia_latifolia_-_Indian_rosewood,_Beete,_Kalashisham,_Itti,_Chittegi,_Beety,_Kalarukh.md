@@ -39,7 +39,7 @@ date: 2020-10-14
 Diarrhoea, Indigestion, Leprosy, Vermifuge.
 
 ## Parts Used
-, , .
+
 
 ## Chemical Composition
 
@@ -54,7 +54,7 @@ Diarrhoea, Indigestion, Leprosy, Vermifuge.
 | Marathi | Kalarukh, Sheesham |
 | Tamil | Itti, Thodagathi |
 | Telugu | Chittegi, Nalla yarugudu chettu |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

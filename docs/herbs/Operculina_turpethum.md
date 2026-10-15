@@ -28,7 +28,7 @@ date: 2020-06-09
 Dropsy, Melancholia, Gout, Leprosy, Rheumatism, Paralysis.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -58,7 +58,7 @@ Seeds
 Sandy loam to clay loam soil in moist tropical regions is suitable for the cultivation of this species.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Operculina_turpethum_(Nisottar)_in_Kawal,_AP_W_IMG_2211.jpg)

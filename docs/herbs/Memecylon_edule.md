@@ -9,17 +9,19 @@ categories:
   - "Herbs_with_leaves_used_in_medicine"
   - "Index_of_Plants_which_can_be_propagated_by"
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat"
-  - "Pages without herbs images"
-  - "Pages_without_herbs_images"
   - "Habit_-"
   - "Herbs"
 date: 2019-09-23
 ---
+
+![*Memecylon edule*](../images/Memecylon_edule_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+Vision disorders.
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -46,7 +48,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -65,3 +67,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 4. Indian Medicinal Plants by C.P.Khare
 5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 148-149.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for vision-related disorders (dṛṣṭi tondaregaḷalli kaṇṇi). Root, bark, leaf and tender shoot are used. The author also notes the tree's striking elastic wood used regionally for tool-handles.
+6. **Dinesh Valke. Photograph of *Memecylon edule*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/8582484822)

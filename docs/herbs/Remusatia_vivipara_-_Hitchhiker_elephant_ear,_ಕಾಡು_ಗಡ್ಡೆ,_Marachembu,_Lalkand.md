@@ -23,13 +23,13 @@ date: 2021-11-16
 
 ![](../images/Lalkand_(Marathi-_लालकंद)_(5925887841).jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ### Food
 Remusatia vivipara can be used in Food. Tubers are boiled thoroughly and eaten. Leaves are cooked as vegetable.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -68,7 +68,7 @@ Remusatia vivipara Contains the Following nutritional components like - Mucilage
 Remusatia vivipara is available throughout the year.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Kadu_Gadde_(Kannada-_ಕಾಡು_ಗಡ್ಡೆ)_(8071024225).jpg)

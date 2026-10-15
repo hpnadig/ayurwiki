@@ -24,7 +24,7 @@ date: 2020-05-21
 Dropsy.f
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

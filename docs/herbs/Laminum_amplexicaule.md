@@ -19,7 +19,7 @@ date: 2020-05-29
 ![](../images/20180103Lamium_amplexicaule2.jpg)
 **Lamium amplexicaule** is an annual plant that can grow up to 0.25 metres tall. It is harvested from the wild for local use as a food and medicine
 ## Uses
-, .
+
 
 ## Parts Used
 Young leaves.

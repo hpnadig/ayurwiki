@@ -50,7 +50,7 @@ The leaf is reported to contain stigmasterol (59.9%) and beta-sitosterol (26.7%)
 | Telugu | Pokabanthi |
 | Hindi | Bhakumbar, Visadodi |
 | English | Goat weed |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

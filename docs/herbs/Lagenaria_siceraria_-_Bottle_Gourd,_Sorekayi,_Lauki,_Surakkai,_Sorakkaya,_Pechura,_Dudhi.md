@@ -84,7 +84,7 @@ Seeds
 A plant of the moist, lowland tropics and subtropics. It can be grown at elevations up to 1,600 metres, but economic crops are only produced below 500 metres.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Bottle_gourd_-_ചുരക്ക_03.JPG)

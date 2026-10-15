@@ -28,10 +28,10 @@ date: 2020-06-29
 ![](../images/Pentatropis_capensis_(5552384285).jpg)
 **Pentatropis capensis** is a twining perennial herb. Leaves are 1-3.5 cm long, 0.5-2.5 cm wide, broadly oblong or ovate elliptic. Tip is blunt with a sharp point, base rounded or heart-shaped.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -70,7 +70,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

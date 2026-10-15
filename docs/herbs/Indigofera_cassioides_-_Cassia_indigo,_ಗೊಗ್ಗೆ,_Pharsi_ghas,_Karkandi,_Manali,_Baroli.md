@@ -19,11 +19,14 @@ categories:
   - "Herbs"
 date: 2020-06-20
 ---
+
+![*Indigofera cassioides*](../images/Indigofera_cassioides_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -59,7 +62,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -76,3 +79,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 2. ["Morphology"]
 3. [ "Cultivation"]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Dinesh Valke. Photograph of *Indigofera cassioides*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/53375149581)

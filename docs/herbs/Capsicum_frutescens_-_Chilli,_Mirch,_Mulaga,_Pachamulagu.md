@@ -69,7 +69,7 @@ Seeds
 Capsicum frutescens grows well in lowland tropical regions and at an elevation up to 2,000 metres.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Capsicum_frutescens_03_05_2013.jpg)

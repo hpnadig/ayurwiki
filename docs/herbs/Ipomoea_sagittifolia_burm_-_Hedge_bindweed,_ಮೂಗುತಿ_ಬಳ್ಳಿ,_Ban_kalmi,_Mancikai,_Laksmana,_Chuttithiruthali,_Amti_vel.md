@@ -22,11 +22,14 @@ categories:
   - "Pages_that_are_stubs"
 date: 2020-06-22
 ---
+
+![*Ipomoea sagittifolia burm*](../images/Ipomoea_sagittifolia_burm_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -65,7 +68,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -83,3 +86,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/i/ipomoea-sagittifolia)
 4. [ "Cultivation"]
 5. Indian Medicinal Plants by C.P.Khare
+6. **Dinesh Valke. Photograph of *Ipomoea sagittifolia burm*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/53308876766)

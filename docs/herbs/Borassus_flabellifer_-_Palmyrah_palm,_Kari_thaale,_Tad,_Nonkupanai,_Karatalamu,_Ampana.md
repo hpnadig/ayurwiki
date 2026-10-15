@@ -45,7 +45,7 @@ date: 2023-09-09
 **Talah** is a tall palm tree with fan shaped leaves found abundantly all along the Eastern Coast of India. The fruits are valued for their sweet jelly like pulp and inflorescence stalks which yield delicious neera.
 
 ## Uses
-Liver diseases, Spleen diseases, Inflammation, General debility, Acidity, Diarrhoea, Cough, Cold, Urine infection, Swelling, Mental disorder, Constipation, Wounds.
+Liver diseases, Spleen diseases, Inflammation, General debility, Acidity, Diarrhoea, Cough, Cold, Urine infection, Swelling, Mental disorder, Constipation, Wounds, Bronchitis.
 
 ## Parts Used
 Root, Leaf, Fruit, Flower.
@@ -131,3 +131,5 @@ Tropical area, Coastal area.
 8. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 32, 62-63.**
    Classified as Anupa-adapted (marshy/coastal region). Part of the coconut-allied palm group receiving similar nutritive treatments for fruit enhancement. Treated alongside narikela (coconut) group with animal-flesh water irrigation and nutritive oil-cake solutions (Verses 127, 131).
    > *As cited in: Vrksayurveda of Surapala, Verses 80, 127, 131; Sections 5, 11*
+9. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 34-35.**
+   Jaggery made from palm juice is good for health and used as a household remedy for bronchitis. Fruit has a laxative effect and the sap is a good tonic. Palm jaggery for bronchitis; fruit pulp as laxative; sap as tonic.

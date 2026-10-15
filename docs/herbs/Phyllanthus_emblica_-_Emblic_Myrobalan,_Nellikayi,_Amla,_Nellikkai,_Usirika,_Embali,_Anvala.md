@@ -44,7 +44,7 @@ date: 2022-01-25
 ![*Nelli Subbi*, *Phyllanthus emblica*](../images/Amalika_(nelli_subbi).jpg)
 **Phyllanthus emblica** tree is small to medium in size, reaching 1–8 m in height. The branchlets aren't glabrous or finely pubescent. It can grows up to 10–20 cm long.
 ## Uses
-Heart attack, Fast heartbeat, High blood presure, Migraine, Sheen of the hair, Immunomodulator, Daibetes, Aphrodisiac, Anaemia.
+Heart attack, Fast heartbeat, High blood presure, Migraine, Sheen of the hair, Immunomodulator, Daibetes, Aphrodisiac, Anaemia, Chronic cough, Premature greying of hair, Hair fall.
 
 ### Food
 Phyllanthus emblica can be used in Food. Mature fruits are eaten raw or pickled. Pieces of fruits are dried and stored for future use.
@@ -155,3 +155,5 @@ In the Agni Purana (chapters 140-141), the Amalaki is listed among key medicinal
 8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 346-347.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for eye protection (kaṇṇina rakṣaṇege). The author identifies the plant with the classical Sanskrit Āmalakī — a major Ayurvedic plant of Triphala and a key rasāyana. Fruit, leaf, bark, seed used.
    > *As cited in: Āmalakī — classical Ayurvedic standing in Triphala / Cyavanaprāśa group (no specific text/verse cited)*
+9. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), p. 26.**
+   Highly valued for medicinal properties. Chief ingredient of Chyavanaprasa, a renowned Ayurvedic remedy for chronic cough and consumption. One of three ingredients of Triphala. Tones up the liver. Fermented liquor from fruit cures dyspepsia, cough and jaundice. Very rich in vitamin C. Flowers have laxative properties, leaves are a tonic and cure for dysentery. Dried fruits used for hair oil and shampoo preventing premature greying and falling. Fruit used in Chyavanaprasa and Triphala preparations; fermented liquor for digestive ailments; dried fruit soaked in water as eye lotion.

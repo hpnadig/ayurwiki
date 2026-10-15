@@ -40,7 +40,7 @@ date: 2023-04-18
 ![*Shalmali*, *Silk Cotton Tree*](../images/Bombax-flower-leaf.jpg)
 **Bombax ceiba** is a medicinal tree and is also referred as silent doctor. It is found in India, Malaysia, Sri lanka, Hong kong, Australia and Africa. Every part of this tree is used to treat various ailments.
 ## Uses
-Semen problems, Leucorrhoea, Over bleeding in menstruation, Acne, Skin blemish, Pigmentation, Wounds, Cold, Sore throats, Cough
+Semen problems, Leucorrhoea, Over bleeding in menstruation, Acne, Skin blemish, Pigmentation, Wounds, Cold, Sore throats, Cough, Skin eruptions
 
 ### Food
 Bombax ceiba can be used in food. Young roots are roasted over fi re and eaten. Flower buds and fruits are cooked as vegetable, petals used in
@@ -55,13 +55,18 @@ Stem and root bark contains lupeol, β-sitosterol, naphthoquinone compound, phen
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Marahatti, Kempu booruga |
-| Malayalam | Unnamurika |
+| Kannada | Marahatti, Kempu booruga, Burla |
+| Malayalam | Unnamurika, Ilavu |
 | Sanskrit | Shalmali, Semul, Simul |
-| Tamil | Sittan, Sanmali |
-| Telugu | Buruga |
-| Hindi | Shalmali |
+| Tamil | Sittan, Sanmali, Ilavu Parutti |
+| Telugu | Buruga, Kendaburaga, Shalmali |
+| Hindi | Shalmali, Pagun, Semur, Simal |
 | English | Silk Cotton Tree, Kapok Tree |
+| Bengali | Simul, Tula |
+| Gujarati | Shimalo |
+| Marathi | Kanteswar, Samur, Savara |
+| Punjabi | Sum |
+| Oriya | Buru, Salmali |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -145,3 +150,5 @@ Hot region, At elevations below 1,400 metres, Humid lowland deciduous forests, D
 6. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 231.**
    The gum (Mocharasa) is used in traditional medicine for treating diarrhea and dysentery. Bark preparations are used for menorrhagia and other gynecological disorders. The plant has hypotensive and hypoglycemic properties, and the thorns are used in treating inflammatory conditions and rheumatoid art. Various Ayurvedic formulations including Raktarsha and Mocharasa yoga preparations; bark decoction and gum preparations used internally.
 7. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.30, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+8. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 41-43.**
+   Flowers are used as a cure for many skin diseases. Gum as well as roots possess tonic properties. Flowers used externally for skin diseases; gum and roots used as tonic.

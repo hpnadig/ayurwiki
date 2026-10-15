@@ -39,7 +39,7 @@ date: 2020-05-22
 Coughs, Bronchitis, Pneumonia, Asthma, Feverish illnesses, Abscesses.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

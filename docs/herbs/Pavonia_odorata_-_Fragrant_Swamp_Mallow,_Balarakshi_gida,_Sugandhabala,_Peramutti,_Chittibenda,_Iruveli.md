@@ -81,7 +81,7 @@ Spherical, Mericarps, Mericaprs are smooth and wingless, Fruiting from November 
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Pavonia_odorata_in_Talakona_forest,_AP_W_IMG_8318.jpg)

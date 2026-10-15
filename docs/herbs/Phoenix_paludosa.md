@@ -21,10 +21,10 @@ date: 2020-07-01
 
 **Phoenix paludosa** is an evergreen, clustering palm forming a clump of slender stems up to 5 metres tall. The tree is harvested from the wild for local use as a source of food and materials.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains Lupeol (1), epilupeol (2) and β-sitosterol (3) were isolated from the n-hexane and the carbon tetrachloride soluble fraction of a methanol extract of the leaves of Phoenix paludosa Roxb.

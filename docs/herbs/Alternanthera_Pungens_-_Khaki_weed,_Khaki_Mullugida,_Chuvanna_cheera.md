@@ -37,7 +37,7 @@ Leaves, Root.
 | English | Khaki weed, Chibuk kata |
 | Kannada | Khaki Mullugida |
 | Malayalam | Chuvanna cheera, Croton cheera |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -64,7 +64,7 @@ Acute, Bact 4mm long, Tipped with a spine 2-3mm long
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

@@ -30,7 +30,7 @@ date: 2020-06-19
 Impetigo, Psoriasis.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 Seeds—hepatotoxic. Seed oil gave fatty acids—linoleic, linolenic and oleic. Pyrrolizidine alkaloids—junceine, tricodesmine, riddelline, seneciphylline and senecionine were also obtained.

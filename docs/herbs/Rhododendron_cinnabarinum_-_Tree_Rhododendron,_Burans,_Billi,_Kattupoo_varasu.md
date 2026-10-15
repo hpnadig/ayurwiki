@@ -25,7 +25,7 @@ date: 2020-06-16
 ![](../images/Rhododendron_cinnabarinum_-_University_of_Copenhagen_Botanical_Garden_-_DSC07598.JPG)
 **Rhododendron cinnabarinum** is a much-branched, usually evergreen shrub. It has long slender branches. It can grows upto 2 - 3 metres tall. The plant is harvested from the wild for local use as a food and a fuel.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Leaves, Flowers.

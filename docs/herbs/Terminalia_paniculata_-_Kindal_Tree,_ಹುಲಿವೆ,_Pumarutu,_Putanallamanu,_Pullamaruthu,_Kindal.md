@@ -24,6 +24,8 @@ date: 2020-08-21
 
 [TOC]
 
+![*Terminalia paniculata*](../images/Terminalia_paniculata_deciduous_-_Flickr_-_dinesh_valke.jpg)
+
 **Terminalia paniculata** is a semievergreen tree growing up to 33 metres tall. The tree is harvested from the wild as a source of timber and tannins.
 ## Uses
 Fever, Diseases of Pitta, Inflammation, Fractured bones.
@@ -89,3 +91,4 @@ Along the margins.
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Terminalia+paniculata)
 4. Indian Medicinal Plants by C.P.Khare
 5. [names](Common)(https://www.flowersofindia.net/catalog/slides/Kindal%20Tree.html#:~:text=Terminalia%20paniculata%20%2D%20Kindal%20Tree&text=Kindal%20is%20a%20tropical%20tree,base%2C%20sharp%20at%20the%20tip.)
+6. **Dinesh Valke. Photograph of *Terminalia paniculata*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/16147941322)

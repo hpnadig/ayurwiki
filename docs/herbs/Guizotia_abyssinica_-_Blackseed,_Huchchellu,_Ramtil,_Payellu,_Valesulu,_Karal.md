@@ -36,7 +36,7 @@ date: 2020-05-14
 Syphilis, Burns, Rheumatism, Scabies, Cough, Brain disease.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

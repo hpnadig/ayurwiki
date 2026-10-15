@@ -19,10 +19,10 @@ date: 2021-04-14
 ![](../images/Cassia_mimosoides_in_Hyderabad,_AP_W_IMG_0099.jpg)
 **Cassia mimosoids** is a erect legume. It grows upto 1.5m in height.
 ## Uses
-, , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -59,7 +59,7 @@ Solitary, Fruiting season - Janury to April
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Cassia_mimosoides_08.JPG)

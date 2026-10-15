@@ -63,7 +63,7 @@ Fruiting season is July to September
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

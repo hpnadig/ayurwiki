@@ -27,10 +27,10 @@ date: 2020-03-24
 ![](../images/Andrographis_echioides_(False_Waterwillow)_W_IMG_1533.jpg)
 **Andrographis echioides** is an annual forb with very hairy stems growing up to 45 cm tall, branched from the base. Leaves are oblong, up to 7.5 cm long, 2.4 cm wide
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -65,7 +65,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Andrographis_echioides_(False_Waterwillow)_W_IMG_1533.jpg)

@@ -32,6 +32,8 @@ date: 2020-08-28
 
 [TOC]
 
+![*Typha domingensis*](../images/Typha_domingensis_-_Flickr_-_dinesh_valke.jpg)
+
 **Gundrāḥ** consists of rhizome with root of Typha australis Schum. And Thonn. Syn. T. angustata Bory and Chaub. It is a hardy perennial, monoecious plant, often growing gregariously in fresh water and marshy places, commonly found throughout India, upto 1730 m.
 ## Uses
 Alzheimer's disease, Nose bleeds, Haematuria, Uterine bleeding, Dysmenorrhoea, Postpartum abdominal pain, Gastralgia, Scrofula.
@@ -104,3 +106,4 @@ Brackish to fresh marshes and pools.
 1. The Ayuredic Pharmacopoeia of India Part-1, Volume-5, Page no-69
 2. [ "Morphology"]
 3. [ "Cultivation detail"]
+4. **Dinesh Valke. Photograph of *Typha domingensis*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/47502597372)

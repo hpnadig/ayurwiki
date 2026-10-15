@@ -27,7 +27,7 @@ date: 2020-05-21
 Spleen, Ulcers, Inflammation, Staunch bleeding.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -57,7 +57,7 @@ Seeds
 An easily grown plant, it prefers a well-drained fertile soil in a sunny position, though it succeeds in ordinary garden soil. Prefers neutral to alkaline conditions
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Faerberwaid.jpg)

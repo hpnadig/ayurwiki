@@ -25,7 +25,7 @@ date: 2020-08-21
 Inflammatory diseases, Tuberculosis.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 **Teucrium scordium** in full bloom constitutes 98.8% of total oil composition. The main components of oil were α-pinene, β-pinene, linalool, carvacrol, β-caryophyllene, germacrene D, farnesene-cis-b and valenene.

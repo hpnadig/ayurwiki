@@ -61,7 +61,7 @@ Pods, 1 or 2 seeded, Septate between seeds. Fruiting season is August-January
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

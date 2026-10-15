@@ -68,7 +68,7 @@ Fruiting from December to March
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Polygonum_glabrum_Willd..jpg)

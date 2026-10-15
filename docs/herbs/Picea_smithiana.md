@@ -22,7 +22,7 @@ date: 2020-07-02
 ![](../images/Picea_smithiana.jpg)
 **Picea smithiana** is an evergreen tree that can grow up to 30 metres tall. An important timber tree that can yield excellent construction material of large size, it is much harvested from the wild for commercial use. The tree also has a range of traditional uses as a food and source of materials. It is grown as an ornamental, where its long needles, drooping branches and bright green seed cones make it an ornamental tree of considerable merit.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Seeds, Inner bark.
@@ -59,7 +59,7 @@ Seeds, Cuttings of semi-ripe terminal shoots, Cuttings of mature terminal shoots
 The climate is moist monsoon, with abundant precipitation in two rainy seasons, but becoming gradually drier in the western parts of the range. Some of the precipitation falls as snow which accumulates over winter.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Picea_smithiana_002.jpg)

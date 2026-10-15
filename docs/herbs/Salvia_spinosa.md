@@ -14,10 +14,10 @@ categories:
 date: 2020-08-04
 ---
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains Gallic acid (PubChem CID: 370)DPPH (PubChem CID: 2735032)BHT (PubChem CID: 31404)Phenanthridine (PubChem CID: 9189)Quercetin (PubChem CID: 5280343)Xanthine (PubChem CID: 1188)Podophyllotoxin (PubChem CID: 10607)Gentamicin (PubChem CID: 3467)Nystatin (PubChem CID: 6433272).
@@ -45,7 +45,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

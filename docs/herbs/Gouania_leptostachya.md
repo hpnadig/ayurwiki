@@ -26,7 +26,7 @@ date: 2020-05-13
 Skin complaints.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

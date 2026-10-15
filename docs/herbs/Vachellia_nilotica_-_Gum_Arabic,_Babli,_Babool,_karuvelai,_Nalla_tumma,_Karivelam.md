@@ -37,7 +37,7 @@ date: 2020-08-31
 ![**Gum arabic**](../images/Babool_(Acacia_nilotica)_flowers_at_Hodal_W_IMG_1163.jpg)
 **Vachellia nilotica** also known as acacia gum, is a natural gum consisting of the hardened sap of various species of the acacia tree. In the present day, gum arabic is predominantly collected from two related species, namely Acacia senegal and Vachellia seyal.
 ## Uses
-Dysentery, Leprosy, Cough, Intestinal pains, Cancer, Tumours, Pimples, Diarrhea, Chest problems
+Dysentery, Leprosy, Cough, Intestinal pains, Cancer, Tumours, Pimples, Diarrhea, Chest problems, Eye-sores
 
 ## Parts Used
 Bark, Pods, Gums, Leaves.
@@ -117,3 +117,5 @@ Woodlands of various sorts, Wooded grasslands, Scrub and thickets.
 2. [morphology](Plant)(https://keyserver.lucidcentral.org/weeds/data/media/Html/vachellia_nilotica.htm)
 3. [details](Cultivation)(https://www.pfaf.org/user/Plant.aspx?LatinName=Vachellia+nilotica)
 4. [names](Common)(http://www.flowersofindia.net/catalog/slides/Babool.html)
+5. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), p. 72.**
+   Leaves are used as a tonic and cure for eye-sores. Bark and unripe pods are strong astringents. Gum is used as a tonic and medicine for cough and lung troubles. Flowers are a remedy for insanity. Bark-dust for snake-bite. Unripe pods used for throat gargle. Leaf decoction as tonic; gum for cough and lung troubles; bark decoction for snake-bite; pod gargle for throat.

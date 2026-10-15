@@ -15,10 +15,10 @@ date: 2020-07-13
 
 ![*Eurasian baneberry*, *Actaea spicata*](../images/Actaea_spicata_3.jpg) **Actaea spicata** is a perennial herb of shaded sites on limestone. Its habitats differ superficially, being found in the grikes of limestone pavement, on rock ledges and in deciduous woodland, but all have the same characteristics of shade, low competition and a cool, protected root run. It is a circumpolar boreal-montane element.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, , , .
+
 
 ## Chemical Composition
 The plant is reported to contain trans-aconitic acid, which shows a strong cytostatic action. The toxic constituent is protoanemonin (lactone).
@@ -48,7 +48,7 @@ Herb
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![Leaves and Fruits](../images/Actaea_spicata_young_fruits.jpg)

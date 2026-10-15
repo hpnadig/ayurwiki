@@ -49,7 +49,7 @@ Root, Leaves
 | Telugu | Chiri aannem, Chiriannem, Dankibura, Dhantiboora, Donka-bhuvara |
 | MA | Phatarpodi, Ran-phatarphad |
 | English | Climbing Bridelia |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

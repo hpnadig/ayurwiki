@@ -64,7 +64,7 @@ With scale like hairs, Fruiting season is August to October
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

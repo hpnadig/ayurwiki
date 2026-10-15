@@ -16,3 +16,11 @@ docs/assets/cards/
 scripts/*
 !scripts/hooks.py
 !scripts/generate_api.py
+
+# One-off extraction input/output (scanned PDFs, skill run artifacts)
+input/
+output/
+
+# AI tool config dirs (local only)
+.claude/
+.opencode/

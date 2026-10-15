@@ -74,7 +74,7 @@ Stem cuttings
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, .
+
 
 ## Photo Gallery
 ![Leaves](../images/Ficus_arnottiana_0366.jpg)

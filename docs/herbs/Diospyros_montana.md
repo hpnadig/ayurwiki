@@ -26,7 +26,7 @@ date: 2020-04-28
 Boils.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

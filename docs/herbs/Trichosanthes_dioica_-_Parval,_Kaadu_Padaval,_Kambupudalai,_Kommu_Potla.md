@@ -26,7 +26,7 @@ date: 2020-08-27
 ![*Trichosanthes dioica*](../images/Kattupadavala_leaf.jpg)
 **Pointed gourd** is a perennial, climbing plant producing stems that can sprawl over the ground or climb into other plants for support, attaching themselves by means of tendrils. The plant has been cultivated, especially in eastern India, for over 2,000 years. Its edible fruit is highly prized in India.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Fruits, Leaves.
@@ -73,7 +73,7 @@ Seeds, Cuttings of shoots.
 Thriving in lowland tropical conditions, it is well adapted to grow at low elevations in areas of high rainfall.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Trichosanthes_dioica_at_Virajpet_(2).jpg)

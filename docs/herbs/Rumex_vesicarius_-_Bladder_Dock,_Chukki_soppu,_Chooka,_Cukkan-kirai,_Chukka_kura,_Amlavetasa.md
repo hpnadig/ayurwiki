@@ -26,7 +26,7 @@ date: 2020-07-24
 ![*Rumex vesicarius*](../images/Rumex_vesicarius_kz1.JPG)
 **Rumex vesicarius** is an annual or perennial, rhizomatous herb growing up to 50 cm tall, strongly branched from the base. The edible leaves are gathered from the wild and consumed locally. The plant is sometimes cultivated for its edible leaves in Indonesia, and occasionally sold in local markets there.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Leaves, Seeds.

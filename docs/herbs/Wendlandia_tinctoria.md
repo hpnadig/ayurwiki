@@ -14,10 +14,10 @@ categories:
 date: 2020-09-03
 ---
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

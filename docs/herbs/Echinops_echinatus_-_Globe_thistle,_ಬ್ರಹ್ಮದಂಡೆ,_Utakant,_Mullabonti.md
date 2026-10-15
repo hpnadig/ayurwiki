@@ -33,7 +33,7 @@ date: 2024-01-25
 Coughs, Hysteria, Dyspepsia, Scrofula, Various eye problems, Brain disease, Chronic fever, Pains in the joints, Inflammations, Skin diseases, Menstrual disorders, Intestinal worms, Boils, Headache.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -76,7 +76,7 @@ Seeds
 Requires a sunny position in a well-drained soil of low to medium fertility.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Echinops_echinatus-1-jodhpur-India.JPG)

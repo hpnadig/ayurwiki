@@ -63,7 +63,7 @@ Nutlets, 1x1mm, Pale brown, Orbiculer-ovoid
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

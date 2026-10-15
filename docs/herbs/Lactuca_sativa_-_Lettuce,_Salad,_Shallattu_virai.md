@@ -70,7 +70,7 @@ Seeds
 Prefers a light sandy loam. Succeeds in most well-drained, humus-rich soils but dislikes acid conditions.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Lactuca_sativa_001.JPG)

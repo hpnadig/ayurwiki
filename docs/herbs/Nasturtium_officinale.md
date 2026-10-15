@@ -32,7 +32,7 @@ date: 2020-06-25
 TB, Kidney complaints, Chronic irritations, Inflammations of the skin, Stomach upsets..
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains main compounds of the oil of leaves were myristicin (57.6%), α-terpinolene (8.9%) and limonene (6.7%). Caryophyllene oxide (37.2%), p-cymene-8-ol (17.6%), α-terpinolene (15.2%) and limonene (11.8%) were the main components in stems, whereas limonene (43.6%), α-terpinolene (19.7%), p-cymene-8-ol (7.6%) and caryophyllene oxide (6.7%) were the major constituents in the oil of flowers.

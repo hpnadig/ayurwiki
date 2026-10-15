@@ -32,7 +32,7 @@ date: 2020-07-31
 ![](../images/Zwarte_bessen.jpg)
 **Ribes nigrum** is an erect, deciduous shrub producing a cluster of stems 100 - 200cm tall. The blackcurrant is widely cultivated for its fruits in cooler parts of the temperate zone, especially in Europe and northern Asia. Its cultivation, though, is prohibited in parts of N. America because it harbours a stage of a rust that also affects many species of Pine. The plant also has a range of medicinal and other uses.
 ## Uses
-Cold, Diarrhoea, Indigestion, Lower blood pressure, Rheumatic pain, Dropsy, Whooping cough, Ulcers, Eruptive fevers, Calculus, .
+Cold, Diarrhoea, Indigestion, Lower blood pressure, Rheumatic pain, Dropsy, Whooping cough, Ulcers, Eruptive fevers, Calculus.
 
 ## Parts Used
 Fruits, Leaves.

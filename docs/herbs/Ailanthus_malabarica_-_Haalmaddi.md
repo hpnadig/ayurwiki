@@ -22,10 +22,10 @@ date: 2019-12-15
 **Ailanthus triphysa** is a large, evergreen tree. it can grow up to 45 metres tall, but usually smaller. The tree has a number of medicinal and other uses, for which it is harvested from the wild. It is also often planted for ornament, making a useful shade tree.
 
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

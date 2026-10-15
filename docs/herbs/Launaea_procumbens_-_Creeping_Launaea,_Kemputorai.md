@@ -25,6 +25,8 @@ date: 2021-06-03
 
 [TOC]
 
+![*Launaea procumbens*](../images/Launaea_procumbens_-_Flickr_-_dinesh_valke.jpg)
+
 **Launaea procumbens** is glabrous herb.
 ## Uses
 Fever, Cancer, Inflammation, Rheumatism, Boils, Swellings, Kidney disorder, Painful urination, Gonorrhea, Sexual diseases.
@@ -67,7 +69,7 @@ Achenes, Truncate at both ends, Strongly 4 ribbed
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -83,3 +85,4 @@ Achenes, Truncate at both ends, Strongly 4 ribbed
 1. [Chemistry]
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 252
 3. [Cultivation]
+4. **Dinesh Valke. Photograph of *Launaea procumbens*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/52509859381)

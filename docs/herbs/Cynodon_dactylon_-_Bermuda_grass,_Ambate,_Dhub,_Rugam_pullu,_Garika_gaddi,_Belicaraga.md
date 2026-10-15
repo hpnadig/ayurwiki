@@ -48,7 +48,7 @@ terpenoides, triterpenoids steroids, saponins, tannins, resins, phytosterols, re
 | Telugu | Garika gaddi, Garike, Gariki-gaddi, Gerichagadd, Haravali |
 | Hindi | Dhub, Dobri, Dru, Hariyali |
 | English | Bermuda grass, Couch Grass, Creeping Grass, Dun Grass, Bahama Grass, Durb Grass, Wire Grass |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

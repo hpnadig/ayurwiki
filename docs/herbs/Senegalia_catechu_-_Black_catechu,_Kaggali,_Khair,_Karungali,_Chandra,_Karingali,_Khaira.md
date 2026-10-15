@@ -127,3 +127,5 @@ On well drained soil areas, Open areas, Drier areas, Sandy soil areas.
 2. [decsription"]("plant)(http://www.mpbd.info/plants/acacia-catechu.php)
 3. [details"]("Cultivation)(https://pfaf.org/user/Plant.aspx?LatinName=Senegalia+catechu)
 4. [preparations"]("Ayurvedic)(https://easyayurveda.com/2012/12/27/khadira-acacia-catechu-uses-qualities-ayurveda-details/)
+5. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), p. 73.**
+   Wood chips are boiled to prepare kattha, an essential ingredient of betel (pan) chewed in North India. The wood is also used for dyeing and tanning. Wood chips boiled to extract kattha; used as a masticatory ingredient with betel leaf.

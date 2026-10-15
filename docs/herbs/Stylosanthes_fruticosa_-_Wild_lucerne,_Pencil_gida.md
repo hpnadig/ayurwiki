@@ -19,10 +19,10 @@ date: 2021-05-20
 ![*Linaria vulgaris*](../images/Linaria_vulgaris_-_harilik_käokannus_Valingu.jpg)
 **Stylosanthes fruticosa** is a small shrubby herb.
 ## Uses
-, , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -57,7 +57,7 @@ Pea flower, Creamy white to orange, Yellow with red veining and red at the base
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

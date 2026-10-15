@@ -21,7 +21,7 @@ It is an erect succulent herb, It grows upto 70cm in height.
 Inflammation, Ulcer, Diabetes.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -54,7 +54,7 @@ Solitary
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

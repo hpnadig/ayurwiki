@@ -37,7 +37,7 @@ date: 2020-09-10
 Toothache, Fever, Rheumatism, Liver diseases, Indigestion, Constipation, Jaundice, Urinary infections.
 
 ## Parts Used
-, , ,
+
 
 ## Chemical Composition
 

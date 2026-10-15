@@ -19,10 +19,10 @@ date: 2020-07-24
 
 ![*Rungia repens*](../images/Rungia_repens-1-bsi-yercaud-salem-India.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

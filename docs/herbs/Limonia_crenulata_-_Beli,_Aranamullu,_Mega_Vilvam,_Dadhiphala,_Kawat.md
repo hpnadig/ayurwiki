@@ -27,10 +27,10 @@ date: 2020-06-03
 
 ![](../images/Kapithama_(Sanskrit-_कपित्थं)_(2276565334).jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -67,7 +67,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Kapithama_(Sanskrit-_कपित्थं)_(2276565334).jpg)

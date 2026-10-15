@@ -27,7 +27,7 @@ date: 2020-05-13
 Burning sensations, Inflammation, Heart disorder, Blood disorders, Fevers.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

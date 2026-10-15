@@ -36,7 +36,7 @@ date: 2020-08-31
 Dysentery, Diarrhoea, Intermittent fever, Chest inflammation, Swelling.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

@@ -54,7 +54,7 @@ It contains three new compounds Glucopyranosyl rosmarinic acid and Lactic acid n
 | Punjabi | Maror phali |
 | Hindi | Marodphali, Marorphali |
 | English | Indian screw tree |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

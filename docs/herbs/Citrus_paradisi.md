@@ -55,7 +55,7 @@ Cuttings of half-ripe wood, Seeds.
 Three main climates are suitable for commercial citrus production - tropical climates, subtropical with winter rain such as in the Mediterranean and semitropical with summer rainfall as found in Florida and southern Brazil.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Citrus_paradisi_(Grapefruit,_pink).jpg)

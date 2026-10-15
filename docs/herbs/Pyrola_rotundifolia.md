@@ -28,7 +28,7 @@ date: 2020-07-20
 Skin diseases, Epilepsy, Urinary antiseptic, Hydrolyzes.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It is known that phenolic compounds such as tannins and flavonoids are soluble in ethanol; therefore, they can be the major group of active components for the destruction of leukemic cells.

@@ -20,10 +20,10 @@ date: 2020-07-01
 
 ![](../images/Phlogacanthus_thyrsiformis_P1140560_02.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -50,7 +50,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Phlogacanthus_thyrsiformis_P1140560_02.jpg)

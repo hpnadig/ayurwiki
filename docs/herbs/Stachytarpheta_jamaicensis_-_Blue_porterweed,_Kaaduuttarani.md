@@ -59,7 +59,7 @@ Light blue, Blue or mauve flowers are arranged on long, curved,  Relatively thic
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

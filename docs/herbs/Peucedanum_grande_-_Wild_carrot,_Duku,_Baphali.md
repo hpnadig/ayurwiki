@@ -24,10 +24,10 @@ date: 2020-06-30
 
 ![](../images/Peucedanum_grande_C._B._Clarke_(4789354381).jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -61,7 +61,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Peucedanum_grande_C._B._Clarke_(5970606598).jpg)

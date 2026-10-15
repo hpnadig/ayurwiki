@@ -53,7 +53,7 @@ Bark, Leaves, Heartwood, Seeds
 | Telugu | Krishnavaeni, Shvethasurasa, Shekhali |
 | Hindi | Harshingar, Seoli |
 | English | Coral Jasmine, Night Jasmine |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -122,3 +122,5 @@ Tropical area, Sub tropical area
 7. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, p. 33.**
    Classified as a Jangala-adapted (arid region) tree suited for warmer climatic zones.
    > *As cited in: Vrksayurveda of Surapala, Section 5*
+8. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), p. 60.**
+   Bark is used as an expectorant and for tanning. Flowers are used for preparing a kind of tonic. Leaves are employed as a cure for fevers, rheumatism and sciatica. Seeds are a remedy for skin diseases. Oil from bark cures pain in the eye. Bark as expectorant; flower tonic; leaf decoction for fevers and rheumatism; seed powder for skin diseases.

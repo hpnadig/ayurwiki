@@ -20,7 +20,7 @@ date: 2021-10-27
 ![](../images/Starr_020620-0057_Coccinia_grandis.jpg)
 **Coccinia grandis** is a aggressive climbing vine which spread quickly over trees, Shrubs, Fences and other supports with occasianal adventitous roots near the ground.
 ## Uses
-, , .
+
 
 ### Food
 Coccinia grandis can be used in Food. Fruits are cooked as vegetable or eaten raw.
@@ -63,7 +63,7 @@ Pal
 Coccinia grandis is available through March-December.
 
 ## Commonly seen growing in areas
-Deciduous forests, , , , .
+Deciduous forests.
 
 ## Photo Gallery
 ![](../images/Coccinia_grandis_Blanco2.414b.jpg)

@@ -43,7 +43,7 @@ All chemicals and reagents used were of analytical grade and obtained from Sigma
 | Marathi | Sakalvel, Khandvel |
 | Tamil | Surulbattaikkoti |
 | Telugu | Suralatige |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

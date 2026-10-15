@@ -20,7 +20,7 @@ date: 2020-04-29
 ![](../images/Durio_zibethinus_kz01.jpg)
 **Durio zibethinus** is a large evergreen tree with a conical crown, that can eventually reach a height of 25 - 40 metres, though generally only growing up to 12 metres in cultivation. The bole can be 50 - 120cm in diameter, forming buttresses.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Fruits, Flowers, Seeds.

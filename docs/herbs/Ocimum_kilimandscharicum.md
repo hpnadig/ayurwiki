@@ -54,7 +54,7 @@ Seeds
 Prefers a rich, light, well-drained to dry soil and a position in full sun.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Ocimum_¿_kilimandscharicum_?_(6674314583).jpg)

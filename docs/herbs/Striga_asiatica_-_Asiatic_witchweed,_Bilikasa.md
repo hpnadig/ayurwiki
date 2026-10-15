@@ -18,6 +18,8 @@ date: 2021-05-24
 
 [TOC]
 
+![*Striga asiatica*](../images/Striga_asiatica_-_Flickr_-_dinesh_valke.jpg)
+
 **Striga asiatica** Is a coares annual herb. It can grow up to 10-20cm in height.
 ## Uses
 Intestinal parasites, Hematochezia, Oedema..
@@ -60,7 +62,7 @@ Capsule ovoid, Enveloped in surviving sepals. Fruiting season is September to Ja
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -77,3 +79,4 @@ Capsule ovoid, Enveloped in surviving sepals. Fruiting season is September to Ja
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 358
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Dinesh Valke. Photograph of *Striga asiatica*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/51384067181)

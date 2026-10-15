@@ -19,7 +19,8 @@ date: 2022-08-23
 ![](../images/Cyanotis_tuberosa,Sahyadri_Dew-Grass_2.jpg)
 **Cyanotis tuberosa** is a succelent herb. It can grow upto 15-90cm Tall.
 ## Uses
-, , .
+Joint conditions, Tonic.
+
 
 ## Parts Used
 Whole plant.
@@ -57,7 +58,7 @@ Ovate, Partially folded, Bluish purple, There are 6 stamens with filaments dense
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Cyanotis_tuberosa_(Roxb.)_Schult._&_Schult.f._(21179470064).jpg)

@@ -44,7 +44,7 @@ Leaves are rich in protein, iron, ad antioxidant components such as ascorbic aci
 | Tamil | Neyccarikamaram, Venkal |
 | Hindi | Banda, Bija-sal, Peisar, Jarul, Keukand |
 | English | Fiery costus, spiral flag |
-.
+
 
 ## Habit
 Sub terrestrial plant

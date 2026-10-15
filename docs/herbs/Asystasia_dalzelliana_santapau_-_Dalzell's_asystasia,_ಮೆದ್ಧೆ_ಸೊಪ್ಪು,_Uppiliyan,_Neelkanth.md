@@ -17,11 +17,14 @@ categories:
   - "Herbs"
 date: 2020-08-13
 ---
+
+![*Asystasia dalzelliana santapau*](../images/Asystasia_dalzelliana_santapau_acanthaceae_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -55,7 +58,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -73,3 +76,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/a/asystasia-dalzelliana)
 4. [Cultivation]
 5. Indian Medicinal Plants by C.P.Khare
+6. **Dinesh Valke. Photograph of *Asystasia dalzelliana santapau*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/1250852579)

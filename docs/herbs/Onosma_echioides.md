@@ -28,7 +28,7 @@ date: 2020-06-09
 Rheumatism, Palpitations of the heart, Skin eruptions.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains mainly aliphatic ketones, lipids, naphthazarins, alkaloids, phenolic compounds, naphthoquinones

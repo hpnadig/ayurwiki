@@ -28,7 +28,7 @@ date: 2020-08-13
 Arthritis, Rheumatism, Whooping cough, Urinary disorders, Intestinal worms.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 

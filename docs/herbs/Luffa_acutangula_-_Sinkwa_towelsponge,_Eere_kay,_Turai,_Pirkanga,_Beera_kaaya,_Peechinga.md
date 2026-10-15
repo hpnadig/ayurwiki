@@ -85,7 +85,7 @@ Seeds
 A plant of the lowland tropics, where it can be grown at elevations up to 500 metres. It grows best in areas where annual daytime temperatures are within the range 20 - 32°c, but can tolerate 15 - 38°.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/0465jfAnts_Formicidae_Philippinesfvf_02.JPG)

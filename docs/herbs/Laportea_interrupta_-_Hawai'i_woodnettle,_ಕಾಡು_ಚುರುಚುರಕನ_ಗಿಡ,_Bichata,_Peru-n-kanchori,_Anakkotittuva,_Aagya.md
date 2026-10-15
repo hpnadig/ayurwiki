@@ -20,11 +20,15 @@ categories:
   - "Herbs"
 date: 2020-06-23
 ---
+
+![*Laportea interrupta*](../images/Laportea_interrupta_annual_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+Blood disorders.
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -61,7 +65,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -81,3 +85,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 5. Indian Medicinal Plants by C.P.Khare
 6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 194-195.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for rakta-doṣa / blood ailments. Root, leaf and joint of the plant are used. Mouth ulcer / mouth bleeding: 1 ciḍi Gaṇḍu kuruci root, jaggery, in 1 cup water, boiled to ½ cup decoction; taken once daily for 2–3 days.
+7. **Dinesh Valke. Photograph of *Laportea interrupta*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/2788875359)

@@ -23,7 +23,7 @@ date: 2020-08-21
 Gout, Weak stomachs, Lack of appetite, Liver damage, Wounds.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 Chamaedrys were identified representing (90.8%) of the oils. Main constituents of the oil were found as germacrene D (32.1%), b- caryophyllene (14.2%), d-cadinene (13.1%), bicyclogermacrene (6.7%) and b-farnesene (4.3%).

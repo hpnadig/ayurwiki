@@ -60,7 +60,7 @@ Seeds, Cuttings.
 Physic nut is a plant of semi-arid regions in the tropical lowlands, though it can be grown in moist regions so long as there is excellent drainage.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/'_10_-_ITALY_-_Orto_Botanico_di_Palermo_06.JPG)

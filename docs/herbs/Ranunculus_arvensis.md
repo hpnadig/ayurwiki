@@ -25,7 +25,7 @@ date: 2020-06-12
 Intermittent fevers, Gout, Asthma.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains Aluminum chloride, ammonium molybdate, ascorbic acid (Vitamin-C), caffeic acid, catechin, dibasic sodium phosphate etc.

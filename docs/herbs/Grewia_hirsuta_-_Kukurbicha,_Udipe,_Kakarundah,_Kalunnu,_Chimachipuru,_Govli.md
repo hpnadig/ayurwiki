@@ -30,10 +30,10 @@ date: 2020-05-13
 ![](../images/Kirmid_(Grewia_hirsuta)_in_Talakona_forest,_AP_W_IMG_8286.jpg)
 Grewia hirsuta is a shrub or a small tree that can grow up to 5 metres tall. The plant is obtained from the wild for local use as a source of fibre.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

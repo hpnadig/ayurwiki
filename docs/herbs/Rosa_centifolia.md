@@ -53,13 +53,13 @@ Deciduous shrub
 ## List of Ayurvedic medicine in which the herb is used
 ## Where to get the saplings
 ## Mode of Propagation
-Seeds,, , .
+Seeds,.
 
 ## How to plant/cultivate
 Succeeds in most soils, preferring a circumneutral soil and a sunny position. Grows well in heavy clay soils. Dislikes water-logged soils.
 
 ## Commonly seen growing in areas
-, Cuttings of half-ripe wood, Cuttings of mature wood, Division of suckers, Air layering.
+Cuttings of half-ripe wood, Cuttings of mature wood, Division of suckers, Air layering.
 
 ## Photo Gallery
 ![](../images/Rosa_centifolia_001.JPG)

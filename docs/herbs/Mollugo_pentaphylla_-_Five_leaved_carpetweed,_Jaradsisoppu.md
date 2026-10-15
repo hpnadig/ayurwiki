@@ -68,7 +68,7 @@ Capsule, Many, As long as the sepals and nearly spherical with many seeds
 Mollugo pentaphylla is available through July to December
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

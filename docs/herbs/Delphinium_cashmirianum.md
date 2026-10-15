@@ -20,10 +20,10 @@ date: 2020-04-24
 
 ![](../images/DelphiniumRoyle.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -50,7 +50,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/A_plant_(Delphinium_cashmerianum_Royle);_flowering_stem_with_Wellcome_V0043108.jpg)

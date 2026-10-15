@@ -20,14 +20,17 @@ categories:
   - "Herbs"
 date: 2021-11-12
 ---
+
+![*Miliusa tomentosa*](../images/Miliusa_tomentosa_annonaceae_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ### Food
 Miliusa tomentosa can be used in Food. Ripe fruits are eaten raw. The fruits have acidic taste.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -68,7 +71,7 @@ Miliusa tomentosa Contains the Following nutritional components like - Vitamin-A
 Miliusa tomentosa is available through March to June
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -87,3 +90,4 @@ Miliusa tomentosa is available through March to June
 4. [Cultivation]
 5. Indian Medicinal Plants by C.P.Khare
 6. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.113, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+7. **Dinesh Valke. Photograph of *Miliusa tomentosa*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/9971320676)

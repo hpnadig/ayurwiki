@@ -20,7 +20,7 @@ date: 2020-09-07
 ![](../images/Zamia_angustifolia_2.jpg)
 **Florida arrowroot** is an evergreen cycad producing a crown of 2 - 15 fern-like leaves 20 - 100cm long from a usually subterranean and tuberous stem that is 3 - 10cm in diameter, occasionally to 25cm. The starch-rich stems and roots were a main source of flour for the native peoples of southeastern N. America, and some people still prepare it today. These peoples are attributed with increasing the plant’s distribution.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Stems, Roots.

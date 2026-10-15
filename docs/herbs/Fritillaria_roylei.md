@@ -25,7 +25,7 @@ date: 2020-05-22
 TB, Asthma.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

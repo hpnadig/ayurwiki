@@ -19,10 +19,10 @@ date: 2020-07-31
 ![](../images/Rhododendron_barbatum_-_VanDusen_Botanical_Garden_-_Vancouver,_BC_-_DSC07177.jpg)
 **Rhododendron barbatum** is one of 30 species of Rhododendron which are native to Nepal. This species commonly grows as a small tree in the understory of the high altitude fir forests and so is hardy in Scotland. It’s one of the easiest Rhododendrons to spot with its deep red flowers and stiff hairs on the stalks of the leaves.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -49,7 +49,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Rhododendron_barbatum_-_VanDusen_Botanical_Garden_-_Vancouver,_BC_-_DSC07177.jpg)

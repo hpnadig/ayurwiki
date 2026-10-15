@@ -20,10 +20,10 @@ date: 2020-11-03
 
 ![](../images/Bauhinia_phoenicea.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem.
+stem.
 
 ## Chemical Composition
 
@@ -64,7 +64,7 @@ Prefers a fertile, moisture-retentive but well-drained soil, requiring a warm sh
 Light (sandy), Medium (loamy) and Heavy (clay) soil.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Bauhinia_phoenicea.jpg)

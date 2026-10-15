@@ -18,10 +18,10 @@ date: 2020-06-12
 
 ![](../images/Yellow_Flax_(1649475966).jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -49,7 +49,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 In frost-free areas, grow in fertile, humus-rich, moist but well-drained, preferably neutral soil in full sun.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Reinwardtia_indica,_vrugte,_Manie_van_der_Schijff_BT,_a.jpg)

@@ -19,7 +19,7 @@ date: 2021-06-30
 ![*Linaria vulgaris*](../images/Linaria_vulgaris_-_harilik_käokannus_Valingu.jpg)
 **Indigofera glabra** is an annual herb. Stems sparsely hairy, Reddish.
 ## Uses
-, , .
+
 
 ## Parts Used
 Leaves.
@@ -59,7 +59,7 @@ Pods, 1.5 to 2cm long, Linear, Subtetragonous, 8-12 seeded, Fruiting season is N
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

@@ -22,7 +22,7 @@ date: 2020-05-07
 Asthma, Bronchitis, Muscle spasms.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 A musk-odored volatile oil, aromatic resin, balsam, and angelic, valeric, and sumbulic acids.
@@ -54,7 +54,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

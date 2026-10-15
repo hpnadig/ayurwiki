@@ -38,7 +38,7 @@ date: 2020-07-07
 ![](../images/Brisbane_nature.JPG)
 **Plumeria rubra** is a deciduous, semi-succulent shrub with a broad crown that is often as wide as the tree is tall. It can grow up to 12 metres tall in the wild but is usually smaller in cultivation. The boles of wild trees can be 25cm in diameter. The plant is often used as a herbal remedy. One of the most common and best known ornamental trees cultivated in the tropics. It is often planted near Asian temples, where the fragrant flowers are picked daily as religious offerings.
 ## Uses
-Gonorrhoea, Venereal sores, Scabies, Wounds, Amoebic dysentery, Muscular swellings, Boils, Rheumatic pain, Toothache, Centipede bites.
+Gonorrhoea, Venereal sores, Scabies, Wounds, Amoebic dysentery, Muscular swellings, Boils, Rheumatic pain, Toothache, Centipede bites, Gout.
 
 ## Parts Used
 Flowers.
@@ -104,3 +104,5 @@ Rocky lowland, Hot areas, Often rocky forest, Mountain slopes, Occasionally on p
 3. [names](Common)(http://www.flowersofindia.net/catalog/slides/Common%20White%20Frangipani.html)
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Plumeria+rubra)
 5. Indian Medicinal Plants by C.P.Khare
+6. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), p. 57.**
+   Milky juice of branches is good medicine for gout. Mixed with sandal paste and camphor, it acts as a cure for eczema. Buds chewed with betel leaves cure ague fever. Bark used for fever, diarrhoea and boils. Helps in correcting enlarged glands. Root and bark serve as a laxative. Poultice from leaves cures swellings. Milky juice mixed with sandal paste for eczema; bark decoction for fever; leaf poultice for swellings.

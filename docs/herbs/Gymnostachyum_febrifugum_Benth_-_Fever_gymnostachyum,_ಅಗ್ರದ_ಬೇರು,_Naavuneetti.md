@@ -15,6 +15,9 @@ categories:
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Sore_throat"
 date: 2022-01-21
 ---
+
+![*Gymnostachyum febrifugum Benth*](../images/Gymnostachyum_febrifugum_Benth_acanthaceae_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
 Fever, Sore throat.
 
@@ -57,7 +60,7 @@ Fruiting  from August to December
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -74,3 +77,4 @@ Fruiting  from August to December
 2. [Morphology]
 3. [Cultivation]
 4. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.729, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+5. **Dinesh Valke. Photograph of *Gymnostachyum febrifugum Benth*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/28770285046)

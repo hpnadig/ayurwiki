@@ -9,17 +9,19 @@ categories:
   - "Herbs_with_leaves_used_in_medicine"
   - "Index_of_Plants_which_can_be_propagated_by"
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat"
-  - "Pages without herbs images"
-  - "Pages_without_herbs_images"
   - "Habit_-"
   - "Herbs"
 date: 2019-08-13
 ---
+
+![*Adiantum lunulatum*](../images/Adiantum_lunulatum_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+Wounds, Chronic skin lesions.
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -46,7 +48,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -64,3 +66,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 3. [ "Cultivation"]
 4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 197-198.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a quick wound-healer (gāyagaḷalli śīghra guṇakāri). Plant fronds and rhizome are used; the fern's spore powder is also used externally on chronic skin lesions. Wound dressing: fern fronds bruised with cold water, applied as external paste once daily, refreshed for 3–6 days.
+5. **Dinesh Valke. Photograph of *Adiantum lunulatum*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/3709411749)

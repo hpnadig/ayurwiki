@@ -23,7 +23,7 @@ date: 2020-07-07
 ![](../images/Kath_Golap_Tree.jpg)
 **Plumeria alba** is a somewhat succulent, evergreen shrub. It can grow up to 3 - 8 metres tall. The bole can be 10cm in diameter. The plant is sometimes harvested from the wild for local use as a medicine and source of wood. A very ornamental plant, with clusters of showy and intensely fragrant, tubular and spreading, waxy, white flowers.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Root bark, Flowers, Seeds.

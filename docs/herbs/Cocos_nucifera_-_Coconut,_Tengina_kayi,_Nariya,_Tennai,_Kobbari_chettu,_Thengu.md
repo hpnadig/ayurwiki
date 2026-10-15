@@ -36,7 +36,7 @@ date: 2020-04-17
 ![Tender coconut](../images/Sayulita_nayarit_mexico_playa_pintura.jpg)
 The **Cocos nucifera** is a member of the family Arecaceae. The term coconut can refer to the whole coconut palm or the seed or the fruit, which, botanically, is a drupe, not a nut. The spelling coconut is an archaic form of the word.
 ## Uses
-Ring worms, Cuts, Candidiasis, Psoriasis, Skin burns, Sunburns, Toothache, Dandruff, Baldness
+Ring worms, Cuts, Candidiasis, Psoriasis, Skin burns, Sunburns, Toothache, Dandruff, Baldness, Typhoid nourishment, Sore throat gargle
 
 ## Parts Used
 Leaves, Roots, stems.
@@ -48,11 +48,15 @@ Per 100 g, the kernel is reported to contain 36.3 g H2O 4.5 g protein, 41.6 g fa
 | Language | Names |
 | --- | --- |
 | Kannada | Tengina kayi, tengu |
-| Malayalam | Thengu |
+| Malayalam | Thengu, Tenga |
 | Tamil | Tennai |
-| Telugu | Kobbari chettu |
-| Hindi | Nariya |
+| Telugu | Kobbari chettu, Kobbarikaya |
+| Hindi | Nariya, Narial |
 | English | Coconut |
+| Sanskrit | Narikel |
+| Oriya | Narikel |
+| Bengali | Narikel |
+| Marathi | Naral |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -129,3 +133,5 @@ The coconut is an essential offering (*naivedya*) in Hindu temples and ceremonie
 6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 237-238.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a 'complete medicinal tree' (samagra auṣadha vṛkṣa). Root to crown of every part medicinally used. Particularly recorded for skin disorders, diabetic ulcers, post-pregnancy nourishment, hair-oil base, and lactating-mother diet.
    > *As cited in: Nārikela / Śrīphala — classical Ayurvedic standing (no specific text/verse cited)*
+7. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 30-31.**
+   Coconut water soothes the stomach and is given for nourishment to typhoid patients. Root is employed for preparing a gargle for sore throat. Oil is used for making a syrup that soothes cough, and a liniment to cure ringworm. Also used as hair oil. Coconut water taken internally; root decoction as gargle; oil as liniment for ringworm and as syrup for cough.

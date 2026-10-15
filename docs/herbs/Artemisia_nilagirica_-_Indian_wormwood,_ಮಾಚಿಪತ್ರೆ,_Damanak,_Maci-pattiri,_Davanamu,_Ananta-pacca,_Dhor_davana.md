@@ -24,9 +24,11 @@ date: 2021-09-28
 
 [TOC]
 
+![*Artemisia nilagirica*](../images/Artemisia_nilagirica_-_Flickr_-_dinesh_valke.jpg)
+
 **Mugwort** is a perennial weed in the daisy family. It typically grows in loamy or sandy soils in forested areas, coastal strands and along roadsides and does not tolerate wet soils with poor drainage. It spreads by rhizomes and can form dense mats. This plant has been listed as invasive in several states.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Leaf.
@@ -73,7 +75,7 @@ Fruiting from March to April
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -91,3 +93,4 @@ Fruiting from March to April
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/a/artemisia-nilagirica)
 4. [Cultivation]
 5. Indian Medicinal Plants by C.P.Khare
+6. **Dinesh Valke. Photograph of *Artemisia nilagirica*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/5254164477)

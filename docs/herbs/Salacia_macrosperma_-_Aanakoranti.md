@@ -20,10 +20,10 @@ date: 2020-07-31
 ![](../images/Salacia_macrosperma_(8903544488).jpg)
 **Salacia macrosperma** Is a potent medicinal plant facing the verge of rare and endemic status in the Western Ghats region of southern India. The effective protocol has been standardized for callus induction and multiple shoot regeneration using leaf and nodal explants.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -56,7 +56,7 @@ Climber
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Salacia_macrosperma_(8903544488).jpg)

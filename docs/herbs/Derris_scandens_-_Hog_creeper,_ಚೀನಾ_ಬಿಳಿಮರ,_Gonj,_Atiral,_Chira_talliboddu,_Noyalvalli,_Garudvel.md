@@ -20,11 +20,14 @@ categories:
   - "Herbs"
 date: 2020-06-19
 ---
+
+![*Derris scandens*](../images/Derris_scandens_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -61,7 +64,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -79,3 +82,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/d/derris-scandens)
 4. [ "Cultivation"]
 5. Indian Medicinal Plants by C.P.Khare
+6. **Dinesh Valke. Photograph of *Derris scandens*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/52958075978)

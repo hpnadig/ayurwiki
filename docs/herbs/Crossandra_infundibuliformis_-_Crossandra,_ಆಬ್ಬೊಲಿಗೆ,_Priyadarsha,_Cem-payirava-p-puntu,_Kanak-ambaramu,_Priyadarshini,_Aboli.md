@@ -20,11 +20,15 @@ categories:
   - "Herbs"
 date: 2020-06-19
 ---
+
+![*Crossandra infundibuliformis*](../images/Crossandra_infundibuliformis_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+Uterine complaints.
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -61,7 +65,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -80,3 +84,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 4. Indian Medicinal Plants by C.P.Khare
 5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 84.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for uterine health (garbha-cāmige). The flowers, root and leaves are all used; the plant is also valued culturally as a hair-flower (used for hair-braiding). <needs-edit>
+6. **Dinesh Valke. Photograph of *Crossandra infundibuliformis*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/48922280498)

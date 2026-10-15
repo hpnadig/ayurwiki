@@ -63,7 +63,7 @@ Fruiting season is October to November
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Asmani_Galgoto_(Gujarati-_આસમાની_ગલગોટો)_(7987690224).jpg)

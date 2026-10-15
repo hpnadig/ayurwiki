@@ -53,7 +53,7 @@ Leaf, Root.
 | Marathi | Chirati |
 | Tamil | Musu mussukkayi |
 | Telugu | Kuturu budamu |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

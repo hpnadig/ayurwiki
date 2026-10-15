@@ -37,7 +37,7 @@ date: 2020-06-17
 Dysentery, Diarrhoea, Dyspepsia, Dysentery, Strong fevers.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

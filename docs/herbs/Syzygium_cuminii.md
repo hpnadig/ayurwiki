@@ -63,7 +63,7 @@ Air layering, Seeds, Grafting.
 A plant of the tropics and subtropics, where it is found at elevations up to 2,000 metres. It grows best in areas where annual daytime temperatures are within the range 20 - 32°c, but can tolerate 12 - 48°c. Mature growth can be killed by temperatures of -2°c or lower, whilst young growth is killed at -1°c.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Jaam_tree3.JPG)

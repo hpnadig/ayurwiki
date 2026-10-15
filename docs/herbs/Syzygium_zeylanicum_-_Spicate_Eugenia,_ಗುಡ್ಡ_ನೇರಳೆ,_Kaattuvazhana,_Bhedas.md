@@ -25,10 +25,11 @@ date: 2020-08-14
 ![](../images/Syzygium_zeylanicum_flowers_50.jpg)
 Syzygium zeylanicum is an evergreen tree that can grow 12 - 20 metres tall. The bole is up to 40cm in diameter. The tree is sometimes harvested from the wild for local use as a dye and as a source of wood.
 ## Uses
-, , , , , , , , , , .
+Vomiting.
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains Crude extract of leaf showed a total of 24 compounds among which 4-(4 ethylcyclohexyl)-1-pentyl-Cyclohexene (24.07 %) followed by Linoleic acid (15.16 %), 2,6,10,-
@@ -42,7 +43,7 @@ It contains Crude extract of leaf showed a total of 24 compounds among which 4-(
 | Kannada | ಗುಡ್ಡ ನೇರಳೆ Gudda nerale |
 | Malayalam | Kaattuvazhana |
 | Marathi | Bhedas |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

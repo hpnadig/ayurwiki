@@ -72,7 +72,7 @@ Stalkless, 3mm in diameter, Nearly spherical, White and shining on maturity, Fru
 Viscum articulatum is available through July to December
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Viscum_articulatum_(2238694889).jpg)

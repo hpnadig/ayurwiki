@@ -134,3 +134,5 @@ Stream and riverbanks
 5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 446-447.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a fatigue-reliever (āyāsa parihāraka). The author identifies the plant with the classical Sanskrit Āmlikā / Tintiḍī. Fruit pulp, leaf, bark, seed used. Heat-stroke / fatigue: tamarind juice with rock-sugar and water, taken cool 1–2–3 times daily.
    > *As cited in: Āmlikā / Tintiḍī — classical Ayurvedic standing (no specific text/verse cited)*
+6. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 20-21.**
+   Fruit pulp is considered a cure for dysentery. A poultice for boils is prepared from the leaves. Dried seeds are used for medicinal purposes. Fruit pulp for dysentery; leaf poultice for boils; dried seeds powdered for various uses.

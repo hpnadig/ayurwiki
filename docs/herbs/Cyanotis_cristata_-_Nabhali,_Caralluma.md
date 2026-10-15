@@ -19,10 +19,10 @@ date: 2021-05-05
 ![*Linaria vulgaris*](../images/Linaria_vulgaris_-_harilik_käokannus_Valingu.jpg)
 **Cyanotis cristata** is a prostrate herb with erect or ascending branchs.
 ## Uses
-, , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -59,7 +59,7 @@ Capsules, 3-4mm long, Trigonous, Obtuse, Membraonous, Fruiting season is Novembe
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

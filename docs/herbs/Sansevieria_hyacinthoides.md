@@ -30,7 +30,7 @@ date: 2020-08-04
 Internal parasites, Fevers, Toothache, Ear affections, Haemorrhoids.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains phytochemical analyses revealed that the leaves, rhizomes, and roots are characterized by alkaloids, flavonoids, and steroids. Pharmacological research revealed that S. hyacinthoides crude extracts have anthelmintic, antibacterial, antifungal, and antioxidant activities.

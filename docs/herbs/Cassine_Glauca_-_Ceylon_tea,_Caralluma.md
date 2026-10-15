@@ -20,7 +20,7 @@ date: 2021-04-28
 Snakebite, Cuts, Wounds, Headache, Dysentery.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -57,7 +57,7 @@ Dry and Oblong obovate drupe, 1-1.5cm Long, Persistent style at the apex
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

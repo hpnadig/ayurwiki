@@ -41,7 +41,7 @@ date: 2023-06-22
 ![*Mango*](../images/Mangga_arumanis_071215-2670_jbrti.jpg)
 **Mango** is a large, evergreen tree with a dark green, umbrella-shaped, spreading crown. It can grow from 10 - 45 metres tall. The long bole can be 60 - 120cm in diameter. The tree has a deep, tap-root system
 ## Uses
-Angina, Asthma, Cough, Diabetes, Dental problems, Skin irritations, Stubborn colds, Obstinate diarrhoea, Bleeding piles, Dysentery, Scorpion stings
+Angina, Asthma, Cough, Diabetes, Dental problems, Skin irritations, Stubborn colds, Obstinate diarrhoea, Bleeding piles, Dysentery, Scorpion stings, Cholera, Plague, Scabies
 
 ## Parts Used
 Fruits, Bark, Leaves
@@ -60,6 +60,11 @@ It contains the essential oil isolated from the leaves and fruit peels of Mangif
 | Marathi | Aamba, Am, Ambo |
 | Tamil | Maamaram, Manga-maram, Mankai, |
 | Telugu | Maamidi, Mamidi-chettu |
+| Assamese | Aam |
+| Bengali | Aam |
+| Oriya | Amba |
+| Gujarati | Keri |
+| Punjabi | Amb |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -143,3 +148,5 @@ In the Mahabharata, trees including the mango are praised for their selfless ser
 9. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 453-454.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for voice-loss / hoarseness (svara bhaṅga). The author identifies the plant with the classical Sanskrit Āmra. All parts (bark, leaf, flower, kernel, fruit, root) used.
    > *As cited in: Āmra / Rasāla — classical Ayurvedic standing (no specific text/verse cited)*
+10. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 1-5.**
+   The ripe fruit is considered invigorating, fattening, diuretic and laxative. Unripe fruit pulp is given to cholera and plague patients. The stone/kernel is roasted and powdered as a household remedy for intestinal ailments, asthma and diarrhoea. Smoke of burning leaves is effective against hiccoughs and throat troubles. Gum and resin mixed with lime juice cure skin diseases and scabies. Kernel roasted and ground to powder; gum mixed with lime juice for external application. Baked and sugared pulp of unripe fruit given to patients.

@@ -24,6 +24,8 @@ date: 2021-05-25
 
 [TOC]
 
+![*Sida spinosa*](../images/Sida_spinosa_annual_-_Flickr_-_dinesh_valke.jpg)
+
 **Sida spinosa** is a shrubby.
 ## Uses
 Asthma, Chest ailments, Diarrhoea, Dysentery, Gonorrhoea, Gleet, Scalding urine, Irritate bladder.
@@ -66,7 +68,7 @@ Fruiting season is June-October
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -83,3 +85,4 @@ Fruiting season is June-October
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 342
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Dinesh Valke. Photograph of *Sida spinosa*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/3966749930)

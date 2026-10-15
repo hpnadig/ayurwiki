@@ -21,10 +21,10 @@ date: 2020-05-05
 ![](../images/Eulophia_herbacea_Lindl._(7433534538).jpg)
 **Eulophia herbacea** is a perennial plant producing 2 - 3 leaves 15 - 29cm long on a central stem 25 - 50cm tall. The stem grows up from a pseudobulb that is borne above soil level.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

@@ -21,7 +21,7 @@ Eriolaena quinqueloularis is a small tree with foliage.
 Wounds.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -58,7 +58,7 @@ Fruiting season is May to July
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

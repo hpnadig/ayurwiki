@@ -16,13 +16,15 @@ date: 2021-05-10
 
 [TOC]
 
+![*Grewia heterotricha*](../images/Grewia_heterotricha_-_Flickr_-_dinesh_valke.jpg)
+
 **Grewia heterotricha** is a small tree or shrub.
 
 ## Uses
-, , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -59,7 +61,7 @@ Drupes
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -75,3 +77,4 @@ Drupes
 1. [Chemistry]
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 208
 3. [Cultivation]
+4. **Dinesh Valke. Photograph of *Grewia heterotricha*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/53527137788)

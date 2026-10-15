@@ -64,7 +64,7 @@ Pods, 2.5-3mm long, 6-12 seeded, Cylindrical, Fruiting season is July-September
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

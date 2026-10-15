@@ -25,7 +25,7 @@ date: 2020-03-27
 Cardiac, Febrifuge, Diseases of tongue, Diseases of throat.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -54,7 +54,7 @@ Seeds
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Benthami.jpg)

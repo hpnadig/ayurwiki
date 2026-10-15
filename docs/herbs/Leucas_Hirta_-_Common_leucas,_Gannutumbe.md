@@ -63,7 +63,7 @@ Calyx tube, 7mm long, 15-30 in a head, Corolla tube 5mm long, Upper lip emergina
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

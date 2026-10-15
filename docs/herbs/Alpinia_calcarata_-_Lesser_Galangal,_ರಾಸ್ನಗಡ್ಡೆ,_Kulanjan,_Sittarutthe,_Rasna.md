@@ -21,6 +21,8 @@ date: 2024-01-01
 
 [TOC]
 
+![*Alpinia calcarata*](../images/Alpinia_calcarata_-_Flickr_-_dinesh_valke.jpg)
+
 **Alpinia calcarata** is a perennial herbaceous plant of the family Zingiberaceae, growing 1-2 m tall with highly aromatic rhizomes. It is found in the tropical and humid regions of South India, particularly in the Western Ghats and coastal Karnataka.
 
 ## Uses
@@ -95,3 +97,4 @@ Tropical and humid forests, Coastal Karnataka, Western Ghats.
    Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.
 
 ## External Links
+2. **Dinesh Valke. Photograph of *Alpinia calcarata*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/27600913378)

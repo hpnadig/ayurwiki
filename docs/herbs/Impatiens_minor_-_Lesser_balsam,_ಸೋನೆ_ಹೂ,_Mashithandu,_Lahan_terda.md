@@ -18,11 +18,15 @@ categories:
   - "Herbs"
 date: 2020-11-03
 ---
+
+![*Impatiens minor*](../images/Impatiens_minor_annual_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+Uterine complaints.
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -57,7 +61,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -77,3 +81,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 5. Indian Medicinal Plants by C.P.Khare
 6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 426.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a reliever of uterine complaints (garbhāśayada tondaregaḷa nivāraka). Flower and whole plant used. Uterine complaints: 3 fresh Sōṇe hū flowers ground with 1 spoon rose-water, externally applied; daily 1 month.
+7. **Dinesh Valke. Photograph of *Impatiens minor*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/4780120502)

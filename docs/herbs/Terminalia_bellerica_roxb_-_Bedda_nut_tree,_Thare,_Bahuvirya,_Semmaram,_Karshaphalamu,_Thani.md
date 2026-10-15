@@ -33,7 +33,7 @@ date: 2021-05-20
 ![*Akshah*, *Bahuvirya*, *Terminalia bellerica*, *Bibhitaki*](../images/515px-Terminalia_bellerica_02.JPG)
 **Bibhitaki** is growing widely throughout the Indian subcontinent, Sri Lanka and  SE Asia. In the  Traditional  system  of  medicine   like   Siddha and  Unani.  Medicinal uses  have  been described  as  it  is  works  in  disease  of  every  system. This plant is belongs to Combretaceae family.
 ## Uses
-Indigestion, Respiratory problems, Diarrhoea, Chronic constipation, Hoarseness, Cough, Sore eyes, Sore throats, Cold, Eye diseases, Headaches, Dizziness, Urinary retention, Skin diseases, Swelling, Ulcers, Bleeding, Impotence, Body odor
+Indigestion, Respiratory problems, Diarrhoea, Chronic constipation, Hoarseness, Cough, Sore eyes, Sore throats, Cold, Eye diseases, Headaches, Dizziness, Urinary retention, Skin diseases, Swelling, Ulcers, Bleeding, Impotence, Body odor, Heart diseases, Nose diseases
 
 ## Parts Used
 Seeds, Fruits.
@@ -44,14 +44,20 @@ Beta-sitosterol,gallic acid,ellagic acid,ethyl gallate,galloyl glucose,chebulagi
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Thare, Tare Mara, Tari, Shantimara, Sohonne |
-| Malayalam | Thani, Thannikka |
+| Kannada | Thare, Tare Mara, Tari, Shantimara, Sohonne, Santi tare, Vibhitaka |
+| Malayalam | Thani, Thannikka, Tusham |
 | Sanskrit | Akshah, Kasaghnah, Akshapaka, Bibara, Bheetaka, Tusha, Karshaphala |
 | Tamil | Semmaram, Vibidagam, Akshamam, Taan, Tamnik-kaya |
-| Telugu | Karshaphalamu, Tandra, Tani, Tandi, Tadi, Katti, Baluppe |
+| Telugu | Karshaphalamu, Tandra, Tani, Tandi, Tadi, Katti, Baluppe, Bhutavasamu |
 | Hindi | Bahuvirya, Bahera, Bahir |
 | English | Bedda nut tree, Belliric myrobalan |
-.
+| Assamese | Bauri hulluch |
+| Bengali | Bahera |
+| Oriya | Bahera |
+| Gujarati | Baheda Sag, Hahedan |
+| Marathi | Baheda, Beda |
+| Punjabi | Bahera, Baharia, Birha |
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -130,3 +136,5 @@ Scattered forests, Sunny mountain slopes.
 8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 404-405.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for Arjuna-class diseases (ārju rōgagaḷalli — possibly liver / cardiac). The author identifies the plant with the classical Sanskrit Vibhītaka / Bibhītakī — one of the three Triphala constituents, central to Ayurvedic detoxification, eye-care and respiratory health. Fruit, seed, bark used.
    > *As cited in: Vibhītaka — classical Triphala constituent (no specific text/verse cited)*
+9. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 27-28.**
+   One of three ingredients of Triphala. Fruits used as a household remedy for diseases of the eye, nose, throat, lungs and heart. Oil extracted from fruit is good for the hair. Fruit used in Triphala formulation; fruit oil for hair application.

@@ -21,10 +21,10 @@ date: 2020-05-15
 ![](../images/20150721Herniaria_glabra.jpg)
 Herniaria glabra is a Biennial/Perennial up to 0.02 metres tall.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

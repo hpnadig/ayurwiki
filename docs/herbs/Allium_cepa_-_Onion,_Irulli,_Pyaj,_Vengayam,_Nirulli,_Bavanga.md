@@ -77,7 +77,7 @@ Seeds
 Onions are best grown in a Mediterranean climate, the hot dry summers ensuring that the bulbs are ripened fully.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Allium_cepa_(4217865747).jpg)

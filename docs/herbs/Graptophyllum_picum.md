@@ -31,7 +31,7 @@ date: 2020-05-13
 Constipation, Cuts, Ulcers, Scorpion stings, Swellings, Headaches, Swellings, Earaches, Skin complaints.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -63,7 +63,7 @@ Seeds
 Prefers a position in full sun to moderate shade, but also succeeds in almost full shade.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/"+arya+"_Graptophyllum_pictum_ꦠꦸꦭꦏ꧀_ꦮꦸꦔꦸ_krucuk_2019_02.jpg)

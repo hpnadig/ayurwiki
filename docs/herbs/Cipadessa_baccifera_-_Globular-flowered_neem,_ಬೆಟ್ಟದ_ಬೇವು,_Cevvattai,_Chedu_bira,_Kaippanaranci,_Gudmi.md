@@ -19,11 +19,15 @@ categories:
   - "Herbs"
 date: 2020-06-19
 ---
+
+![*Cipadessa baccifera*](../images/Cipadessa_baccifera_meliaceae_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+Lymphatic glands.
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -59,7 +63,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -78,3 +82,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 4. Indian Medicinal Plants by C.P.Khare
 5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 400.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for lymphatic glands (rasa-granthi bāvige). All parts used. Lymphatic swellings: bark-and-leaf paste applied as external lepa for 2–3 hours; 3 days.
+6. **Dinesh Valke. Photograph of *Cipadessa baccifera*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/5654167850)

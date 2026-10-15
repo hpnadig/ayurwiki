@@ -62,7 +62,7 @@ Orange red at maturity with 1-4 spheroid lobes, Fruiting season is February to A
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Grewia_tenax_flower_2.jpg)

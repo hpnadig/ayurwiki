@@ -64,9 +64,11 @@ Flavonoids, two tannins, allagic acid, catechin, quercetin and quercitrin and Di
 | Hindi | Ashok, Asok |
 | English | Ashoka tree |
 | Marathi | Ashok |
-| Gujarati | Ashoka |
+| Gujarati | Ashoka, Ashopalava |
 | Punjabi | Asok |
 | KS | Ashok |
+| Bengali | Ashok, Ashoka |
+| Oriya | Aseka, Ati, Osoko |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -152,3 +154,5 @@ The Varah Purana describes the importance of planting and maintaining trees, inc
    Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.
 8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 91-92.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as the matchless protector of uterine health (garbhāṅgaḷa ārakṣe anupama). The author describes the tree as one of the classical druma-aśoka group, beautiful in flowering 12 months of the year, and centrally used for menstrual disorders and skin lesions in children.
+9. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 51-52.**
+   Juice of the bark is a medicine for many female diseases. Flower is a remedy for dysentery. Bark, root and leaves are used in preparing various medicines. Fruit is claimed to cure a number of diseases including cancer. Bark juice for female disorders; flower for dysentery; various parts used in medicinal preparations.

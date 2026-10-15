@@ -21,6 +21,9 @@ categories:
   - "Herbs"
 date: 2021-12-13
 ---
+
+![*Murraya koenigi*](../images/Murraya_koenigi_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
 Vomit, Snakebite, Venom's bite, Dysentery, Hairfall.
 
@@ -65,7 +68,7 @@ Fruiting from February to April
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -83,3 +86,4 @@ Fruiting from February to April
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
 5. ”Karnataka Medicinal Plants Volume-3” by Dr.M. R. Gurudeva, Page No.237, Published by Divyachandra Prakashana, #6/7, Kaalika Soudha, Balepete cross, Bengaluru
+6. **Dinesh Valke. Photograph of *Murraya koenigi*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/53768588764)

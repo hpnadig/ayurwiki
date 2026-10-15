@@ -92,7 +92,7 @@ Seeds, Division of spring.
 It is a popular ornamental plant, widely cultivated in temperate regions of the world, and very hardy to below −20 °C.
 
 ## Commonly seen growing in areas
-, .
+
 
 ## Photo Gallery
 

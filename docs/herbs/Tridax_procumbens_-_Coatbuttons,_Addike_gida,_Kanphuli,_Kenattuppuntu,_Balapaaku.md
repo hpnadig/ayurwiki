@@ -43,7 +43,7 @@ Leaves, Roots
 | Telugu | Balapaaku, Gaayapaaku |
 | Hindi | Kanphuli, Kanphuliya |
 | English | Coatbuttons |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

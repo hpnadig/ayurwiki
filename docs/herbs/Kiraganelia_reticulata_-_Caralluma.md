@@ -18,10 +18,10 @@ date: 2021-06-28
 ![*Linaria vulgaris*](../images/Linaria_vulgaris_-_harilik_käokannus_Valingu.jpg)
 **Kiraganelia reticulata** is a large straggling shrub, Branches slender.
 ## Uses
-, , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -57,7 +57,7 @@ Berry-like, 4-6mm across, Blackish when ripe, Fruiting season is March-July
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

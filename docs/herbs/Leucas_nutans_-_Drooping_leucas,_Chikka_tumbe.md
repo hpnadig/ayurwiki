@@ -60,7 +60,7 @@ Capsule, As long as sepals and nearly spherical with many seeds. Fruiting season
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/DSC_0001_(4306137320).jpg)

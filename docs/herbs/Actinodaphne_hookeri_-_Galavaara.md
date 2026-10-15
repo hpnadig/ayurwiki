@@ -22,10 +22,10 @@ date: 2020-11-09
 **Actinodaphne hookeri** is a small tree that can be found in the evergreen forests of the western Ghats, Orissa and Sikkim up to 1500 m.
 
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 The leaves contain a very small amount of an amorphous alkaloid. They also contain beta-sitosterol, hentriacontanone, hentriacontanol and quercetin-3-rhamnoside and hydrocarbons. The bark gives an alkaloid, actinodaphnine.
@@ -55,7 +55,7 @@ Tree
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

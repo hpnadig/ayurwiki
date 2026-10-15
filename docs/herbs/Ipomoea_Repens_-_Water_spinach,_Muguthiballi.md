@@ -64,7 +64,7 @@ Oval-Spherical, 1cm Wide, Woody at maturity, 1-4 greyish seeds, Hairy, Fruiting 
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

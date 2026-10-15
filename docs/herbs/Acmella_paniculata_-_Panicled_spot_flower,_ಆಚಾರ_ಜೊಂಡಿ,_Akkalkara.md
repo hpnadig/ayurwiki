@@ -15,8 +15,11 @@ categories:
   - "Herbs"
 date: 2021-10-21
 ---
+
+![*Acmella paniculata*](../images/Acmella_paniculata_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ### Food
 Acmella paniculata can be used in Food. Leaves are cooked as vegetable and fl owers are eaten raw
@@ -60,7 +63,7 @@ Acmella paniculata Contains the Following nutritional components like - Vitamin-
 Acmella paniculata is available through September to January
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -80,3 +83,4 @@ Acmella paniculata is available through September to January
 5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 463-464.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as an anaesthetic-class pain reliever (nōvu nivārisuva anasthēsiyā). The author identifies the plant with the classical Sanskrit Ākarakāra-kara group — used in Ayurveda for dental pain. Flowering head used.
    > *As cited in: Ākarakāra-kara — classical Ayurvedic standing as dental analgesic (no specific text/verse cited)*
+6. **Dinesh Valke. Photograph of *Acmella paniculata*. Flickr, CC BY-SA 4.0.** [Source](https://www.flickr.com/photos/dinesh_valke/55088817823)

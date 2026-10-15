@@ -12,17 +12,19 @@ categories:
   - "Herbs_with_common_name_in_Kannada"
   - "Herbs_with_common_name_in_English"
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat"
-  - "Pages without herbs images"
-  - "Pages_without_herbs_images"
   - "Habit_-"
   - "Herbs"
 date: 2020-06-19
 ---
+
+![*Humboldtia brunonis*](../images/Humboldtia_brunonis_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+Leucorrhoea, Discharges.
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -55,7 +57,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -75,3 +77,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 5. Indian Medicinal Plants by C.P.Khare
 6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 217-218.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for chronic leucorrhoea / discharges (dīrgha-kālīna pradara). The author calls it the 'Asoka of the Sahyadri'. Bark, leaf, flower are used. Chronic leucorrhoea: 25 g of Ciṭṭuga bark in 3 cups water reduced to ¼ cup decoction — taken once daily; combined with 4–6 day external lepa from leaves and shoots.
+7. **Dinesh Valke. Photograph of *Humboldtia brunonis*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/53529198415)

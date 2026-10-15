@@ -51,7 +51,7 @@ It contains  Caryophyllene oxide (16.7 %) was the major compound followed by n-h
 | Telugu | Garita kammi, Garitikamma, Gharitikamini |
 | Hindi | Daudotpala, Kalgira, Kaljiri, Sadodi, Sadori, Sahadevi |
 | English | Ash-colour fleabane, Purple fleabane |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

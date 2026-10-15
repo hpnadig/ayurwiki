@@ -78,7 +78,7 @@ Nutlets, 1.5mm long, Sub trigonous, Minutely fitted, Dark brown, Fruiting season
 It flourishes in conditions of lot of sun, well drained soils and access to heat.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Ocimum_canum_Blanco2.257.jpg)

@@ -31,7 +31,7 @@ date: 2020-07-30
 ![](../images/Rosa_multiflora_rose.JPG)
 **Rosa multiflora** is a deciduous shrub that can grow up to 5.00 metres tall. It is harvested from the wild for local use as a food, medicine and source of materials.
 ## Uses
-Sores, Constipation, Articular pain, Ulcers, Wounds, Sprains, Injuries, , , , .
+Sores, Constipation, Articular pain, Ulcers, Wounds, Sprains, Injuries.
 
 ## Parts Used
 Fruits, Seeds, Young leaves, Young shoots.

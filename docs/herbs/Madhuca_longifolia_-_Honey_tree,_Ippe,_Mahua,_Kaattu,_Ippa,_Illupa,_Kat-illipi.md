@@ -38,7 +38,7 @@ date: 2022-04-04
 ![*Indian butter tree*](../images/Madhuca_indica_(Mahua)_in_Hyderabad,_AP_W_IMG_0067.jpg)
 **Butter tree** is a deciduous tree with a large, spreading, rounded crown that can grow 16 metres or more tall.A multipurpose tree that is very important to the local economy, supplying a range of foods, medicines and other commodities.
 ## Uses
-Cough, Cold, Bronchitis, Leprosy, Diabetes, Bleeding gums, Skin diseases.
+Cough, Cold, Bronchitis, Leprosy, Diabetes, Bleeding gums, Skin diseases, Abscesses.
 
 ### Food
 Madhuca longifolia can be used in Food. Fleshy corolla is eaten raw and used in sweet preparations. Dried flowers are floured and used for making Bhakari (bread). Flowers are fermented to make liquor. Oil is extracted from seeds.
@@ -57,9 +57,11 @@ It consists of Glycosides, flavonoids, terpenes and saponins. The pharmacologica
 | Hindi | Mahua, Mohwa |
 | Kannada | Ippe, Aaluppe |
 | Malayalam | Illupa |
-| Marathi | Kat-illipi |
-| Tamil | Kaattu |
+| Marathi | Kat-illipi, Mohwa |
+| Tamil | Kaattu, Illupai |
 | Telugu | Ippa |
+| Bengali | Mohwa |
+| Oriya | Mohwa |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -121,3 +123,5 @@ Deciduous forests, Dry plain forests, Cultivated fields.
 4. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 67.**
    The flowers are used to make alcoholic beverages and the oil from seeds is used for skin care. The bark has anti-inflammatory properties and is used in treating rheumatism. Seed oil (Mahua oil) is used for skin diseases and as a laxative. The tree has anti-nematocidal and bactericidal properties. Bark decoction for internal use. Seed oil applied externally for skin conditions. Flower extract used as a tonic.
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.106, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+6. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), p. 38.**
+   Bark heals wounds and sores. Milky sap is used as a laxative and as a remedy for rheumatism. Flowers are efficacious in diseases of the heart, ear and lungs. Fruit is supposed to purify blood. Bark applied to wounds; milky sap taken internally for rheumatism; flowers used for cardiac and respiratory ailments.

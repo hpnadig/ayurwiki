@@ -24,7 +24,7 @@ date: 2020-05-14
 ![](../images/Guett_speci_131129-42401_soq.JPG)
 **Guettarda speciosa** is a small, evergreen tree, with fragrant, long, tubular, white flowers, that can grow up to 10 metres tall. The plant is harvested from the wild for a range of local uses.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Bark, Fruits, Leaves, Flowers.

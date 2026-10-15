@@ -18,7 +18,7 @@ date: 2023-03-07
 
 ![](../images/Dendrobium_ovatum_(3069702395).jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Whole plant.
@@ -56,7 +56,7 @@ Fruiting from February to April
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Dendrobium_ovatum_(3069702395).jpg)

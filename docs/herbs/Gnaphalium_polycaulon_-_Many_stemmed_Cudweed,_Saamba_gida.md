@@ -19,12 +19,14 @@ date: 2021-05-10
 
 [TOC]
 
+![*Gnaphalium polycaulon*](../images/Gnaphalium_polycaulon_asteraceae_-_Flickr_-_dinesh_valke.jpg)
+
 **Gnaphalium polycaulon** is an erect to prostate annual herb. It can grow upto 30cm tall. Branched from the base. White wolly velvety.
 ## Uses
 Colds, Flu, Pnemonea, Tonsillitis, Flu.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -59,7 +61,7 @@ Linear, Obovate to invetred lanceshaped, Spoon shaped
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -75,3 +77,4 @@ Linear, Obovate to invetred lanceshaped, Spoon shaped
 1. [Chemistry]
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 202
 3. [Cultivation]
+4. **Dinesh Valke. Photograph of *Gnaphalium polycaulon*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/8460744537)

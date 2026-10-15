@@ -42,7 +42,7 @@ date: 2020-07-21
 Bronchial asthma, Cough, Bronchitis, Tuberculosis, Biliousness, Dyspepsis, Vomitting, Food poisoning, Diarrhoea, Nervous dysfunction, Diabetes mellitus.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 The root of the plant has been reported to contain leucopelargonidin, flavonoids and proteins.

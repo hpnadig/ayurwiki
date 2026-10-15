@@ -15,7 +15,7 @@ categories:
 date: 2020-03-12
 ---
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Stem, Leaves, Root.
@@ -45,7 +45,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

@@ -69,7 +69,7 @@ Seeds.
 Well drained soil
 
 ## Commonly seen growing in areas
-, .
+
 
 ## Photo Gallery
 ![Flower and leaves](../images/Barleria_strigosa_2681.jpg)

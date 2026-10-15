@@ -74,7 +74,7 @@ Seeds, Stem cuttings.
 Propagation is by seed. Cuttings are sometimes said to be difficult to root, which is associated with the presence of an uninterrupted sclerenchym band in the pericycle.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![Leaves](../images/Bataria_Teak_(3521682145).jpg)

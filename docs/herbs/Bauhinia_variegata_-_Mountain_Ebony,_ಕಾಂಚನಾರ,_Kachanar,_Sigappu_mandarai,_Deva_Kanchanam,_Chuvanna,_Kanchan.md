@@ -32,7 +32,7 @@ date: 2020-11-04
 ![*Kaancanara*](../images/Bauhinia_variegata_flower.jpg)
 **Kaancanara** consists of the dried stem bark. It is a medium sized tree occurring in sub-Himalayan tract extending eastwards to Assam, Eastern, Central and South India.
 ## Uses
-Thyroid disorders, Cancer, Goitre.
+Thyroid disorders, Cancer, Goitre, Ulcers.
 
 ## Parts Used
 Leaves.
@@ -46,14 +46,16 @@ The chemical investigation of methanolic extract of the stems of Bauhinia varieg
 | Sanskrit | Kaancanaraka |
 | English | Mountain Ebony |
 | Gujarati | Champakati, Kanchnar, Kachnar |
-| Hindi | Kachanar, Kanchanar, Kachnar |
-| Kannada | ಕಾಂಚನಾರ Kanchanaara, ಕಂಚುವಾಳ Kanchuvaala |
-| Malayalam | Chuvanna, Mandharam |
-| Marathi | Kanchana, Raktakancana |
+| Hindi | Kachanar, Kanchanar, Kachnar, Barial |
+| Kannada | ಕಾಂಚನಾರ Kanchanaara, ಕಂಚುವಾಳ Kanchuvaala, Arasinanigge, Bilikandrivala |
+| Malayalam | Chuvanna, Mandharam, Kovindaram, Unna |
+| Marathi | Kanchan, Kanchnar, Raktakanchan |
 | Punjabi | Kanchnar |
-| Tamil | Sigappu mandarai, Sihappu mantarai |
-| Telugu | Deva Kanchanam |
-| Marathi | Kanchan, Kanchnar |
+| Tamil | Sigappu mandarai, Sihappu mantarai, Mandarai, Semmandari |
+| Telugu | Deva Kanchanam, Randara, Devakanjanamu |
+| Marathi | Kanchan, Kanchnar, Raktakanchan |
+| Bengali | Karabi, Raktakanchan |
+| Oriya | Kanchan, Raktakanchan |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -134,3 +136,5 @@ Western himalayas, Open woodland, Moisty soil area.
 9. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 30, 99.**
    Listed among restricted campus trees not suitable for planting in residential compounds. As a hydrology indicator, Kancana (Kovidara) growing near specific landmarks indicates the presence of underground water sources.
    > *As cited in: Vrksayurveda of Surapala, Sections 3, 21*
+10. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 45-46.**
+   Cooked flowers are taken as a laxative. Bark is an astringent and believed to cure asthma and ulcers. Buds and roots are good for digestive troubles. Root is popularly believed to cure snake-bite. Flowers cooked as vegetable for laxative effect; bark decoction for asthma and ulcers; buds and roots for digestive issues.

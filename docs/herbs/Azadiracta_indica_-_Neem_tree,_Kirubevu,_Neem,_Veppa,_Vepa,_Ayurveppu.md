@@ -43,7 +43,7 @@ date: 2020-08-12
 ![**Neem**, **Nimba**](../images/Neem_(Azadirachta_indica)_in_Hyderabad_W_IMG_6976.jpg)
 **Azadirachta indica** also known as Neem. It is a tree in the mahogany family Meliaceae. It is one of the two species in the genus Azadirachta and is native to India and the Indian subcontinent including Nepal, Pakistan, Bangladesh, and Sri Lanka.
 ## Uses
-Skin diseases, Hair problems, Liver problems, Detoxify the blood, Fever, Blotches, Dental problems, Cough, Asthma, Ulcer, Piles, Skin disease, Worm infestation, Blood purifier, Wound, Urinary conditions, Kidney problems, Eye diseases, Pimples, Urinary stones, Joint pain, Diabetes, Itching, Gum diseases, Malaria.
+Skin diseases, Hair problems, Liver problems, Detoxify the blood, Fever, Blotches, Dental problems, Cough, Asthma, Ulcer, Piles, Skin disease, Worm infestation, Blood purifier, Wound, Urinary conditions, Kidney problems, Eye diseases, Pimples, Urinary stones, Joint pain, Diabetes, Itching, Gum diseases, Malaria, Antiseptic, Smallpox eruption care.
 
 ## Parts Used
 Bark, Leaves, Seeds.
@@ -143,3 +143,5 @@ The resilience of the neem tree was demonstrated when it survived the devastatin
    > *As cited in: Vrksayurveda of Surapala, Verses 1-2, 267; Sections 2, 5, 8, 19, 21*
 6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 132-133.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for various wounds and ulcers (vividha vraṇagalige), and for ingrowing toenails. The author records the plant's central place in Ayurveda as 'Sarva-carma-rōga-nāśakam' (destroyer of all skin diseases).
+7. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 84-85.**
+   Every part has medicinal properties. Oil extracted from seeds (margosa oil) used as antiseptic and for massage in rheumatism. Gum from bark is a stimulant and tonic. Lotion from leaves is antiseptic. Dried leaves keep away insects. Leaves placed around smallpox patients for quick drying of eruptions. Fruit purifies blood. Neem twigs make toothbrushes with germicidal and antiseptic properties. Products include neem soaps and toothpastes. Seed oil (margosa oil) for external application; leaf lotion as antiseptic; twigs as toothbrush; gum as tonic.

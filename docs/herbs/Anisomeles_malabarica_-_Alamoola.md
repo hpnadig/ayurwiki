@@ -20,7 +20,7 @@ date: 2020-03-24
 ![*Alamoola*, *Anisomeles malabarica*](../images/Anisomeles_malabarica_03.jpg)
 **Malabar catmint** is an aromatic, perennial plant with woolly stems, growing from 50 - 150cm tall. The stems often become woody and persist. The plant is harvested from the wild for local use in traditional medicine.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Roots, Leaves.

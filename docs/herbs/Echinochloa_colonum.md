@@ -23,7 +23,7 @@ date: 2020-04-30
 ![](../images/Echinochloa_colona.jpg)
 **Echinochloa colonum** is a clump-forming, annual grass producing stems 10 - 100cm long that can be ascending or decumbent. Seen more commonly as a famine food, the plant is sometimes cultivated by local people in Africa for its edible seed.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Leaves, Seeds.

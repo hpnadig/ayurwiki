@@ -21,10 +21,10 @@ date: 2020-06-11
 
 ![](../images/Ougeinia_dalbergioides_Bra23.png)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

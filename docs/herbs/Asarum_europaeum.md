@@ -18,10 +18,10 @@ date: 2020-03-28
 
 ![](../images/Asaret_d'Europe_(Asarum_europaeum)_Mont_Aigoual.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -48,7 +48,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/2018-03-13_(107)_Hepatica_nobilis_(Liverleaf)_at_Haltgraben_in_Frankenfels.jpg)

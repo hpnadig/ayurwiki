@@ -19,7 +19,7 @@ date: 2020-09-02
 ![](../images/Broad_beans,_thumbnail.jpg)
 **Vicia fab**a is an erect, annual plant, producing a stout stem with one or more basal branches. It can grow up to 2 metres tall, though most cultivars are smaller.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Immature seeds, Mature seeds, Young pods, Young leaves.
@@ -49,13 +49,13 @@ Annual
 ## List of Ayurvedic medicine in which the herb is used
 ## Where to get the saplings
 ## Mode of Propagation
-, , , .
+
 
 ## How to plant/cultivate
 Broad beans originated in warm temperate areas and can be cultivated from the cold temperate zone to the subtropics, and also at higher elevations from 1,300 - 3,800 metres in the tropics. It may flower well in the lowland tropics, but usually does not produce pods.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Broad_Beans_-_geograph.org.uk_-_225774.jpg)

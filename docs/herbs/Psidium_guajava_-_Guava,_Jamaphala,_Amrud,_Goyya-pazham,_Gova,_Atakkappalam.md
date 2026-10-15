@@ -34,7 +34,7 @@ date: 2020-07-21
 ![*Peruka*, *Psidium guajava*](../images/Starr_050419-0427_Psidium_guajava.jpg)
 **Peruka** is an ornamental, evergreen shrub or small tree. It grows up to 3 - 10 metres tall. This plant has a wide range of traditional medicinal uses and is the source of various commodities. The tree is widely cultivated in tropical and subtropical areas around the world for its edible fruit.
 ## Uses
-Stomach ache, Dental problems, Cough,  Cold,Dysentery, Diarrhea
+Stomach ache, Dental problems, Cough, Cold, Dysentery, Diarrhea, Colic pain, Toothache, Ulcers
 
 ## Parts Used
 Bark, Leaves, Fruits
@@ -46,12 +46,18 @@ Five constituents including one new pentacyclic triterpenoid guajanoic acid (1) 
 | Language | Names |
 | --- | --- |
 | Kannada | Jamaphala, Seebe-hannu |
-| Malayalam | Atakkappalam, Koyya |
+| Malayalam | Atakkappalam, Koyya, Pera |
 | Sanskrit | Amruta-phalam, Perala |
 | Tamil | Goyya-pazham, Koyapalam |
-| Telugu | Gova, Goyya |
+| Telugu | Gova, Goyya, Jama |
 | Hindi | Amrud, Jamphal |
 | English | Guava |
+| Assamese | Madhuri Aam |
+| Bengali | Piyara |
+| Oriya | Pijuli |
+| Marathi | Peru |
+| Gujarati | Jamphal |
+| Punjabi | Amrud |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -111,3 +117,5 @@ Tropical area, Sub tropical area
 4. [names](Vernacular)(http://envis.frlht.org/bot_search)
 5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 304.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for oral and dental health (bāyi hallugaḷa susthitige). Tender shoots are a classical mouth-rinse. Fruit, leaf, bark, root used. Oral health / gum bleeding: 4–6 tender leaves chewed slowly in the morning; juice swallowed.
+6. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 9-10.**
+   Bark is used as a cure for dysentery; juice extracted from bark heals wounds and ulcers. Infusion prepared from guava bark cures toothache. Fruit is a household remedy for colic pain and constipation. Guava wood is used for making musical instruments and artistic carving. Bark and dry leaves yield a brick-coloured dye. Infusion of bark for toothache; juice of bark applied to wounds and ulcers.

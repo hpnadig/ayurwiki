@@ -18,7 +18,7 @@ date: 2020-05-08
 ![](../images/Fritillaria_imperialis.jpg)
 **Fritillaria imperialis** is a Bulb up to 1.00 metres tall. It is harvested from the wild for local use as a food and medicine
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Bulbs.

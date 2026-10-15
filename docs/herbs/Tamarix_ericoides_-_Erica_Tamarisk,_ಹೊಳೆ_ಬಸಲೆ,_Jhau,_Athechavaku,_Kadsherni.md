@@ -25,10 +25,10 @@ date: 2020-08-19
 
 ![](../images/Tamarix_ericoides_Rottl._et_Willd._(11984475184).jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 The preliminary phytochemical analysis of Tamarix ericoides Rottl showed the presence of alkaloids, glycosides, tannins, saponins and phytosterols. That plant has various medicinal
@@ -44,7 +44,7 @@ uses and can be used in diabetes, paralysis, anti-dermatosis, stomach disorder, 
 | Kannada | ಹೊಳೆ ಬಸಲೆ Hole basale |
 | Marathi | Kadsherni |
 | Tamil | Athechavaku |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -68,7 +68,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/07600_Ses_Cadenes,_Illes_Balears,_Spain_-_panoramio_(5).jpg)

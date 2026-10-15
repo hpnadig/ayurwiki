@@ -28,10 +28,10 @@ date: 2024-07-09
 ![](../images/Elsholtzia_ciliata-1.jpg)
 Elsholtzia ciliata is an erect. It will grow upto 30 - 50cm tall. The plant is harvested from the wild for local use as a food and medicine. The plant is often grown as an ornamental. It can escape from cultivation and has become naturalized in many areas outside its native range.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

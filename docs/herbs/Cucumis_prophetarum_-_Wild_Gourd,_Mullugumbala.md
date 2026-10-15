@@ -19,7 +19,7 @@ date: 2021-05-04
 ![](../images/Cucumis_prophetarum_plant_wine.jpg)
 **Cucumis prophetarum** is a climbing or trailing plant. It produces annual stems up to 2.5 metres long from a perennial root-stock. The plant is sometimes gathered from the wild for local medicinal and food use. It is very occasionally cultivated and is also sold in local markets.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Fruits, leaves.
@@ -62,7 +62,7 @@ Seed
 A plant of low to moderate elevations in the drier areas of the tropics.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Cucumis_prophetarum_plant_wine.jpg)

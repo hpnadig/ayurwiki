@@ -46,7 +46,7 @@ Root, Seed.
 | Telugu | Biyyam, Vudlu |
 | Hindi | Chaval, Dhan |
 | English | Rice |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

@@ -73,7 +73,7 @@ Ellipsoid capsule, Adhesive with soft spines. Fruiting season is Through out the
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Polycarpaea_corymbosa_W_IMG_3048.jpg)

@@ -36,7 +36,7 @@ date: 2021-05-04
 Asthma, Bronchitis, Dyspepsia, Flatulence, Colic, Anorexia, Anaemia, Diabetes, Skin disease.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

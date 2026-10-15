@@ -27,7 +27,7 @@ date: 2020-04-15
 Tetanus, Serotonin, Vomiting, Alleviating drug withdrawal symptoms.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 The root is a rich source of alkaloids. The main alkaloid responsible for the muscle-relaxant actions is called d-tubocurarine.
@@ -59,7 +59,7 @@ Seeds
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Strychnos_toxifera_-_Köhler–s_Medizinal-Pflanzen-267.jpg)

@@ -62,7 +62,7 @@ Spherical capsules, 1cm across, Seeds densely covered with white hairs, Fruiting
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

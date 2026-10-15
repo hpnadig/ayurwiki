@@ -59,7 +59,7 @@ Nutlets, Chestnut brown, Ellipsoid, Subtri quetrous and shiny
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

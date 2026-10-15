@@ -67,7 +67,7 @@ Broader than long, Bright red kidney or hammer shaped
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

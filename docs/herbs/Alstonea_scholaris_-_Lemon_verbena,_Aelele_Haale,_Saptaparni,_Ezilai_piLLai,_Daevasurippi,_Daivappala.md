@@ -51,7 +51,7 @@ It contains alkalides.
 | Telugu | Daevasurippi |
 | Hindi | Saptaparni |
 | English | Lemon verbena |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

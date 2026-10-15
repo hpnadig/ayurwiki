@@ -52,7 +52,7 @@ Shrub
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Anchusa_italica_(8765613422).jpg)

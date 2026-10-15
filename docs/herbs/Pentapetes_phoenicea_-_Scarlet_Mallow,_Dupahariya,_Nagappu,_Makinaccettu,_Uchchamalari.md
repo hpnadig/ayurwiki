@@ -45,7 +45,7 @@ It contains  alkaloids, flavonoids, saponins, steroids, phenolics, coumarins and
 | Telugu | Makinaccettu |
 | Hindi | Dupahariya |
 | English | Scarlet Mallow, Copper Cups |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

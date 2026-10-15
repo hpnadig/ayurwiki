@@ -25,12 +25,14 @@ date: 2020-06-26
 
 [TOC]
 
+![*Pajanelia longifolia*](../images/Pajanelia_longifolia_bignoniaceae_-_Flickr_-_dinesh_valke.jpg)
+
 **Pajanelia** is an evergreen or briefly deciduous, small to medium-sized, sparingly branched tree with large, ornamental flowers tree. It grows up to 30 metres tall with occasional specimens to 36 metres. The bole is unbuttressed and up to 115 cm in diameter. The tree is sometimes cultivated to provide support for other crops and is also gathered from the wild for medicine and timber. It is occasionally cultivated as medicinal plant in Malaysia.
 ## Uses
 Fever, Stomach disorders.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -87,3 +89,4 @@ Hill forest, Lowland forest, Secondary forest, Coastal forest.
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/p/pajanelia-longifolia)
 4. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Pajanelia+longifolia)
 5. Indian Medicinal Plants by C.P.Khare
+6. **Dinesh Valke. Photograph of *Pajanelia longifolia*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/53573252016)

@@ -66,7 +66,7 @@ Round, 6-7mm in diameter, Fruiting season is November-January
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

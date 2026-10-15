@@ -25,6 +25,8 @@ date: 2021-05-05
 
 [TOC]
 
+![*Cyclea peltata*](../images/Cyclea_peltata_-_Flickr_-_dinesh_valke.jpg)
+
 *'Indian Moon-Seed* is a slender twining shrub, frequently climbing up on tall trees.
 ## Uses
 Infected wounds, Sinuses, Skin diseases, Serpant bite, Headache.
@@ -66,7 +68,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -84,3 +86,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 3. [Cultivation]
 4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 73.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for rectal prolapse (guda-bhraṁśa nivāraka). Root paste is applied around the prolapsed anus to encourage retraction; root decoction is taken internally for chronic dysentery and as a postnatal tonic.
+5. **Dinesh Valke. Photograph of *Cyclea peltata*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/52535572869)

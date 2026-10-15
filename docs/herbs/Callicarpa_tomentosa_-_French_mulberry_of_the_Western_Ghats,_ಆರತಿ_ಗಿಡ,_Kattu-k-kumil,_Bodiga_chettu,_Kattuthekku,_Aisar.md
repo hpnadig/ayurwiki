@@ -35,7 +35,7 @@ The plant is harvested from the wild for local use as a medicine.
 Fever, Liver complaints, Skin diseases
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

@@ -34,7 +34,7 @@ date: 2020-06-02
 Gastro-intestinal troubles, Wounds, Sores, Eye ache, Nose ache, Chronic skin diseases, Psoriasis, Scabies, Fevers, Colds, Rheumatism.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

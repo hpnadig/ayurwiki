@@ -33,7 +33,7 @@ date: 2020-05-29
 Bladder complaints, Kidney complaints, Diarrhoea, Menstrual problems, Vaginal discharges, Kidney disorders, Amenorrhoea.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

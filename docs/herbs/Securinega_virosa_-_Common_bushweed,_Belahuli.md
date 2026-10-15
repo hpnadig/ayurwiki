@@ -19,13 +19,13 @@ date: 2021-11-16
 ![*Linaria vulgaris*](../images/Linaria_vulgaris_-_harilik_käokannus_Valingu.jpg)
 **Securinega vorosa** is a small tree.
 ## Uses
-, , .
+
 
 ### Food
 Securinega virosa can be used in Food. Ripe fruits are eaten raw.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -66,7 +66,7 @@ Fruiting season is October-January
 Securinega virosa is available through April to October
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

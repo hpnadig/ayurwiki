@@ -134,3 +134,5 @@ Tropical area, Subtropical area, Equatorial climate areas.
 8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 328-329.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a blood-improver for anaemia (rakta-vṛddhi). The author identifies the plant with the classical Sanskrit Śigru / Śobhāñjana — a major Ayurvedic plant for anaemia, eye disorders, oedema, joint pain, and nutrition. Bark, root, leaf, flower, drumstick-pod and seed all used.
    > *As cited in: Śigru / Śobhāñjana — classical Ayurvedic standing (no specific text/verse cited)*
+9. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), p. 87.**
+   Root has pungent taste employed as a substitute for mustard. Bark is a source of fibre. Various parts used as vegetable. Root used as condiment.

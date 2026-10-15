@@ -25,10 +25,11 @@ date: 2020-07-23
 ![*Pothos scandens*](../images/Pothos_scandens,_Climbing_Aroid,_anaparuva_11.jpg)
 
 ## Uses
-, , , , , , , , , , .
+Diuretic, Laxative.
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -39,7 +40,7 @@ date: 2020-07-23
 | Kannada | ಆಡ್ಕೆ ಬೀಳುಬಳ್ಳಿ Adke biluballi, ಆಗಚೊಪ್ಪು Agachoppu |
 | Malayalam | Anapparuva, Parivalli |
 | Marathi | Bendarli |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -63,7 +64,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Pothes_scandens-BSI-yercaud-salem-India.JPG)

@@ -69,7 +69,7 @@ Small, Didymoues, Fruiting season is March-April
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

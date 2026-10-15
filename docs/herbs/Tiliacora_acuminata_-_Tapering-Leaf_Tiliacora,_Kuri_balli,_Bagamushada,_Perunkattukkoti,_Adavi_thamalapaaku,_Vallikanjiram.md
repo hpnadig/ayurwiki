@@ -24,9 +24,9 @@ date: 2020-08-25
 
 ![*Tiliacora acuminata*](../images/Tiliacora_acuminata_01.JPG)
 ## Uses
-, , , , , , , , , , .
+
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 Tiliacora acuminata to detect the presence
@@ -66,7 +66,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Tiliacora_acuminata_01.JPG)

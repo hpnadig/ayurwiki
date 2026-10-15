@@ -18,10 +18,10 @@ date: 2021-06-03
 
 **Madhuca latifolia** is a large and deciduous tree with a spreading rounded crown.
 ## Uses
-, , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -58,7 +58,7 @@ Ovoid, Fleshy, 1-4 seeded, Greenish, Fruiting season is July to February
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

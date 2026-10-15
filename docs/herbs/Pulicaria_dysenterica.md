@@ -26,7 +26,7 @@ date: 2020-07-20
 Dysentery, Wounds
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains fifty-four components were identified representing 80.5% (sample A) and 72.6% (sample B) of the total oils. The main components in sample A were (Z)-nerolidol (11.2%), caryophyllene oxide (9.1%) and (E)-nerolidol (6.6%), while those of sample B were β-caryophyllene (12.8%), caryophyllene oxide (12.8%) and (E)-nerolidol (6.9%).

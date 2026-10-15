@@ -43,7 +43,7 @@ Tylophora indica contains 0.2%–0.3% alkaloids but the alkaloid content (w/w) i
 | Kannada | Adumuttada balli, Antamula, Adumutrada, Kirumanji |
 | Tamil | Pyapaalai, Paishtalli, Nachihorrappan, Nay Pallai |
 | Telugu | Kaakapaala, Kukapala, Mettipala, Verighala |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

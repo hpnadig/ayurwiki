@@ -21,7 +21,7 @@ date: 2020-05-22
 Worm.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 The major acid present in it is hydroxy citric acid, which is used as an antiobesity ingredient in pharmaceutical industries.

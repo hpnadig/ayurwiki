@@ -18,10 +18,10 @@ date: 2020-09-01
 
 ![](../images/Viburnum_foetidum_var._ceanothoides_-_Quarryhill_Botanical_Garden_-_DSC03351.JPG)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -48,7 +48,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Plantae_Asiaticae_rariores,_or,_Descriptions_and_figures_of_a_select_number_of_unpublished_East_Indian_plants_(Tab._61)_BHL449555.jpg)

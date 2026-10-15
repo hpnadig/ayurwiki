@@ -61,7 +61,7 @@ Trilobate, 4-5mm long, 2.5-3mm diameter, Orange to brown, Fruiting season is Jun
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

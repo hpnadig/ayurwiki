@@ -60,7 +60,7 @@ Capsule, Linear oblong, Minutely pubscent, Fruiting seaon is November-December
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

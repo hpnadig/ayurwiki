@@ -18,10 +18,10 @@ date: 2020-09-02
 
 ![](../images/Vinca_major_1.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 The main constituents of the white flower C. roseus were limonene (23.2 %), dodecyl alcohol (9.8 %), geraniol (7.3 %) and citral (7.0 %) from the leaf, with limonene (37.2 %) and dotriacontane (16.1 %) being the main compounds of the flower.
@@ -49,7 +49,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![l'Oise dans le Val-d'Oise, France](../images/20110417--100_3914.JPG)

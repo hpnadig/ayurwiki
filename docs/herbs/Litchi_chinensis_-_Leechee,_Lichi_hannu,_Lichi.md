@@ -26,7 +26,7 @@ date: 2020-06-04
 ![](../images/Litchi_chinensis_12zz.jpg)
 **Litchi chinensis** is a slow-growing, very ornamental, evergreen tree with a dense, wide crow. It can grow 4 - 20 metres tall. The bole is short and stocky. A very popular fruit, especially in the Orient, where it is widely consumed. The tree has been cultivated for over 2,000 years.
 ## Uses
-Diarrhoea, Neuralgic disorders, Orchitis.
+Diarrhoea, Neuralgic disorders, Orchitis, Throat troubles, Neuralgic pain.
 
 ## Parts Used
 Fruits.
@@ -68,7 +68,7 @@ Seeds, Greenwood cuttings, Grafting.
 Litchi is adapted to the tropics and warm subtropics, producing best in regions with winters that are short, dry and cool but frost free, and summers that are long and hot with high rainfall.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Lichi_Tree.jpg)
@@ -89,3 +89,5 @@ Litchi is adapted to the tropics and warm subtropics, producing best in regions 
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Litchi+chinensis)
 4. Indian Medicinal Plants by C.P.Khare
+5. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 6-8.**
+   Root, bark and flowers are used as a gargle for throat troubles. Seed is used as a remedy for intestinal disorders and neuralgic pains. Root, bark and flowers used for gargle; seed used internally for intestinal disorders.

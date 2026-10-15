@@ -59,7 +59,7 @@ Cylindrical, 3-8cm long, 1-1.5cm broad, Torulose or irregularly knotted, Pale br
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

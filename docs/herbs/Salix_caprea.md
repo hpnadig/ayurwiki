@@ -53,7 +53,7 @@ Deciduous tree
 ## List of Ayurvedic medicine in which the herb is used
 ## Where to get the saplings
 ## Mode of Propagation
-Seeds, Cuttings of mature wood, Cuttings of half-ripe wood,.
+Seeds, Cuttings of mature wood, Cuttings of half-ripe wood.
 
 ## How to plant/cultivate
 Succeeds in most soils, including wet, ill-drained or intermittently flooded soils, but prefers a damp, heavy soil in a sunny position. Grows in drier soils than any other British species of Salix. Rarely thrives on chalk

@@ -22,10 +22,10 @@ date: 2020-11-03
 ![](../images/Aarampuli_(Tamil-_ആരമ്പുളി)_(3974175549).jpg)
 **Bauhinia  malabarica** is popularly known as Malabar orchid. It belongs to Fabaceae  family. It is an evergreen or nearly evergreen tree 4-17 m tall and diameter usually up to 50 cm with a short often gnarled bole.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -57,7 +57,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 
 ## Kind of soil needed
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Aarampuli_(Tamil-_ആരമ്പുളി)_(3974175549).jpg)

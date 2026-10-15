@@ -37,7 +37,7 @@ date: 2020-08-19
 ![*Toothache plant*](../images/Kadam_Flower3.jpg)
 **Kadamba** scientifically known as Neolamarckia cadamba. It is a large, evergreen tree with beautiful & unique flowers. It is a fast growing tree with a broad crown and is even planted sacredly near temples. This tree is belongs to Rubiaceae family.
 ## Uses
-Diabetes, Cancer, Fungal infections, Musculo-skeletal diseases, High cholesterol, Triglycerides, Parasitic infection, Digestive disturbances.
+Diabetes, Cancer, Fungal infections, Musculo-skeletal diseases, High cholesterol, Triglycerides, Parasitic infection, Digestive disturbances, Stomatitis.
 
 ## Parts Used
 Barks, Flowers, Leaves, Fruits.
@@ -132,3 +132,5 @@ Tropical area, Subtropical area.
 8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 377-378.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a reliever of pātarōga (specific Ayurvedic disease class). The author records the tree's cultural-mythological associations (Krishna under the Kadamba) and identifies its classical Ayurvedic standing for fever, inflammation and women's complaints. Bark, leaf, fruit, root used.
    > *As cited in: Kadamba — classical Ayurvedic standing (no specific text/verse cited)*
+9. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), p. 56.**
+   Bark is a remedy for fever and made into an invigorating tonic. Leaves are used in a decoction for throat gargle. Bark decoction as tonic for fever; leaf decoction as gargle for throat.

@@ -84,7 +84,7 @@ Seeds
 Plants grow well in lowland tropical areas and can succeed at elevations up to 2,000 metres.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Bhutta_(Hindi-_भुट्टा)_(4666717168).jpg)

@@ -22,6 +22,8 @@ date: 2021-06-03
 
 [TOC]
 
+![*Malvastrum coromandelianum*](../images/Malvastrum_coromandelianum_annual_-_Flickr_-_dinesh_valke.jpg)
+
 **Malvastrum coromandelianum** is an upright, subwoody or subshrub plant.
 ## Uses
 Carbuncles, Cough, Lung diseases, Jaundice, Wounds, Desentery.
@@ -64,7 +66,7 @@ Dry, Flattened, Hairy and disc-shaped, Each fruit has one spine on the top. Frui
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -80,3 +82,4 @@ Dry, Flattened, Hairy and disc-shaped, Each fruit has one spine on the top. Frui
 1. [Chemistry]
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 267
 3. [Cultivation]
+4. **Dinesh Valke. Photograph of *Malvastrum coromandelianum*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/1461771973)

@@ -41,7 +41,7 @@ date: 2022-04-02
 **Terminalia chebula** is regarded as a universal panacea in Ayurveda and in the traditional Tibetan medicine. The fruit also provides material for tanning leather and dyeing wool,silk and cotton.
 
 ## Uses
-Hair loss, Acne, Ulcers, Skin Allergies, Cough, Cold, Diabetes, High blood pressure, Dysentery
+Hair loss, Acne, Ulcers, Skin Allergies, Cough, Cold, Diabetes, High blood pressure, Dysentery, Gout, Biliousness
 
 ## Parts Used
 Leaves.
@@ -56,13 +56,16 @@ Main chemical constitutes are chebulagic acid, chebulinic acid, corilagin, beta-
 | English | Myrobalan |
 | Gujarati | Hirdo, Himaja, Pulo-harda |
 | Hindi | Harre, Harad, Harar |
-| Kannada | Alalekai |
+| Kannada | Alalekai, Alak, Anile, Arale |
 | KS | Halela |
-| Malayalam | Nerinjil |
-| Marathi | Sarate, Gokharu |
-| Punjabi | Halela, Harar |
-| Tamil | Kadukkai |
-| Telugu | Karaka, Karakkaya |
+| Malayalam | Nerinjil, Dirya, Katukka |
+| Marathi | Sarate, Gokharu, Hadra, Hirada |
+| Punjabi | Halela, Harar, Murh |
+| Tamil | Kadukkai, Kedakkai |
+| Telugu | Karaka, Karakkaya, Huritaki, Resaki |
+| Assamese | Shilikha |
+| Bengali | Haritaki |
+| Oriya | Horida, Horitoki |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -134,3 +137,5 @@ Scattered in teak forest, Mixed deciduous forest.
 6. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 79-80.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a body-mass reducer (śarīra-bhāra nivāraka) and one of the three constituents of the famous Triphala cūrṇa of Ayurveda. The author notes its role as a memory-enhancer (mappu-buddhi śōdhaka) and general detoxifier.
    > *As cited in: Triphala cūrṇa — classical Ayurvedic formulation (no specific text/verse cited on the page)*
+7. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), p. 29.**
+   Unripe fruit cures dysentery. Ripe fruit is good for asthma, sore throat, anaemia, gout, biliousness, snake-bite and heart ailments. Excellent remedy for constipation. Ayurveda sets great store by its medicinal value. Unripe fruit for dysentery; ripe fruit for respiratory and cardiac ailments; fruit used in Triphala.

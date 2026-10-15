@@ -20,7 +20,7 @@ date: 2020-09-07
 ![](../images/Yucca_aloifolia_2.jpg)
 **Yucca aloifolia** is an erect, succulent, evergreen tree growing up to 8 metres tall. The plant forms 1 - 3 main stems, each topped by a rosette of spear shaped leaves 12 - 40cm long and 25 - 60mm wide. The stem can be free of branches, but is sometimes sparsely to densely branched.  The plant has a wide range of traditional uses, providing food, medicines and a range of commodities. It is harvested from the wild for local use. A very ornamental plant, it is often grown in gardens.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Fruits, Flowers, Flowering stem.

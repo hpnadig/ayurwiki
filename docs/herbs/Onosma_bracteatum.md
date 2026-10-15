@@ -27,7 +27,7 @@ date: 2020-06-09
 Rheumatism, Syphilis, Leprosy, Excessive thirst, Restlessness.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

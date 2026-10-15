@@ -21,10 +21,10 @@ date: 2020-08-03
 ![](../images/Narrow-bordered_Bee_Hawkmoth_(Hemaris_tityus)_on_Meadow_Sage_(Salvia_pratensis)_(13975823747).jpg)
 **Salvia pratensis** is a perennial plant that can grow up to 1.00 metres tall. It is harvested from the wild for local use as a food.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains Flavonoids and polyphenolic compounds were identified in the methanolic extracts

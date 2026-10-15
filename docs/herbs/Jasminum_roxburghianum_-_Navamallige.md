@@ -60,7 +60,7 @@ Berry, 1-1.5cm long, Simple, Ellipsoid, Slightly bent, Turns black when ripe
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

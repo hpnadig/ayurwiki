@@ -40,10 +40,12 @@ The most abundant compounds found were solanesol (25.72%), trans-farnesol (19.71
 | Kannada | Beratu, ಬಿರಾತೆ ಮರಾ Birate mara |
 | Malayalam | Katesam |
 | Sanskrit | Akasha Mallige |
-| Tamil | Kat-malli |
-| Telugu | Kavuki |
-| Hindi | Neem Chameli |
+| Tamil | Kat-malli, Karakku |
+| Telugu | Kavuki, Maruki, Akashamalle |
+| Hindi | Neem Chameli, Akash Neem, Nimichamboli |
 | English | Indian Cork Tree, Tree Jasmine |
+| Bengali | Akasnim |
+| Marathi | Cowlanim, Namichanbel |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -97,3 +99,5 @@ Garden area.
 4. [Cultivation](http://globalresearchonline.net/journalcontents/volume4issue2/Article%20020.pdf)
 5. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu (Vol. 2)*. Divyachandra Prakashana, Bengaluru, 2016, p. 459.**
    The bark has antipyretic and diuretic properties and is used as a lung tonic. The leaves contain hispidulin which has anti-inflammatory action. The flowers are dried and smoked as a substitute for tobacco to relieve sinusitis and asthma. Bark decoction 100 ml twice daily for fever; leaf extract applied for ringworm infections. Dried flowers smoked for respiratory congestion.
+6. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), p. 61.**
+   Primarily an ornamental avenue tree. Wood yields a cork-like material. No specific medicinal uses described in the source.

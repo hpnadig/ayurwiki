@@ -17,7 +17,7 @@ date: 2020-06-12
 
 **Rhamnus wightii** is a large shrub. The plant is harvested from the wild for use as a medicine and is traded in local markets. It has occasionally been cultivated as a medicinal plant.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Flowers, Fruits, Bark.
@@ -51,7 +51,7 @@ Seeds
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

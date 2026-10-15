@@ -20,7 +20,7 @@ date: 2020-03-17
 
 ![*Shirisha*, *Albizia lebbeck*](../images/Atylosia_goensis_Dalz.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Stem, Leaves, Root.
@@ -52,7 +52,7 @@ Climbing shrub
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Atylosia_goensis_Dalz.jpg)

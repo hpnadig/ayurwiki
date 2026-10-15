@@ -20,10 +20,10 @@ date: 2020-05-14
 
 ![](../images/Gymnema_montanum_var._beddomei_-_Bidaria_indica_at_Peravoor_2014_(14).jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -50,7 +50,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Gymnema_montanum_var._beddomei_-_Bidaria_indica_at_Peravoor_2014_(14).jpg)

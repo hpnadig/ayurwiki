@@ -21,7 +21,7 @@ date: 2020-08-04
 ![](../images/Sapindus_mukorossi_(2561635606).jpg)
 **Sapindus mukorossi** is a deciduous tree with a globose crown. It usually grows up to 12 metres tall, but can reach up to 25 metres. The straight, cylindrical bole can be 60cm in diameter. The plant has been used by local peoples for thousands of years as a source of saponins that can be used for cleaning clothes etc. It is also harvested from the wild for local use as a food, medicine and source of materials. The tree is often cultivated in gardens, by temples and along roadsides in China and the Indian subcontinent, both as an ornament and also as a source of soap and as a medicine. The seeds are commonly sold in local markets.
 ## Uses
-Burns.
+Burns, Epilepsy, Hysteria.
 
 ## Parts Used
 Seeds.
@@ -84,3 +84,5 @@ Open rocky places.
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Sapindus+mukorossi)
 4. Indian Medicinal Plants by C.P.Khare
+5. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), p. 75.**
+   Fruit is employed in treatment of asthma, hysteria, epilepsy. Used for external application in snake or insect bite. Seeds are used for removing freckles from skin. Solution of fruit used in curing skin diseases. Powder of seed is used as an insecticide. Fruit solution for skin diseases; external application for bites; seed powder as insecticide.

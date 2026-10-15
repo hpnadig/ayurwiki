@@ -72,7 +72,7 @@ Round, TRibolate, Smooth
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

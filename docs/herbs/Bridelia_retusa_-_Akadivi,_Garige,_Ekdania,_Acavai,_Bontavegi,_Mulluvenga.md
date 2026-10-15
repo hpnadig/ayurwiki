@@ -57,7 +57,7 @@ pulp contains beta-sitosterol and gallic and ellagic acids.
 | Tamil | Acavai, Adamarudu, Malaivengai, Mullumarathu, Mulluvengai |
 | Telugu | Bontavegi, Dudimaddi, Errabottuka, Mulu maddi, Peddaanem,  Putta Karakasalaaka |
 | Hindi | Ekdania, Kasai |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

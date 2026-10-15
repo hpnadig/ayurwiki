@@ -26,10 +26,10 @@ date: 2020-09-03
 
 ![](../images/Wendlandia_heynei_(4413526070).jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 W. exserta bark possesses significant value of alkaloids, i.e. 16.41±0.4 and leaf extracts possesses flavonoids, i.e. 14.51±0.3, saponins 12.22±0.1 and phenolic compounds 11.31±0.4. The seeds of both plants possess significant value of tannins etc.
@@ -68,7 +68,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Kadam_(Assamese-_কদম)_(4413522740).jpg)

@@ -19,11 +19,14 @@ categories:
   - "Herbs"
 date: 2020-06-22
 ---
+
+![*Hultholia mimosoides*](../images/Hultholia_mimosoides_fabaceae_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -59,7 +62,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -77,3 +80,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/h/hultholia-mimosoides)
 4. [ "Cultivation"]
 5. Indian Medicinal Plants by C.P.Khare
+6. **Dinesh Valke. Photograph of *Hultholia mimosoides*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/5598379494)

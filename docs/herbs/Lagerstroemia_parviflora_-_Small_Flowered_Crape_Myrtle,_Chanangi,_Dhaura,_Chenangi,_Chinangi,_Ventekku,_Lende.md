@@ -26,7 +26,7 @@ date: 2021-06-03
 
 **Lagerstroemia parviflora** is a large, deciduous tree that can grow 30 metres or more tall. The bole can be up to 70cm in diameter. The tree is valued for its timber, which is one of the best found in the mixed forests of India and is also harvested from the wild as a source of tannins.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Bark, Gum.

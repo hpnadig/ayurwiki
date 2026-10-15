@@ -24,7 +24,7 @@ date: 2020-04-21
 Blood sugar level problems.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -56,7 +56,7 @@ Seeds
 Cyamopsis tetragonoloba is suitable for growing in the warm temperate zone as an annual, although it is more commonly grown in lowland tropical and subtropical areas up to an elevation of 1,000 metres.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Cyamopsis_tetragonoloba_(4663783848).jpg)

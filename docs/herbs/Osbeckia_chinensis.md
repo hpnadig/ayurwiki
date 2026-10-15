@@ -26,7 +26,7 @@ date: 2020-06-10
 Watery diarrhoea, Dysentery, Excessive sputum.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 It contains sixteen compounds were isolated from. Chinensis and identified as 4-0-β-D- glucopyranosyl-3-O-methylellagic acid, Glucopyranosyl-3, Methylellagic acid.

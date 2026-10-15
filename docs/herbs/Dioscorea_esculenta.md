@@ -20,7 +20,7 @@ date: 2020-10-15
 
 **Dioscorea esculenta** is a perennial, climbing plant producing annual stems about 3 metres long from a tuberous rootstock. These stems scramble over the ground, or twine into the surrounding vegetation.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Root.
@@ -55,7 +55,7 @@ Seeds, Cuttings of tubers.
 A plant of the drier to wet tropical lowlands, where it is found at elevations up to 900 metres. It grows best in areas where annual daytime temperatures are within the range 28 - 32°c, but can tolerate 17 - 45°c.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Dioscorea_esculenta_002.JPG)

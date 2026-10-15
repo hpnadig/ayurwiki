@@ -33,7 +33,7 @@ This plant is belings to Verbenaceae family.
 Eye infection, Fever, Headache, Skin rashes, Skin diseases, Venomous bites, Sexually transmitted diseases, Nosebleeds, Diabetes.
 
 ## Parts Used
-, stem.
+stem.
 
 ## Chemical Composition
 Clerodendrum inerme contained cardiac glycosides, anthraquinones,
@@ -76,7 +76,7 @@ A straggling branched shrub
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Clerodendrum_inerme.jpg)

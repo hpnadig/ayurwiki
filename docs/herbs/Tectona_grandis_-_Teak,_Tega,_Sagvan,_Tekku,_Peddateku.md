@@ -31,7 +31,7 @@ date: 2020-08-20
 ![*Tectona grandis*](../images/A_young_teak.jpg)
 **Teak** is a large deciduous tree. It grows up to a height of 30 metres tall in height in favourable conditions with an open crown that has many small branches. The bole, which can be unbranched for up to 15 metres, is up to 1 metre in diameter and is of  reaching over ten buttressed and may be fluted. In seasonal climates, the tree is deciduous, whilst trees grown in non-seasonal climates are semi-deciduous. This plant belongs to verbenaceae family.
 ## Uses
-Tooth aches, Swelling, Eczema, Ringworms, Inflammation, Bronchitis, Biliousness, Uinary disorders, Bedwetting, Itching, Erysipelas, Kidney stones, Hair loss, Fainting.
+Tooth aches, Swelling, Eczema, Ringworms, Inflammation, Bronchitis, Biliousness, Uinary disorders, Bedwetting, Itching, Erysipelas, Kidney stones, Hair loss, Fainting, Headache, Hair growth.
 
 ## Parts Used
 Leaves, Stem, Leaves, Root.
@@ -108,3 +108,5 @@ Tropical deciduous forests.
 6. Indian Medicinal Plants by C.P.Khare
 7. **Gurudeva, Magadi R. *Karnatakada Aushadhiya Sasyagalu*. Divyachandra Prakashana, Bengaluru, 2017, p. 171.**
    1. Mixing teak bark in goat milk, boiling, and consuming the decoction helps prevent urinary problems and bedwetting. 2. Bark decoction applied on the scalp and body helps relieve itching and pain caused by skin conditions and also helps reduce inflammation. 3. Teak leaf juice heated and applied ext. Bark decoction in goat milk for urinary complaints. Teak seed oil for topical application on scalp and body. Leaf juice for external application on skin infections.
+8. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 65-67.**
+   Juice of flowers helps cure colds. Oil promotes growth of hair. Wood dust cures headache, loss of appetite and acidity. Flower juice for colds; wood dust for headache and digestive issues.

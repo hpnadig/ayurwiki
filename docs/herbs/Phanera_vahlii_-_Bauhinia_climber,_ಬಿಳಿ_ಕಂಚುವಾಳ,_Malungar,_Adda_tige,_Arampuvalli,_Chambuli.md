@@ -26,7 +26,7 @@ date: 2020-06-30
 ![](../images/Bauhinia_vahlii_05.JPG)
 **Bauhinia vahlii** is a vigorous climbing shrub able to grow into the tops of the trees in the forest. The woody stems can be 10 - 30 metres long and up to 20cm in diameter. The plant supports itself by means of tendrils. It is said that this plant is put to more uses in India than almost any other forest plant excluding the bamboo. It is harvested from the wild as a local source of food, medicines, fibre and tannins and other materials. It is sometimes cultivated for the fruits.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Stem, Leaves.

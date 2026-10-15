@@ -20,13 +20,13 @@ date: 2021-11-10
 
 ![](../images/Ipomoea_capillacea.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ### Food
 Ipomoea muricata can be used in Food. Peduncle and thalamus are cooked as vegetable.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -57,7 +57,7 @@ Ipomoea muricata Contains the Following nutritional components like - Vitamin-A,
 Ipomoea muricata is available through October to February.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Ipomoea_capillacea.jpg)

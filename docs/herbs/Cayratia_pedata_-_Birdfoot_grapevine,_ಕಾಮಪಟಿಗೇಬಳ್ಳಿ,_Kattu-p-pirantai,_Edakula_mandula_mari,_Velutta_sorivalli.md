@@ -39,7 +39,7 @@ date: 2021-10-18
 Arthritis, Coughs, Bronchitis, Asthma, Joint pain.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

@@ -57,13 +57,13 @@ Deciduous tree
 ## List of Ayurvedic medicine in which the herb is used
 ## Where to get the saplings
 ## Mode of Propagation
-, , .
+
 
 ## How to plant/cultivate
 Succeeds in most soils, including wet, ill-drained or intermittently flooded soils, but prefers a damp, heavy soil in a sunny position.
 
 ## Commonly seen growing in areas
-.
+
 
 ## Photo Gallery
 ![](../images/Atlas_roslin_pl_Wierzba_mandżurska_4426_7827.jpg)

@@ -17,10 +17,10 @@ date: 2020-07-08
 
 ![](../images/Polygonum_affine.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, .
+
 
 ## Chemical Composition
 
@@ -47,7 +47,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Polygonum_affine_(7851337974).jpg)

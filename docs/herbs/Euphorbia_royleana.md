@@ -26,7 +26,7 @@ date: 2020-05-05
 Asthma.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

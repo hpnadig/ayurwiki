@@ -9,17 +9,18 @@ categories:
   - "Herbs_with_leaves_used_in_medicine"
   - "Index_of_Plants_which_can_be_propagated_by"
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat"
-  - "Pages without herbs images"
-  - "Pages_without_herbs_images"
   - "Habit_-"
   - "Herbs"
 date: 2021-02-02
 ---
+
+![*Aglaia roxburghiana*](../images/Aglaia_roxburghiana_meliaceae_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -46,7 +47,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -62,3 +63,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 1. [Chemistry]
 2. [Morphology]
 3. [Cultivation]
+4. **Dinesh Valke. Photograph of *Aglaia roxburghiana*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/53589193053)

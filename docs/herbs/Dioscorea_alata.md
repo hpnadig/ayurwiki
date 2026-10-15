@@ -19,7 +19,7 @@ date: 2020-04-27
 ![](../images/Dioscorea_alata_-_leaf_and_vine_stems_-_Mindanao,_Philippines.jpg)
 **Dioscorea alata** is a perennial, climbing plant. It produces annual stems up to 15 metres long from a very large tuberous rootstock. These stems scramble over the ground, or twine into the surrounding vegetation. The stem is quadrangular, winged, and twines right-handed.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Root.
@@ -54,7 +54,7 @@ Seeds, Cuttings of tubers.
 Plants grow best in lowland tropical areas up to an elevation of 1,000 metres with a temperature around 26 - 34°c.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Dioscorea_alata_-_leaf_and_vine_stems_-_Mindanao,_Philippines.jpg)

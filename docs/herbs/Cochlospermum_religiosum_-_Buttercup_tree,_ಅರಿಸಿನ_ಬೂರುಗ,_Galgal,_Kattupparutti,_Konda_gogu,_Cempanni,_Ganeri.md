@@ -10,11 +10,9 @@ categories:
   - "Herbs_that_are_commonly_seen_in_the_region_of_On_dry_forests"
   - "Herbs_with_common_name_in_English"
   - "Herbs_with_common_name_in_Telugu"
-  - "Pages_without_herbs_images"
   - "Herbs"
   - "Herbs_that_are_commonly_seen_in_the_region_of_Cultivated_ground"
   - "Herbs_with_Seeds_used_in_medicine"
-  - "Pages without herbs images"
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Coughs"
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Gonorrhoea"
   - "Herbs_with_common_name_in_Kannada"
@@ -26,6 +24,8 @@ date: 2021-10-27
 # Cochlospermum religiosum - Buttercup tree, ಅರಿಸಿನ ಬೂರುಗ, Galgal, Kattupparutti, Konda gogu, Cempanni, Ganeri
 
 [TOC]
+
+![*Cochlospermum religiosum*](../images/Cochlospermum_religiosum_-_Flickr_-_dinesh_valke.jpg)
 
 **Katira** is a small, rather crooked-branched, more or less deciduous tree growing about 7 metres tall. The plant is used locally for the its gum. Considered a sacred tree in its native range, it is often cultivated near temples where the flowers are used as temple offerings.
 ## Uses
@@ -98,3 +98,4 @@ Cultivated ground, On dry forests, Especially on stony hills.
    1. Leaf juice applied on the scalp helps treat dandruff and headache. 2. Gum (Bondi) dissolved in buttermilk and consumed helps treat diarrhea and blood-related disorders. 3. Gum (Bondi) dissolved in water, mixed with alum, and used as a gargle helps relieve throat and gum pain. 4. Leaf and flower j. Leaf juice applied topically on the scalp. Gum dissolved in buttermilk for diarrhea. Gum dissolved in water with alum as a gargle solution.
 4. Indian Medicinal Plants by C.P.Khare
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.59, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+6. **Dinesh Valke. Photograph of *Cochlospermum religiosum*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/3602272045)

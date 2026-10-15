@@ -53,7 +53,7 @@ he chemical constituents from the air-dried leaves of A. comosus were isolated a
 | Kannada | Aananas Hannu, Ananasu |
 | Tamil | Aanahi phalam |
 | Telugu | Ananas Pundu |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

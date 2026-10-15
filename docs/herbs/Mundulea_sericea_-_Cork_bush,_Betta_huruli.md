@@ -60,7 +60,7 @@ Pea like, Brownish green.Kidney shaped, Carried in terminal clusters
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Kruger_National_Park_(34165259803).jpg)

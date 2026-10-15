@@ -59,7 +59,7 @@ Berry, Ovate, Densely bristly, Bright red when ripen, 1 seeded, Fruiting season 
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

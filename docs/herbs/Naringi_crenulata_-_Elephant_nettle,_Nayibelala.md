@@ -64,7 +64,7 @@ Berry, Globose, Bluish-black
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Naringi_crenulata_01.JPG)

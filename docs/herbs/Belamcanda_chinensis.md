@@ -29,7 +29,7 @@ date: 2020-11-04
 Inflammations of the throat, Laryngitis, Pharyngitis, Tonsillitis, Cough, Asthma, Snake bites, Gonorrhoea, Lumbago.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -56,7 +56,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Belamcanda_chinensis_seeds.jpg)

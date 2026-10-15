@@ -29,10 +29,10 @@ date: 2021-06-28
 ![](../images/Colpfl12.jpg)
 **Justicia betonica** is a small shrub.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -75,7 +75,7 @@ Flowering season is January to April
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Starr_980529_1409_justicia_betonica.jpg)

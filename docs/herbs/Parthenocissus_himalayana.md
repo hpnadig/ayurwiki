@@ -19,7 +19,7 @@ date: 2020-06-26
 
 **Parthenocissus himalayana** is a Deciduous Climber up to 18.00 metres tall. It is harvested from the wild for local use as a food and source of materials.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Fruits.

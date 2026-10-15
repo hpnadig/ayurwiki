@@ -63,7 +63,7 @@ Globose, 4 Lobed, Dense pilose. Fruiting season is Janury to August
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

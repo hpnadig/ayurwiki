@@ -20,7 +20,7 @@ date: 2020-07-23
 ![](../images/Kugelprimel.jpg)
 **Primula denticulata** is a perennial plant that can grow up to 0.30 metres tall. It is harvested from the wild for local use as a food and source of materials.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Flowers.

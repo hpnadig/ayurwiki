@@ -20,10 +20,12 @@ date: 2020-09-02
 
 [TOC]
 
+![*Viola pilosa*](../images/Viola_pilosa_-_Flickr_-_dinesh_valke.jpg)
+
 **Viola pilosa** is a rather variable, herbaceous perennial plant producing a rosette of leaves and prostrate stems up to 100cm long that root at some nodes.
 The plant is harvested from the wild for local use as a medicine, and possibly also as a food.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Young leaves, Flowers buds.
@@ -81,3 +83,4 @@ Grasslands, Alpine woods, Pathsides.
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Viola+pilosa)
 4. Indian Medicinal Plants by C.P.Khare
+5. **Dinesh Valke. Photograph of *Viola pilosa*. Flickr, CC BY-SA 4.0.** [Source](https://www.flickr.com/photos/dinesh_valke/55081600630)

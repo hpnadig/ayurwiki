@@ -48,7 +48,7 @@ date: 2020-06-18
 Sores, Dermatosis, Roundworms, Malaria, Headaches, Vertigo, Chronic skin diseases, Psoriasis, Scabies, Roundworm.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

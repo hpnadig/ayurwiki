@@ -83,7 +83,7 @@ Seeds
 A plant of the moist to wet tropics, where it is found at elevations up to 1,900 metres. It grows best in areas where annual daytime temperatures are within the range 19 - 29°c, but can tolerate 13 - 35°c.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/2016_Singapur,_Ogrody_botaniczne_(382).jpg)

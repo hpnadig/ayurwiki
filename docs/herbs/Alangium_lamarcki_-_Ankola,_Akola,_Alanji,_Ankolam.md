@@ -26,10 +26,10 @@ date: 2019-12-15
 **Alangium salviifolium** commonly known as sage-leaved alangium. It is a flowering plant in the Cornaceae family.
 
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -63,7 +63,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

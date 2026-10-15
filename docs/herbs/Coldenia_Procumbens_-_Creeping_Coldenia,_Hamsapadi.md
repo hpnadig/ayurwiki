@@ -23,7 +23,7 @@ date: 2021-05-03
 Rheumatic sweellings, Wounds.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -58,7 +58,7 @@ Axillary, Pale yellow, Flowering season is October to April
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

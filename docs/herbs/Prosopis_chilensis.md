@@ -35,7 +35,7 @@ date: 2020-07-22
 Asthma, Callouses, Conjunctivitis, Diabetes, Diarrhea, Fever, Lactation, Malaria, Rheumatism, Scabies, Skin inflammations.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 The phytochemical composition of Prosopis plants, namely their content of C-glycosyl flavones (such as schaftoside, isoschaftoside, vicenin II, vitexin and isovitexin) has been increasingly correlated with the observed biological effects.

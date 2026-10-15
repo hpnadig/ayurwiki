@@ -29,7 +29,7 @@ date: 2020-07-06
 Intestinal complaints, Dysentery, Irritated membranes, Intermittent fevers, Pulmonary affections, Ophthalmia.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 Major aroma constituents of ribwort leaves were groups of fatty acids 28.0–52.1 % (the most abundant palmitic acid 15.3–32.0 %), oxidated monoterpenes 4.3–13.2 % (linalool 2.7–3.5 %), aldehydes and ketones 6.9–10.0 % (pentyl vinyl ketone 2.0–3.4 %) and alcohols 3.8–9.2 % (1-octen-3-ol 2.4–8.2 %).

@@ -28,10 +28,10 @@ date: 2020-09-10
 ![](../images/Abrus_precatorius_W_IMG_1578.jpg)
 
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -70,7 +70,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Gotti_Chettu_(Telugu-_గొట్టిచెట్టు)_(2499745596).jpg)

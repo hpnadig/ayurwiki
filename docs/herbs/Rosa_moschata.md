@@ -61,7 +61,7 @@ Seeds, Cuttings of half-ripe wood, Cuttings of mature wood, Division of suckers,
 Succeeds in most soils, preferring a circumneutral soil and a sunny position. Grows well in heavy clay soils. Dislikes water-logged soils.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Beautifulflower5.jpg)

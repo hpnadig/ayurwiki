@@ -18,10 +18,10 @@ date: 2021-10-27
 
 ![](../images/Flor_azul_de_Yucatán_(sirve_para_limpiar_la_vista).jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -48,7 +48,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Commelina_sp._(36740998760).jpg)

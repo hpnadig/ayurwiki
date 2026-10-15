@@ -28,10 +28,10 @@ date: 2021-09-17
 ![](../images/Jacaranda_acutifolia0.jpg)
 Jacaranda is a deciduous tree with spreading branches making a light crown; it can grow 10 - 20 metres tall. The bole is almost always short and malformed, it can be up to 40 - 50cm in diameter.
 ## Uses
-Syphilis, Vulnerary.
+Syphilis, Vulnerary, Wound healing.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -86,3 +86,5 @@ Bushland, Grassland, Wooded ravines, Riverbanks.
 2. [Morphology]
 3. [details](Cultivation)(https://tropical.theferns.info/viewtropical.php?id=Jacaranda+mimosifolia)
 4. Indian Medicinal Plants by C.P.Khare
+5. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 58-59.**
+   Infusions of leaves used for manufacture of drugs for healing wounds. Bark infusions serve as a lotion for washing ulcers. Bark and leaves used for treating syphilis and gonorrhoea. Leaf infusion for wound healing; bark infusion as lotion for ulcers.

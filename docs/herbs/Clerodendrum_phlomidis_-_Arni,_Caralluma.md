@@ -62,7 +62,7 @@ Drupe, Obovoid, 4 lobed with one pyrene in each lobe. Fruiting season is August 
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/A_field_of_Clerodendrum_phlomidis.JPG)

@@ -15,7 +15,7 @@ date: 2020-07-24
 
 ![*Rumex scutatus*](../images/Rumex_scutatus02.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Leaves.
@@ -46,7 +46,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 A very easily grown plant, succeeding in most soils but preferring a moist moderately fertile well-drained soil in a sunny position[200]. Prefers a rather dry soil.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Rumex_scutatus02.jpg)

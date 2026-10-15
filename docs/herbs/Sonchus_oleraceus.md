@@ -13,14 +13,17 @@ categories:
   - "Herbs"
 date: 2021-11-16
 ---
+
+![*Sonchus oleraceus*](../images/Sonchus_oleraceus_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ### Food
 Sonchus oleraceus can be used in Food. Leaves and tender shoots are cooked as vegetable.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -51,7 +54,7 @@ Sonchus oleraceus Contains the Following nutritional components like - Vitamin-B
 Sonchus oleraceus is available through September to May
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -69,3 +72,4 @@ Sonchus oleraceus is available through September to May
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.140, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+6. **Dinesh Valke. Photograph of *Sonchus oleraceus*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/4852120854)

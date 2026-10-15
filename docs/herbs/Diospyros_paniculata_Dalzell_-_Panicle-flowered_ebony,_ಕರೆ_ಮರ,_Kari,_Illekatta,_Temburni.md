@@ -20,11 +20,14 @@ categories:
   - "Herbs"
 date: 2024-07-06
 ---
+
+![*Diospyros paniculata Dalzell*](../images/Diospyros_paniculata_Dalzell_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -79,3 +82,4 @@ Tropical evergreen forests, Tropical semi-evergreen forests.
 2. ["Morphology"]
 3. [ "Cultivation"]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Dinesh Valke. Photograph of *Diospyros paniculata Dalzell*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/54583624887)

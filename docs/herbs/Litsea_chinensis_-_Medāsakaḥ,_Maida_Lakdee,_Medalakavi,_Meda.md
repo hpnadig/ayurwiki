@@ -87,7 +87,7 @@ Seeds
 Germination is not very rapid, approximately 85% germination is achieved in 15 - 45 days.
 
 ## Commonly seen growing in areas
-, .
+
 
 ## Photo Gallery
 ![Leaves](../images/Litsea_glutinosa_8.JPG)

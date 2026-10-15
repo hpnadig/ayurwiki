@@ -14,19 +14,20 @@ categories:
   - "Herbs_that_are_commonly_seen_in_the_region_of"
   - "Herbs_with_common_name_in_English"
   - "Herbs_with_common_name_in_Telugu"
-  - "Pages_without_herbs_images"
   - "Herbs"
   - "Herbs_with_Root_used_in_medicine"
-  - "Pages without herbs images"
   - "Herbs_with_common_name_in_Kannada"
   - "Pages_that_are_stubs"
 date: 2020-10-31
 ---
+
+![*Hibiscus cannabinus*](../images/Hibiscus_cannabinus_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -63,7 +64,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -81,3 +82,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
 5. [names](Common)(https://www.flowersofindia.net/catalog/slides/Kenaf.html)
+6. **Dinesh Valke. Photograph of *Hibiscus cannabinus*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/6253783371)

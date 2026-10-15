@@ -28,7 +28,7 @@ date: 2020-05-06
 Gastritis, Colitis, Chronic dysentery..
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

@@ -79,7 +79,7 @@ Stem cuttings
 Light to medium, particularly in laterite or red loam soils.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Clerodendrum_serratum.jpg)

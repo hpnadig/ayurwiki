@@ -61,7 +61,7 @@ Seeds, Cuttings of mature wood.
 Juniperus virginiana is a very cold-hardy plant, able to tolerate temperatures down to around -30°c when fully dormant. It grows in areas where the mean annual precipitation can range from 380 - 1,520mm.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Juniperus_virginiana_kz03.jpg)

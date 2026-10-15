@@ -20,10 +20,10 @@ date: 2020-05-06
 
 ![](../images/Evolvulus_nummularius_(L.)_L._-_Flickr_-_Alex_Popovkin,_Bahia,_Brazil_(4).jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -50,7 +50,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Evolvulus_nummularius_(L.)_L._-_Flickr_-_Alex_Popovkin,_Bahia,_Brazil_(4).jpg)

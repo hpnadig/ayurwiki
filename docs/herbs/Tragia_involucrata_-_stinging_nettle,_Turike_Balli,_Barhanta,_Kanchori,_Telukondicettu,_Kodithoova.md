@@ -48,7 +48,7 @@ Seeds yield a fixed oil containing about 62% linoleic acid and enzymes. They are
 | Telugu | Telukondicettu |
 | Hindi | Barhanta |
 | English | stinging nettle |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

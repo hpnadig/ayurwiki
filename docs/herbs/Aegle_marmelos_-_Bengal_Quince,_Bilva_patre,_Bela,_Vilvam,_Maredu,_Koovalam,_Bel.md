@@ -41,7 +41,7 @@ date: 2023-02-21
 ![*Bilva*](../images/Aegle_marmelos_flower_02.JPG)
 **Bilva** consists of pulp of entire, unripe or half ripe fruits of Aegle marmelos Carr, It is a tree, attaining a height of 12 m growing wild and also cultivated throughout the country, rind of fruit is removed and pulp is bruised and dried.
 ## Uses
-Fever, Nasal bleeding, Diarrhoea, Skin disease, Intestinal worms, Cough, Diabetes, Vomiting, Cough, Stomachache, Infection in intestine, Hemorrhoids, Jaundice, Dysentery, Constipation.
+Fever, Nasal bleeding, Diarrhoea, Skin disease, Intestinal worms, Cough, Diabetes, Vomiting, Cough, Stomachache, Infection in intestine, Hemorrhoids, Jaundice, Dysentery, Constipation, Ophthalmia, Palpitation of heart.
 
 ### Food
 Bilva can be used in food. Ripe fruit pulp is eaten raw and also used for making soft drinks and jam
@@ -154,3 +154,5 @@ The Atharvaveda (20.136.15) states: "A great person is good and benevolent like 
 
 8. **[KAMPA - ಔಷಧಿ ಸಸ್ಯಗಳ ಕೃಷಿ ಕೈಪಿಡಿ (Medicinal Plants Cultivation Handbook)](../resources/books/KAMPA_Medicinal_Plants_Cultivation_Handbook.md)**. Karnataka Medicinal Plants Authority (KAMPA), Bengaluru, 2024, pp. 62-64.
    Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.
+9. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 18-19.**
+   Pulp of ripe fruit has laxative and tonic properties, and is an astringent. Poultice of leaves is considered a cure for ophthalmia. Bark and juice of leaves are used as household remedies for certain fevers and intestinal ailments. Bel root is believed to cure palpitation of the heart. Fruit pulp consumed as tonic; leaf poultice for eye ailments; bark and leaf juice for fevers and intestinal issues.

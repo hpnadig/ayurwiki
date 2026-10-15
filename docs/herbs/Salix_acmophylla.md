@@ -13,10 +13,10 @@ categories:
 date: 2020-08-03
 ---
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -43,7 +43,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Annual_report_of_the_Ohio_State_Academy_of_Science"_(1893-1930.)_(19179223749).jpg)

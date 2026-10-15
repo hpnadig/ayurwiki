@@ -60,7 +60,7 @@ Bitter, Matured fruits change colour to orange. Fruiting season is August-Decemb
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

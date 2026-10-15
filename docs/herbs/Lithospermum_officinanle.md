@@ -33,7 +33,7 @@ It is harvested from the wild for local use as a food, medicine and source of ma
 Bladder stones, Arthritis, Febrile conditions, Smallpox, Measles, Itchs.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

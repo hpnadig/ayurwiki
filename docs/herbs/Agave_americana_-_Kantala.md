@@ -9,8 +9,6 @@ categories:
   - "Herbs_with_leaves_used_in_medicine"
   - "Index_of_Plants_which_can_be_propagated_by"
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat"
-  - "Pages without herbs images"
-  - "Pages_without_herbs_images"
   - "Habit_-"
   - "Herbs"
 date: 2019-12-15
@@ -19,12 +17,14 @@ date: 2019-12-15
 
 [TOC]
 
+![*Agave americana*](../images/Agave_americana_-_Flickr_-_dinesh_valke.jpg)
+
 **Agave americana** is a large succulent plant of the Asparagaceae family. It has a powerful leaf rosette with gray-green or gray-blue leaves that can in tropical areas grow up to 1.75 meters long and 20 cm wide.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -51,7 +51,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -68,3 +68,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 2. ["Morphology"]
 3. [ "Cultivation"]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Dinesh Valke. Photograph of *Agave americana*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/4745872028)

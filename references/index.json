@@ -17623,5 +17623,1169 @@
       "citable": true,
       "notes": "Author from Pāṇāje, Puttur Taluk, Dakshina Kannada. Cover plant: Amrutaballi (Tinospora cordifolia). Printed by Aakruti Prints, Mangaluru."
     }
+  },
+  {
+    "plant_name": "Mango",
+    "latin_name": "Mangifera indica",
+    "name_variants": [
+      "Mango",
+      "Aam",
+      "Amba",
+      "Mamidi",
+      "Mangai",
+      "Mavu",
+      "Amb",
+      "Keri"
+    ],
+    "medicinal_uses": "The ripe fruit is considered invigorating, fattening, diuretic and laxative. Unripe fruit pulp is given to cholera and plague patients. The stone/kernel is roasted and powdered as a household remedy for intestinal ailments, asthma and diarrhoea. Smoke of burning leaves is effective against hiccoughs and throat troubles. Gum and resin mixed with lime juice cure skin diseases and scabies.",
+    "dosage_preparation": "Kernel roasted and ground to powder; gum mixed with lime juice for external application. Baked and sugared pulp of unripe fruit given to patients.",
+    "classical_citations": [],
+    "page_number": "1-5",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Litchi",
+    "latin_name": "Litchi chinensis",
+    "name_variants": [
+      "Litchi",
+      "Lychee"
+    ],
+    "medicinal_uses": "Root, bark and flowers are used as a gargle for throat troubles. Seed is used as a remedy for intestinal disorders and neuralgic pains.",
+    "dosage_preparation": "Root, bark and flowers used for gargle; seed used internally for intestinal disorders.",
+    "classical_citations": [],
+    "page_number": "6-8",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Guava",
+    "latin_name": "Psidium guajava",
+    "name_variants": [
+      "Guava",
+      "Amrood",
+      "Madhuri Aam",
+      "Piyara",
+      "Pijuli",
+      "Jama",
+      "Koyya",
+      "Pera",
+      "Sebe",
+      "Peru",
+      "Jamphal",
+      "Amrud"
+    ],
+    "medicinal_uses": "Bark is used as a cure for dysentery; juice extracted from bark heals wounds and ulcers. Infusion prepared from guava bark cures toothache. Fruit is a household remedy for colic pain and constipation. Guava wood is used for making musical instruments and artistic carving. Bark and dry leaves yield a brick-coloured dye.",
+    "dosage_preparation": "Infusion of bark for toothache; juice of bark applied to wounds and ulcers.",
+    "classical_citations": [],
+    "page_number": "9-10",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Cashew",
+    "latin_name": "Anacardium occidentale",
+    "name_variants": [
+      "Cashew",
+      "Kaju"
+    ],
+    "medicinal_uses": "Oil from the hard outer shell is applied to cracks in soles of feet, warts and leprous sores. Paste from old leaves is applied to burns and skin infections. Decoction from bark is used to treat acute diarrhoea.",
+    "dosage_preparation": "Shell oil applied externally; leaf paste for burns and skin infections; bark decoction for diarrhoea.",
+    "classical_citations": [],
+    "page_number": "11-13",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Mulberry",
+    "latin_name": "Morus alba",
+    "name_variants": [
+      "Mulberry",
+      "Shah Toot",
+      "Toot"
+    ],
+    "medicinal_uses": "Juice of the mulberry fruit cures sore throat and fever. Used as a medicine for dyspepsia and melancholia. Fruits have laxative properties and purify the blood. Skin of the root is used as a tonic, especially in nervous diseases.",
+    "dosage_preparation": "Fruit juice taken internally; root skin used as tonic.",
+    "classical_citations": [],
+    "page_number": "14-15",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Ber",
+    "latin_name": "Ziziphus mauritiana",
+    "name_variants": [
+      "Ber",
+      "Plum",
+      "Jujube",
+      "Bor"
+    ],
+    "medicinal_uses": "Liquid extract of the flower is supposed to cure eye diseases. Leaves are used for treating asthma and some liver troubles. Root and bark are believed to cure diarrhoea and possess tonic properties. Powder from dried fruit is good for digestion.",
+    "dosage_preparation": "Dried fruit powder for digestion; leaf extract for asthma; root and bark decoction for diarrhoea.",
+    "classical_citations": [],
+    "page_number": "16-17",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Bel",
+    "latin_name": "Aegle marmelos",
+    "name_variants": [
+      "Bel",
+      "Stone-apple",
+      "Bilva",
+      "Bael"
+    ],
+    "medicinal_uses": "Pulp of ripe fruit has laxative and tonic properties, and is an astringent. Poultice of leaves is considered a cure for ophthalmia. Bark and juice of leaves are used as household remedies for certain fevers and intestinal ailments. Bel root is believed to cure palpitation of the heart.",
+    "dosage_preparation": "Fruit pulp consumed as tonic; leaf poultice for eye ailments; bark and leaf juice for fevers and intestinal issues.",
+    "classical_citations": [],
+    "page_number": "18-19",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Tamarind",
+    "latin_name": "Tamarindus indica",
+    "name_variants": [
+      "Tamarind",
+      "Imli",
+      "Tamar-ul-Hind",
+      "Amalika"
+    ],
+    "medicinal_uses": "Fruit pulp is considered a cure for dysentery. A poultice for boils is prepared from the leaves. Dried seeds are used for medicinal purposes.",
+    "dosage_preparation": "Fruit pulp for dysentery; leaf poultice for boils; dried seeds powdered for various uses.",
+    "classical_citations": [],
+    "page_number": "20-21",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Jackfruit",
+    "latin_name": "Artocarpus heterophyllus",
+    "name_variants": [
+      "Jackfruit",
+      "Panasa",
+      "Kathal"
+    ],
+    "medicinal_uses": "Fruit is considered of great medicinal importance. Ripe fruit in limited quantity is a laxative. Juice of the leaves is used as a plaster to cure glandular swellings.",
+    "dosage_preparation": "Leaf juice used as plaster for glandular swellings.",
+    "classical_citations": [],
+    "page_number": "22-23",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Jamun",
+    "latin_name": "Syzygium cumini",
+    "name_variants": [
+      "Jamun",
+      "Blackberry",
+      "Indian Blackberry",
+      "Jambu",
+      "Jambul",
+      "Nerale"
+    ],
+    "medicinal_uses": "Juice from unripe fruit is carminative and diuretic, with cooling and digestive properties. Seed is considered a cure for diabetes and an antidote against Nux Vomica poisoning. Bark is good for cough, asthma and dysentery. Fruit taken regularly improves health of diabetic patients. Leaves are used as poultice for scorpion bites and juice for spongy and painful gums.",
+    "dosage_preparation": "Seed powder for diabetes; bark decoction for respiratory ailments; leaf juice for gum health.",
+    "classical_citations": [],
+    "page_number": "24-25",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Amla",
+    "latin_name": "Phyllanthus emblica",
+    "name_variants": [
+      "Amla",
+      "Amalaki",
+      "Emblic",
+      "Indian Gooseberry",
+      "Awla"
+    ],
+    "medicinal_uses": "Highly valued for medicinal properties. Chief ingredient of Chyavanaprasa, a renowned Ayurvedic remedy for chronic cough and consumption. One of three ingredients of Triphala. Tones up the liver. Fermented liquor from fruit cures dyspepsia, cough and jaundice. Very rich in vitamin C. Flowers have laxative properties, leaves are a tonic and cure for dysentery. Dried fruits used for hair oil and shampoo preventing premature greying and falling.",
+    "dosage_preparation": "Fruit used in Chyavanaprasa and Triphala preparations; fermented liquor for digestive ailments; dried fruit soaked in water as eye lotion.",
+    "classical_citations": [
+      "Chyavanaprasa (Ayurvedic formulation)"
+    ],
+    "page_number": "26",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Bahera",
+    "latin_name": "Terminalia bellirica",
+    "name_variants": [
+      "Bahera",
+      "Belleric Myrobalan",
+      "Bibhitaki",
+      "Vibhitaka",
+      "Baheda",
+      "Bauri hulluch",
+      "Thanni",
+      "Tanri"
+    ],
+    "medicinal_uses": "One of three ingredients of Triphala. Fruits used as a household remedy for diseases of the eye, nose, throat, lungs and heart. Oil extracted from fruit is good for the hair.",
+    "dosage_preparation": "Fruit used in Triphala formulation; fruit oil for hair application.",
+    "classical_citations": [
+      "Triphala (Ayurvedic formulation)"
+    ],
+    "page_number": "27-28",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Harre",
+    "latin_name": "Terminalia chebula",
+    "name_variants": [
+      "Harre",
+      "Haritaki",
+      "Harar",
+      "Har",
+      "Shilikha",
+      "Kadukkai",
+      "Huritaki",
+      "Horitoki"
+    ],
+    "medicinal_uses": "Unripe fruit cures dysentery. Ripe fruit is good for asthma, sore throat, anaemia, gout, biliousness, snake-bite and heart ailments. Excellent remedy for constipation. Ayurveda sets great store by its medicinal value.",
+    "dosage_preparation": "Unripe fruit for dysentery; ripe fruit for respiratory and cardiac ailments; fruit used in Triphala.",
+    "classical_citations": [
+      "Triphala (Ayurvedic formulation)"
+    ],
+    "page_number": "29",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Coconut",
+    "latin_name": "Cocos nucifera",
+    "name_variants": [
+      "Coconut",
+      "Coconut Palm",
+      "Narikel",
+      "Narial",
+      "Naral",
+      "Thenagu",
+      "Tenga",
+      "Tenkai",
+      "Kobbarikaya",
+      "Kalpa Vriksha"
+    ],
+    "medicinal_uses": "Coconut water soothes the stomach and is given for nourishment to typhoid patients. Root is employed for preparing a gargle for sore throat. Oil is used for making a syrup that soothes cough, and a liniment to cure ringworm. Also used as hair oil.",
+    "dosage_preparation": "Coconut water taken internally; root decoction as gargle; oil as liniment for ringworm and as syrup for cough.",
+    "classical_citations": [],
+    "page_number": "30-31",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Areca Palm",
+    "latin_name": "Areca catechu",
+    "name_variants": [
+      "Areca Palm",
+      "Arecanut",
+      "Betel Nut",
+      "Supari",
+      "Pungi-phal"
+    ],
+    "medicinal_uses": "Nut has mildly narcotic effect, is digestive and astringent, said to have tonic properties. Tender leaves are used for treating lumbago. Roasted and powdered nuts make a good tooth powder.",
+    "dosage_preparation": "Nuts chewed with betel leaves; tender leaves applied for lumbago; roasted nut powder as tooth powder.",
+    "classical_citations": [],
+    "page_number": "32-33",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Palmyra Palm",
+    "latin_name": "Borassus flabellifer",
+    "name_variants": [
+      "Palmyra Palm",
+      "Talah",
+      "Talpatra",
+      "Tar",
+      "Tad"
+    ],
+    "medicinal_uses": "Jaggery made from palm juice is good for health and used as a household remedy for bronchitis. Fruit has a laxative effect and the sap is a good tonic.",
+    "dosage_preparation": "Palm jaggery for bronchitis; fruit pulp as laxative; sap as tonic.",
+    "classical_citations": [],
+    "page_number": "34-35",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Wild Date Palm",
+    "latin_name": "Phoenix sylvestris",
+    "name_variants": [
+      "Wild Date Palm",
+      "Kharjura",
+      "Date-palm"
+    ],
+    "medicinal_uses": "Fruits have some medicinal properties. Nut of the fruit is chewed with betel-leaf in place of arecanut.",
+    "dosage_preparation": "Fruit consumed; nut chewed with betel leaf.",
+    "classical_citations": [],
+    "page_number": "36-37",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Mohwa",
+    "latin_name": "Madhuca longifolia",
+    "name_variants": [
+      "Mohwa",
+      "Indian Butter Tree",
+      "Mahua",
+      "Illupai",
+      "Ippa",
+      "Mahwa"
+    ],
+    "medicinal_uses": "Bark heals wounds and sores. Milky sap is used as a laxative and as a remedy for rheumatism. Flowers are efficacious in diseases of the heart, ear and lungs. Fruit is supposed to purify blood.",
+    "dosage_preparation": "Bark applied to wounds; milky sap taken internally for rheumatism; flowers used for cardiac and respiratory ailments.",
+    "classical_citations": [],
+    "page_number": "38",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Silk Cotton",
+    "latin_name": "Bombax ceiba",
+    "name_variants": [
+      "Silk Cotton",
+      "Simal",
+      "Salmali",
+      "Semul",
+      "Shalmali",
+      "Simul",
+      "Ilavu",
+      "Buraga"
+    ],
+    "medicinal_uses": "Flowers are used as a cure for many skin diseases. Gum as well as roots possess tonic properties.",
+    "dosage_preparation": "Flowers used externally for skin diseases; gum and roots used as tonic.",
+    "classical_citations": [],
+    "page_number": "41-43",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Palas",
+    "latin_name": "Butea monosperma",
+    "name_variants": [
+      "Palas",
+      "Flame of the Forest",
+      "Dhak",
+      "Tesu",
+      "Butea",
+      "Kinshuka",
+      "Parrot Tree",
+      "Palash",
+      "Khakhro"
+    ],
+    "medicinal_uses": "Gum exuded from stem is an astringent known as 'Bengal Kino' or 'Butea Kino'. Used for tanning leather.",
+    "dosage_preparation": "Gum used as astringent.",
+    "classical_citations": [],
+    "page_number": "44",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Kachnar",
+    "latin_name": "Bauhinia variegata",
+    "name_variants": [
+      "Kachnar",
+      "Kanchan",
+      "Raktakanchan",
+      "Kovindaram",
+      "Mandarai",
+      "Kaancanara"
+    ],
+    "medicinal_uses": "Cooked flowers are taken as a laxative. Bark is an astringent and believed to cure asthma and ulcers. Buds and roots are good for digestive troubles. Root is popularly believed to cure snake-bite.",
+    "dosage_preparation": "Flowers cooked as vegetable for laxative effect; bark decoction for asthma and ulcers; buds and roots for digestive issues.",
+    "classical_citations": [],
+    "page_number": "45-46",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Amaltas",
+    "latin_name": "Cassia fistula",
+    "name_variants": [
+      "Amaltas",
+      "Indian Laburnum",
+      "Aragvadha",
+      "Bandarlathi",
+      "Sonaru",
+      "Sondali",
+      "Kondrai"
+    ],
+    "medicinal_uses": "Practically every part is used for medicine. Flowers used for preparing gul-kand for treating fever. Pulp of fruit is a laxative. Fruit is believed to be a remedy for leprosy, heart disease and stomach pains. Bark and leaves treat skin diseases. Root is a strong purgative. Leaves cure chilblains.",
+    "dosage_preparation": "Flower preserve (gul-kand) for fever; fruit pulp as laxative; bark and leaf decoction for skin diseases.",
+    "classical_citations": [],
+    "page_number": "47-48",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Arjuna",
+    "latin_name": "Terminalia arjuna",
+    "name_variants": [
+      "Arjuna",
+      "Queen's Flower",
+      "Kakke",
+      "Rajataru",
+      "Arjun",
+      "Konnai",
+      "Rela"
+    ],
+    "medicinal_uses": "Root is used as an astringent and cure for diarrhoea. Bark and leaves are good as a laxative. Juice is a well-known medicine for heart diseases and beri-beri. Fresh juice extracted from leaves is a good remedy for earache. Seeds have a narcotic effect when eaten.",
+    "dosage_preparation": "Root decoction for diarrhoea; bark and leaf juice for heart diseases; fresh leaf juice for earache.",
+    "classical_citations": [],
+    "page_number": "49-50",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Ashoka",
+    "latin_name": "Saraca asoca",
+    "name_variants": [
+      "Ashoka",
+      "Ashok",
+      "Asogam",
+      "Achenga",
+      "Asokamu",
+      "Vanjulamu",
+      "Sorrowless Tree"
+    ],
+    "medicinal_uses": "Juice of the bark is a medicine for many female diseases. Flower is a remedy for dysentery. Bark, root and leaves are used in preparing various medicines. Fruit is claimed to cure a number of diseases including cancer.",
+    "dosage_preparation": "Bark juice for female disorders; flower for dysentery; various parts used in medicinal preparations.",
+    "classical_citations": [],
+    "page_number": "51-52",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Siris",
+    "latin_name": "Albizia lebbeck",
+    "name_variants": [
+      "Siris",
+      "Parrot Tree",
+      "Women's Tongue",
+      "East Indian Walnut"
+    ],
+    "medicinal_uses": "Root is a remedy for headache and eye diseases. Bark is used as a cure for skin troubles, bronchitis and toothache, and also for cold and cough. Juice of the leaves cures night-blindness. Different parts used as remedy for bites of venomous creatures.",
+    "dosage_preparation": "Root for headache; bark decoction for skin and respiratory ailments; leaf juice for night-blindness.",
+    "classical_citations": [],
+    "page_number": "53",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Moulsari",
+    "latin_name": "Mimusops elengi",
+    "name_variants": [
+      "Moulsari",
+      "Indian Medlar",
+      "Bakula",
+      "Ranjal",
+      "Spanish Cherry"
+    ],
+    "medicinal_uses": "Green fruits and seed are used for curing tender gums and loose teeth. Leaves boiled in water make a good mouthwash for toothache. Bark is used for biliousness and diseases of the gums. Leaf is used to cure loss of consciousness caused by snake-bite. Ayurveda has numerous medicinal uses for this tree.",
+    "dosage_preparation": "Green fruits and seed for gum health; leaf decoction as mouthwash; bark for biliousness.",
+    "classical_citations": [],
+    "page_number": "54-55",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Kadamb",
+    "latin_name": "Neolamarckia cadamba",
+    "name_variants": [
+      "Kadamb",
+      "Kadamba",
+      "Haridru"
+    ],
+    "medicinal_uses": "Bark is a remedy for fever and made into an invigorating tonic. Leaves are used in a decoction for throat gargle.",
+    "dosage_preparation": "Bark decoction as tonic for fever; leaf decoction as gargle for throat.",
+    "classical_citations": [],
+    "page_number": "56",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Temple Tree",
+    "latin_name": "Plumeria rubra",
+    "name_variants": [
+      "Temple Tree",
+      "Pagoda Tree",
+      "Dead Man's Flower",
+      "Gul-e-Chin",
+      "Krishna Champa",
+      "Frangipani"
+    ],
+    "medicinal_uses": "Milky juice of branches is good medicine for gout. Mixed with sandal paste and camphor, it acts as a cure for eczema. Buds chewed with betel leaves cure ague fever. Bark used for fever, diarrhoea and boils. Helps in correcting enlarged glands. Root and bark serve as a laxative. Poultice from leaves cures swellings.",
+    "dosage_preparation": "Milky juice mixed with sandal paste for eczema; bark decoction for fever; leaf poultice for swellings.",
+    "classical_citations": [],
+    "page_number": "57",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Jacaranda",
+    "latin_name": "Jacaranda mimosifolia",
+    "name_variants": [
+      "Jacaranda",
+      "Jacaranda acutifolia"
+    ],
+    "medicinal_uses": "Infusions of leaves used for manufacture of drugs for healing wounds. Bark infusions serve as a lotion for washing ulcers. Bark and leaves used for treating syphilis and gonorrhoea.",
+    "dosage_preparation": "Leaf infusion for wound healing; bark infusion as lotion for ulcers.",
+    "classical_citations": [],
+    "page_number": "58-59",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Harsingar",
+    "latin_name": "Nyctanthes arbor-tristis",
+    "name_variants": [
+      "Harsingar",
+      "Parijata",
+      "Shefali",
+      "Tree of Sadness",
+      "Night Jasmine",
+      "Parijat"
+    ],
+    "medicinal_uses": "Bark is used as an expectorant and for tanning. Flowers are used for preparing a kind of tonic. Leaves are employed as a cure for fevers, rheumatism and sciatica. Seeds are a remedy for skin diseases. Oil from bark cures pain in the eye.",
+    "dosage_preparation": "Bark as expectorant; flower tonic; leaf decoction for fevers and rheumatism; seed powder for skin diseases.",
+    "classical_citations": [],
+    "page_number": "60",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Coral Tree",
+    "latin_name": "Erythrina variegata",
+    "name_variants": [
+      "Coral Tree",
+      "Indian Coral Tree",
+      "Erythrina indica",
+      "Pangara",
+      "Kalyana Murungai",
+      "Mandara"
+    ],
+    "medicinal_uses": "Bark is used as a cure for dysentery and as a medicine for reducing fever. Juice extracted from leaves helps to relieve pain in the joints, ears and teeth.",
+    "dosage_preparation": "Bark decoction for dysentery and fever; leaf juice for pain relief in joints, ears and teeth.",
+    "classical_citations": [],
+    "page_number": "62-63",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Oleander",
+    "latin_name": "Nerium oleander",
+    "name_variants": [
+      "Oleander",
+      "Kaner",
+      "Kanagila",
+      "Karabi"
+    ],
+    "medicinal_uses": "Roots are used as medicine in treatment of skin diseases like ringworm, leprosy and boils. Seeds and milky juice are poisonous and have a bad effect on the heart. Caution is advised in use.",
+    "dosage_preparation": "Root applied externally for skin diseases. Note: Plant parts are poisonous.",
+    "classical_citations": [],
+    "page_number": "64",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Teak",
+    "latin_name": "Tectona grandis",
+    "name_variants": [
+      "Teak",
+      "Sagwan",
+      "Tekka"
+    ],
+    "medicinal_uses": "Juice of flowers helps cure colds. Oil promotes growth of hair. Wood dust cures headache, loss of appetite and acidity.",
+    "dosage_preparation": "Flower juice for colds; wood dust for headache and digestive issues.",
+    "classical_citations": [],
+    "page_number": "65-67",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Sheesham",
+    "latin_name": "Dalbergia sissoo",
+    "name_variants": [
+      "Sheesham",
+      "Shisham",
+      "Indian Rosewood",
+      "Simsapa",
+      "Sissoo"
+    ],
+    "medicinal_uses": "Oil extracted from seeds is a cure for skin diseases. Wood dust is used as a remedy for leprosy and other skin eruptions.",
+    "dosage_preparation": "Seed oil applied to skin; wood dust for skin eruptions.",
+    "classical_citations": [],
+    "page_number": "69",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Toon",
+    "latin_name": "Toona ciliata",
+    "name_variants": [
+      "Toon",
+      "Indian Mahogany",
+      "Cedrela toona",
+      "Tun"
+    ],
+    "medicinal_uses": "Bark is endowed with medicinal properties. A yellow dye is prepared from its flowers.",
+    "dosage_preparation": "Bark used medicinally; flowers used for dye.",
+    "classical_citations": [],
+    "page_number": "70-71",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Babool",
+    "latin_name": "Vachellia nilotica",
+    "name_variants": [
+      "Babool",
+      "Babul",
+      "Acacia nilotica",
+      "Gum Arabic",
+      "Kikar"
+    ],
+    "medicinal_uses": "Leaves are used as a tonic and cure for eye-sores. Bark and unripe pods are strong astringents. Gum is used as a tonic and medicine for cough and lung troubles. Flowers are a remedy for insanity. Bark-dust for snake-bite. Unripe pods used for throat gargle.",
+    "dosage_preparation": "Leaf decoction as tonic; gum for cough and lung troubles; bark decoction for snake-bite; pod gargle for throat.",
+    "classical_citations": [],
+    "page_number": "72",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "White Teak",
+    "latin_name": "Gmelina arborea",
+    "name_variants": [
+      "White Teak",
+      "Gumhar",
+      "Gambhari",
+      "Gumbar"
+    ],
+    "medicinal_uses": "Root provides medicine for treatment of stomach-ache and fever. Flowers are a remedy for blood diseases and leprosy. Fruit is a tonic and promotes growth of hair; also a remedy for anaemia, ulcers and leprosy. Juice of leaves is used as a lotion for cuts and ulcers.",
+    "dosage_preparation": "Root for stomach-ache; flowers for blood diseases; fruit as tonic; leaf juice as lotion for wounds.",
+    "classical_citations": [],
+    "page_number": "74",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Soapnut",
+    "latin_name": "Sapindus mukorossi",
+    "name_variants": [
+      "Soapnut",
+      "Ritha",
+      "Aritha",
+      "Reetha",
+      "Sapindus"
+    ],
+    "medicinal_uses": "Fruit is employed in treatment of asthma, hysteria, epilepsy. Used for external application in snake or insect bite. Seeds are used for removing freckles from skin. Solution of fruit used in curing skin diseases. Powder of seed is used as an insecticide.",
+    "dosage_preparation": "Fruit solution for skin diseases; external application for bites; seed powder as insecticide.",
+    "classical_citations": [],
+    "page_number": "75",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Banyan",
+    "latin_name": "Ficus benghalensis",
+    "name_variants": [
+      "Banyan",
+      "Bargad",
+      "Vat",
+      "Vad",
+      "Indian Banyan"
+    ],
+    "medicinal_uses": "Aerial roots used for brushing teeth; juice cures pyorrhoea and other tooth diseases. Tender leaves are good for leprosy. Heated leaves used as poultice for abscesses. Milky juice has medicinal value, particularly as a tonic.",
+    "dosage_preparation": "Aerial root juice for dental health; heated leaf poultice for abscesses; milky juice as tonic.",
+    "classical_citations": [],
+    "page_number": "77-78",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Wild Fig",
+    "latin_name": "Ficus racemosa",
+    "name_variants": [
+      "Wild Fig",
+      "Gular",
+      "Cluster Fig",
+      "Udumbara",
+      "Attikka"
+    ],
+    "medicinal_uses": "Juice of the fruit is a household remedy for stomach disorders and diabetes. Balm made from fruit heals wounds. Flowers, leaves and bark have medicinal properties widely used in Ayurvedic medicine.",
+    "dosage_preparation": "Fruit juice for stomach disorders and diabetes; fruit balm for wounds.",
+    "classical_citations": [],
+    "page_number": "79-80",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Pakar",
+    "latin_name": "Ficus virens",
+    "name_variants": [
+      "Pakar",
+      "Indian Fig Tree",
+      "Ficus infectoria"
+    ],
+    "medicinal_uses": "Every part has medicinal properties. Bark makes an excellent gargle for the throat and a lotion for wounds.",
+    "dosage_preparation": "Bark decoction as gargle and wound lotion.",
+    "classical_citations": [],
+    "page_number": "81",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Peepal",
+    "latin_name": "Ficus religiosa",
+    "name_variants": [
+      "Peepal",
+      "Pipal",
+      "Peepul",
+      "Ashvattha",
+      "Bodhi Tree"
+    ],
+    "medicinal_uses": "Every part is a medicine for some disease. Bark and roots cure numerous diseases. Juice of twigs is a remedy for heart trouble. Milk-like juice hardened into gum is employed as lac or sealing wax.",
+    "dosage_preparation": "Bark and root decoctions for various ailments; twig juice for heart trouble.",
+    "classical_citations": [],
+    "page_number": "82-83",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Neem",
+    "latin_name": "Azadirachta indica",
+    "name_variants": [
+      "Neem",
+      "Margosa",
+      "Nim",
+      "Nimb",
+      "Azadirachta"
+    ],
+    "medicinal_uses": "Every part has medicinal properties. Oil extracted from seeds (margosa oil) used as antiseptic and for massage in rheumatism. Gum from bark is a stimulant and tonic. Lotion from leaves is antiseptic. Dried leaves keep away insects. Leaves placed around smallpox patients for quick drying of eruptions. Fruit purifies blood. Neem twigs make toothbrushes with germicidal and antiseptic properties. Products include neem soaps and toothpastes.",
+    "dosage_preparation": "Seed oil (margosa oil) for external application; leaf lotion as antiseptic; twigs as toothbrush; gum as tonic.",
+    "classical_citations": [],
+    "page_number": "84-85",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Bakain",
+    "latin_name": "Melia azedarach",
+    "name_variants": [
+      "Bakain",
+      "Indian Lilac",
+      "Persian Lilac",
+      "Mahaneem",
+      "Melia",
+      "Darek",
+      "Bakayan"
+    ],
+    "medicinal_uses": "Seeds used to cure rheumatism. Leaves for nervous headache and hysteria. Fruits and leaves are a remedy for skin diseases. Bark used in preparation of a tonic.",
+    "dosage_preparation": "Seeds for rheumatism; leaves for nervous headache; bark as tonic.",
+    "classical_citations": [],
+    "page_number": "86",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Drumstick",
+    "latin_name": "Moringa oleifera",
+    "name_variants": [
+      "Drumstick",
+      "Moringa",
+      "Sahjan",
+      "Munaga",
+      "Sigru",
+      "Shigru"
+    ],
+    "medicinal_uses": "Root has pungent taste employed as a substitute for mustard. Bark is a source of fibre. Various parts used as vegetable.",
+    "dosage_preparation": "Root used as condiment.",
+    "classical_citations": [],
+    "page_number": "87",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Gul Mohar",
+    "latin_name": "Delonix regia",
+    "name_variants": [
+      "Gul Mohar",
+      "Gulmohar",
+      "Krishna Chura",
+      "Flamboyant",
+      "Royal Poinciana"
+    ],
+    "medicinal_uses": "Primarily an ornamental tree. No specific medicinal uses described in the source.",
+    "dosage_preparation": "",
+    "classical_citations": [],
+    "page_number": "39-40",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Indian Cork Tree",
+    "latin_name": "Millingtonia hortensis",
+    "name_variants": [
+      "Indian Cork Tree",
+      "Millingtonia"
+    ],
+    "medicinal_uses": "Primarily an ornamental avenue tree. Wood yields a cork-like material. No specific medicinal uses described in the source.",
+    "dosage_preparation": "",
+    "classical_citations": [],
+    "page_number": "61",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Sal",
+    "latin_name": "Shorea robusta",
+    "name_variants": [
+      "Sal",
+      "Salwa",
+      "Shorea"
+    ],
+    "medicinal_uses": "Primarily valued as a timber tree. The tree yields a white resinous substance on tapping which is burnt as incense. No other medicinal uses described in the source.",
+    "dosage_preparation": "",
+    "classical_citations": [],
+    "page_number": "68",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Khair",
+    "latin_name": "Senegalia catechu",
+    "name_variants": [
+      "Khair",
+      "Acacia catechu",
+      "Catechu",
+      "Katha",
+      "Kattha"
+    ],
+    "medicinal_uses": "Wood chips are boiled to prepare kattha, an essential ingredient of betel (pan) chewed in North India. The wood is also used for dyeing and tanning.",
+    "dosage_preparation": "Wood chips boiled to extract kattha; used as a masticatory ingredient with betel leaf.",
+    "classical_citations": [],
+    "page_number": "73",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
+  },
+  {
+    "plant_name": "Tamal and Kareel",
+    "latin_name": "",
+    "name_variants": [
+      "Tamal",
+      "Kareel",
+      "Capparis decidua"
+    ],
+    "medicinal_uses": "Kareel unripe fruits are used for making pickles. Both trees are associated with the Krishna legend and are found abundantly in the Mathura region. No specific medicinal uses described in the source.",
+    "dosage_preparation": "Unripe kareel fruits used for pickling.",
+    "classical_citations": [],
+    "page_number": "76",
+    "source": {
+      "title": "Our Trees",
+      "author": "Sinha, R.P.N.",
+      "publisher": "Publications Division, Ministry of Information and Broadcasting, Government of India",
+      "year": "1968 (reprinted 1993)",
+      "isbn": "",
+      "citable": true
+    }
   }
 ]

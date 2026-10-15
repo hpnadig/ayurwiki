@@ -25,7 +25,7 @@ date: 2020-06-08
 **Lupinus albus** is an erect, branched, annual plant producing a short, bushy plant up to 120cm tall with a strong taproot. The plant is sometimes cultivated for its edible seeds and as a geen manure and is known to have been cultivated since ancient times in Greece, Italy, Egypt and Cyprus. Its importance has fluctuated often during the history of its cultivation. At present it has almost disappeared in central Europe, while it is becoming more widely grown in the Americas.
 ## Uses
 Worms, Ulcers, Boils, Skin comlaints.
-.
+
 ## Parts Used
 Seeds.
 

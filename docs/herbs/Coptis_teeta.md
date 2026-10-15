@@ -20,10 +20,10 @@ date: 2020-04-18
 
 ![](../images/Indian_Medicinal_Plants_-_Plate_6_-_Coptis_teeta.png)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -50,7 +50,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Indian_Medicinal_Plants_-_Plate_6_-_Coptis_teeta.png)

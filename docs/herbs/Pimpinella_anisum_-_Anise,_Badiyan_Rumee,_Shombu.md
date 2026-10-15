@@ -81,7 +81,7 @@ Oblong pod, Thinly septate, pilose, wrinkled, Seeds upto 5, Fruiting throughout 
 Sow the seed in dry, light soil, on a warm, sunny border, early in April, where the plants are to remain. When they come up, thin them and keep them clean from weeds. Allow about a foot each way. The seeds may also be sown in pots in heat and removed to a warm site in May.
 
 ## Commonly seen growing in areas
-, .
+
 
 ## Photo Gallery
 ![](../images/Gardenology.org-IMG_2834_rbgs11jan.jpg)

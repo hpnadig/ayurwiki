@@ -20,10 +20,10 @@ date: 2020-07-15
 
 ![](../images/Populus_alba_001.JPG)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 Sixteen compounds were isolated and identified as tremuloidin, Populin, Chaenomeloidin, Benzoylsalicin, Salicin, Tremulacin.
@@ -51,7 +51,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Populus_alba_001.JPG)

@@ -27,7 +27,7 @@ date: 2020-10-20
 Vomiting, Influenza, Cancer, Liver problems.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 

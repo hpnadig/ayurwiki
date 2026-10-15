@@ -30,7 +30,7 @@ date: 2021-05-10
 Dairrhoea, Fever, Stomach disorders, Piles, Asthma, Jaundice, Skin diseases, Rheumatism, Daibetes, Liver disorders.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -67,7 +67,7 @@ Pods type, Flat in size, Oblong, Compressed, Seeds are brownish, Kidney shaped
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

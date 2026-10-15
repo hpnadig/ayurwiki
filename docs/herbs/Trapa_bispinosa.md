@@ -14,13 +14,13 @@ categories:
 date: 2021-11-17
 ---
 ## Uses
-, , , , , , , , , , .
+
 
 ### Food
 Trapa bispinosa can be used in Food. Kernels of the fruit are eaten raw or after boiling or roasting. Dried fruits are made into flour.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -51,7 +51,7 @@ Trapa bispinosa Contains the Following nutritional components like - Vitamin-A, 
 Trapa bispinosa is available through July to December
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

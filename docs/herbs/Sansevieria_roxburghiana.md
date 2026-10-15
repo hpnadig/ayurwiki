@@ -13,11 +13,15 @@ categories:
   - "Herbs"
 date: 2019-07-12
 ---
+
+![*Sansevieria roxburghiana*](../images/Sansevieria_roxburghiana_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+Childhood ailments.
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -44,7 +48,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -63,3 +67,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 4. Indian Medicinal Plants by C.P.Khare
 5. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 361-362.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a child-care plant (bālakarige poṣakāri). Rhizome, leaf and whole plant used. Children's growth and digestion: rhizome paste 1 spoon with milk; daily for 6 weeks.
+6. **Dinesh Valke. Photograph of *Sansevieria roxburghiana*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/49163172972)

@@ -21,10 +21,10 @@ date: 2020-06-12
 ![](../images/Reseda_luteola_2_(Espagne).jpg)
 **Reseda luteola** is a Biennial up to 1.50 metres tall. It is harvested from the wild for local use as a medicine and source of materials.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

@@ -21,10 +21,10 @@ date: 2021-05-04
 ![](../images/Amygdalus_persica_cv_Stellata.JPG)
 **Amygdalus persica** is a well-known medium-sized tree.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -51,7 +51,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Amygdalus_persica_cv_Stellata.JPG)

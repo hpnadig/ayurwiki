@@ -22,10 +22,10 @@ date: 2020-04-14
 
 ![](../images/Cetraria_islandica_-_Islandslav.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

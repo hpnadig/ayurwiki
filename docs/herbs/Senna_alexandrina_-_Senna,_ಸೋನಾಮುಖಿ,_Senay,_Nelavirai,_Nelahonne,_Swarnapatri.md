@@ -20,6 +20,8 @@ date: 2024-01-01
 
 [TOC]
 
+![*Senna alexandrina*](../images/Senna_alexandrina_-_Flickr_-_dinesh_valke.jpg)
+
 **Senna alexandrina** is a perennial shrub of the family Fabaceae, growing up to 1.8 m in height. It has compound leaves with 3-9 pairs of leaflets that are greenish-blue when fresh, turning yellow-green at maturity. The plant produces yellowish flowers and flat pods containing 5-7 kidney-shaped seeds. It is widely cultivated in semi-arid regions for its leaves and pods, which are used as a natural laxative.
 
 ## Uses
@@ -93,3 +95,4 @@ Semi-arid regions, Sandy soils.
    Cultivation details including soil requirements, propagation methods, planting, irrigation, harvest timing, yield estimates, and economics.
 
 ## External Links
+2. **Dinesh Valke. Photograph of *Senna alexandrina*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/44909330024)

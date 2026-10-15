@@ -72,7 +72,7 @@ Fruiting season is through out the year
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

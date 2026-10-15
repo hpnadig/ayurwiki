@@ -35,7 +35,7 @@ date: 2020-04-23
 ![*Simsapa', *Dalbergia sissoo](../images/Leaflet_of_(Dalbergia_sissoo)_North_Indian_rosewood_tree.jpg)
 **Dalbergia sissoo** is a deciduous medium-sized tree growing up to 30 metres tall. The bole is often crooked and branchless for up to 8 metres, occasionally for as much as 20 metres. It is a valuable timber in India, where it can fetch the same prices as teak. It is cultivated as a forest tree in southern Asia and tropical Africa.
 ## Uses
-Worm infestation, Emaciation, Skin diseases, Urinary tract disorders, Ulcers, Blood disorders, Inflammation
+Worm infestation, Emaciation, Skin diseases, Urinary tract disorders, Ulcers, Blood disorders, Inflammation, Leprosy
 
 ## Parts Used
 Bark, Leaves, Heartwood, Root
@@ -116,3 +116,5 @@ Tropical area, Sub tropical area
 3. [names](Vernacular)(http://envis.frlht.org/bot_search)
 4. [preparations](Ayurvedic)(https://easyayurveda.com/2015/10/15/dalbergia-sissoo-sisham-shimshapa/)
 5. [details](Cultivation)(https://hort.purdue.edu/newcrop/duke_energy/Dalbergia_sissoo.html#Cultivation)
+6. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), p. 69.**
+   Oil extracted from seeds is a cure for skin diseases. Wood dust is used as a remedy for leprosy and other skin eruptions. Seed oil applied to skin; wood dust for skin eruptions.

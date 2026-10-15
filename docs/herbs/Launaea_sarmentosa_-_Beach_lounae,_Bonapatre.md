@@ -58,7 +58,7 @@ Oblong, 2.5 to 7.5cm long, Pinnately cut or sinuate toothed or lobed
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

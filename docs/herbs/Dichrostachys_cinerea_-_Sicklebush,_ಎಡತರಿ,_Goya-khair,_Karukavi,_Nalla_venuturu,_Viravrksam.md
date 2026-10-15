@@ -50,7 +50,7 @@ It contain apigenin-7-O-apiosyl (1 → 2) glucoside (1) (Liet al., 1997), chryso
 | Telugu | Nalla venuturu, Velthuru, Veluthuru chettu, Vadataru, Nallinaturu, Nellami |
 | Hindi | Goya-khair, Kheri, Vatulla, Veri |
 | English | Sicklebush |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

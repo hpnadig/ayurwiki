@@ -20,7 +20,7 @@ date: 2021-05-05
 ![](../images/Starr_050222-4149_Tetragonia_tetragonioides.jpg)
 **Tetragonia expansa** is an annual to short-lived perennial creeping plant growing about 20 - 40cm tall and spreading to form clumps 1 metre wide or more. The plant has been used as a vegetable since at least the 18th century AD. It is occasionally cultivated in gardens for its edible leaves, and is an excellent spinach substitute for hot dry weather conditions.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Young shoots, Leaves.

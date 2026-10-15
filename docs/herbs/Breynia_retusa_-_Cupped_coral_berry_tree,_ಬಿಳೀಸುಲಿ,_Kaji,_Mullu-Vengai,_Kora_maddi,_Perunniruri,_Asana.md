@@ -22,11 +22,14 @@ categories:
   - "Pages_that_are_stubs"
 date: 2020-11-09
 ---
+
+![*Breynia retusa*](../images/Breynia_retusa_euphorbiaceae_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -65,7 +68,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -83,3 +86,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
 5. [names](Common)(http://www.flowersofindia.net/catalog/slides/Spinous%20Kino%20Tree.html)
+6. **Dinesh Valke. Photograph of *Breynia retusa*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/8893512265)

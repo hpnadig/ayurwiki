@@ -26,7 +26,7 @@ date: 2021-10-27
 ![](../images/Garcinia_xanthochymus_(1094390023).jpg)
 **Garcinia xanthochymus** is an evergreen tree with more or less horizontal branches and a dense pyramidal crown. It can grow 8 - 15 metres tall. It has a short, straight bole. The tree is harvested from the wild, and is also cultivated and semi-cultivated, for its edible fruit and dyestuff.
 ## Uses
-, , .
+
 
 ### Food
 Garcinia xanthochymus can be used in Food. Ripe fruits are eaten raw. Pulp is also used to make sharbat (soft drink).

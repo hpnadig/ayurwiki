@@ -28,7 +28,7 @@ date: 2020-09-08
 Wounds, Boils, Minor burns, Insect bite, Sores, Rheumatism, Gout.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 Chemical constituents present within Z. aethiopica have been identified using spectroscopy, including two cycloartane triterpenes, 10 sterols, three lignans, and 10 phenylpropanoids etc

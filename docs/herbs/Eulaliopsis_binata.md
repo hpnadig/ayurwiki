@@ -18,10 +18,10 @@ date: 2020-05-05
 ![](../images/Eulaliopsis_binata_02.jpg)
 **Eulaliopsis binata** is a perennial, clump-forming grass with leaf-blades 30 - 80cm tall and flowering stems 60 - 90cm tall. In India, this species is the second-most important raw material for paper pulp after bamboos, and it is much collected from the wild there.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 

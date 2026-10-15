@@ -32,7 +32,7 @@ date: 2020-05-14
 Indigestion, Diarrhoea, Dysentery, Dyspepsia, Leucorrhoea, Skin ulcers, Cancer, Hospital gangrene.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -64,7 +64,7 @@ Seeds, Cuttings.
 A plant of the lowland tropics, it is found at elevations from sea level to 50 metres.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Crooked_Tree_Lodge_03.JPG)

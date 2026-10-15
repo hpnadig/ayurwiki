@@ -75,7 +75,7 @@ Cuttings
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![Flowers](../images/Acacia_torta_(5460476727).jpg)

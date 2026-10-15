@@ -18,10 +18,10 @@ date: 2021-05-06
 
 Eupatorium odaratum is a big bushy herb or subherb with long rambling branchs. It spreads into tanlged.
 ## Uses
-, , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -56,7 +56,7 @@ Clusters of 10-35, Pink, Found at the end of the branchs. Flowering season throu
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

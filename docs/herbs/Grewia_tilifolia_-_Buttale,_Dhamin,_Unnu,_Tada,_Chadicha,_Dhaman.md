@@ -28,7 +28,7 @@ date: 2021-11-01
 ![](../images/Grewia_tiliaefolia_Govindoo.jpg)
 **Grewia tiliifolia** is a deciduous tree growing 12 - 24 metres tall. The bole can be 60cm or more in diameter. The tree is harvested from the wild for local use of its fibre, wood and edible fruit.
 ## Uses
-, , , , , , , , , , .
+
 
 ### Food
 Grewia tilifolia can be used in Food. Mature fruits are eaten raw and used in preparation of sherbet (soft drink).

@@ -34,7 +34,7 @@ date: 2020-04-15
 Fevers, Malaria, Neuralgia, Muscle cramps, Cardiac fibrillation, Drunkenness, Sore throats.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

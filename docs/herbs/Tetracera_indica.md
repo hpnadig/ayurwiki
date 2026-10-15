@@ -26,7 +26,7 @@ date: 2020-08-21
 Pulmonary haemorrhages, Bites of poisonous snakes, Bites of festering finger.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

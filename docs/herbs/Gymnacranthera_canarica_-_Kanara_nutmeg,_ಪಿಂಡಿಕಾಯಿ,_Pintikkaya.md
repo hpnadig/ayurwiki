@@ -16,11 +16,14 @@ categories:
   - "Herbs"
 date: 2020-06-18
 ---
+
+![*Gymnacranthera canarica*](../images/Gymnacranthera_canarica_evergreen_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -53,7 +56,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -71,3 +74,4 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/g/gymnacranthera-canarica)
 4. [ "Cultivation"]
 5. Indian Medicinal Plants by C.P.Khare
+6. **Dinesh Valke. Photograph of *Gymnacranthera canarica*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/8583662492)

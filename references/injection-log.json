@@ -2708,5 +2708,584 @@
       "Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)"
     ],
     "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Mangifera_Indica_-_Mango,_Maavina_mara,_Aam,_Maamaram,_Maamidi,_Amram,_Aamba.md",
+    "plant": "Mango",
+    "latin_name": "Mangifera indica",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Litchi_chinensis_-_Leechee,_Lichi_hannu,_Lichi.md",
+    "plant": "Litchi",
+    "latin_name": "Litchi chinensis",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Psidium_guajava_-_Guava,_Jamaphala,_Amrud,_Goyya-pazham,_Gova,_Atakkappalam.md",
+    "plant": "Guava",
+    "latin_name": "Psidium guajava",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Anacardium_occidentale_-_Cashew_nut,_Gaeru,_Kaju,_Andima,_Jaedima-midi,_Kapa-mava.md",
+    "plant": "Cashew",
+    "latin_name": "Anacardium occidentale",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Morus_alba_-_White_Mulberry,_Reshmae_hannu,_Shahtoot,_Kambli_chedi.md",
+    "plant": "Mulberry",
+    "latin_name": "Morus alba",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Ziziphus_mauritiana_-_Indian_Jujube,_ಬೋರೇ,_Bara-bor,_Ilandai,_Regi,_Chirimullu,_Boor.md",
+    "plant": "Ber",
+    "latin_name": "Ziziphus mauritiana",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Aegle_marmelos_-_Bengal_Quince,_Bilva_patre,_Bela,_Vilvam,_Maredu,_Koovalam,_Bel.md",
+    "plant": "Bel",
+    "latin_name": "Aegle marmelos",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Tamarindus_indica_-_Indian_date,_Hunuse_mara,_Ambli,_Yukini,_Tintrini,_Amlika,_Aambali.md",
+    "plant": "Tamarind",
+    "latin_name": "Tamarindus indica",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Artocarpus_heterophyllus_-_Jackfruit,_Halasina_hannu,_Kathal,_Palamaram,_Panasa,_Plavu.md",
+    "plant": "Jackfruit",
+    "latin_name": "Artocarpus heterophyllus",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Syzygium_cumini_-_Nerale.md",
+    "plant": "Jamun",
+    "latin_name": "Syzygium cumini",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Phyllanthus_emblica_-_Emblic_Myrobalan,_Nellikayi,_Amla,_Nellikkai,_Usirika,_Embali,_Anvala.md",
+    "plant": "Amla",
+    "latin_name": "Phyllanthus emblica",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Terminalia_bellerica_roxb_-_Bedda_nut_tree,_Thare,_Bahuvirya,_Semmaram,_Karshaphalamu,_Thani.md",
+    "plant": "Bahera",
+    "latin_name": "Terminalia bellirica",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Terminalia_chebula_-_Myrobalan,_Alalekai,_Harre,_Kadukkai,_Karaka,_Nerinjil,_Sarate.md",
+    "plant": "Harre",
+    "latin_name": "Terminalia chebula",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cocos_nucifera_-_Coconut,_Tengina_kayi,_Nariya,_Tennai,_Kobbari_chettu,_Thengu.md",
+    "plant": "Coconut",
+    "latin_name": "Cocos nucifera",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Areca Palm",
+    "latin_name": "Areca catechu",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match",
+    "note": "No matching herb page in docs/herbs/"
+  },
+  {
+    "file": "docs/herbs/Borassus_flabellifer_-_Palmyrah_palm,_Kari_thaale,_Tad,_Nonkupanai,_Karatalamu,_Ampana.md",
+    "plant": "Palmyra Palm",
+    "latin_name": "Borassus flabellifer",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Phoenix_sylvestris_-_Wild_date_palm,_Eechalu,_Khajoor,_Icham,_Etha_chettu,_Intappana.md",
+    "plant": "Wild Date Palm",
+    "latin_name": "Phoenix sylvestris",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Madhuca_longifolia_-_Honey_tree,_Ippe,_Mahua,_Kaattu,_Ippa,_Illupa,_Kat-illipi.md",
+    "plant": "Mohwa",
+    "latin_name": "Madhuca longifolia",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Bombax_ceiba_-_Silk_Cotton_Tree,_Marahatti,_Shalmali,_Sittan,_Buruga,_Unnamurika.md",
+    "plant": "Silk Cotton",
+    "latin_name": "Bombax ceiba",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Butea_monosperma_-_Bastard_teak,_ಮುತ್ತುಗ,_Dhak,_Kincukam,_Kimsukamu,_Chamata.md",
+    "plant": "Palas",
+    "latin_name": "Butea monosperma",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Bauhinia_variegata_-_Mountain_Ebony,_ಕಾಂಚನಾರ,_Kachanar,_Sigappu_mandarai,_Deva_Kanchanam,_Chuvanna,_Kanchan.md",
+    "plant": "Kachnar",
+    "latin_name": "Bauhinia variegata",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cassia_fistula_-_Indian_Laburnum,_ಕಕ್ಕೆಮರ,_Amaltas,_Sarakonrai,_Rela,_Konna,_Bahava.md",
+    "plant": "Amaltas",
+    "latin_name": "Cassia fistula",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Terminalia_arjuna_-_Arjuna_tree,_Kere_matti,_Arjuna,_Maruda_maram,_Thella_maddi,_Neer_maruthu.md",
+    "plant": "Arjuna",
+    "latin_name": "Terminalia arjuna",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Saraca_asoca_-_Ashoka_tree,_Achenge,_Ashok,_Anagam,_Asokamu,_Asokam.md",
+    "plant": "Ashoka",
+    "latin_name": "Saraca asoca",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Albizia_lebbeck_-_Siris,_Baage_mara,_Vaagai,_Baagichettu,_Chelinge.md",
+    "plant": "Siris",
+    "latin_name": "Albizia lebbeck",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Mimusops_elengi_-_Spanish_cherry,_Ranjal,_Maulsari,_Magizhamboo,_Vakulamu,_Ilanni.md",
+    "plant": "Moulsari",
+    "latin_name": "Mimusops elengi",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Anthocephalus_cadamba_-_Kadamba,_ಕಮರಾಣಿ_ಹಣ್ಣು,_Kadam,_Kadambu,_Begada,_Atuthekku,_Kalamb.md",
+    "plant": "Kadamb",
+    "latin_name": "Neolamarckia cadamba",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Plumeria_rubra_-_Frangipani,_Golenchi,_Nela_sampangi,_Deva_ganneru,_Chaempae.md",
+    "plant": "Temple Tree",
+    "latin_name": "Plumeria rubra",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Jacaranda_acutifolia_-_Blue_Jakaranda,_Swarna_Sundari.md",
+    "plant": "Jacaranda",
+    "latin_name": "Jacaranda mimosifolia",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Nyctanthes_arbor-tristis_-_Coral_Jasmine,_Harisringi,_Harshingar,_Pavazha-malli,_Krishnavaeni,_Manjapumaram.md",
+    "plant": "Harsingar",
+    "latin_name": "Nyctanthes arbor-tristis",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Erythrina_indica.md",
+    "plant": "Coral Tree",
+    "latin_name": "Erythrina variegata",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Oleander",
+    "latin_name": "Nerium oleander",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match",
+    "note": "No matching herb page in docs/herbs/"
+  },
+  {
+    "file": "docs/herbs/Tectona_grandis_-_Teak,_Tega,_Sagvan,_Tekku,_Peddateku.md",
+    "plant": "Teak",
+    "latin_name": "Tectona grandis",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Dalbergia_sissoo_-_Shisham,_Agaru,_Cicumaram,_Errasissu,_Rupul.md",
+    "plant": "Sheesham",
+    "latin_name": "Dalbergia sissoo",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Cedrela_toona.md",
+    "plant": "Toon",
+    "latin_name": "Toona ciliata",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Vachellia_nilotica_-_Gum_Arabic,_Babli,_Babool,_karuvelai,_Nalla_tumma,_Karivelam.md",
+    "plant": "Babool",
+    "latin_name": "Vachellia nilotica",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Gmelina_arborea_-_Gamhar,_Shivani,_Kumalaamaram,_Peddagumudutekku,_Kumbil.md",
+    "plant": "White Teak",
+    "latin_name": "Gmelina arborea",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Sapindus_mukorossi_-_Reetha,_Phenil.md",
+    "plant": "Soapnut",
+    "latin_name": "Sapindus mukorossi",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Banyan",
+    "latin_name": "Ficus benghalensis",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match",
+    "note": "No matching herb page in docs/herbs/"
+  },
+  {
+    "file": null,
+    "plant": "Wild Fig",
+    "latin_name": "Ficus racemosa",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match",
+    "note": "No matching herb page in docs/herbs/"
+  },
+  {
+    "file": null,
+    "plant": "Pakar",
+    "latin_name": "Ficus virens",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match",
+    "note": "No matching herb page in docs/herbs/"
+  },
+  {
+    "file": null,
+    "plant": "Peepal",
+    "latin_name": "Ficus religiosa",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match",
+    "note": "No matching herb page in docs/herbs/"
+  },
+  {
+    "file": "docs/herbs/Azadiracta_indica_-_Neem_tree,_Kirubevu,_Neem,_Veppa,_Vepa,_Ayurveppu.md",
+    "plant": "Neem",
+    "latin_name": "Azadirachta indica",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Melia_azedarach_-_Persian_Lilac,_Kadu_Bevu,_Bakain,_Malaivembu,_Turakavepa,_Malaveppu.md",
+    "plant": "Bakain",
+    "latin_name": "Melia azedarach",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Moringa_oleifera_-_Drumstick,_Nuggekayee,_Sahjan,_Murungai_Maram,_Munagachettu,_Muringa.md",
+    "plant": "Drumstick",
+    "latin_name": "Moringa oleifera",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Delonix_regia_-_White_Gul_Mohar,_Sankeshwara,_Vatanarayana,_Vatanarayanamu.md",
+    "plant": "Gul Mohar",
+    "latin_name": "Delonix regia",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Millingtonia_hortensis_-_Indian_Cork_Tree,_Beratu,_Neem_Chameli,_Kat-malli,_Kavuki,_Katesam.md",
+    "plant": "Indian Cork Tree",
+    "latin_name": "Millingtonia hortensis",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Shorea_robusta_-_Sal,_Ashvakarna,_Venkunkiliyam,_Jalari-chettu,_Kungiliyam.md",
+    "plant": "Sal",
+    "latin_name": "Shorea robusta",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": "docs/herbs/Senegalia_catechu_-_Black_catechu,_Kaggali,_Khair,_Karungali,_Chandra,_Karingali,_Khaira.md",
+    "plant": "Khair",
+    "latin_name": "Senegalia catechu",
+    "references_added": 0,
+    "uses_updated": false,
+    "names_updated": false,
+    "sources_used": [
+      "Our Trees"
+    ],
+    "status": "ok"
+  },
+  {
+    "file": null,
+    "plant": "Tamal and Kareel",
+    "latin_name": "",
+    "references_added": 0,
+    "sources_used": [],
+    "status": "no_match",
+    "note": "No matching herb page in docs/herbs/"
   }
 ]

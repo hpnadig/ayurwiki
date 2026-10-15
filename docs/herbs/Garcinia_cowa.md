@@ -21,7 +21,7 @@ date: 2020-05-22
 ![](../images/Gardenology.org-IMG_8173_qsbg11mar.jpg)
 **Garcinia cowa** is an evergreen tree growing 8-12 metres tall. The bole can be 15-20cm in diameter. The tree is harvested from the wild for its edible fruits and leaves, which are used locally.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Fruits, Leaves.

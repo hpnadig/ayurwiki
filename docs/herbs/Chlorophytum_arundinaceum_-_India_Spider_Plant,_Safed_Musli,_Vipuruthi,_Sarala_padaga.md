@@ -64,7 +64,7 @@ Seeds, Root tubers.
 A tropical and subtropical climate with humid atmosphere is suitable for its growth.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

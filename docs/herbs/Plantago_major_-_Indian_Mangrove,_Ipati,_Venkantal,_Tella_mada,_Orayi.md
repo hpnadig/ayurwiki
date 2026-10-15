@@ -5,7 +5,6 @@ categories:
   - "Herbs_that_are_commonly_seen_in_the_region_of_Trophical_areas"
   - "Herbs_with_common_name_in_Malayalam"
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Constipation"
-  - "Pages_without_herbs_images"
   - "Herbs_with_common_name_in_Tamil"
   - "Herbs_with_common_name_in_Sanskrit"
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Diarrhea"
@@ -15,7 +14,6 @@ categories:
   - "Herbs_with_common_name_in_English"
   - "Herbs_with_common_name_in_Gujarathi"
   - "Herbs_with_common_name_in_Telugu"
-  - "Pages without herbs images"
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Hemorrhoids"
   - "Herbs"
   - "Index_of_Plants_which_can_be_propagated_by_Seeds"
@@ -24,6 +22,8 @@ date: 2020-07-06
 # Plantago major - Indian Mangrove, Ipati, Venkantal, Tella mada, Orayi
 
 [TOC]
+
+![*Plantago major*](../images/Plantago_major_plantaginaceae_-_Flickr_-_dinesh_valke.jpg)
 
 **Plantago major** is a species of flowering plant in the plantain family Plantaginaceae. The plant is native to most of Europe and northern and central Asia, but has widely naturalised elsewhere in the world. **Indian mangrove** is an evergreen shrub or tree, usually growing 8 - 18 metres tall but exceptionally to 25 metres.
 ## Uses
@@ -87,3 +87,4 @@ Trophical areas.
 1. [constituents](Chemical)(https://uses.plantnet-project.org/en/Plantago_major_(PROTA))
 2. [Morphology]
 3. [Cultivation](http://tropical.theferns.info/viewtropical.php?id=Avicennia+officinalis)
+4. **Dinesh Valke. Photograph of *Plantago major*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/35240692114)

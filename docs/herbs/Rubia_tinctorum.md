@@ -28,7 +28,7 @@ date: 2020-07-30
 Bladder stones, Kidney stones, Amenorrhoea, Dropsy, Jaundice.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains Compounds found in Rubia tinctorum include purpurin (oxyalizarin; 1,2,4-trihydroxyanthraquinone), mollugin (6-hydroxy-2,2-dimethyl-2H-naphtho[1,2-b]pyran-5-carboxylic acid, methyl ester), 1-hydroxy-2-methylanthraquinone, 2-ethoxymethylanthraquinone, rubiadin (1,3-dihydroxy-2-methylanthraquinone).

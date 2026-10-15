@@ -61,7 +61,7 @@ Capsule, Many seeds, It is globose
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Oldenlandia_corymbosa_with_moss.jpg)

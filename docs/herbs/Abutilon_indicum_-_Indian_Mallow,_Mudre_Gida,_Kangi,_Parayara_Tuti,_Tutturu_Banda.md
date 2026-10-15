@@ -80,7 +80,7 @@ Seeds, Cuttings of young shoots, Cuttings of half-ripe wood.
 Requires a sunny position or part day shade in a fertile well-drained soil.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Abutilon_indicum_3260.jpg)

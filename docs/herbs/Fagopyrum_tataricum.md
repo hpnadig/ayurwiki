@@ -19,7 +19,7 @@ date: 2020-05-06
 ![Flora Batava 1844](../images/Fagopyrum_tataricum_-_Kops.jpg)
 **Fagopyrum tataricum** is an annual plant that can grow up to 0.80 metres tall. It is harvested from the wild for local use as a food and medicine
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Leaves, Seeds.

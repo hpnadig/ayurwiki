@@ -30,7 +30,7 @@ date: 2021-10-27
 ![](../images/Garuga_(Telugu-_గరుగ)_(2498830337).jpg)
 **Garuga** is a deciduous tree growing up to 18 metres tall, with bark pealing off in flakes. The tree is cultivated in home gardens in India for its edible fruit and also as a support for Piper nigrum.
 ## Uses
-, , , , , , , , , , .
+
 
 ### Food
 Garuga pinnata can be used in Food. Mature fruits are eaten raw, cooked as a vegetable and pickled. They are acidic in taste.

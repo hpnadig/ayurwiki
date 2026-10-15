@@ -21,7 +21,7 @@ date: 2020-05-29
 ![](../images/Lamprachaenium_microcephalum_(5285564026).jpg)
 **Lamprachaenium microcephalum** is a perennial plant that can grow up to 0.50 metres tall. It is harvested from the wild for local use as a food.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Seeds.

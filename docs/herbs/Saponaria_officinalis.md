@@ -27,7 +27,7 @@ date: 2020-08-04
 Itchy skin, Jaundice, Cancer.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -59,7 +59,7 @@ Seeds, Division in spring.
 Succeeds in any moderately fertile well-drained soil in sun or semi-shade. Prefers a neutral to alkaline soil. Hardy to about -20°c.
 
 ## Commonly seen growing in areas
-Fields, Roadsides, Roadsides, .
+Fields, Roadsides, Roadsides.
 
 ## Photo Gallery
 ![](../images/Ladenburg_Gewöhnliches_Seifenkraut_am_Neckarufer.jpg)

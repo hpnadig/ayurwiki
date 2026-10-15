@@ -21,10 +21,10 @@ date: 2021-08-25
 
 **Panicled Swertia** is an annual herb, growing up to 80-120 cm tall. Roots are yellow and fibrous. Branched stems are slender, erect, 1.5-4 mm in diameter. Basal leaves wither away at maturity. Stem leaves are nearly stalkless, narrow lance-shaped, 2-5.5 cm long, 4-14 mm wide, margin fringed with hairs.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains The major bioactives of Swertia are xanthones, however, other secondary metabolites such as flavonoids, iridoid glycosides and triterpenoids are also active constituents of this genus.
@@ -58,7 +58,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

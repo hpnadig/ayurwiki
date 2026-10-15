@@ -78,7 +78,7 @@ Vatapitta shamaka
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

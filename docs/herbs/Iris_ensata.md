@@ -20,10 +20,10 @@ date: 2020-11-10
 
 ![](../images/140614_Yagyu_Iris_Garden_Nara_Japan01s3.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -50,7 +50,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/140614_Yagyu_Iris_Garden_Nara_Japan01s3.jpg)

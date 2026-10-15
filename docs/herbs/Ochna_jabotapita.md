@@ -20,10 +20,10 @@ date: 2020-06-08
 
 ![](../images/Madagascar_06_270_-_Flickr_-_gailhampshire.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -50,7 +50,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Ochna_wightiana_-_micky_mouse_plant,_ചിലിമ്ബീ_Chilimbi._.jpg)

@@ -59,7 +59,7 @@ White or Purple
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Cat_Whisker's_(Orthosiphon_Aristatus)_(6419055419).jpg)

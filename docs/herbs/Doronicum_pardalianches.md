@@ -19,10 +19,10 @@ date: 2020-10-16
 ![](../images/Doronicum_pardalianches_R0021715.JPG)
 **Doronicum pardalianches** is a perennial growing to 1m by 1m  at a fast rate. It is hardy to zone UK. It is in flower from May to July. The species is hermaphrodite and is pollinated by Flies, beetles, Lepidoptera.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 

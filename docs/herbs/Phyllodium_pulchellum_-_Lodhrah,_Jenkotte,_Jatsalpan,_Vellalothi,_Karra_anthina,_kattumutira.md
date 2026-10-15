@@ -53,7 +53,7 @@ Fever, Psychotic symptoms, Ulcers, Pockmarks, Rheumatic fevers, Toothache, Haemo
 | Tamil | Vellalothi |
 | Telugu | Karra anthina, Konda antinta |
 | Hindi | Jatsalpan |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.

@@ -36,7 +36,7 @@ date: 2020-08-20
 ![* Nirmatti*, *Terminalia arjuna*](../images/800px-Terminalia_arjuna_07a.JPG)
 **Terminalia arjuna** is a tree of the genus Terminalia. The arjuna grows upto 20–25 metres tall. Usually has a buttressed trunk and forms a wide canopy at the crown, from which branches drop downwards. This plant is belongs to Cobretaceae family.
 ## Uses
-Atherosclerosis, Coronary artery disease, Myocardial infarction, Shortness of breath, Angina pectoris, Dyslipidemia, Hyper cholesterol, Hemorrhages, Bone Fractures, Ringworm, Skin conditions, Menstrual disorders, Snake bites, Scorpion bites, Mouth diseases.
+Atherosclerosis, Coronary artery disease, Myocardial infarction, Shortness of breath, Angina pectoris, Dyslipidemia, Hyper cholesterol, Hemorrhages, Bone Fractures, Ringworm, Skin conditions, Menstrual disorders, Snake bites, Scorpion bites, Mouth diseases, Beri-beri, Earache.
 
 ## Parts Used
 Bark, Leaves.
@@ -51,13 +51,18 @@ Main chemical constitutes are tannins, triterpenoid saponins (arjunic acid, arju
 ## Common names
 | Language | Names |
 | --- | --- |
-| Kannada | Kere matti, Arjuna, Karuha, Kudurekivimara, Neermutthi, Bilimutthi, Mutthi |
-| Malayalam | Neer maruthu |
+| Kannada | Kere matti, Arjuna, Karuha, Kudurekivimara, Neermutthi, Bilimutthi, Mutthi, Aragina, Kakke, Rajataru |
+| Malayalam | Neer maruthu, Kritamla, Svarnakkam |
 | Sanskrit | Arjuna, Kamu |
-| Tamil | Maruda maram, Vellamatti, Marudu, Vellamard |
-| Telugu | Thella maddi, Yarramaddi |
+| Tamil | Maruda maram, Vellamatti, Marudu, Vellamard, Konnai, Tiru Kontai |
+| Telugu | Thella maddi, Yarramaddi, Rela, Argavadhanu |
 | Hindi | Arjuna, Kamu |
 | English | Arjuna tree, Arjuna Myrobalan |
+| Assamese | Sonaru |
+| Bengali | Sondal Bandarlate |
+| Oriya | Arjuna |
+| Marathi | Bhava Garmala |
+| Punjabi | Amaltas, Kaniar |
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -135,3 +140,5 @@ Humid areas, Red lateritic soils, Borders of forests, Fertile lateritic soils.
 8. **Pandey, Gyanendra (translator). *Vrksayurveda of Surapala*. Chowkhamba Sanskrit Series Office, Varanasi, 2010, pp. 30, 59, 84, 99.**
    Listed among restricted campus trees not suitable for planting in residential compounds. Bark used in wound-healing paste for damaged plants. As a hydrology indicator tree, its presence signals rainfall (vrsti). Wound paste: arjuna bark combined with other barks, applied to tree wounds (Section 17).
    > *As cited in: Vrksayurveda of Surapala, Verses 119; Sections 3, 10, 17, 21*
+9. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 49-50.**
+   Root is used as an astringent and cure for diarrhoea. Bark and leaves are good as a laxative. Juice is a well-known medicine for heart diseases and beri-beri. Fresh juice extracted from leaves is a good remedy for earache. Seeds have a narcotic effect when eaten. Root decoction for diarrhoea; bark and leaf juice for heart diseases; fresh leaf juice for earache.

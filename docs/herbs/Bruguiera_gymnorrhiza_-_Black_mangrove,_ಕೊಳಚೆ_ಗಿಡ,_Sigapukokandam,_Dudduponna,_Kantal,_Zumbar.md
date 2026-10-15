@@ -20,11 +20,14 @@ categories:
   - "Herbs"
 date: 2020-11-10
 ---
+
+![*Bruguiera gymnorrhiza*](../images/Bruguiera_gymnorrhiza_evergreen_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -70,7 +73,7 @@ It is characteristic of the landward side of mangroves and can grow along the ri
 It usually grows on somewhat dry, well-aerated soil but also on mud, sand and occasionally black, peaty soils.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -88,3 +91,4 @@ It usually grows on somewhat dry, well-aerated soil but also on mud, sand and oc
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
 5. [Ecosystem/Climate](Required)(https://uses.plantnet-project.org/en/Bruguiera_gymnorhiza_(PROTA))
+6. **Dinesh Valke. Photograph of *Bruguiera gymnorrhiza*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/7211154640)

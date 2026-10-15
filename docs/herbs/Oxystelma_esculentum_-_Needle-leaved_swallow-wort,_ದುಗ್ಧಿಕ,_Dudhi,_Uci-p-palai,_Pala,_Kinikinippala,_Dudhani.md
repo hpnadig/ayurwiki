@@ -24,6 +24,9 @@ categories:
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Sore_throat"
 date: 2021-05-12
 ---
+
+![*Oxystelma esculentum*](../images/Oxystelma_esculentum_apocynaceae_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
 Cancer, Menoxenia, Traumatic Injury, Sore throat, Jaundice.
 
@@ -71,7 +74,7 @@ White-Purple, 5, Occue in raceme-like cymes, drooping
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -89,3 +92,4 @@ White-Purple, 5, Occue in raceme-like cymes, drooping
 3. [names](Common)(https://sites.google.com/site/indiannamesofplants/via-species/o/oxystelma-esculentum)
 4. [Cultivation]
 5. Indian Medicinal Plants by C.P.Khare
+6. **Dinesh Valke. Photograph of *Oxystelma esculentum*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/48732205646)

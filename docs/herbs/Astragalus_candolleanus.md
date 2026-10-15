@@ -21,10 +21,10 @@ date: 2020-03-30
 ![](../images/Astragalus_01_(6921564020).jpg)
 **Candolle's Milk-Vetch** is a low very spiny shrublet. It contains yellow flowers in dense stalkless clusters, compound leaves and long spines formed from old leaves.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 
@@ -51,7 +51,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Astragalus_01_(6921564020).jpg)

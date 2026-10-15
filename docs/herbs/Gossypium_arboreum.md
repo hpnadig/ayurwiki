@@ -54,7 +54,7 @@ Seeds
 Tree cotton can be grown in the dry to moist tropics and subtropics, where it is found at elevations up to 1,600 metres.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Gossypium_arboreum_in_Jardin_botanique_de_la_Charme_03.jpg)

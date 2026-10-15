@@ -59,7 +59,7 @@ Few flowered cymes, Large, Rose or light mauve, Corolla large, Funnel shaped
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Ipomoea_carnea_2.jpg)

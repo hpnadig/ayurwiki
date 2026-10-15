@@ -22,6 +22,8 @@ date: 2021-06-30
 
 [TOC]
 
+![*Indigofera linnaei*](../images/Indigofera_linnaei_-_Flickr_-_dinesh_valke.jpg)
+
 **Indigofera linnaei** is prostrate, Much branched herb.
 ## Uses
 Old veneral affections.
@@ -70,7 +72,7 @@ Velvety, 3-6mm, 1-3 seeded, Fruiting season is October to November
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -87,3 +89,4 @@ Velvety, 3-6mm, 1-3 seeded, Fruiting season is October to November
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 234
 3. [Cultivation]
 4. Indian Medicinal Plants by C.P.Khare
+5. **Dinesh Valke. Photograph of *Indigofera linnaei*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/53518466738)

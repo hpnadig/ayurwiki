@@ -16,12 +16,14 @@ date: 2024-10-16
 
 [TOC]
 
+![*Sida mysorensis*](../images/Sida_mysorensis_malvaceae_-_Flickr_-_dinesh_valke.jpg)
+
 **Sida mysorensis** is a small herb, Erect. It can grow up to 1m tall.
 ## Uses
 Wounds.
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -58,7 +60,7 @@ Fruiting season is October to February
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -76,3 +78,4 @@ Fruiting season is October to February
 3. [Cultivation]
 4. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, p. 65.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: the plant is presented as a remedy for joint wear (sandhi-saveta). Leaves and root are used in a thin soup (sāru) for stiff, painful joints, particularly in older patients. The Hindi/Sanskrit synonym Balābheda is recorded.
+5. **Dinesh Valke. Photograph of *Sida mysorensis*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/9953431076)

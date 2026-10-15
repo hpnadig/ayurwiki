@@ -19,7 +19,7 @@ date: 2020-09-01
 
 **Viburnum nervosum** is a deciduous shrub to small tree that can grow up to 6 metres tall. The plant is harvested from the wild for local use as a food and source of materials.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Fruits, Seeds.

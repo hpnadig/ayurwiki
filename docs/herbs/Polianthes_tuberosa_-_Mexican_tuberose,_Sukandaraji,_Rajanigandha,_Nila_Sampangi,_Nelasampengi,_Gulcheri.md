@@ -74,7 +74,7 @@ Seeds, Division of offsets.
 Requires a warm sheltered position and a well-drained soil. When grown in pots it is best to use a fibrous loam enriched with compost and some silver sand for drainage.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Polianthes_tuberosa.jpg)

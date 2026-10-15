@@ -13,6 +13,8 @@ date: 2019-05-27
 
 [TOC]
 
+![*Salvadora persica*](../images/Salvadora_persica_salvadoraceae_-_Flickr_-_dinesh_valke.jpg)
+
 Salvadora persica (Arak, Galenia asiatica, Meswak, Peelu, Pīlu, Salvadora indica, or toothbrush tree, mustard tree, mustard bush), is a species of Salvadora. Salvadora persica has antiurolithiatic properties. Used for centuries as a natural toothbrush, its fibrous branches have been promoted by the World Health Organization for oral hygiene use. Research suggests that it contains a number of medically beneficial properties including abrasives, antiseptics, astringent, detergents, enzyme inhibitors, and fluoride.
 
 ## Description
@@ -40,3 +42,4 @@ Salvadora persica is a small tree or shrub with a crooked trunk, seldom more tha
 2. [Stick: The All Natural Toothbrush"]("Miswak)(http://arthurglosmandds.com/miswak-stick-natural-toothbrush/)
 3. Ra'ed I. Al Sadhan, Khalid Almas (1999). "Miswak (chewing Stick): A Cultural And Scientific Heritage.". Saudi Dental Journal. 11 (2): 80–88.
 4. [afloat during a drought"]("Staying)(http://www.namibian.com.na/index.php?id=120235&page=archive-read)
+5. **Dinesh Valke. Photograph of *Salvadora persica*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/2134695171)

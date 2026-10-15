@@ -22,7 +22,7 @@ date: 2020-07-21
 ![*Aloe Vera*](../images/Andaman_padauk_11.JPG)
 **Pterocarpus dalbergioides** is a semideciduous or nearly evergreen tree with ascending branches, growing 25 - 40 metres tall. The bole is usually straight, cylindrical and buttressed, and can be up to 180cm in diameter.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Bark, Flowers, Young leaves.

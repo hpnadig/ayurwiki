@@ -64,7 +64,7 @@ Seeds
 This species has a symbiotic relationship with certain soil bacteria; these bacteria form nodules on the roots and fix atmospheric nitrogen.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Zornia_diphylla.jpg)

@@ -30,7 +30,7 @@ It is harvested from the wild for local use as a medicine and source of material
 Chronic bronchitis, Asthma, Catarrh, Swellings of the joints, Indolent tumours.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 

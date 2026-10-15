@@ -35,7 +35,7 @@ date: 2023-10-15
 ![*Panasa*, *Artocarpus heterophyllus*](../images/Artocarpus_heterophyllus_(Jacquier).jpg)
 **Panasa** is  a very important multipurpose tree. It is particularly valued for its fruit. The tree is widely cultivated in tropical regions, especially southeast Asia and Brazil.
 ## Uses
-Wound healing, Inflammation, Skin diseases, Ulcers, Bleeding
+Wound healing, Inflammation, Skin diseases, Ulcers, Bleeding, Glandular swellings
 
 ## Parts Used
 Bark, Leaf, Heartwood, Seeds, Root, Stem
@@ -120,3 +120,5 @@ Tropical area, Sub tropical area
 8. **Daitota, P. S. Venkatarama. *Auṣadhīya Sasyagaḷu (ಔಷಧೀಯ ಸಸ್ಯಗಳು; Medicinal Plants)*. Vivekananda Samshodhana Kendra, Vivekananda Vidyavardhaka Sangha, Puttur, 2016, pp. 430-431.**
    Medicinal uses as mentioned in Daitota's Auṣadhīya Sasyagaḷu: presented as a remedy for prolapse (guda-bhraṁśakke). The author identifies the plant with classical Sanskrit Panasa. All parts used individually — bark, leaf, fruit, latex (mūnna), root. Rectal prolapse: 1 ciḍi bark with cold rice water, taken as cooling tonic.
    > *As cited in: Panasa — classical Ayurvedic standing (no specific text/verse cited)*
+9. **Sinha, R.P.N.. *Our Trees*. Publications Division, Ministry of Information and Broadcasting, Government of India, 1968 (reprinted 1993), pp. 22-23.**
+   Fruit is considered of great medicinal importance. Ripe fruit in limited quantity is a laxative. Juice of the leaves is used as a plaster to cure glandular swellings. Leaf juice used as plaster for glandular swellings.

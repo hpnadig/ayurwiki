@@ -20,7 +20,7 @@ categories:
 date: 2020-05-21
 ---
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Whole plant.
@@ -68,7 +68,7 @@ Krimigna
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

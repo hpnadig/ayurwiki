@@ -20,8 +20,11 @@ categories:
   - "Herbs"
 date: 2021-10-27
 ---
+
+![*Dendrocalamus strictus*](../images/Dendrocalamus_strictus_-_Flickr_-_dinesh_valke.jpg)
+
 ## Uses
-, , , , , , , , , , .
+
 
 ### Food
 Dendrocalamus strictus can be used in Food. Young shoots are cooked as vegetable or pickled. Grains are eaten as cereals.
@@ -87,3 +90,4 @@ Semi-evergreen forests, Deciduous forests.
 3. [names"]("Common)(https://sites.google.com/site/indiannamesofplants/via-species/d/dendrocalamus-strictus)
 4. Indian Medicinal Plants by C.P.Khare
 5. "Forest food for Northern region of Western Ghats" by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, Page No.64, Published by Maharashtra Association for the Cultivation of Science (MACS) Agharkar Research Institute, Gopal Ganesh Agarkar Road, Pune
+6. **Dinesh Valke. Photograph of *Dendrocalamus strictus*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/51696539107)

@@ -57,7 +57,7 @@ Capsule, Linear oblong, 6 seeds, Yellowish-white, Compressed, Hairy
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

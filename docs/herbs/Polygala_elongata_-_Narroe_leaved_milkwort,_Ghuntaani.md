@@ -16,12 +16,14 @@ date: 2021-05-14
 
 [TOC]
 
+![*Polygala elongata*](../images/Polygala_elongata_-_Flickr_-_dinesh_valke.jpg)
+
 **Polygala elongata** is annual herb. It can grow upto 15-20cm tall. Fresh roots are aromatic. Branches are slender and hairless.
 ## Uses
-, , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 It contains a chemical called triterpenoid saponins which has high medical value
@@ -59,7 +61,7 @@ Capsule, Oblong, Unequal sided
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 
@@ -75,3 +77,4 @@ Capsule, Oblong, Unequal sided
 1. [Chemistry]
 2. Kappatagudda - A Repertoire of  Medicianal Plants of Gadag by Yashpal Kshirasagar and Sonal Vrishni, Page No. 312
 3. [Cultivation]
+4. **Dinesh Valke. Photograph of *Polygala elongata*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/9528530228)

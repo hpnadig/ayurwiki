@@ -82,7 +82,7 @@ Seeds, Division of suckers, Cuttings of mature wood, Air layering.
 Succeeds in most soils, preferring a circumneutral soil and a sunny position. Grows well in heavy clay soils. Dislikes water-logged soils.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Colours_of_Earlier_Autumn-_Rosa_Chinensis_(Chinese_Rose).jpg)

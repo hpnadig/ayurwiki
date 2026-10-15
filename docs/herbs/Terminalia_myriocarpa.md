@@ -22,10 +22,10 @@ date: 2020-08-21
 ![](../images/Flowers_of_Terminalia_myriocarpa_Mishmi_Hills_AJTJ.JPG)
 **Terminalia myriocarpa** is a large evergreen tree growing up to 40 metres tall. The bole can often be very large, 150 - 400cm in diameter with buttresses up to 4 - 5 metres tall. An important timber in its native range, where it is widely harvested from the wild and also sometimes cultivated.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains β-Sitosterol, β-amyrin, oleanolic acid, betulinic acid, maslinic acid and arjunolic acid (2α,3β,24-trihydroxy-olean-12-en-28-oic acid) have been isolated and characterized.

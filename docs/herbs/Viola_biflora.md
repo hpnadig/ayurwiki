@@ -20,7 +20,7 @@ date: 2020-09-02
 ![](../images/Viola_biflora_4.jpg)
 **Viola biflora** is a herbaceous perennial plant forming a mat of growth 2 - 20cm tall from a short, creeping rhizome. The plant is harvested from the wild for local use as a food, medicine and incense. It is grown as an ornamental in gardens.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Young leaves, Flowers.

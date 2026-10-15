@@ -24,7 +24,7 @@ date: 2020-09-01
 ![](../images/Viburnum_cotinifolium_kz1.jpg)
 **Viburnum cotinifolium** is a spreading, deciduous shrub that can grow up to 5 metres tall, though is often smaller in cultivation. The plant is harvested from the wild for local use as a food and source of materials.
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Fruits.

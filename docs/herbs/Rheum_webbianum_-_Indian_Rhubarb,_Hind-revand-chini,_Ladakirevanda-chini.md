@@ -22,10 +22,10 @@ date: 2020-06-15
 
 ![](../images/Rheum_webbianum_-Viote_01.jpg)
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It containa anthraquinones (emodin, chrysophanol, physcion, aloe-emodin, and emodin glycosides), anthrones, flavonoids etc.
@@ -37,7 +37,7 @@ It containa anthraquinones (emodin, chrysophanol, physcion, aloe-emodin, and emo
 | English | Indian Rhubarb |
 | Hindi | Hind-revand-chini, Archa |
 | Marathi | Ladakirevanda-chini |
-.
+
 
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
@@ -61,7 +61,7 @@ Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency,
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Rheum_webbianum_-Viote_01.jpg)

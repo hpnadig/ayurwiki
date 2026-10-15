@@ -18,10 +18,10 @@ date: 2021-06-28
 ![*Linaria vulgaris*](../images/Linaria_vulgaris_-_harilik_käokannus_Valingu.jpg)
 **Justicia Simplex** is an erect herb.
 ## Uses
-, , .
+
 
 ## Parts Used
-.
+
 
 ## Chemical Composition
 
@@ -57,7 +57,7 @@ Capsules, Oblong, Papery, Scarcely mucronate, Fruiting season is October-Decembe
 ## How to plant/cultivate
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 

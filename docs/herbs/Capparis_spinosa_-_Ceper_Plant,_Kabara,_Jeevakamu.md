@@ -16,13 +16,11 @@ categories:
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Capillary_weakness"
   - "Herbs_with_common_name_in_English"
   - "Herbs_with_common_name_in_Telugu"
-  - "Pages_without_herbs_images"
   - "Herbs_with_Flower_buds_used_in_medicine"
   - "Herbs"
   - "Index_of_Plants_which_can_be_propagated_by_Seeds"
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Dropsy"
   - "Herbs_that_are_commonly_seen_in_the_region_of_Cliffs"
-  - "Pages without herbs images"
   - "Ayurvedic_Herbs_known_to_be_helpful_to_treat_Arthritis"
   - "Capparidaceae"
   - "Index_of_Plants_which_can_be_propagated_by_Cuttings"
@@ -34,6 +32,8 @@ date: 2021-10-14
 # Capparis spinosa - Ceper Plant, Kabara, Jeevakamu
 
 [TOC]
+
+![*Capparis spinosa*](../images/Capparis_spinosa_-_Flickr_-_dinesh_valke.jpg)
 
 **Hiṃsrā** consists of root of Capparis spinosa Linn. (Fam. Capparidaceae), a thorny shrub distributed in the plains, lower Himalayas, and Western Ghats.
 
@@ -117,3 +117,4 @@ Old walls, Cliffs, Rocky hillsides.
 2. [Morphology]
 3. [detail](Cultivation)(https://www.researchgate.net/publication/286127652_Capparis_spinosa_L_Propagation_and_Medicinal_uses)
 4. Forest food for Northern region of western ghat pdf by Dr. Mandar N. Datar and Dr. Anuradha S. Upadhye, MACS - Agharkar Research Institute, Pune
+5. **Dinesh Valke. Photograph of *Capparis spinosa*. Flickr, CC BY 2.0.** [Source](https://www.flickr.com/photos/dinesh_valke/6720216305)

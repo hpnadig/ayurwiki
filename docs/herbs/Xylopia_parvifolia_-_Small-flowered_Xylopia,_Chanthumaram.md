@@ -17,7 +17,7 @@ date: 2020-09-04
 
 **Xylopia parvifolia** is a tall evergreen tree growing up to 25 metres tall with a straight bole. The tree is sometimes used locally, being harvested from the wild for its timber and aromatic bark and flowers
 ## Uses
-, , , , , , , , , , .
+
 
 ## Parts Used
 Bark.

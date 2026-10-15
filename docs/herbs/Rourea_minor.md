@@ -26,7 +26,7 @@ date: 2020-07-30
 Rheumatism, Scurvy, Diabetes, Diabetes, Ulcers, Skin complaints.
 
 ## Parts Used
-, stem, leaves, Root.
+stem, leaves, Root.
 
 ## Chemical Composition
 It contains Glycosides, rourinoside (1) and rouremin (2), as well as five known compounds, 1-(26-hydroxyhexacosanoyl)-glycerol (3), 1-O-beta-D-glucopyranosyl-(2S,3R,4E-8Z)-2-N-(2'-hydroxypalmitoyl)-octadecasphinga-4,8-dienine, 9S,12S,13S-trihydroxy-10E-octadecenoic acid, dihydrovomifoliol-9-beta-D-glucopyranoside, and beta-sitosterol glucoside.
@@ -59,7 +59,7 @@ Seeds
 Plants can flower and produce fruit throughout the year.
 
 ## Commonly seen growing in areas
-, , , , .
+
 
 ## Photo Gallery
 ![](../images/Rourea_minor_01.JPG)
