@@ -113,3 +113,4 @@ Widespread, Grasslands, Alluvial clays.
 1. The Ayuredic Pharmacopoeia of India Part-1, Volume-5, Page no-89
 2. [Morphology](https://indiabiodiversity.org/species/show/245420)
 3. [detail](Cultivation)(http://tropical.theferns.info/viewtropical.php?id=Senegalia+polyacantha)
+4.  Ask-Ayurveda.com — Acacia polyacantha: Ayurvedic Wiki (2025) - The properties are documented in modern Ayurvedic digital materia medica by Ask-Ayurveda

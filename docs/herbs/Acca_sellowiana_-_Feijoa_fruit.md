@@ -68,8 +68,4 @@ Woodland edges, Favouring humid soils, Rocky soils, Tropical area, Sub-tropical 
 * [Acca sellowiana on theferns.info](http://tropical.theferns.info/viewtropical.php?id=Acca+sellowiana)
 
 ## References
-
-1. ["Chemistry"]
-2. ["Morphology"]
-3. [ "Cultivation"]
 4. Indian Medicinal Plants by C.P.Khare

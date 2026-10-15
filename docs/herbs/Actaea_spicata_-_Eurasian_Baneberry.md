@@ -27,11 +27,15 @@ The plant is reported to contain trans-aconitic acid, which shows a strong cytos
 ## Properties
 Reference: Dravya - Substance, Rasa - Taste, Guna - Qualities, Veerya - Potency, Vipaka - Post-digesion effect, Karma - Pharmacological activity, Prabhava - Therepeutics.
 ### Dravya
+Cooling (shita)
 ### Rasa
+Pungent (katu), mildly bitter (tikta)
 ### Guna
+Heavy (guru), grounding 
 ### Veerya
 ### Vipaka
 ### Karma
+Pacifies Vata; use with caution in Pitta-dominant individuals and those with high ama (toxic accumulation) 
 ### Prabhava
 ## Habit
 Herb
